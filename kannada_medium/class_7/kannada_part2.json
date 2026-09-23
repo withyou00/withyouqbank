@@ -5519,20 +5519,12 @@
     "obj": "ಅಭಿವ್ಯಕ್ತಿ",
     "diff": "ಕಠಿಣ"
   },
-{
-  "id": "q_7_sci_08_036",
-  "chapter": "08. ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
-  "type": "match",
-  "marks": 4,
-  "matchPairs": [
-    { "a": "ಕಾಲದ ಮೂಲಮಾನ", "b": "ಸೆಕೆಂಡ್" },
-    { "a": "ವೇಗದ ಮೂಲಮಾನ", "b": "m/s" },
-    { "a": "1 ಆಂದೋಲನಕ್ಕೆ ತಗಲುವ ಸಮಯ", "b": "ಆವರ್ತಾವಧಿ" },
-    { "a": "ಕ್ರಮಿಸಿದ ದೂರ ಅಳೆಯುವ ಸಾಧನ", "b": "ಓಡೋಮೀಟರ್" }
-  ]
-},
   {
-    "id": "q_7_sci_08_037",
+    "id": "q_7_sci_12_037",
+    "grade": "7",
+    "subject": "ವಿಜ್ಞಾನ",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
     "chapter": "08. ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
     "type": "match",
     "marks": 4,
@@ -5545,6 +5537,10 @@
   },
   {
     "id": "q_7_sci_08_038",
+    "grade": "7",
+    "subject": "ವಿಜ್ಞಾನ",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
     "chapter": "08. ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
     "type": "match",
     "marks": 4,
@@ -5557,6 +5553,10 @@
   },
   {
     "id": "q_7_sci_09_029",
+    "grade": "7",
+    "subject": "ವಿಜ್ಞಾನ",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
     "chapter": "09. ಪ್ರಾಣಿಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
     "type": "match",
     "marks": 4,
@@ -5569,6 +5569,10 @@
   },
   {
     "id": "q_7_sci_09_030",
+    "grade": "7",
+    "subject": "ವಿಜ್ಞಾನ",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
     "chapter": "09. ಪ್ರಾಣಿಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
     "type": "match",
     "marks": 4,
@@ -5581,6 +5585,10 @@
   },
   {
     "id": "q_7_sci_10_017",
+    "grade": "7",
+    "subject": "ವಿಜ್ಞಾನ",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
     "chapter": "10. ಸಸ್ಯಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
     "type": "match",
     "marks": 4,
@@ -5593,6 +5601,10 @@
   },
   {
     "id": "q_7_sci_11_025",
+    "grade": "7",
+    "subject": "ವಿಜ್ಞಾನ",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
     "chapter": "11. ಬೆಳಕು: ನೆರಳುಗಳು ಮತ್ತು ಪ್ರತಿಫಲನಗಳು",
     "type": "match",
     "marks": 4,
@@ -5605,6 +5617,10 @@
   },
   {
     "id": "q_7_sci_12_045",
+    "grade": "7",
+    "subject": "ವಿಜ್ಞಾನ",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
     "chapter": "12. ಭೂಮಿ, ಚಂದ್ರ ಮತ್ತು ಸೂರ್ಯ",
     "type": "match",
     "marks": 4,
@@ -5617,6 +5633,10 @@
   },
   {
     "id": "q_7_sci_12_049",
+    "grade": "7",
+    "subject": "ವಿಜ್ಞಾನ",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
     "chapter": "12. ಭೂಮಿ, ಚಂದ್ರ ಮತ್ತು ಸೂರ್ಯ",
     "type": "match",
     "marks": 4,
