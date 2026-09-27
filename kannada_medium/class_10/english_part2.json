@@ -356,6 +356,20 @@
     "diff": "ಸುಲಭ"
   },
   {
+    "id": "q_10_eng_ch05_020",
+    "grade": "10",
+    "subject": "English",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 1",
+    "chapter": "The Concert",
+    "type": "blanks",
+    "q": "Fill in the blanks with suitable articles:\n1. This is not _____ last time they are going to play.\n2. He would play the sitar and perhaps would be _____ great sitarist one day.\n3. The concert came to _____ end.",
+    "ans": "1. the\n2. a\n3. an",
+    "marks": 3,
+    "obj": "ಅನ್ವಯ",
+    "diff": "ಸುಲಭ"
+  },
+  {
     "id": "q_10_eng_ch05_021",
     "grade": "10",
     "subject": "English",
@@ -1357,7 +1371,7 @@
     "part": "ಭಾಗ 2",
     "chapter": "The Discovery",
     "type": "blanks",
-    "q": "Fill in the blanks with the opposite words by adding appropriate prefixes:\n1. correct x _________ ",
+    "q": " correct x _________ ",
     "ans": "1. incorrect",
     "marks": 1,
     "obj": "ಜ್ಞಾನ",
@@ -1371,7 +1385,7 @@
     "part": "ಭಾಗ 2",
     "chapter": "The Discovery",
     "type": "blanks",
-    "q": "Fill in the blanks with the opposite words by adding appropriate prefixes:\n1. respect x ________",
+    "q": "respect x ________",
     "ans": " n1. disrespect",
     "marks": 1,
     "obj": "ಜ್ಞಾನ",
