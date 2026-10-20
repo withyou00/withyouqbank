@@ -163,10 +163,18 @@
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಮಸೂರದ ಮೂಲಕ ಬೆಳಕಿನ ಕಿರಣಗಳ ಬಾಗುವಿಕೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಸರಿಯಾದ ಚಿತ್ರ :",
-    "a": "ಚಿತ್ರ A (ಪೀನ ಮಸೂರದಲ್ಲಿ ಕಿರಣಗಳು ವಿಕೇಂದ್ರೀಕರಣ)",
-    "b": "ಚಿತ್ರ B (ನಿಮ್ನ ಮಸೂರದಲ್ಲಿ ಕಿರಣಗಳು ಕೇಂದ್ರೀಕರಣ)",
-    "c": "ಚಿತ್ರ C (ನಿಮ್ನ ಮಸೂರದಲ್ಲಿ ಕಿರಣಗಳು ಪರಸ್ಪರ ಛೇದಿಸುವುದು)",
-    "d": "ಚಿತ್ರ D (ಪೀನ ಮಸೂರದಲ್ಲಿ ಕಿರಣಗಳು ನಾಭಿಯಲ್ಲಿ ಕೇಂದ್ರೀಕರಣ)",
+    "a": "ಚಿತ್ರ A ",
+    "img_a" :
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpjzcc5f5Ee0RhnevVMcGMvNyh1WsPDgZX15gaj718nIdMaY_2m51-8VfehLNFksJw7EFI6QwCsRum9FltoU8YnwjvHJKsXU8gjPDXtelbCuJ7OK6RGDHfV9W6rD5U8b5A_stW3RdOJ_drvJwhbcZm1DXLe8EDujpnwbt4LiH5c2Rqf0EnUWyyP9Yn5G8/s320/257727.png",
+    "b": "ಚಿತ್ರ B ",
+    "img_b" :
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBd1ID_zjV_BR0Gay9Ei1sF1hkL8C6Ls3DzdwqH-nX4PVk914_V0oLzaoZ2XA2u3ub1t_5x2JqZuET0eJNSGan9rp8B1LbVHEv-HcunTS8biuoTcQy4gIAb6Pd-AQBiqnyghLbthq2zhvWh7-Fzj8-Px7ZmDoVtYsQOCE1iNt8YxMdn1-P86EAau_Dn_Q/s320/257728.png",
+    "c": "ಚಿತ್ರ C",
+    "img_c" :
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE-fGBXYogSxVyC9QsD8pW-LEe0AsqNqCxvQCxydTqiOCU2_dtSrakeZSMyXOxuVLAUhAGI-2X1t4WRAhVHgJPXiKhoY9M6V1dH2_BV7EhhyUcu2ObcAdRxbu4TkqHHfOhvkKy7dOQukMCHdSa4pG7LeUJ6mvRbHNL6V2smDLnZg5NtaKCKkJyFLiFB2A/s320/257729.png",
+    "d": "ಚಿತ್ರ D",
+    "img_d" :
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSMo1pIbGjSoOOJhTqSo1nTxkPLs0Sjm6OAfgNEXk06BCtaZqnvWYb698lkkfKbtDi5kmdRNJJ6T83HXKtnrsPqyUayd4rja-g_n0ikK9vIUz6md9GcWSwij6wI5aazlYFwAYMIP-zOLjFuBef6_sFp0JxtaK7-MDhPmOUdkzba-1rEUBeYkHw7dj_A0I/s320/257730.png",
     "ans": "(D) ಚಿತ್ರ D (ಪೀನ ಮಸೂರದಲ್ಲಿ ಕಿರಣಗಳು ನಾಭಿಯಲ್ಲಿ ಕೇಂದ್ರೀಕರಣ)",
     "marks": 1
   },
