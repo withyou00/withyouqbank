@@ -358,7 +358,7 @@
     "chapter": "ಮಾನಸಿಕ ಸಾಮರ್ಥ್ಯ ಪರೀಕ್ಷೆ (MAT)",
     "type": "mcq",
     "q": "ಕೊಟ್ಟಿರುವ ಆಕೃತಿಯಲ್ಲಿರುವ ಒಟ್ಟು ಅರ್ಧ ವೃತ್ತಗಳ ಸಂಖ್ಯೆ :",
-    "image" : https://github.com/withyou00/withyouqbank/main/images/half.png
+    "image" : https://raw.github.com/withyou00/withyouqbank/main/images/half.png
     "a": "11",
     "b": "10",
     "c": "9",
@@ -371,13 +371,13 @@
     "chapter": "ಮಾನಸಿಕ ಸಾಮರ್ಥ್ಯ ಪರೀಕ್ಷೆ (MAT)",
     "type": "mcq",
     "q": "ಕೆಳಗಿನ ಚಿತ್ರಗಳಲ್ಲಿ 7 ಆಯತಗಳನ್ನು ಮಾತ್ರ ಹೊಂದಿರುವ ಚಿತ್ರವು :",
-    "a": ಚಿತ್ರ A ,
+    "a": "ಚಿತ್ರ A" ,
     "img_a" : "https://raw.github.com/withyou00/withyouqbank/main/images/a.png",
-    "b": ಚಿತ್ರ B  ,
+    "b": "ಚಿತ್ರ B"  ,
     "img_b" : "https://raw.github.com/withyou00/withyouqbank/main/images/a.png",
-    "c": ಚಿತ್ರ C  ,
+    "c": "ಚಿತ್ರ C"  ,
     "img_c" : "https://raw.github.com/withyou00/withyouqbank/main/images/a.png",
-    "d": ಚಿತ್ರ D  ,
+    "d": "ಚಿತ್ರ D"  ,
     "img_d" : "https://raw.github.com/withyou00/withyouqbank/main/images/a.png",
     "ans": "(A) ಚಿತ್ರ A",
     "marks": 1
