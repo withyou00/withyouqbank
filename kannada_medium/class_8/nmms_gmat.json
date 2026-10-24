@@ -393,9 +393,9 @@
     "b": "ಚಿತ್ರ B",
     "img_b" : "https://raw.github.com/withyou00/withyouqbank/main/images/boxb.png",
     "c": "ಚಿತ್ರ C",
-     "img_c" : "̧https://raw.github.com/withyou00/withyouqbank/main/images/boxc.png",
+     "img_c" : "https://github.com/withyou00/withyouqbank/blob/main/images/boxc.png",
     "d": "ಚಿತ್ರ D",
-     "img_d" : "̧https://raw.github.com/withyou00/withyouqbank/main/images/boxd.png",
+     "img_d" : "https://github.com/withyou00/withyouqbank/blob/main/images/boxd.png",
     "ans": "(B) ಚಿತ್ರ B",
     "marks": 1
   },
