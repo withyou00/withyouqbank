@@ -246,8 +246,6 @@
     "type": "mcq",
     "q": "ಈ ಚಿತ್ರದಲ್ಲಿರುವ ವ್ಯಕ್ತಿಯನ್ನು ಗುರುತಿಸಿ :",
     "image" : "https://raw.github.com/withyou00/withyouqbank/main/images/gopal.png",
-    "imgLayout" : "center",
-    "imgSize" : "large",
     "a": "ಲಾಲಾ ಲಜಪತ್ ರಾಯ್",
     "b": "ಬಾಲಗಂಗಾಧರ ತಿಲಕ್",
     "c": "ದಾದಾಭಾಯಿ ನವರೋಜಿ",
