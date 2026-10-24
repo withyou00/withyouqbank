@@ -358,7 +358,7 @@
     "chapter": "ಮಾನಸಿಕ ಸಾಮರ್ಥ್ಯ ಪರೀಕ್ಷೆ (MAT)",
     "type": "mcq",
     "q": "ಕೊಟ್ಟಿರುವ ಆಕೃತಿಯಲ್ಲಿರುವ ಒಟ್ಟು ಅರ್ಧ ವೃತ್ತಗಳ ಸಂಖ್ಯೆ :",
-    "image" : https://raw.github.com/withyou00/withyouqbank/main/images/half.png",
+    "image" : "https://raw.github.com/withyou00/withyouqbank/main/images/half.png",
     "a": "11",
     "b": "10",
     "c": "9",
