@@ -3953,20 +3953,7 @@
     "obj": "ಗ್ರಹಿಕೆ",
     "diff": "ಸಾಧಾರಣ"
   },
-  {
-    "id": "q_8_eng_08_lb_043",
-    "grade": "8",
-    "subject": "English",
-    "medium": "kannada_medium",
-    "part": "ಭಾಗ 2",
-    "chapter": "Luther Burbank",
-    "type": "true_false",
-    "q": "State True or False based on the passage:\n(A) Riya lost her phone in the market.\n(B) Arjun kept the phone for himself.\n(C) Arjun called the emergency contact.\n(D) Riya thanked Arjun for his honesty.",
-    "ans": "(A) False\n(B) False\n(C) True\n(D) True",
-    "marks": 2,
-    "obj": "ಗ್ರಹಿಕೆ",
-    "diff": "ಸುಲಭ"
-  },
+
   {
     "id": "q_8_eng_08_lb_044",
     "grade": "8",
