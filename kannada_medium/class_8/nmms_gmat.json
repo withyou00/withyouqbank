@@ -1321,5 +1321,22 @@
     "d": "17",
     "ans": "(B) 12",
     "marks": 1
-  }
+  },
+  
+  {
+    "id": "mat_01",
+    "chapter": "ಮಾನಸಿಕ ಸಾಮರ್ಥ್ಯ ಪರೀಕ್ಷೆ (MAT)",
+    "type": "mcq",
+    "q": "ನೀಡಿರುವ ವರ್ಗಗಳ ನಡುವಿನ ಸರಿಯಾದ ಸಂಬಂಧವನ್ನು ಅತ್ಯುತ್ತಮವಾಗಿ ಪ್ರತಿನಿಧಿಸುವ ವೆನ್ ನಕ್ಷೆಯನ್ನು ಗುರುತಿಸಿ:\nಸಹೋದರಿ (Sister), ಚಿಕ್ಕಮ್ಮ/ಅತ್ತೆ (Aunt), ತಾಯಿ (Mother)",
+    "a": "ಚಿತ್ರ A",
+    "img_a" : "https://raw.github.com/withyou00/withyouqbank/main/images/aunta.png",
+    "b": "ಚಿತ್ರ B",
+    "img_b" : "https://raw.github.com/withyou00/withyouqbank/main/images/auntb.png",
+    "c": "ಚಿತ್ರ C",
+    "img_c" : "https://raw.github.com/withyou00/withyouqbank/main/images/auntc.png",
+    "d": "ಚಿತ್ರ D",
+    "img_d" : "https://raw.github.com/withyou00/withyouqbank/main/images/auntd.png",
+    "ans": "(D) ಚಿತ್ರ D",
+    "marks": 1
+  },
 ]
