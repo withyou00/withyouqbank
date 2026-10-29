@@ -1339,4 +1339,69 @@
     "ans": "(D) ಚಿತ್ರ D",
     "marks": 1
   },
+   {
+    "id": "mat_101",
+    "chapter": "ಮಾನಸಿಕ ಸಾಮರ್ಥ್ಯ ಪರೀಕ್ಷೆ (MAT)",
+    "type": "mcq",
+    "q": "ಕೊಟ್ಟಿರುವ ವೆನ್‌ ನಕ್ಷೆಯಲ್ಲಿ ಎಷ್ಟು ಪೆನ್ನುಗಳು ಕೆಂಪಾಗಿವೆ?",
+    "image" : "https://raw.github.com/withyou00/withyouqbank/main/images/pens.png",
+    "a": "11",
+    "b": "9",
+    "c": "20",
+    "d": "25",
+    "ans": "(B) 9",
+    "marks": 1
+  },
+   {
+    "id": "mat_102",
+    "chapter": "ಮಾನಸಿಕ ಸಾಮರ್ಥ್ಯ ಪರೀಕ್ಷೆ (MAT)",
+    "type": "mcq",
+    "q": "ಕೊಟ್ಟಿರುವ ಚಿತ್ರದಲ್ಲಿ, ಎಷ್ಟು ಕೆಂಪು ಬಣ್ಣದ ವಸ್ತುಗಳು ಉದ್ದವಾಗಿದ್ದು, ಆದರೆ ಪೆನ್ ಆಗಿಲ್ಲ?",
+    "image" : "https://raw.github.com/withyou00/withyouqbank/main/images/pens.png",
+    "a": "5",
+    "b": "16",
+    "c": "11",
+    "d": "20",
+    "ans": "(A) 5",
+    "marks": 1
+  },
+    {
+    "id": "mat_103",
+    "chapter": "ಮಾನಸಿಕ ಸಾಮರ್ಥ್ಯ ಪರೀಕ್ಷೆ (MAT)",
+    "type": "mcq",
+    "q": "ಕೆಳಗೆ ನೀಡಿರುವ ವೆನ್ ಚಿತ್ರದಲ್ಲಿ, ಎಷ್ಟು ಗಾಯಕರು ನಟರಾಗಿದ್ದಾರೆ?",
+    "image" : "https://raw.github.com/withyou00/withyouqbank/main/images/doc.png",
+    "a": "34",
+    "b": "23",
+    "c": "37",
+    "d": "39",
+    "ans": "(C) 37",
+    "marks": 1
+  },
+  {
+    "id": "mat_104",
+    "chapter": "ಮಾನಸಿಕ ಸಾಮರ್ಥ್ಯ ಪರೀಕ್ಷೆ (MAT)",
+    "type": "mcq",
+    "q": "ಕೆಳಗೆ ನೀಡಿರುವ ವೆನ್ ಚಿತ್ರದಲ್ಲಿ, ಎಷ್ಟು ನೃತ್ಯಗಾರರು ಗಾಯಕರಲ್ಲ?",
+    "image" : "https://raw.github.com/withyou00/withyouqbank/main/images/doc.png",
+    "a": "101",
+    "b": "100",
+    "c": "98",
+    "d": "112",
+    "ans": "(D) 112",
+    "marks": 1
+  },
+    {
+    "id": "mat_105",
+    "chapter": "ಮಾನಸಿಕ ಸಾಮರ್ಥ್ಯ ಪರೀಕ್ಷೆ (MAT)",
+    "type": "mcq",
+    "q": "ಕೆಳಗೆ ನೀಡಿರುವ ವೆನ್ ಚಿತ್ರದಲ್ಲಿ, ಎಷ್ಟು ನಟರು ಗಾಯಕರೂ ಮತ್ತು ನೃತ್ಯಗಾರರೂ ಆಗಿದ್ದಾರೆ?",
+    "image" : "https://raw.github.com/withyou00/withyouqbank/main/images/doc.png",
+    "a": "34",
+    "b": "3",
+    "c": "12",
+    "d": "10",
+    "ans": "(B) 3",
+    "marks": 1
+  }
 ]
