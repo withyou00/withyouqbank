@@ -3607,6 +3607,23 @@
     "d": "ಚಿತ್ರ (D)",
     "ans": "(a) ಚಿತ್ರ (A)",
     "marks": 1
+  },
+  {
+    "id": "mat_280",
+    "chapter": "ಮಾನಸಿಕ ಸಾಮರ್ಥ್ಯ ಪರೀಕ್ಷೆ (MAT)",
+    "type": "mcq",
+    "q": "ಮುಂದಿನ ಸಾಮ್ಯತೆ ಚಿತ್ರವನ್ನು ಗುರುತಿಸಿ.",
+    "image" : "https://raw.github.com/withyou00/withyouqbank/main/images/sama1.png",
+    "a": "ಚಿತ್ರ (A)",
+    "img_a" : "https://raw.github.com/withyou00/withyouqbank/main/images/sama1a.png",
+    "b": "ಚಿತ್ರ (B)",
+    "img_b" : "https://raw.github.com/withyou00/withyouqbank/main/images/sama1b.png",
+    "c": "ಚಿತ್ರ (C)",
+    "img_c" : "̧https://raw.github.com/withyou00/withyouqbank/main/images/sama1c.png"
+    "d": "ಚಿತ್ರ (D)",
+    "img_d" : "https://raw.github.com/withyou00/withyouqbank/main/images/sama1d.png",
+    "ans": "(a) ಚಿತ್ರ (A)",
+    "marks": 1
   }
 ]
   
