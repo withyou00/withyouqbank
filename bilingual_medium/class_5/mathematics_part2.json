@@ -978,4 +978,718 @@
       "diff": "ಸಾಧಾರಣ"
     }
   ]
+{
+  "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+  "questions": [
+    {
+      "id": "c8_q1",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which statement is correct?\nಯಾವ ಹೇಳಿಕೆ ಸರಿಯಾಗಿದೆ?",
+      "a": "2 kg > 2000g\n2 ಕಿ.ಗ್ರಾಂ > 2000 ಗ್ರಾಂ",
+      "b": "2 kg < 2000 g\n2 ಕಿ.ಗ್ರಾಂ < 2000 ಗ್ರಾಂ",
+      "c": "2 kg = 2000 g\n2 ಕಿ.ಗ್ರಾಂ = 2000 ಗ್ರಾಂ",
+      "d": "None of the above\nಮೇಲಿನ ಯಾವುದೂ ಅಲ್ಲ",
+      "ans": "C) 2 kg = 2000 g\n2 ಕಿ.ಗ್ರಾಂ = 2000 ಗ್ರಾಂ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q2",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which of the following does not represent 1 kg?\nಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು 1 ಕಿ.ಗ್ರಾಂ ಅನ್ನು ಸೂಚಿಸುವುದಿಲ್ಲ?",
+      "a": "1000 g\n1000 ಗ್ರಾಂ",
+      "b": "500 g + 500 g\n500 ಗ್ರಾಂ + 500 ಗ್ರಾಂ",
+      "c": "750 g + 250 g\n750 ಗ್ರಾಂ + 250 ಗ್ರಾಂ",
+      "d": "900 g\n900 ಗ್ರಾಂ",
+      "ans": "D) 900 g\n900 ಗ್ರಾಂ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q3",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Riya has a bag weighing 1 kg 500 g. Aman has a bag weighing 1400 g. Whose bag is heavier?\nರಿಯಾ ಬಳಿ 1 ಕಿ.ಗ್ರಾಂ 500 ಗ್ರಾಂ ತೂಕದ ಚೀಲವಿದೆ. ಅಮನ್ ಬಳಿ 1400 ಗ್ರಾಂ ತೂಕದ ಚೀಲವಿದೆ. ಯಾರ ಚೀಲ ಹೆಚ್ಚು ತೂಕ ಹೊಂದಿದೆ?",
+      "a": "Riya’s bag\nರಿಯಾಳ ಚೀಲ",
+      "b": "Aman’s bag\nಅಮನ ಚೀಲ",
+      "c": "Both weigh the same\nಎರಡರ ತೂಕವೂ ಒಂದೇ ಆಗಿದೆ",
+      "d": "None of the above\nಮೇಲಿನ ಯಾವುದೂ ಅಲ್ಲ",
+      "ans": "A) Riya’s bag\nರಿಯಾಳ ಚೀಲ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c8_q4",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which of the following is equal to 2g?\nಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು 2 ಗ್ರಾಂಗೆ ಸಮವಾಗಿದೆ?",
+      "a": "20 mg\n20 ಮಿ.ಗ್ರಾಂ",
+      "b": "200 mg\n200 ಮಿ.ಗ್ರಾಂ",
+      "c": "2000 mg\n2000 ಮಿ.ಗ್ರಾಂ",
+      "d": "20000 mg\n20000 ಮಿ.ಗ್ರಾಂ",
+      "ans": "C) 2000 mg\n2000 ಮಿ.ಗ್ರಾಂ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q5",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which unit is most suitable for measuring the capacity of a water bottle?\nನೀರು ಬಾಟಲಿಯ ಸಾಮರ್ಥ್ಯವನ್ನು ಅಳೆಯಲು ಯಾವ ಏಕಮಾನ ಹೆಚ್ಚು ಸೂಕ್ತವಾಗಿದೆ?",
+      "a": "Kilogram (kg)\nಕಿಲೋಗ್ರಾಂ (ಕೆಜಿ)",
+      "b": "Metre (m)\nಮೀಟರ್ (ಮೀ)",
+      "c": "Litre (L)\nಲೀಟರ್ (ಲೀ)",
+      "d": "Centimetre (cm)\nಸೆಂಟಿಮೀಟರ್ (ಸೆಂ.ಮೀ)",
+      "ans": "C) Litre (L)\nಲೀಟರ್ (ಲೀ)",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q6",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which of the following is equal to 1 L?\nಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು 1 ಲೀಟರ್‌ಗೆ ಸಮವಾಗಿದೆ?",
+      "a": "100 ml\n100 ಮಿ.ಲೀ",
+      "b": "500 ml\n500 ಮಿ.ಲೀ",
+      "c": "1000 ml\n1000 ಮಿ.ಲೀ",
+      "d": "10000 ml\n10000 ಮಿ.ಲೀ",
+      "ans": "C) 1000 ml\n1000 ಮಿ.ಲೀ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q7",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Rani poured 500 ml of milk into a container that already had 500 ml of milk. How much milk is there now?\nರಾಣಿ 500 ಮಿ.ಲೀ ಹಾಲನ್ನು ಈಗಾಗಲೇ 500 ಮಿ.ಲೀ ಹಾಲು ಇದ್ದ ಪಾತ್ರೆಗೆ ಸುರಿದಳು. ಈಗ ಒಟ್ಟು ಎಷ್ಟು ಹಾಲು ಇದೆ?",
+      "a": "500 ml\n500 ಮಿ.ಲೀ",
+      "b": "1000 ml\n1000 ಮಿ.ಲೀ",
+      "c": "1500 ml\n1500 ಮಿ.ಲೀ",
+      "d": "2000 ml\n2000 ಮಿ.ಲೀ",
+      "ans": "B) 1000 ml\n1000 ಮಿ.ಲೀ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q8",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Arrange the following weights in ascending order: 900 g, 1 kg, 1200 g\nಕೆಳಗಿನ ತೂಕಗಳನ್ನು ಏರಿಕೆ ಕ್ರಮದಲ್ಲಿ ಸರಿಸು: 900 ಗ್ರಾಂ, 1 ಕಿ.ಗ್ರಾಂ, 1200 ಗ್ರಾಂ",
+      "a": "1 kg, 900 g, 1200 g\n1 ಕಿ.ಗ್ರಾಂ, 900 ಗ್ರಾಂ, 1200 ಗ್ರಾಂ",
+      "b": "1200 g, 1 kg, 900 g\n1200 ಗ್ರಾಂ, 1 ಕಿ.ಗ್ರಾಂ, 900 ಗ್ರಾಂ",
+      "c": "900 g, 1 kg, 1200 g\n900 ಗ್ರಾಂ, 1 ಕಿ.ಗ್ರಾಂ, 1200 ಗ್ರಾಂ",
+      "d": "900 g, 1200 g, 1 kg\n900 ಗ್ರಾಂ, 1200 ಗ್ರಾಂ, 1 ಕಿ.ಗ್ರಾಂ",
+      "ans": "C) 900 g, 1 kg, 1200 g\n900 ಗ್ರಾಂ, 1 ಕಿ.ಗ್ರಾಂ, 1200 ಗ್ರಾಂ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c8_q9",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "fib",
+      "marks": 1,
+      "q": "25 kg = ________ g.\n25 ಕಿ.ಗ್ರಾಂ = ________ ಗ್ರಾಂ",
+      "ans": "25,000 g\n25,000 ಗ್ರಾಂ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q10",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "fib",
+      "marks": 1,
+      "q": "4 kg 500 g = ________ g\n4 ಕಿ.ಗ್ರಾಂ 500 ಗ್ರಾಂ = ________ ಗ್ರಾಂ",
+      "ans": "4,500 g\n4,500 ಗ್ರಾಂ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c8_q11",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "fib",
+      "marks": 1,
+      "q": "6 g 100 mg = ________ mg\n6 ಗ್ರಾಂ 100 ಮಿ.ಗ್ರಾಂ = ________ ಮಿ.ಗ್ರಾಂ",
+      "ans": "6100 mg\n6100 ಮಿ.ಗ್ರಾಂ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c8_q12",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "fib",
+      "marks": 1,
+      "q": "9000 kg = ________ quintal\n9000 ಕಿ.ಗ್ರಾಂ = ________ ಕ್ವಿಂಟಾಲ್",
+      "ans": "90 quintal\n90 ಕ್ವಿಂಟಾಲ್",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c8_q13",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "fib",
+      "marks": 1,
+      "q": "10 quintals = ________ tonne\n10 ಕ್ವಿಂಟಾಲ್ = ________ ಟನ್",
+      "ans": "1 tonne\n1 ಟನ್",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c8_q14",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "fib",
+      "marks": 1,
+      "q": "5000 kg = ________ quintals = ________ tonnes\n5000 ಕಿ.ಗ್ರಾಂ = ________ ಕ್ವಿಂಟಾಲ್ = ________ ಟನ್",
+      "ans": "50 quintals = 5 tonnes\n50 ಕ್ವಿಂಟಾಲ್ = 5 ಟನ್",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c8_q15",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "fib",
+      "marks": 1,
+      "q": "________ kg = 8 tonnes\n________ ಕಿ.ಗ್ರಾಂ = 8 ಟನ್‌ಗಳು",
+      "ans": "8000 kg\n8000 ಕಿ.ಗ್ರಾಂ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c8_q16_a",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Compare the weights using <, =, > signs:\n<, =, > ಚಿಹ್ನೆಗಳನ್ನು ಉಪಯೋಗಿಸಿ ತೂಕವನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ:\n1 kg 600 g _____ 1700 g\n1 ಕೆ.ಜಿ. 600 ಗ್ರಾಂ _____ 1700 ಗ್ರಾಂ",
+      "ans": "<",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q16_b",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Compare the weights using <, =, > signs:\n<, =, > ಚಿಹ್ನೆಗಳನ್ನು ಉಪಯೋಗಿಸಿ ತೂಕವನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ:\n1 kg 600 g _____ 1 kg 60 g\n1 ಕೆ.ಜಿ. 600 ಗ್ರಾಂ _____ 1 ಕೆ.ಜಿ. 60 ಗ್ರಾಂ",
+      "ans": ">",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q16_c",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Compare the weights using <, =, > signs:\n<, =, > ಚಿಹ್ನೆಗಳನ್ನು ಉಪಯೋಗಿಸಿ ತೂಕವನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ:\n10 kg 35 g _____ 10035 g\n10 ಕೆ.ಜಿ. 35 ಗ್ರಾಂ _____ 10035 ಗ್ರಾಂ",
+      "ans": "=",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q16_d",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Compare the weights using <, =, > signs:\n<, =, > ಚಿಹ್ನೆಗಳನ್ನು ಉಪಯೋಗಿಸಿ ತೂಕವನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ:\n1 kg 600 g _____ 2 kg 500 g\n1 ಕೆ.ಜಿ. 600 ಗ್ರಾಂ _____ 2 ಕೆ.ಜಿ. 500 ಗ್ರಾಂ",
+      "ans": "<",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q16_e",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Compare the weights using <, =, > signs:\n<, =, > ಚಿಹ್ನೆಗಳನ್ನು ಉಪಯೋಗಿಸಿ ತೂಕವನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ:\n5 kg 50 g _____ 4 kg 500 g\n5 ಕೆ.ಜಿ. 50 ಗ್ರಾಂ _____ 4 ಕೆ.ಜಿ. 500 ಗ್ರಾಂ",
+      "ans": ">",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q16_f",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Compare the weights using <, =, > signs:\n<, =, > ಚಿಹ್ನೆಗಳನ್ನು ಉಪಯೋಗಿಸಿ ತೂಕವನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ:\n900 g + 7000 g _____ 7 kg 900 g\n900 ಗ್ರಾಂ + 7000 ಗ್ರಾಂ _____ 7 ಕೆ.ಜಿ. 900 ಗ್ರಾಂ",
+      "ans": "=",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q16_g",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Compare the weights using <, =, > signs:\n<, =, > ಚಿಹ್ನೆಗಳನ್ನು ಉಪಯೋಗಿಸಿ ತೂಕವನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ:\n90 g _____ 200 mg\n90 ಗ್ರಾಂ _____ 200 ಮಿ.ಗ್ರಾಂ",
+      "ans": ">",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q16_h",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Compare the weights using <, =, > signs:\n<, =, > ಚಿಹ್ನೆಗಳನ್ನು ಉಪಯೋಗಿಸಿ ತೂಕವನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ:\n16 g 50 mg _____ 50 g 16 mg\n16 ಗ್ರಾಂ 50 ಮಿ.ಗ್ರಾಂ _____ 50 ಗ್ರಾಂ 16 ಮಿ.ಗ್ರಾಂ",
+      "ans": "<",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q16_i",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Compare the weights using <, =, > signs:\n<, =, > ಚಿಹ್ನೆಗಳನ್ನು ಉಪಯೋಗಿಸಿ ತೂಕವನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ:\n2010 mg _____ 2 g 100 mg\n2010 ಮಿ.ಗ್ರಾಂ _____ 2 ಗ್ರಾಂ 100 ಮಿ.ಗ್ರಾಂ",
+      "ans": "<",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q16_j",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Compare the weights using <, =, > signs:\n<, =, > ಚಿಹ್ನೆಗಳನ್ನು ಉಪಯೋಗಿಸಿ ತೂಕವನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ:\n9000 mg _____ 90 g\n9000 ಮಿ.ಗ್ರಾಂ _____ 90 ಗ್ರಾಂ",
+      "ans": "<",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q16_k",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Compare the weights using <, =, > signs:\n<, =, > ಚಿಹ್ನೆಗಳನ್ನು ಉಪಯೋಗಿಸಿ ತೂಕವನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ:\n5000 g _____ 7500 g\n5000 ಗ್ರಾಂ _____ 7500 ಗ್ರಾಂ",
+      "ans": "<",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q16_l",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Compare the weights using <, =, > signs:\n<, =, > ಚಿಹ್ನೆಗಳನ್ನು ಉಪಯೋಗಿಸಿ ತೂಕವನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ:\n800 mg + 88 mg _____ 880 mg + 8 mg\n800 ಮಿ.ಗ್ರಾಂ + 88 ಮಿ.ಗ್ರಾಂ _____ 880 ಮಿ.ಗ್ರಾಂ + 8 ಮಿ.ಗ್ರಾಂ",
+      "ans": "=",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q17_a",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Compare the following quantities using the signs <, =, >:\n<, =, > ಚಿಹ್ನೆಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಈ ಕೆಳಗಿನ ಪ್ರಮಾಣಗಳನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ:\n5 l 60 ml _____ 5,400 ml\n5 ಲೀ 60 ಮಿ.ಲೀ _____ 5,400 ಮಿ.ಲೀ",
+      "ans": "<",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q17_b",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Compare the following quantities using the signs <, =, >:\n<, =, > ಚಿಹ್ನೆಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಈ ಕೆಳಗಿನ ಪ್ರಮಾಣಗಳನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ:\n10 l 100 ml _____ 1 l 600 ml\n10 ಲೀ 100 ಮಿ.ಲೀ _____ 1 ಲೀ 600 ಮಿ.ಲೀ",
+      "ans": ">",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q17_c",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Compare the following quantities using the signs <, =, >:\n<, =, > ಚಿಹ್ನೆಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಈ ಕೆಳಗಿನ ಪ್ರಮಾಣಗಳನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ:\n190 ml + 800 ml _____ 800 ml + 109 ml\n190 ಮಿ.ಲೀ + 800 ಮಿ.ಲೀ _____ 800 ಮಿ.ಲೀ + 109 ಮಿ.ಲೀ",
+      "ans": ">",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q17_d",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Compare the following quantities using the signs <, =, >:\n<, =, > ಚಿಹ್ನೆಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಈ ಕೆಳಗಿನ ಪ್ರಮಾಣಗಳನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ:\n3 l 600 ml _____ 3600 ml\n3 ಲೀ 600 ಮಿ.ಲೀ _____ 3600 ಮಿ.ಲೀ",
+      "ans": "=",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q17_e",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Compare the following quantities using the signs <, =, >:\n<, =, > ಚಿಹ್ನೆಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಈ ಕೆಳಗಿನ ಪ್ರಮಾಣಗಳನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ:\n4 l 50 ml _____ 4 l 500 ml\n4 ಲೀ 50 ಮಿ.ಲೀ _____ 4 ಲೀ 500 ಮಿ.ಲೀ",
+      "ans": "<",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q18",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "match",
+      "marks": 4,
+      "q": "Match the following:\nಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "matchPairs": [
+        {
+          "a": "10 kg\n10 ಕೆ.ಜಿ.",
+          "b": "10,000 g\n10,000 ಗ್ರಾಂ"
+        },
+        {
+          "a": "5 g 200 mg\n5 ಗ್ರಾಂ 200 ಮಿ.ಗ್ರಾಂ",
+          "b": "5,200 mg\n5,200 ಮಿ.ಗ್ರಾಂ"
+        },
+        {
+          "a": "100 kg\n100 ಕೆ.ಜಿ.",
+          "b": "1 quintal\n1 ಕ್ವಿಂಟಾಲ್"
+        },
+        {
+          "a": "5 l 8 ml\n5 ಲೀ 8 ಮಿ.ಲೀ",
+          "b": "5,008 ml\n5,008 ಮಿ.ಲೀ"
+        }
+      ],
+      "ans": "(1) ➔ 10,000 g / 10,000 ಗ್ರಾಂ | (2) ➔ 5,200 mg / 5,200 ಮಿ.ಗ್ರಾಂ | (3) ➔ 1 quintal / 1 ಕ್ವಿಂಟಾಲ್ | (4) ➔ 5,008 ml / 5,008 ಮಿ.ಲೀ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c8_q19",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "If a sugar sachet weighs 5g, how much will it be in milligrams?\nಒಂದು ಸಕ್ಕರೆ ಪ್ಯಾಕೆಟ್ 5 ಗ್ರಾಂ ತೂಕವಿದ್ದರೆ, ಅದು ಮಿಲಿಗ್ರಾಂಗಳಲ್ಲಿ ಎಷ್ಟು ಇರುತ್ತದೆ?",
+      "ans": "Weight = 5 g\n1 g = 1000 mg\nTherefore, 5 × 1000 = 5000 mg\nತೂಕ = 5 ಗ್ರಾಂ\n1 ಗ್ರಾಂ = 1000 ಮಿ.ಗ್ರಾಂ\nಆದ್ದರಿಂದ, 5 × 1000 = 5000 ಮಿ.ಗ್ರಾಂ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q20",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "An oil packet weighs 5kg 50g. What is its weight in grams?\nಒಂದು ಎಣ್ಣೆ ಪ್ಯಾಕೆಟ್ 5 ಕೆ.ಜಿ. 50 ಗ್ರಾಂ ತೂಕವಿದೆ. ಅದರ ತೂಕ ಗ್ರಾಂಗಳಲ್ಲಿ ಎಷ್ಟು?",
+      "ans": "Weight = 5 kg 50 g\n1 kg = 1000 g\n5 kg = 5000 g\n5000 g + 50 g = 5050 g\nತೂಕ = 5 ಕಿ.ಗ್ರಾಂ 50 ಗ್ರಾಂ\n1 ಕಿ.ಗ್ರಾಂ = 1000 ಗ್ರಾಂ\n5 ಕಿ.ಗ್ರಾಂ = 5000 ಗ್ರಾಂ\n5000 ಗ್ರಾಂ + 50 ಗ್ರಾಂ = 5050 ಗ್ರಾಂ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q21",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "An ornament weighs 4g 100mg. What will be the weight in milligrams?\nಒಂದು ಆಭರಣವು 4 ಗ್ರಾಂ 100 ಮಿ.ಗ್ರಾಂ ತೂಕವಿದೆ. ಮಿಲ್ಲಿಗ್ರಾಂಗಳಲ್ಲಿ ಅದರ ತೂಕ ಎಷ್ಟು?",
+      "ans": "Weight = 4 g 100 mg\n1 g = 1000 mg\n4 g = 4000 mg\n4000 mg + 100 mg = 4100 mg\nತೂಕ = 4 ಗ್ರಾಂ 100 ಮಿ.ಗ್ರಾಂ\n1 ಗ್ರಾಂ = 1000 ಮಿ.ಗ್ರಾಂ\n4 ಗ್ರಾಂ = 4000 ಮಿ.ಗ್ರಾಂ\n4000 ಮಿ.ಗ್ರಾಂ + 100 ಮಿ.ಗ್ರಾಂ = 4100 ಮಿ.ಗ್ರಾಂ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q22",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Complete the double number line:\n1000 mg, ___ mg, 12,000 mg, 20,000 mg, ___ mg, 31,000 mg\n1 g, 5 g, 12 g, ___ g, 25 g, ___ g\nದ್ವಿ ಸಂಖ್ಯಾ ರೇಖೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ:\n1000 ಮಿ.ಗ್ರಾಂ, ___ ಮಿ.ಗ್ರಾಂ, 12,000 ಮಿ.ಗ್ರಾಂ, 20,000 ಮಿ.ಗ್ರಾಂ, ___ ಮಿ.ಗ್ರಾಂ, 31,000 ಮಿ.ಗ್ರಾಂ\n1 ಗ್ರಾಂ, 5 ಗ್ರಾಂ, 12 ಗ್ರಾಂ, ___ ಗ್ರಾಂ, 25 ಗ್ರಾಂ, ___ ಗ್ರಾಂ",
+      "ans": "Top line: 5000 mg, 25,000 mg\nBottom line: 20 g, 31 g\nಮೇಲಿನ ಸಾಲು: 5000 ಮಿ.ಗ್ರಾಂ, 25,000 ಮಿ.ಗ್ರಾಂ\nಕೆಳಗಿನ ಸಾಲು: 20 ಗ್ರಾಂ, 31 ಗ್ರಾಂ",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c8_q23",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "A goldsmith has made an ornament weighing 10g 500mg. What will its weight be in milligrams?\nಒಬ್ಬ ಅಕ್ಕಸಾಲಿಗ 10 ಗ್ರಾಂ 500 ಮಿ.ಗ್ರಾಂ ತೂಕದ ಒಂದು ಆಭರಣವನ್ನು ಮಾಡಿದ್ದಾನೆ. ಅದರ ತೂಕ ಮಿಲಿಗ್ರಾಂಗಳಲ್ಲಿ ಎಷ್ಟು?",
+      "ans": "Weight = 10 g 500 mg\n1 g = 1000 mg\n10 g = 10,000 mg\n10,000 mg + 500 mg = 10,500 mg\nತೂಕ = 10 ಗ್ರಾಂ 500 ಮಿ.ಗ್ರಾಂ\n1 ಗ್ರಾಂ = 1000 ಮಿ.ಗ್ರಾಂ\n10 ಗ್ರಾಂ = 10,000 ಮಿ.ಗ್ರಾಂ\n10,000 ಮಿ.ಗ್ರಾಂ + 500 ಮಿ.ಗ್ರಾಂ = 10,500 ಮಿ.ಗ್ರಾಂ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q24",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "An elephant weighs 5,000 kg. A whale weighs 40 times the elephant. What is the whale's weight?\nಆನೆಯ ತೂಕ 5,000 ಕೆ.ಜಿ. ತಿಮಿಂಗಿಲದ ತೂಕ ಆನೆಯ ತೂಕದ 40 ಪಟ್ಟು. ತಿಮಿಂಗಿಲದ ತೂಕ ಎಷ್ಟು?",
+      "ans": "Whale's weight = 5000 × 40 = 2,00,000 kg\nತಿಮಿಂಗಿಲದ ತೂಕ = 5000 × 40 = 2,00,000 ಕೆ.ಜಿ",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q25",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "A restaurant owner uses 5 kg 200 g, 8 kg 900 g, and 12 kg 600 g of onions over 3 days. What is the total weight of onions used by the restaurant owner in 3 days?\nಒಬ್ಬ ರೆಸ್ಟೋರೆಂಟ್ ಮಾಲೀಕರು 3 ದಿನಗಳಲ್ಲಿ 5 kg 200 g, 8 kg 900 g ಮತ್ತು 12 kg 600 g ಈರುಳ್ಳಿಯನ್ನು ಬಳಸುತ್ತಾರೆ. ರೆಸ್ಟೋರೆಂಟ್ ಮಾಲೀಕರು 3 ದಿನಗಳಲ್ಲಿ ಬಳಸಿದ ಈರುಳ್ಳಿಯ ಒಟ್ಟು ತೂಕ ಎಷ್ಟು?",
+      "ans": "Day 1 = 5 kg 200 g\nDay 2 = 8 kg 900 g\nDay 3 = 12 kg 600 g\nTotal weight = 26 kg 700 g\nಮೊದಲ ದಿನ = 5 ಕಿ.ಗ್ರಾಂ 200 ಗ್ರಾಂ\nಎರಡನೇ ದಿನ = 8 ಕಿ.ಗ್ರಾಂ 900 ಗ್ರಾಂ\nಮೂರನೇ ದಿನ = 12 ಕಿ.ಗ್ರಾಂ 600 ಗ್ರಾಂ\nಒಟ್ಟು ತೂಕ = 26 ಕಿ.ಗ್ರಾಂ 700 ಗ್ರಾಂ (26 kg 700 g)",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q26",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Aarav is helping his grandfather at the fruit stall. He lifts two baskets of apples weighing 2 kg 100 g and 3 kg 950 g. What is the total weight of apples he lifted?\nಆರವ್ ತನ್ನ ಅಜ್ಜನಿಗೆ ಹಣ್ಣಿನ ಅಂಗಡಿಯಲ್ಲಿ ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದಾನೆ. ಅವನು 2 kg 100 g ಮತ್ತು 3 kg 950 g ತೂಕದ ಎರಡು ಬುಟ್ಟಿ ಸೇಬುಗಳನ್ನು ಎತ್ತುತ್ತಾನೆ. ಅವನು ಎತ್ತಿದ ಸೇಬುಗಳ ಒಟ್ಟು ತೂಕ ಎಷ್ಟು?",
+      "ans": "Weight of first basket = 2 kg 100 g\nSecond basket = 3 kg 950 g\nTotal weight = 2 kg 100 g + 3 kg 950 g = 6 kg 050 g\nಮೊದಲ ಬುಟ್ಟಿಯ ತೂಕ = 2 ಕಿ.ಗ್ರಾಂ 100 ಗ್ರಾಂ\nಎರಡನೇ ಬುಟ್ಟಿಯ ತೂಕ = 3 ಕಿ.ಗ್ರಾಂ 950 ಗ್ರಾಂ\nಒಟ್ಟು ತೂಕ = 2 kg 100 g + 3 kg 950 g = 6 ಕಿ.ಗ್ರಾಂ 050 ಗ್ರಾಂ (6 kg 050 g)",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q27",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "4 kg 500 g of sand is used from a sack weighing 10 kg. How much sand is left in the sack?\n10 kg ತೂಕದ ಚೀಲದಿಂದ 4 kg 500 g ಮರಳನ್ನು ಬಳಸಲಾಗಿದೆ. ಚೀಲದಲ್ಲಿ ಎಷ್ಟು ಮರಳು ಉಳಿದಿದೆ?",
+      "ans": "Total sand = 10 kg 000 g\nSand used = 4 kg 500 g\nSand left = 10 kg 000 g − 4 kg 500 g = 5 kg 500 g\nಮರಳಿನ ಒಟ್ಟು ತೂಕ = 10 ಕೆ.ಜಿ 000 ಗ್ರಾಂ\nಬಳಸಿದ ಮರಳು = 4 ಕೆ.ಜಿ 500 ಗ್ರಾಂ\nಉಳಿದ ಮರಳು = 10 ಕೆ.ಜಿ 000 ಗ್ರಾಂ − 4 ಕೆ.ಜಿ 500 ಗ್ರಾಂ = 5 ಕೆ.ಜಿ 500 ಗ್ರಾಂ",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q28",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "A rice sack weighs 9 kg 750 g. After some rice is used, it weighs 3 kg 700 g. How much rice was used?\nಒಂದು ಅಕ್ಕಿ ಚೀಲ 9 kg 750 g ತೂಗುತ್ತದೆ. ಕೆಲವು ಅಕ್ಕಿ ಬಳಸಿದ ನಂತರ, ಅದು 3 kg 700 g ತೂಗುತ್ತದೆ. ಎಷ್ಟು ಅಕ್ಕಿ ಬಳಸಲಾಗಿದೆ?",
+      "ans": "Initial weight = 9 kg 750 g\nFinal weight = 3 kg 700 g\nRice used = 9 kg 750 g − 3 kg 700 g = 6 kg 050 g\nಆರಂಭದ ತೂಕ = 9 ಕಿ.ಗ್ರಾಂ 750 ಗ್ರಾಂ\nಉಳಿದ ತೂಕ = 3 ಕಿ.ಗ್ರಾಂ 700 ಗ್ರಾಂ\nಬಳಸಿದ ಅಕ್ಕಿ = 9 kg 750 g − 3 kg 700 g = 6 ಕಿ.ಗ್ರಾಂ 050 ಗ್ರಾಂ (6 kg 050 g)",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q29",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "A delivery truck delivered 17 kg 900 g of supplies in the morning and 12 kg 700 g in the afternoon. How much total supplies did it deliver?\nಒಂದು ವಿತರಣಾ ಲಾರಿ ಮುಂಜಾನೆ 17 kg 900 g ಮತ್ತು ಮಧ್ಯಾಹ್ನ 12 kg 700 g ಸರಬರಾಜುಗಳನ್ನು ತಲುಪಿಸಿತು. ಅದು ಒಟ್ಟು ಎಷ್ಟು ಸರಬರಾಜುಗಳನ್ನು ತಲುಪಿಸಿತು?",
+      "ans": "Morning = 17 kg 900 g\nAfternoon = 12 kg 700 g\nTotal supplies = 17 kg 900 g + 12 kg 700 g = 30 kg 600 g\nಮುಂಜಾನೆ = 17 ಕಿ.ಗ್ರಾಂ 900 ಗ್ರಾಂ\nಮಧ್ಯಾಹ್ನ = 12 ಕಿ.ಗ್ರಾಂ 700 ಗ್ರಾಂ\nಒಟ್ಟು ಸರಬರಾಜು = 17 kg 900 g + 12 kg 700 g = 30 ಕಿ.ಗ್ರಾಂ 600 ಗ್ರಾಂ (30 kg 600 g)",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q30",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "A box of books weighs 14 kg 750 g. After removing some books, the weight of the box is 10 kg 500 g. What is the weight of the books removed?\nಪುಸ್ತಕಗಳ ಪೆಟ್ಟಿಗೆಯ ತೂಕ 14 kg 750 g ಇತ್ತು. ಪುಸ್ತಕಗಳನ್ನು ತೆಗೆದ ನಂತರ, ಪೆಟ್ಟಿಗೆಯ ತೂಕ 10 kg 500 g ಆಯಿತು. ತೆಗೆದ ಪುಸ್ತಕಗಳ ತೂಕ ಎಷ್ಟು?",
+      "ans": "Weight before removing books = 14 kg 750 g\nWeight after removing books = 10 kg 500 g\nWeight of books removed = 14 kg 750 g − 10 kg 500 g = 4 kg 250 g\nಆರಂಭದ ತೂಕ = 14 ಕಿ.ಗ್ರಾಂ 750 ಗ್ರಾಂ\nಪುಸ್ತಕ ತೆಗೆದ ನಂತರದ ತೂಕ = 10 ಕಿ.ಗ್ರಾಂ 500 ಗ್ರಾಂ\nತೆಗೆದ ಪುಸ್ತಕಗಳ ತೂಕ = 14 kg 750 g − 10 kg 500 g = 4 ಕಿ.ಗ್ರಾಂ 250 ಗ್ರಾಂ (4 kg 250 g)",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c8_q31",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "In a community kitchen of a Gurdwara, 65 kg of flour was purchased on one day. Out of this, 42 kg 275 g flour was used. If 52 kg 500 g flour was purchased next day, what is the total quantity of flour available now?\nಒಂದು ಗುರುದ್ವಾರದ ಸಮುದಾಯ ಅಡುಗೆಮನೆಯಲ್ಲಿ ಒಂದು ದಿನ 65 kg ಹಿಟ್ಟನ್ನು ಖರೀದಿಸಲಾಯಿತು. ಇದರಲ್ಲಿ 42 kg 275 g ಹಿಟ್ಟನ್ನು ಬಳಸಲಾಯಿತು. ಮರುದಿನ 52 kg 500 g ಹಿಟ್ಟು ಖರೀದಿಸಿದರೆ, ಈಗ ಅಡುಗೆ ಮನೆಯಲ್ಲಿ ಒಟ್ಟು ಲಭ್ಯವಿರುವ ಹಿಟ್ಟು ಎಷ್ಟು?",
+      "ans": "Flour left = 65 kg 000 g − 42 kg 275 g = 22 kg 725 g\nFlour purchased next day = 52 kg 500 g\nTotal flour available = 22 kg 725 g + 52 kg 500 g = 75 kg 225 g\nಉಳಿದ ಹಿಟ್ಟು = 65 kg 000 g − 42 kg 275 g = 22 kg 725 g\nಮರುದಿನ ತಂದ ಹಿಟ್ಟು = 52 kg 500 g\nಒಟ್ಟು ಲಭ್ಯವಿರುವ ಹಿಟ್ಟು = 22 kg 725 g + 52 kg 500 g = 75 ಕಿ.ಗ್ರಾಂ 225 ಗ್ರಾಂ (75 kg 225 g)",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c8_q32",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Ramiz brings a 500 ml water bottle to school. He drinks two bottles at school. How much water does he drink in a day at school?\nರಮೀಜ್ ಶಾಲೆಗೆ 500 ml ನೀರಿನ ಬಾಟಲಿಯನ್ನು ತರುತ್ತಾನೆ. ಅವನು ಶಾಲೆಯಲ್ಲಿ ಎರಡು ಬಾಟಲಿಗಳನ್ನು ಕುಡಿಯುತ್ತಾನೆ. ಅವನು ಶಾಲೆಯಲ್ಲಿ ಎಷ್ಟು ನೀರು ಕುಡಿಯುತ್ತಾನೆ?",
+      "ans": "Ramiz drinks: 500 ml + 500 ml = 1000 ml.\nRamiz drinks 1 l of water in a day.\nರಮೀಜ್ ಕುಡಿಯುವುದು: 500 ml + 500 ml = 1000 ml.\nಅಂದರೆ 1 ಲೀಟರ್ (1 l) ನೀರು ಕುಡಿಯುತ್ತಾನೆ.",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q33",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Muskaan drinks 3 l of water in a day. How many times would she need to refill a 500 ml water bottle?\nಮುಸ್ಕಾನ್ ಒಂದು ದಿನದಲ್ಲಿ 3 l ನೀರು ಕುಡಿಯುತ್ತಾಳೆ. 500 ml ನ ಒಂದು ನೀರಿನ ಬಾಟಲಿಗೆ ಅವಳು ಎಷ್ಟು ಬಾರಿ ತುಂಬಿಸಬೇಕು?",
+      "ans": "3 l = 3000 ml\nRefills needed = 3000 ÷ 500 = 6 times\n3 ಲೀಟರ್ = 3000 ಮಿ.ಲೀ\nತುಂಬಿಸಬೇಕಾದ ಬಾರಿ = 3000 ÷ 500 = 6 ಬಾರಿ",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q34",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "In a factory, 8 l 400 ml of oil needs to be equally poured into 7 containers for storage. How much oil will each container hold?\nಒಂದು ಕಾರ್ಖಾನೆಯಲ್ಲಿ ಶೇಖರಣೆಗಾಗಿ 8 ಲೀ 400 ಮಿ.ಲೀ ಎಣ್ಣೆಯನ್ನು 7 ಪಾತ್ರೆಗಳಲ್ಲಿ ಸಮಾನವಾಗಿ ಸುರಿಯಬೇಕಾಗಿದೆ. ಪ್ರತಿ ಪಾತ್ರೆಯಲ್ಲಿ ಎಣ್ಣೆ ಎಷ್ಟು ಇರುತ್ತದೆ?",
+      "ans": "8 l 400 ml = 8400 ml\n8400 ÷ 7 = 1200 ml = 1 l 200 ml\nEach container holds 1 l 200 ml of oil.\n8 ಲೀ 400 ಮಿ.ಲೀ = 8400 ಮಿ.ಲೀ\n8400 ÷ 7 = 1200 ಮಿ.ಲೀ = 1 ಲೀ 200 ಮಿ.ಲೀ\nಪ್ರತಿ ಪಾತ್ರೆಯಲ್ಲಿ 1 ಲೀ 200 ಮಿ.ಲೀ ಎಣ್ಣೆ ಇರುತ್ತದೆ.",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c8_q35",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "If one container can hold 1 l 75 ml of buttermilk, how much buttermilk will be there in 8 such containers?\nಒಂದು ಪಾತ್ರೆಯಲ್ಲಿ 1 ಲೀ 75 ಮಿ.ಲೀ ಮಜ್ಜಿಗೆ ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳಬಹುದಾದರೆ, ಅಂತಹ 8 ಪಾತ್ರೆಗಳಲ್ಲಿ ಎಷ್ಟು ಮಜ್ಜಿಗೆ ಇರುತ್ತದೆ?",
+      "ans": "1 l 75 ml = 1075 ml\n1075 × 8 = 8600 ml = 8 l 600 ml\nThere will be 8 l 600 ml of buttermilk in 8 containers.\n1 ಲೀ 75 ಮಿ.ಲೀ = 1075 ಮಿ.ಲೀ\n1075 × 8 = 8600 ಮಿ.ಲೀ = 8 ಲೀ 600 ಮಿ.ಲೀ\n8 ಪಾತ್ರೆಗಳಲ್ಲಿ 8 ಲೀ 600 ಮಿ.ಲೀ ಮಜ್ಜಿಗೆ ಇರುತ್ತದೆ.",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c8_q37",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_3m",
+      "marks": 3,
+      "q": "4 people need 500 g rice for a meal. How much rice will be needed for 8 people?\n4 ಜನರಿಗೆ ಒಂದು ಊಟಕ್ಕೆ 500 g ಅಕ್ಕಿ ಬೇಕಾಗುತ್ತದೆ. 8 ಜನರು ಊಟ ಮಾಡಲು ಎಷ್ಟು ಅಕ್ಕಿ ಬೇಕಾಗುತ್ತದೆ?",
+      "ans": "4 people need 500 g of rice.\n8 people are twice as many.\nSo, 500 × 2 = 1000 g = 1 kg\n4 ಜನರಿಗೆ = 500 ಗ್ರಾಂ\n8 ಜನರು = 4 ಜನರ 2 ಪಟ್ಟು\nಆದ್ದರಿಂದ, 500 × 2 = 1000 ಗ್ರಾಂ = 1 ಕಿ.ಗ್ರಾಂ",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q38",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_3m",
+      "marks": 3,
+      "q": "5 kg of tomatoes cost ₹73. How much will 10 kg of tomatoes cost?\n5 kg ಟೊಮೆಟೊಗಳಿಗೆ ಬೆಲೆ ₹73. 10 kg ಟೊಮೆಟೊಗಳಿಗೆ ಬೆಲೆ ಎಷ್ಟು?",
+      "ans": "10 kg is twice of 5 kg.\nSo, ₹73 × 2 = ₹146\n10 kg ಎಂಬುದು 5 kg ಯ 2 ಪಟ್ಟು.\nಆದ್ದರಿಂದ, ₹73 × 2 = ₹146",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q39_a",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Convert and fill in the blank:\nಪರಿವರ್ತಿಸಿ ಖಾಲಿ ಜಾಗ ತುಂಬಿರಿ:\n3 l 8 ml = _____ ml\n3 ಲೀ 8 ಮಿ.ಲೀ = _____ ಮಿ.ಲೀ",
+      "ans": "3008 ml\n3008 ಮಿ.ಲೀ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q39_b",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Convert and fill in the blank:\nಪರಿವರ್ತಿಸಿ ಖಾಲಿ ಜಾಗ ತುಂಬಿರಿ:\n9 l 90 ml = _____ ml\n9 ಲೀ 90 ಮಿ.ಲೀ = _____ ಮಿ.ಲೀ",
+      "ans": "9090 ml\n9090 ಮಿ.ಲೀ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q39_c",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Convert and fill in the blank:\nಪರಿವರ್ತಿಸಿ ಖಾಲಿ ಜಾಗ ತುಂಬಿರಿ:\n14,075 ml = _____ l _____ ml\n14,075 ಮಿ.ಲೀ = _____ ಲೀ _____ ಮಿ.ಲೀ",
+      "ans": "14 L 75 ml\n14 ಲೀ 75 ಮಿ.ಲೀ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q39_d",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Convert and fill in the blank:\nಪರಿವರ್ತಿಸಿ ಖಾಲಿ ಜಾಗ ತುಂಬಿರಿ:\n8 l 86 ml = _____ ml\n8 ಲೀ 86 ಮಿ.ಲೀ = _____ ಮಿ.ಲೀ",
+      "ans": "8086 ml\n8086 ಮಿ.ಲೀ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q39_e",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Convert and fill in the blank:\nಪರಿವರ್ತಿಸಿ ಖಾಲಿ ಜಾಗ ತುಂಬಿರಿ:\n12,200 ml = _____ l _____ ml\n12,200 ಮಿ.ಲೀ = _____ ಲೀ _____ ಮಿ.ಲೀ",
+      "ans": "12 l 200 ml\n12 ಲೀ 200 ಮಿ.ಲೀ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q39_f",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Convert and fill in the blank:\nಪರಿವರ್ತಿಸಿ ಖಾಲಿ ಜಾಗ ತುಂಬಿರಿ:\n18,350 ml = _____ l _____ ml\n18,350 ಮಿ.ಲೀ = _____ ಲೀ _____ ಮಿ.ಲೀ",
+      "ans": "18 L 350 ml\n18 ಲೀ 350 ಮಿ.ಲೀ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q40",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "sa_3m",
+      "marks": 3,
+      "q": "Harpreet's family carried: Watermelon - 3 kg, Pineapple - 1 kg 750 g, Apples - 1 kg 250 g, Mangoes - 2 kg.\n(a) Which has the highest weight?\n(b) Which has the least weight?\n(c) Arrange items in descending order of their weight.\nಹರ್‌ಪ್ರೀತ್ ಕುಟುಂಬ ವಿಹಾರಕ್ಕೆ ಕಲ್ಲಂಗಡಿ - 3 kg, ಅನಾನಸ್ - 1 kg 750 g, ಸೇಬುಗಳು - 1 kg 250 g, ಮಾವಿನಹಣ್ಣುಗಳು - 2 kg ತಂದಿದ್ದಾರೆ.\n(a) ಹೆಚ್ಚು ತೂಕ ಯಾವುದು?\n(b) ಕನಿಷ್ಠ ತೂಕ ಯಾವುದು?\n(c) ತೂಕದ ಅವರೋಹಣ ಕ್ರಮದಲ್ಲಿ ಜೋಡಿಸಿ.",
+      "ans": "(a) Highest weight: Watermelon (3 kg)\n(b) Least weight: Apples (1 kg 250 g)\n(c) Descending order: Watermelon (3 kg), Mangoes (2 kg), Pineapple (1 kg 750 g), Apples (1 kg 250 g)\n(a) ಹೆಚ್ಚು ತೂಕ: ಕಲ್ಲಂಗಡಿ (3 ಕಿ.ಗ್ರಾಂ)\n(b) ಕನಿಷ್ಠ ತೂಕ: ಸೇಬುಗಳು (1 ಕಿ.ಗ್ರಾಂ 250 ಗ್ರಾಂ)\n(c) ಅವರೋಹಣ ಕ್ರಮ: ಕಲ್ಲಂಗಡಿ (3 kg), ಮಾವಿನ ಹಣ್ಣುಗಳು (2 kg), ಅನಾನಸ್ (1 kg 750 g), ಸೇಬುಗಳು (1 kg 250 g)",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c8_q41",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "la_4m",
+      "marks": 4,
+      "q": "In a kingdom, the king donates wheat grains equal to 10 times his weight on his birthday.\n(a) If he donates 800 kg of wheat grain this birthday, what is his current weight?\n(b) If he had donated 780 kg last birthday, what was his weight last year?\n(c) How much weight did he gain in a year until this birthday?\nಒಂದು ರಾಜ್ಯದಲ್ಲಿ ರಾಜನು ತನ್ನ ತೂಕದ 10 ಪಟ್ಟು ಗೋಧಿ ಧಾನ್ಯಗಳನ್ನು ದಾನ ಮಾಡುತ್ತಾನೆ.\n(a) ಅವನು ಈ ಹುಟ್ಟುಹಬ್ಬದಂದು 800 kg ಗೋಧಿ ದಾನ ಮಾಡಿದರೆ ಅವನ ಈಗಿನ ತೂಕ ಎಷ್ಟು?\n(b) ಕಳೆದ ವರ್ಷ 780 kg ದಾನ ಮಾಡಿದ್ದರೆ, ಕಳೆದ ವರ್ಷದ ತೂಕ ಎಷ್ಟು?\n(c) ಒಂದು ವರ್ಷದಲ್ಲಿ ಅವನು ಎಷ್ಟು ತೂಕವನ್ನು ಹೆಚ್ಚಿಸಿಕೊಂಡನು?",
+      "ans": "(a) Current weight = 800 ÷ 10 = 80 kg\n(b) Last year's weight = 780 ÷ 10 = 78 kg\n(c) Weight gained = 80 − 78 = 2 kg\n(a) ಈಗಿನ ತೂಕ = 800 ÷ 10 = 80 ಕಿ.ಗ್ರಾಂ\n(b) ಕಳೆದ ವರ್ಷದ ತೂಕ = 780 ÷ 10 = 78 ಕಿ.ಗ್ರಾಂ\n(c) ಹೆಚ್ಚಾದ ತೂಕ = 80 − 78 = 2 ಕಿ.ಗ್ರಾಂ",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c8_q42",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "la_4m",
+      "marks": 4,
+      "q": "Find the total cost of each item:\n1. Rice: 12 kg 500 g @ ₹60/kg\n2. Flour: 7 kg 250 g @ ₹40/kg\n3. Sugar: 5 kg @ ₹45/kg\n4. Chana dal: 3 kg 600 g @ ₹70/kg\n5. Besan: 4 kg @ ₹60/kg\n6. Jaggery: 1 kg 400 g @ ₹50/kg\nಪ್ರತಿಯೊಂದು ವಸ್ತುಗಳ ಒಟ್ಟು ಬೆಲೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:\n1. ಅಕ್ಕಿ (Rice): 12 kg 500 g @ ₹60/kg\n2. ಹಿಟ್ಟು (Flour): 7 kg 250 g @ ₹40/kg\n3. ಸಕ್ಕರೆ (Sugar): 5 kg @ ₹45/kg\n4. ಕಡಲೆಬೇಳೆ (Chana dal): 3 kg 600 g @ ₹70/kg\n5. ಕಡಲೆ ಹಿಟ್ಟು (Besan): 4 kg @ ₹60/kg\n6. ಬೆಲ್ಲ (Jaggery): 1 kg 400 g @ ₹50/kg",
+      "ans": "1. Rice = 12.5 × 60 = ₹750\n2. Flour = 7.25 × 40 = ₹290\n3. Sugar = 5 × 45 = ₹225\n4. Chana dal = 3.6 × 70 = ₹252\n5. Besan = 4 × 60 = ₹240\n6. Jaggery = 1.4 × 50 = ₹70\n1. ಅಕ್ಕಿ = 12.5 × 60 = ₹750\n2. ಹಿಟ್ಟು = 7.25 × 40 = ₹290\n3. ಸಕ್ಕರೆ = 5 × 45 = ₹225\n4. ಕಡಲೆಬೇಳೆ = 3.6 × 70 = ₹252\n5. ಕಡಲೆ ಹಿಟ್ಟು = 4 × 60 = ₹240\n6. ಬೆಲ್ಲ = 1.4 × 50 = ₹70",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c8_q43",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "la_4m",
+      "marks": 4,
+      "q": "Nitesh is a scrap dealer. How much would he have paid for:\n(a) 16 kg of old newspaper, if he paid ₹8 for every 1 kg?\n(b) 20 kg iron, if he paid ₹200 for every 10 kg?\n(c) 10 kg plastic, if he paid ₹30 for 5 kg?\nನಿತೇಶ ಒಬ್ಬ ಗುಜರಿ ವ್ಯಾಪಾರಿ. ಅವನು ಎಷ್ಟು ಹಣ ಪಾವತಿಸಬೇಕು?\n(a) 1 ಕೆಜಿ ಹಳೆ ವಾರ್ತಾಪತ್ರಿಕೆಗೆ ₹8 ರಂತೆ, 16 ಕೆಜಿ ಹಳೆಯ ವಾರ್ತಾಪತ್ರಿಕೆಗೆ?\n(b) ಪ್ರತಿ 10 ಕೆಜಿ ಕಬ್ಬಿಣಕ್ಕೆ ₹200 ರಂತೆ, 20 ಕೆಜಿ ಕಬ್ಬಿಣಕ್ಕೆ?\n(c) 5 ಕೆಜಿ ಪ್ಲಾಸ್ಟಿಕ್‌ಗೆ ₹30 ರಂತೆ, 10 ಕೆಜಿ ಪ್ಲಾಸ್ಟಿಕ್‌ಗೆ?",
+      "ans": "(a) 16 × ₹8 = ₹128\n(b) 2 × ₹200 = ₹400\n(c) 2 × ₹30 = ₹60",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c8_q45",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "la_4m",
+      "marks": 4,
+      "q": "Kiran's petrol pump sales details:\nTruck (3 vehicles, 500 L each = 1500 L)\nBus (6 vehicles, 300 L each = 1800 L)\nCar (10 vehicles, 50 L each = 500 L)\nAuto (12 vehicles, 8 L each = 96 L)\nTwo-wheeler (25 vehicles, 5 L each = 125 L)\n(a) How much more fuel is bought for buses than for trucks?\n(b) What is the total quantity of fuel filled from the petrol pump on that day?\nಕಿರಣ್ ಪೆಟ್ರೋಲ್ ಪಂಪ್‌ನ ವಿವರ:\nಲಾರಿ (3 ವಾಹನ, ತಲಾ 500 L)\nಬಸ್ (6 ವಾಹನ, ತಲಾ 300 L)\nಕಾರು (10 ವಾಹನ, ತಲಾ 50 L)\nಆಟೋ ರಿಕ್ಷಾ (12 ವಾಹನ, ತಲಾ 8 L)\nದ್ವಿಚಕ್ರ ವಾಹನ (25 ವಾಹನ, ತಲಾ 5 L)\n(a) ಟ್ರಕ್ ಗಳಿಗಿಂತ ಬಸ್ ಗಳಿಗೆ ಎಷ್ಟು ಇಂಧನವನ್ನು ಖರೀದಿಸಲಾಗಿದೆ?\n(b) ಆ ದಿನ ಪೆಟ್ರೋಲ್ ಪಂಪ್ ನಿಂದ ತುಂಬಿದ ಒಟ್ಟು ಇಂಧನದ ಪ್ರಮಾಣ ಎಷ್ಟು?",
+      "ans": "(a) Buses = 1800 l, Trucks = 1500 l. Difference = 1800 − 1500 = 300 l\n(b) Total fuel = 1500 + 1800 + 500 + 96 + 125 = 4021 l\n(a) ಬಸ್‌ಗಳಿಗೆ = 1800 ಲೀ, ಲಾರಿಗಳಿಗೆ = 1500 ಲೀ. ವ್ಯತ್ಯಾಸ = 1800 − 1500 = 300 ಲೀಟರ್\n(b) ಒಟ್ಟು ಇಂಧನ = 1500 + 1800 + 500 + 96 + 125 = 4021 ಲೀಟರ್",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c8_q46",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "la_4m",
+      "marks": 4,
+      "q": "Riya fills one 2 l bottle and four 500 ml bottles. Her friend Aarav fills three 750 ml bottles. Who filled more water, Riya or Aarav? How much more?\nರಿಯಾ ವಿಹಾರಕ್ಕಾಗಿ ಒಂದು 2 l ಬಾಟಲಿ ಮತ್ತು ನಾಲ್ಕು 500 ml ಬಾಟಲಿಗಳನ್ನು ತುಂಬಿಸುತ್ತಾಳೆ. ಆರವ್ ಮೂರು 750 ml ಬಾಟಲಿಗಳನ್ನು ತುಂಬಿಸುತ್ತಾನೆ. ಯಾರು ಹೆಚ್ಚು ನೀರು ತುಂಬಿಸಿದರು? ಎಷ್ಟು ಹೆಚ್ಚು?",
+      "ans": "Water filled by Riya = 2 l + (4 × 500 ml) = 4 l (4000 ml)\nWater filled by Aarav = 3 × 750 ml = 2250 ml = 2 l 250 ml\nRiya filled more water. Difference = 4000 − 2250 = 1 l 750 ml\nರಿಯಾ ತುಂಬಿದ ನೀರು = 2 l + (4 × 500 ml) = 2 l + 2 l = 4 ಲೀಟರ್ (4000 ml)\nಆರವ್ ತುಂಬಿದ ನೀರು = 3 × 750 ml = 2250 ml = 2 ಲೀ 250 ಮಿ.ಲೀ\nರಿಯಾ ಹೆಚ್ಚು ನೀರು ತುಂಬಿಸಿದಳು. ವ್ಯತ್ಯಾಸ = 4000 − 2250 = 1 ಲೀ 750 ಮಿ.ಲೀ (1 l 750 ml)",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c8_q47",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "la_4m",
+      "marks": 4,
+      "q": "A bottle of milk is poured equally into 8 glasses, leaving 120 ml of milk in the bottle.\n(a) If each glass has a capacity of 360 ml, what is the total capacity of 8 glasses?\n(b) How much milk was there in the bottle initially?\n(c) If 1 l of milk costs ₹40, how much will 3 l milk cost?\nಒಂದು ಬಾಟಲಿಯ ಹಾಲನ್ನು 8 ಲೋಟಗಳಿಗೆ ಸಮಾನವಾಗಿ ಸುರಿಯಲಾಗುತ್ತದೆ. ಬಾಟಲಿಯಲ್ಲಿ 120 ml ಹಾಲು ಉಳಿಯುತ್ತದೆ.\n(a) ಪ್ರತಿ ಲೋಟ 360 ml ಸಾಮರ್ಥ್ಯ ಹೊಂದಿದ್ದರೆ, ಎಂಟು ಲೋಟಗಳ ಒಟ್ಟು ಸಾಮರ್ಥ್ಯ ಎಷ್ಟು?\n(b) ಆರಂಭದಲ್ಲಿ ಬಾಟಲಿಯಲ್ಲಿ ಎಷ್ಟು ಹಾಲು ಇತ್ತು?\n(c) 1 l ಹಾಲಿನ ಬೆಲೆ ₹40 ಆಗಿದ್ದರೆ 3 l ಹಾಲಿನ ಬೆಲೆ ಎಷ್ಟು?",
+      "ans": "(a) Total capacity of 8 glasses = 8 × 360 = 2880 ml = 2 l 880 ml\n(b) Milk in the bottle initially = 2880 + 120 = 3000 ml = 3 l\n(c) Cost of 3 l milk = 3 × ₹40 = ₹120\n(a) 8 ಲೋಟಗಳ ಒಟ್ಟು ಸಾಮರ್ಥ್ಯ = 8 × 360 = 2880 ಮಿ.ಲೀ = 2 ಲೀ 880 ಮಿ.ಲೀ\n(b) ಆರಂಭದಲ್ಲಿದ್ದ ಹಾಲು = 2880 + 120 = 3000 ಮಿ.ಲೀ = 3 ಲೀಟರ್\n(c) 3 l ಹಾಲಿನ ಬೆಲೆ = 3 × ₹40 = ₹120",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c8_q48",
+      "chapter": "8. ತೂಕ ಮತ್ತು ಸಾಮರ್ಥ್ಯ (Weight and Capacity)",
+      "type": "la_4m",
+      "marks": 4,
+      "q": "A juice vendor has a 5 l container of orange juice. He fills 250ml glasses for customers.\n(a) How many full glasses can he serve before the container becomes empty?\n(b) If he has already served 10 glasses, how much juice is left?\n(c) If 250 ml of juice is sold at ₹25, how much will he earn by selling 5 l juice?\nಒಂದು ಹಣ್ಣಿನ ರಸ ಮಾರಾಟಗಾರನ ಬಳಿ 5 l ಕಿತ್ತಳೆ ರಸದ ಪಾತ್ರೆ ಇದೆ. ಪ್ರತಿ ಲೋಟ 250ml ಸಾಮರ್ಥ್ಯ ಹೊಂದಿದೆ.\n(a) ಪಾತ್ರೆ ಖಾಲಿಯಾಗುವ ಮೊದಲು ಅವನು ಎಷ್ಟು ಪೂರ್ಣ ಲೋಟಗಳನ್ನು ತುಂಬಿಸಬಹುದು?\n(b) ಅವನು ಈಗಾಗಲೇ 10 ಲೋಟಗಳನ್ನು ತುಂಬಿಸಿದ್ದರೆ ಎಷ್ಟು ಹಣ್ಣಿನ ರಸ ಉಳಿದಿದೆ?\n(c) 250 ml ಹಣ್ಣಿನ ರಸವನ್ನು ₹25 ಕ್ಕೆ ಮಾರಾಟ ಮಾಡಿದರೆ ಅವನು 5 l ಹಣ್ಣಿನ ರಸ ಮಾರಾಟ ಮಾಡುವ ಮೂಲಕ ಎಷ್ಟು ಹಣ ಗಳಿಸುತ್ತಾನೆ?",
+      "ans": "(a) Number of glasses = 5000 ÷ 250 = 20 glasses\n(b) Served in 10 glasses = 10 × 250 = 2500 ml. Juice left = 5000 − 2500 = 2500 ml = 2 l 500 ml\n(c) Total earnings = 20 × ₹25 = ₹500\n(a) ಪೂರ್ಣ ಲೋಟಗಳ ಸಂಖ್ಯೆ = 5000 ÷ 250 = 20 ಲೋಟಗಳು\n(b) 10 ಲೋಟಗಳಿಗೆ ಬಳಸಿದ್ದು = 10 × 250 = 2500 ml. ಉಳಿದ ರಸ = 5000 − 2500 = 2500 ಮಿ.ಲೀ = 2 ಲೀ 500 ಮಿ.ಲೀ\n(c) ಒಟ್ಟು ಗಳಿಕೆ = 20 × ₹25 = ₹500",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    }
+  ]
 }
