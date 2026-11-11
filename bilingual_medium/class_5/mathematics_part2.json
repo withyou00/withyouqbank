@@ -3418,4 +3418,1174 @@
       "diff": "ಸಾಧಾರಣ"
     }
   ]
+{
+  "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+  "questions": [
+    {
+      "id": "c13_q1",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which of the following is a factor of 24?\nಕೆಳಗಿನವುಗಳಲ್ಲಿ 24 ರ ಅಪವರ್ತನ ಯಾವುದು?",
+      "a": "5",
+      "b": "6",
+      "c": "7",
+      "d": "9",
+      "ans": "B) 6",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c13_q2",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which number is a multiple of 9?\n9 ರ ಅಪವರ್ತ್ಯ ಸಂಖ್ಯೆ ಯಾವುದು?",
+      "a": "27",
+      "b": "25",
+      "c": "31",
+      "d": "35",
+      "ans": "A) 27",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c13_q3",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The factors of 15 are\n15 ರ ಅಪವರ್ತನಗಳು ಯಾವುವು?",
+      "a": "1, 3, 5, 15",
+      "b": "1, 5, 10, 15",
+      "c": "1, 2, 3, 15",
+      "d": "3, 6, 9, 15",
+      "ans": "A) 1, 3, 5, 15",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c13_q4",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which number is a common factor of 18 and 24?\n18 ಮತ್ತು 24 ರ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ ಸಂಖ್ಯೆ ಯಾವುದು?",
+      "a": "5",
+      "b": "7",
+      "c": "6",
+      "d": "11",
+      "ans": "C) 6",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q5",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which of these is a prime number?\nಇವುಗಳಲ್ಲಿ ಯಾವುದು ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಯಾಗಿದೆ?",
+      "a": "12",
+      "b": "21",
+      "c": "13",
+      "d": "1",
+      "ans": "C) 13",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q6",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The smallest factor of any number is\nಯಾವುದೇ ಸಂಖ್ಯೆಯ ಅತ್ಯಂತ ಚಿಕ್ಕ ಅಪವರ್ತನ ಯಾವುದು?",
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "The number itself\nಅದೇ ಸಂಖ್ಯೆ",
+      "ans": "B) 1",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q7",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "A factor of 30 is ______.\n30 ರ ಒಂದು ಅಪವರ್ತನ ______.",
+      "ans": "5 (any of 1, 2, 3, 5, 6, 10, 15, 30)\n5 (1, 2, 3, 5, 6, 10, 15, 30 ಇವುಗಳಲ್ಲಿ ಯಾವುದಾದರೂ)",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c13_q8",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "A multiple of 7 is ______.\n7 ರ ಒಂದು ಅಪವರ್ತ್ಯ ______.",
+      "ans": "14 (any of 7, 14, 21, 28, …)\n14 (7, 14, 21, 28, … ಇವುಗಳಲ್ಲಿ ಯಾವುದಾದರೂ)",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c13_q9",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "5 × 6 = 30, so 5 and 6 are ______ of 30.\n5 × 6 = 30, ಆದ್ದರಿಂದ 5 ಮತ್ತು 6 ಇವು 30 ರ ______ ಆಗಿವೆ.",
+      "ans": "factors\nಅಪವರ್ತನಗಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q10",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "30 is a ______ of 5.\n30 ಎಂಬುದು 5 ರ ______ ಆಗಿದೆ.",
+      "ans": "multiple\nಅಪವರ್ತ್ಯ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q11_a",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "There are 12 apples. Make equal groups.\n12 ಸೇಬುಗಳಿವೆ. ಅವುಗಳನ್ನು ಸಮಾನ ಗುಂಪುಗಳಾಗಿ ಮಾಡಿ.\nHow many groups of 2 can be made?\n2 ಸೇಬುಗಳಿರುವ ಎಷ್ಟು ಗುಂಪುಗಳನ್ನು ಮಾಡಬಹುದು?",
+      "ans": "6",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q11_b",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "There are 12 apples. Make equal groups.\n12 ಸೇಬುಗಳಿವೆ. ಅವುಗಳನ್ನು ಸಮಾನ ಗುಂಪುಗಳಾಗಿ ಮಾಡಿ.\nHow many groups of 3 can be made?\n3 ಸೇಬುಗಳಿರುವ ಎಷ್ಟು ಗುಂಪುಗಳನ್ನು ಮಾಡಬಹುದು?",
+      "ans": "4",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q11_c",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "There are 12 apples. Make equal groups.\n12 ಸೇಬುಗಳಿವೆ. ಅವುಗಳನ್ನು ಸಮಾನ ಗುಂಪುಗಳಾಗಿ ಮಾಡಿ.\nWhich numbers are factors of 12?\n12 ರ ಅಪವರ್ತನಗಳು ಯಾವ ಸಂಖ್ಯೆಗಳು?",
+      "ans": "1, 2, 3, 4, 6, 12",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q13_a",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "There are 12 stars.\n12 ನಕ್ಷತ್ರಗಳಿವೆ.\nIs 4 a factor of 12?\n4 ಎಂಬುದು 12 ರ ಅಪವರ್ತನವೇ?",
+      "ans": "Yes\nಹೌದು",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q13_b",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "There are 12 stars.\n12 ನಕ್ಷತ್ರಗಳಿವೆ.\nHow many groups of 4 stars can be made?\n4 ನಕ್ಷತ್ರಗಳ ಎಷ್ಟು ಸಮಾನ ಗುಂಪುಗಳನ್ನು ಮಾಡಬಹುದು?",
+      "ans": "3",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q14_a",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "There are 15 balloons.\n15 ಬಲೂನುಗಳಿವೆ.\nWrite any three factors of 15.\n15 ರ ಯಾವುದೇ ಮೂರು ಅಪವರ್ತನಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "ans": "1, 3, 5 (15 is also a factor)\n1, 3, 5 (15 ಕೂಡ ಅಪವರ್ತನ)",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q14_b",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "There are 15 balloons.\n15 ಬಲೂನುಗಳಿವೆ.\nIs 30 a multiple of 15?\n30 ಎಂಬುದು 15 ರ ಅಪವರ್ತ್ಯವೇ?",
+      "ans": "Yes (15 × 2 = 30)\nಹೌದು (15 × 2 = 30)",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q15_a",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "There are 12 chocolates shared equally among children.\n12 ಚಾಕೊಲೇಟ್‌ಗಳನ್ನು ಮಕ್ಕಳಿಗೆ ಸಮಾನವಾಗಿ ಹಂಚಲಾಗಿದೆ.\nWrite any two factors of 12.\n12 ರ ಯಾವುದೇ ಎರಡು ಅಪವರ್ತನಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "ans": "1 and 2 (any two of 1, 2, 3, 4, 6, 12)\n1 ಮತ್ತು 2 (1, 2, 3, 4, 6, 12 ರಲ್ಲಿ ಯಾವುದಾದರೂ ಎರಡು)",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q15_b",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "There are 12 chocolates shared equally among children.\n12 ಚಾಕೊಲೇಟ್‌ಗಳನ್ನು ಮಕ್ಕಳಿಗೆ ಸಮಾನವಾಗಿ ಹಂಚಲಾಗಿದೆ.\nWrite the next multiple of 12 after 24.\n24 ರ ನಂತರ ಬರುವ 12 ರ ಮುಂದಿನ ಅಪವರ್ತ್ಯ ಬರೆಯಿರಿ.",
+      "ans": "36",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q16_a",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Find 5 common multiples of the pair of numbers:\nಜೋಡಿ ಸಂಖ್ಯೆಗಳ 5 ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:\n5 and 8\n5 ಮತ್ತು 8",
+      "ans": "40, 80, 120, 160, 200",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q16_b",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Find 5 common multiples of the pair of numbers:\nಜೋಡಿ ಸಂಖ್ಯೆಗಳ 5 ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:\n8 and 12\n8 ಮತ್ತು 12",
+      "ans": "24, 48, 72, 96, 120",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q16_c",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Find 5 common multiples of the pair of numbers:\nಜೋಡಿ ಸಂಖ್ಯೆಗಳ 5 ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:\n9 and 12\n9 ಮತ್ತು 12",
+      "ans": "36, 72, 108, 144, 180",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q16_d",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Find 5 common multiples of the pair of numbers:\nಜೋಡಿ ಸಂಖ್ಯೆಗಳ 5 ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:\n3 and 9\n3 ಮತ್ತು 9",
+      "ans": "9, 18, 27, 36, 45",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q17_a",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Make arrays for the number and write all its factors:\nಸಂಖ್ಯೆಗೆ ಜೋಡಣೆ ಮಾಡಿ ಅದರ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳನ್ನು ಬರೆಯಿರಿ:\n14",
+      "ans": "1, 2, 7, 14",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q17_b",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Make arrays for the number and write all its factors:\nಸಂಖ್ಯೆಗೆ ಜೋಡಣೆ ಮಾಡಿ ಅದರ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳನ್ನು ಬರೆಯಿರಿ:\n32",
+      "ans": "1, 2, 4, 8, 16, 32",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q17_c",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Make arrays for the number and write all its factors:\nಸಂಖ್ಯೆಗೆ ಜೋಡಣೆ ಮಾಡಿ ಅದರ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳನ್ನು ಬರೆಯಿರಿ:\n37",
+      "ans": "1, 37",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q17_d",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Make arrays for the number and write all its factors:\nಸಂಖ್ಯೆಗೆ ಜೋಡಣೆ ಮಾಡಿ ಅದರ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳನ್ನು ಬರೆಯಿರಿ:\n25",
+      "ans": "1, 5, 25",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q18",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Food is kept on stone number 64 at the end of a stone path. Robby the rabbit jumps 4 stones each time. Deeku the deer jumps 6 stones each time. Both start at 0. Will both Robby and Deeku reach the food? Explain your answer.\nಕಲ್ಲಿನ ರಸ್ತೆಯ ಕೊನೆಯಲ್ಲಿ 64 ನೇ ಕಲ್ಲಿನ ಮೇಲೆ ಆಹಾರವಿದೆ. ರಾಬಿ ಮೊಲ ಪ್ರತಿ ಬಾರಿ 4 ಹೆಜ್ಜೆ ಜಿಗಿಯುತ್ತದೆ. ಡೀಕು ಜಿಂಕೆ ಪ್ರತಿ ಬಾರಿ 6 ಹೆಜ್ಜೆ ಜಿಗಿಯುತ್ತದೆ. ಎರಡೂ 0 ಇಂದ ಪ್ರಾರಂಭಿಸುತ್ತವೆ. ರಾಬಿ ಮತ್ತು ಡೀಕು ಇಬ್ಬರೂ ಆಹಾರವನ್ನು ತಲುಪುತ್ತಾರೆಯೇ? ನಿಮ್ಮ ಉತ್ತರವನ್ನು ವಿವರಿಸಿ.",
+      "ans": "Robby lands on multiples of 4 (4, 8, 12, …, 60, 64). 64 = 4 × 16, so Robby reaches the food.\nDeeku lands on multiples of 6 (6, 12, …, 60, 66). 64 is not a multiple of 6, so Deeku jumps over the food and does not reach it.\nರಾಬಿ 4 ರ ಅಪವರ್ತ್ಯಗಳ ಮೇಲೆ ಜಿಗಿಯುತ್ತದೆ (4, 8, 12, …, 60, 64). 64 = 4 × 16, ಆದ್ದರಿಂದ ರಾಬಿ ಆಹಾರವನ್ನು ತಲುಪುತ್ತದೆ.\nಡೀಕು 6 ರ ಅಪವರ್ತ್ಯಗಳ ಮೇಲೆ ಜಿಗಿಯುತ್ತದೆ (6, 12, …, 60, 66). 64 ಎಂಬುದು 6 ರ ಅಪವರ್ತ್ಯವಲ್ಲ, ಆದ್ದರಿಂದ ಡೀಕು ಆಹಾರವನ್ನು ದಾಟಿ ಹೋಗುತ್ತದೆ, ತಲುಪುವುದಿಲ್ಲ.",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q19",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "la_4m",
+      "marks": 4,
+      "q": "Let us find the common factors of 24 and 36. All jumps start from 0.\n(a) Can we jump by 2 steps to reach both 24 and 36? Is 2 a common factor of 24 and 36?\n(b) Can we jump by 3 steps to reach both 24 and 36? Is 3 a common factor?\n(c) Can we jump by 4 steps to reach both 24 and 36? Is 4 a common factor?\n(d) What other step jumps can reach both 24 and 36?\n(e) How many common factors do 24 and 36 have? List them.\n(f) What about jumping by 1 step each time?\n24 ಮತ್ತು 36 ರ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯೋಣ. ಎಲ್ಲಾ ಜಿಗಿತಗಳು 0 ಇಂದ ಪ್ರಾರಂಭವಾಗುತ್ತವೆ.\n(a) 2 ಹೆಜ್ಜೆ ಜಿಗಿದು 24 ಮತ್ತು 36 ಎರಡನ್ನೂ ತಲುಪಬಹುದೇ? 2 ಎಂಬುದು 24 ಮತ್ತು 36 ರ ಸಾಮಾನ್ಯ ಅಪವರ್ತನವೇ?\n(b) 3 ಹೆಜ್ಜೆ ಜಿಗಿದು 24 ಮತ್ತು 36 ಎರಡನ್ನೂ ತಲುಪಬಹುದೇ? 3 ಸಾಮಾನ್ಯ ಅಪವರ್ತನವೇ?\n(c) 4 ಹೆಜ್ಜೆ ಜಿಗಿದು 24 ಮತ್ತು 36 ಎರಡನ್ನೂ ತಲುಪಬಹುದೇ? 4 ಸಾಮಾನ್ಯ ಅಪವರ್ತನವೇ?\n(d) 24 ಮತ್ತು 36 ಎರಡನ್ನೂ ತಲುಪಲು ಬೇರೆ ಎಷ್ಟು ಹೆಜ್ಜೆಯ ಜಿಗಿತಗಳನ್ನು ಮಾಡಬಹುದು?\n(e) 24 ಮತ್ತು 36 ಕ್ಕೆ ಎಷ್ಟು ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳಿವೆ? ಪಟ್ಟಿ ಮಾಡಿ.\n(f) ಪ್ರತಿ ಬಾರಿ 1 ಹೆಜ್ಜೆ ಜಿಗಿದರೆ ಹೇಗೆ?",
+      "ans": "(a) Yes, 2 is a common factor.\n(b) Yes, 3 is a common factor.\n(c) Yes, 4 is a common factor.\n(d) Jumps of 6 and 12 steps.\n(e) 6 common factors: 1, 2, 3, 4, 6, 12\n(f) Yes, jumping by 1 reaches both, because 1 is a factor of every number.\n(a) ಹೌದು, 2 ಸಾಮಾನ್ಯ ಅಪವರ್ತನ.\n(b) ಹೌದು, 3 ಸಾಮಾನ್ಯ ಅಪವರ್ತನ.\n(c) ಹೌದು, 4 ಸಾಮಾನ್ಯ ಅಪವರ್ತನ.\n(d) 6 ಮತ್ತು 12 ಹೆಜ್ಜೆಗಳ ಜಿಗಿತ.\n(e) 6 ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳು: 1, 2, 3, 4, 6, 12\n(f) ಹೌದು, 1 ಹೆಜ್ಜೆ ಜಿಗಿದರೂ ಎರಡನ್ನೂ ತಲುಪಬಹುದು, ಏಕೆಂದರೆ 1 ಎಲ್ಲಾ ಸಂಖ್ಯೆಗಳ ಅಪವರ್ತನ.",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q21",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "What are the common factors of 12 and 13?\n12 ಮತ್ತು 13 ರ ಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳು ಯಾವುವು?",
+      "ans": "Factors of 12: 1, 2, 3, 4, 6, 12\nFactors of 13: 1, 13\nCommon factor = 1\n12 ರ ಅಪವರ್ತನಗಳು: 1, 2, 3, 4, 6, 12\n13 ರ ಅಪವರ್ತನಗಳು: 1, 13\nಸಾಮಾನ್ಯ ಅಪವರ್ತನ = 1",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q22",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Starting from 0, which numbers up to 24 can be reached by jumps of 4 steps? 4 is a common factor of which numbers?\n0 ಇಂದ ಪ್ರಾರಂಭಿಸಿ ಪ್ರತಿ ಬಾರಿ 4 ಹೆಜ್ಜೆ ಜಿಗಿದರೆ 24 ರವರೆಗೆ ಯಾವ ಸಂಖ್ಯೆಗಳನ್ನು ತಲುಪಬಹುದು? 4 ಯಾವ ಸಂಖ್ಯೆಗಳ ಸಾಮಾನ್ಯ ಅಪವರ್ತನವಾಗಿದೆ?",
+      "ans": "4, 8, 12, 16, 20, 24\n4 is a common factor of these numbers.\n4, 8, 12, 16, 20, 24\n4 ಈ ಸಂಖ್ಯೆಗಳ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ.",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q23_a",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Find the common factors of:\nಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:\n12 and 16\n12 ಮತ್ತು 16",
+      "ans": "1, 2, 4",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q23_b",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Find the common factors of:\nಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:\n8 and 12\n8 ಮತ್ತು 12",
+      "ans": "1, 2, 4",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q23_c",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Find the common factors of:\nಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:\n6 and 27\n6 ಮತ್ತು 27",
+      "ans": "1, 3",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q23_d",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Find the common factors of:\nಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:\n2 and 9\n2 ಮತ್ತು 9",
+      "ans": "1",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q23_e",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Find the common factors of:\nಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:\n3 and 5\n3 ಮತ್ತು 5",
+      "ans": "1",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q23_f",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Find the common factors of:\nಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:\n4 and 16\n4 ಮತ್ತು 16",
+      "ans": "1, 2, 4",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q23_g",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Find the common factors of:\nಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:\n20 and 5\n20 ಮತ್ತು 5",
+      "ans": "1, 5",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q23_h",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Find the common factors of:\nಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:\n9 and 21\n9 ಮತ್ತು 21",
+      "ans": "1, 3",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q23_i",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Find the common factors of:\nಸಾಮಾನ್ಯ ಅಪವರ್ತನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ:\n12 and 15\n12 ಮತ್ತು 15",
+      "ans": "1, 3",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q24",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "State True (T) or False (F):\nಸರಿ (T) ಅಥವಾ ತಪ್ಪು (F) ಎಂದು ತಿಳಿಸಿ:\nFactors of even numbers must be even.\nಸಮ ಸಂಖ್ಯೆಗಳ ಅಪವರ್ತನಗಳು ಕಡ್ಡಾಯವಾಗಿ ಸಮ ಸಂಖ್ಯೆಗಳೇ ಆಗಿರಬೇಕು.",
+      "ans": "False (F) – e.g. 1 and 3 are odd factors of 6\nತಪ್ಪು – ಉದಾ. 1 ಮತ್ತು 3 ಎಂಬ ಬೆಸ ಸಂಖ್ಯೆಗಳು 6 ರ ಅಪವರ್ತನಗಳು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q25",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "State True (T) or False (F):\nಸರಿ (T) ಅಥವಾ ತಪ್ಪು (F) ಎಂದು ತಿಳಿಸಿ:\nMultiples of odd numbers cannot be even.\nಬೆಸ ಸಂಖ್ಯೆಗಳ ಅಪವರ್ತ್ಯಗಳು ಸಮ ಸಂಖ್ಯೆಗಳಾಗಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+      "ans": "False (F) – e.g. 3 × 2 = 6 is even\nತಪ್ಪು – ಉದಾ. 3 × 2 = 6 ಸಮ ಸಂಖ್ಯೆ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q26",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "State True (T) or False (F):\nಸರಿ (T) ಅಥವಾ ತಪ್ಪು (F) ಎಂದು ತಿಳಿಸಿ:\nOne of the common multiples of two consecutive numbers is their product.\nಸತತ ಎರಡು ಸಂಖ್ಯೆಗಳ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳಲ್ಲಿ ಒಂದು ಅವುಗಳ ಗುಣಲಬ್ಧವಾಗಿದೆ.",
+      "ans": "True (T)\nಸರಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q27",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "State True (T) or False (F):\nಸರಿ (T) ಅಥವಾ ತಪ್ಪು (F) ಎಂದು ತಿಳಿಸಿ:\nThe only common factor of any two consecutive numbers is 1.\nಯಾವುದೇ ಎರಡು ಸತತ ಸಂಖ್ಯೆಗಳ ಏಕೈಕ ಸಾಮಾನ್ಯ ಅಪವರ್ತನ 1 ಆಗಿರುತ್ತದೆ.",
+      "ans": "True (T)\nಸರಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c13_q28",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "State True (T) or False (F):\nಸರಿ (T) ಅಥವಾ ತಪ್ಪು (F) ಎಂದು ತಿಳಿಸಿ:\n0 cannot be a factor of any number.\n0 ಯಾವುದೇ ಸಂಖ್ಯೆಯ ಅಪವರ್ತನವಾಗಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+      "ans": "True (T)\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c13_q29",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "la_4m",
+      "marks": 4,
+      "q": "Sher Khan goes hunting every 3rd day. Bagheera the panther goes hunting every 5th day. If both start on the same day, on which days will they hunt together (within 45 days)?\nಶೇರ್ ಖಾನ್ ಪ್ರತಿ 3ನೇ ದಿನ ಬೇಟೆಗೆ ಹೋಗುತ್ತದೆ. ಚಿರತೆ ಬಘೀರಾ ಪ್ರತಿ 5ನೇ ದಿನ ಬೇಟೆಗೆ ಹೋಗುತ್ತದೆ. ಇವೆರಡೂ ಒಂದೇ ದಿನ ಪ್ರಾರಂಭಿಸಿದರೆ, (45 ದಿನಗಳೊಳಗೆ) ಯಾವ ಯಾವ ದಿನಗಳಲ್ಲಿ ಒಟ್ಟಿಗೆ ಬೇಟೆಗೆ ಹೋಗುತ್ತವೆ?",
+      "ans": "Sher Khan: 3, 6, 9, 12, 15, …\nBagheera: 5, 10, 15, 20, 25, 30, …\nCommon multiples of 3 and 5: 15, 30, 45\nThey hunt together on the 15th, 30th and 45th days.\nಶೇರ್ ಖಾನ್: 3, 6, 9, 12, 15, …\nಬಘೀರಾ: 5, 10, 15, 20, 25, 30, …\n3 ಮತ್ತು 5 ರ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯಗಳು: 15, 30, 45\nಅವು 15, 30 ಮತ್ತು 45ನೇ ದಿನಗಳಲ್ಲಿ ಒಟ್ಟಿಗೆ ಬೇಟೆಗೆ ಹೋಗುತ್ತವೆ.",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q30",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "la_4m",
+      "marks": 4,
+      "q": "On a number trail, Sher Khan's house is on number 25 and Baloo the bear's house is on number 30. Mowgli starts at 0 and wants to reach Baloo's house without landing on Sher Khan's house. How long (in steps) could each jump be?\nಒಂದು ಸಂಖ್ಯಾ ಹಾದಿಯಲ್ಲಿ ಶೇರ್ ಖಾನ್‌ನ ಮನೆ 25ನೇ ಸಂಖ್ಯೆಯಲ್ಲಿ ಮತ್ತು ಕರಡಿ ಬಲೂನ ಮನೆ 30ನೇ ಸಂಖ್ಯೆಯಲ್ಲಿದೆ. ಮೋಗ್ಲಿ 0 ಇಂದ ಹೊರಟು ಶೇರ್ ಖಾನ್‌ನ ಮನೆಯ ಮೇಲೆ ಕಾಲಿಡದೆ ಬಲೂನ ಮನೆ ತಲುಪಲು ಬಯಸುತ್ತಾನೆ. ಪ್ರತಿ ಜಿಗಿತವು ಎಷ್ಟು ಹೆಜ್ಜೆಗಳಷ್ಟು ಇರಬಹುದು?",
+      "ans": "Factors of 30: 1, 2, 3, 5, 6, 10, 15, 30\nFactors of 25: 1, 5, 25\nJumps of 1 or 5 would land on 25, so remove them.\nEach jump could be 2, 3, 6, 10, 15 or 30 steps.\n30 ರ ಅಪವರ್ತನಗಳು: 1, 2, 3, 5, 6, 10, 15, 30\n25 ರ ಅಪವರ್ತನಗಳು: 1, 5, 25\n1 ಅಥವಾ 5 ಹೆಜ್ಜೆ ಜಿಗಿದರೆ 25 ರ ಮೇಲೆ ಇಳಿಯುತ್ತಾನೆ, ಆದ್ದರಿಂದ ಅವನ್ನು ತೆಗೆಯಬೇಕು.\nಪ್ರತಿ ಜಿಗಿತ 2, 3, 6, 10, 15 ಅಥವಾ 30 ಹೆಜ್ಜೆ ಇರಬಹುದು.",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q31",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "la_4m",
+      "marks": 4,
+      "q": "Sort the numbers 90, 22, 38, 30, 75, 45, 66, 78, 62, 40, 84, 56, 25, 95, 55 into:\n(a) Divisible by 2 only (not by 5)\n(b) Divisible by 5 only (not by 2)\n(c) Divisible by 2, 5 and 10\n90, 22, 38, 30, 75, 45, 66, 78, 62, 40, 84, 56, 25, 95, 55 ಸಂಖ್ಯೆಗಳನ್ನು ವರ್ಗೀಕರಿಸಿ:\n(a) 2 ರಿಂದ ಮಾತ್ರ ಭಾಗವಾಗುವ ಸಂಖ್ಯೆಗಳು (5 ರಿಂದ ಅಲ್ಲ)\n(b) 5 ರಿಂದ ಮಾತ್ರ ಭಾಗವಾಗುವ ಸಂಖ್ಯೆಗಳು (2 ರಿಂದ ಅಲ್ಲ)\n(c) 2, 5 ಮತ್ತು 10 ರಿಂದ ಭಾಗವಾಗುವ ಸಂಖ್ಯೆಗಳು",
+      "ans": "(a) 22, 38, 66, 78, 62, 84, 56\n(b) 75, 45, 25, 95, 55\n(c) 90, 30, 40\n(a) 22, 38, 66, 78, 62, 84, 56\n(b) 75, 45, 25, 95, 55\n(c) 90, 30, 40",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c13_q32",
+      "chapter": "13. ಪ್ರಾಣಿ ಜಿಗಿತಗಳು (Animal Jumps)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Starting from 0, a rabbit jumps 5 steps at a time. In how many jumps does it reach 35?\n0 ಇಂದ ಆರಂಭಿಸಿ ಮೊಲವು ಪ್ರತಿ ಬಾರಿ 5 ಹೆಜ್ಜೆಗಳನ್ನು ಜಿಗಿಯುತ್ತದೆ. 35 ಅನ್ನು ತಲುಪಲು ಅದಕ್ಕೆ ಎಷ್ಟು ಜಿಗಿತಗಳು ಬೇಕಾಗುತ್ತವೆ?",
+      "ans": "35 ÷ 5 = 7 jumps\n35 ÷ 5 = 7 ಜಿಗಿತಗಳು",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    }
+  ]
+{
+  "chapter": "14. ನಕ್ಷೆಗಳು ಮತ್ತು ಸ್ಥಳಗಳು (Maps and Locations)",
+  "questions": [
+    {
+      "id": "c14_q1",
+      "chapter": "14. ನಕ್ಷೆಗಳು ಮತ್ತು ಸ್ಥಳಗಳು (Maps and Locations)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "What are the four main directions?\nನಾಲ್ಕು ಮುಖ್ಯ ದಿಕ್ಕುಗಳು ಯಾವುವು?",
+      "ans": "North, South, East and West.\nಉತ್ತರ, ದಕ್ಷಿಣ, ಪೂರ್ವ ಮತ್ತು ಪಶ್ಚಿಮ.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c14_q2",
+      "chapter": "14. ನಕ್ಷೆಗಳು ಮತ್ತು ಸ್ಥಳಗಳು (Maps and Locations)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "What is a map?\nನಕ್ಷೆ ಎಂದರೆ ಏನು?",
+      "ans": "A map is a drawing of a place as seen from above.\nಮೇಲಿನಿಂದ ನೋಡಿದಂತೆ ಒಂದು ಸ್ಥಳವನ್ನು ಚಿತ್ರಿಸಿರುವುದು ನಕ್ಷೆ.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c14_q3",
+      "chapter": "14. ನಕ್ಷೆಗಳು ಮತ್ತು ಸ್ಥಳಗಳು (Maps and Locations)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "What is a compass used for?\nದಿಕ್ಸೂಚಿಯನ್ನು ಯಾವುದಕ್ಕೆ ಬಳಸುತ್ತಾರೆ?",
+      "ans": "A compass is used to find directions.\nದಿಕ್ಕುಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು ದಿಕ್ಸೂಚಿಯನ್ನು ಬಳಸುತ್ತಾರೆ.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c14_q4",
+      "chapter": "14. ನಕ್ಷೆಗಳು ಮತ್ತು ಸ್ಥಳಗಳು (Maps and Locations)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "What are symbols on a map?\nನಕ್ಷೆಯ ಸಂಕೇತಗಳು ಎಂದರೆ ಏನು?",
+      "ans": "Symbols are signs that represent places or objects on a map.\nನಕ್ಷೆಯಲ್ಲಿ ಸ್ಥಳಗಳು ಅಥವಾ ವಸ್ತುಗಳನ್ನು ಸೂಚಿಸುವ ಚಿಹ್ನೆಗಳೇ ಸಂಕೇತಗಳು.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c14_q5",
+      "chapter": "14. ನಕ್ಷೆಗಳು ಮತ್ತು ಸ್ಥಳಗಳು (Maps and Locations)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "What is a route map?\nಮಾರ್ಗ ನಕ್ಷೆ ಎಂದರೆ ಏನು?",
+      "ans": "A route map shows the way from one place to another.\nಒಂದು ಸ್ಥಳದಿಂದ ಮತ್ತೊಂದು ಸ್ಥಳಕ್ಕೆ ಹೋಗುವ ದಾರಿಯನ್ನು ತೋರಿಸುವುದು ಮಾರ್ಗ ನಕ್ಷೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c14_q6",
+      "chapter": "14. ನಕ್ಷೆಗಳು ಮತ್ತು ಸ್ಥಳಗಳು (Maps and Locations)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Why do we use maps?\nನಾವು ನಕ್ಷೆಯನ್ನು ಏಕೆ ಬಳಸುತ್ತೇವೆ?",
+      "ans": "We use maps to locate places and find directions.\nಸ್ಥಳಗಳನ್ನು ಗುರುತಿಸಲು ಮತ್ತು ದಿಕ್ಕುಗಳನ್ನು ತಿಳಿಯಲು ನಕ್ಷೆಯನ್ನು ಬಳಸುತ್ತೇವೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c14_q7",
+      "chapter": "14. ನಕ್ಷೆಗಳು ಮತ್ತು ಸ್ಥಳಗಳು (Maps and Locations)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Name the four intermediate directions.\nನಾಲ್ಕು ಉಪದಿಕ್ಕುಗಳ ಹೆಸರನ್ನು ಬರೆಯಿರಿ.",
+      "ans": "North-East, North-West, South-East, South-West.\nಈಶಾನ್ಯ, ವಾಯುವ್ಯ, ಆಗ್ನೇಯ, ನೈಋತ್ಯ.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c14_q8",
+      "chapter": "14. ನಕ್ಷೆಗಳು ಮತ್ತು ಸ್ಥಳಗಳು (Maps and Locations)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "What is the importance of a map key?\nನಕ್ಷೆಯ ಸಂಕೇತಪಟ್ಟಿ (Key) ಏಕೆ ಮುಖ್ಯ?",
+      "ans": "It explains the meaning of the symbols used on the map.\nನಕ್ಷೆಯಲ್ಲಿರುವ ಸಂಕೇತಗಳ ಅರ್ಥವನ್ನು ಅದು ತಿಳಿಸುತ್ತದೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c14_q10",
+      "chapter": "14. ನಕ್ಷೆಗಳು ಮತ್ತು ಸ್ಥಳಗಳು (Maps and Locations)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Name the instrument used to find directions.\nದಿಕ್ಕುಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು ಬಳಸುವ ಸಾಧನದ ಹೆಸರನ್ನು ಬರೆಯಿರಿ.",
+      "ans": "Compass\nದಿಕ್ಸೂಚಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c14_q12",
+      "chapter": "14. ನಕ್ಷೆಗಳು ಮತ್ತು ಸ್ಥಳಗಳು (Maps and Locations)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "In which direction does the Sun rise?\nಸೂರ್ಯ ಯಾವ ದಿಕ್ಕಿನಲ್ಲಿ ಉದಯಿಸುತ್ತಾನೆ?",
+      "ans": "East\nಪೂರ್ವ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c14_q13",
+      "chapter": "14. ನಕ್ಷೆಗಳು ಮತ್ತು ಸ್ಥಳಗಳು (Maps and Locations)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "What do maps help us to do?\nನಕ್ಷೆಗಳು ನಮಗೆ ಏನು ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ?",
+      "ans": "Maps help us find places and directions.\nಸ್ಥಳಗಳು ಮತ್ತು ದಿಕ್ಕುಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು ನಕ್ಷೆಗಳು ಸಹಾಯ ಮಾಡುತ್ತವೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c14_q14",
+      "chapter": "14. ನಕ್ಷೆಗಳು ಮತ್ತು ಸ್ಥಳಗಳು (Maps and Locations)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "What is the use of a map?\nನಕ್ಷೆಯ ಉಪಯೋಗವೇನು?",
+      "ans": "A map is used to locate places.\nಸ್ಥಳಗಳನ್ನು ಗುರುತಿಸಲು ನಕ್ಷೆ ಉಪಯೋಗವಾಗುತ್ತದೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c14_q20",
+      "chapter": "14. ನಕ್ಷೆಗಳು ಮತ್ತು ಸ್ಥಳಗಳು (Maps and Locations)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "From the school, move 3 squares East, then 2 squares North, then 1 square West to reach the library. Where is the library from the school?\nಶಾಲೆಯಿಂದ ಪೂರ್ವಕ್ಕೆ 3 ಚೌಕ, ನಂತರ ಉತ್ತರಕ್ಕೆ 2 ಚೌಕ, ನಂತರ ಪಶ್ಚಿಮಕ್ಕೆ 1 ಚೌಕ ಸಾಗಿದರೆ ಗ್ರಂಥಾಲಯ ಸಿಗುತ್ತದೆ. ಶಾಲೆಯಿಂದ ಗ್ರಂಥಾಲಯ ಯಾವ ಕಡೆ ಇದೆ?",
+      "ans": "East: 3 − 1 = 2 squares; North: 2 squares\nThe library is 2 squares East and 2 squares North of the school (towards the North-East).\nಪೂರ್ವ: 3 − 1 = 2 ಚೌಕ; ಉತ್ತರ: 2 ಚೌಕ\nಗ್ರಂಥಾಲಯವು ಶಾಲೆಯಿಂದ ಪೂರ್ವಕ್ಕೆ 2 ಚೌಕ ಮತ್ತು ಉತ್ತರಕ್ಕೆ 2 ಚೌಕ (ಈಶಾನ್ಯ ದಿಕ್ಕಿನಲ್ಲಿ) ಇದೆ.",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಸಾಧಾರಣ"
+    }
+  ]
+{
+  "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+  "questions": [
+    {
+      "id": "c15_q1",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Information collected is called ______.\nಸಂಗ್ರಹಿಸಿದ ಮಾಹಿತಿಯನ್ನು ______ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "a": "Story\nಕಥೆ",
+      "b": "Data\nದತ್ತಾಂಶ",
+      "c": "Poem\nಕವಿತೆ",
+      "d": "Game\nಆಟ",
+      "ans": "B) Data\nದತ್ತಾಂಶ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q2",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which picture helps us understand data easily?\nದತ್ತಾಂಶವನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಯಾವುದು ಸಹಾಯ ಮಾಡುತ್ತದೆ?",
+      "a": "Map\nನಕ್ಷೆ",
+      "b": "Picture graph (Pictograph)\nಚಿತ್ರಲೇಖ (ಪಿಕ್ಟೋಗ್ರಾಫ್)",
+      "c": "Letter\nಪತ್ರ",
+      "d": "Story\nಕಥೆ",
+      "ans": "B) Picture graph (Pictograph)\nಚಿತ್ರಲೇಖ (ಪಿಕ್ಟೋಗ್ರಾಫ್)",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q3",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which question can be answered using a pictograph?\nಪಿಕ್ಟೋಗ್ರಾಫ್ ಬಳಸಿ ಯಾವ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಬಹುದು?",
+      "a": "What is your name?\nನಿನ್ನ ಹೆಸರು ಏನು?",
+      "b": "How many hours do you watch TV?\nನೀವು ಎಷ್ಟು ಗಂಟೆ ಟಿ.ವಿ. ನೋಡುತ್ತೀರಿ?",
+      "c": "What is your favourite song?\nನಿಮ್ಮ ನೆಚ್ಚಿನ ಹಾಡು ಯಾವುದು?",
+      "d": "Where do you live?\nನೀವು ಎಲ್ಲಿರುವಿರಿ?",
+      "ans": "B) How many hours do you watch TV?\nನೀವು ಎಷ್ಟು ಗಂಟೆ ಟಿ.ವಿ. ನೋಡುತ್ತೀರಿ?",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q4",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "A pictograph uses ______ to show information.\nಪಿಕ್ಟೋಗ್ರಾಫ್ ಮಾಹಿತಿಯನ್ನು ತೋರಿಸಲು ______ ಬಳಸುತ್ತದೆ.",
+      "a": "Words only\nಪದಗಳು ಮಾತ್ರ",
+      "b": "Numbers only\nಸಂಖ್ಯೆಗಳು ಮಾತ್ರ",
+      "c": "Pictures or symbols\nಚಿತ್ರಗಳು ಅಥವಾ ಸಂಕೇತಗಳು",
+      "d": "Colours only\nಬಣ್ಣಗಳು ಮಾತ್ರ",
+      "ans": "C) Pictures or symbols\nಚಿತ್ರಗಳು ಅಥವಾ ಸಂಕೇತಗಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q5",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Before drawing a pictograph, we should first collect ______.\nಪಿಕ್ಟೋಗ್ರಾಫ್ ರಚಿಸುವ ಮೊದಲು ನಾವು ______ ಸಂಗ್ರಹಿಸಬೇಕು.",
+      "a": "Toys\nಆಟಿಕೆಗಳು",
+      "b": "Books\nಪುಸ್ತಕಗಳು",
+      "c": "Data\nದತ್ತಾಂಶ",
+      "d": "Food\nಆಹಾರ",
+      "ans": "C) Data\nದತ್ತಾಂಶ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q6",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which of these is an example of data?\nಇವುಗಳಲ್ಲಿ ಯಾವುದು ದತ್ತಾಂಶದ ಉದಾಹರಣೆ?",
+      "a": "A poem\nಕವಿತೆ",
+      "b": "Number of students watching TV for 2 hours\n2 ಗಂಟೆಗಳ ಕಾಲ ಟಿ.ವಿ. ನೋಡುವ ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆ",
+      "c": "A story book\nಕಥೆ ಪುಸ್ತಕ",
+      "d": "A drawing\nಚಿತ್ರ",
+      "ans": "B) Number of students watching TV for 2 hours\n2 ಗಂಟೆಗಳ ಕಾಲ ಟಿ.ವಿ. ನೋಡುವ ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q7",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The main purpose of a pictograph is to ______.\nಪಿಕ್ಟೋಗ್ರಾಫ್‌ನ ಮುಖ್ಯ ಉದ್ದೇಶ ______.",
+      "a": "Tell a story\nಕಥೆ ಹೇಳುವುದು",
+      "b": "Draw pictures\nಚಿತ್ರ ಬಿಡಿಸುವುದು",
+      "c": "Show data clearly\nದತ್ತಾಂಶವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುವುದು",
+      "d": "Write a poem\nಕವಿತೆ ಬರೆಯುವುದು",
+      "ans": "C) Show data clearly\nದತ್ತಾಂಶವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತೋರಿಸುವುದು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q8",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "A Child TV Reporter asks questions to ______.\nಮಕ್ಕಳ ಟಿ.ವಿ. ವರದಿಗಾರರು ______ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳುತ್ತಾರೆ.",
+      "a": "Play games\nಆಟ ಆಡುವುದಕ್ಕಾಗಿ",
+      "b": "Collect information\nಮಾಹಿತಿ ಸಂಗ್ರಹಿಸಲು",
+      "c": "Read stories\nಕಥೆ ಓದಲು",
+      "d": "Sing songs\nಹಾಡು ಹಾಡಲು",
+      "ans": "B) Collect information\nಮಾಹಿತಿ ಸಂಗ್ರಹಿಸಲು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q9",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "match",
+      "marks": 5,
+      "q": "Match the following:\nಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "matchPairs": [
+        {
+          "a": "Pictograph\nಚಿತ್ರಲೇಖ",
+          "b": "Shows data through pictures\nಚಿತ್ರಗಳ ಮೂಲಕ ಮಾಹಿತಿ ತೋರಿಸುತ್ತದೆ"
+        },
+        {
+          "a": "Bar graph\nಬಾರ್ ಗ್ರಾಫ್ (ಪಟ್ಟಿ ಚಿತ್ರ)",
+          "b": "Shows data through bars\nಪಟ್ಟಿಗಳ ಮೂಲಕ ಮಾಹಿತಿ ತೋರಿಸುತ್ತದೆ"
+        },
+        {
+          "a": "Data\nದತ್ತಾಂಶ",
+          "b": "Information collected\nಮಾಹಿತಿ ಸಂಗ್ರಹ"
+        },
+        {
+          "a": "Tally marks\nಎಣಿಕೆ ಗುರುತು",
+          "b": "Used for counting\nಎಣಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ"
+        },
+        {
+          "a": "Scale\nಅಳತೆಮಾನ",
+          "b": "Value represented by one unit\nಒಂದು ಘಟಕದ ಮೌಲ್ಯ"
+        }
+      ],
+      "ans": "(1) ➔ Shows data through pictures / ಚಿತ್ರಗಳ ಮೂಲಕ ಮಾಹಿತಿ ತೋರಿಸುತ್ತದೆ | (2) ➔ Shows data through bars / ಪಟ್ಟಿಗಳ ಮೂಲಕ ಮಾಹಿತಿ ತೋರಿಸುತ್ತದೆ | (3) ➔ Information collected / ಮಾಹಿತಿ ಸಂಗ್ರಹ | (4) ➔ Used for counting / ಎಣಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ | (5) ➔ Value represented by one unit / ಒಂದು ಘಟಕದ ಮೌಲ್ಯ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q10",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "What is data? Give one example.\nದತ್ತಾಂಶ (Data) ಎಂದರೇನು? ಒಂದು ಉದಾಹರಣೆ ನೀಡಿ.",
+      "ans": "Data is a collection of facts or information. Example: marks of students.\nದತ್ತಾಂಶ ಎಂದರೆ ಮಾಹಿತಿ ಅಥವಾ ಸತ್ಯಾಂಶಗಳ ಸಂಗ್ರಹ. ಉದಾಹರಣೆ: ವಿದ್ಯಾರ್ಥಿಗಳ ಅಂಕಗಳು.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q11",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Why do we collect data? Write any two reasons.\nನಾವು ದತ್ತಾಂಶವನ್ನು ಏಕೆ ಸಂಗ್ರಹಿಸುತ್ತೇವೆ? ಯಾವುದೇ ಎರಡು ಕಾರಣಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "ans": "(i) To organise information. (ii) To compare and make decisions.\n(i) ಮಾಹಿತಿಯನ್ನು ವ್ಯವಸ್ಥಿತಗೊಳಿಸಲು. (ii) ಹೋಲಿಕೆ ಮಾಡಿ ನಿರ್ಧಾರ ತೆಗೆದುಕೊಳ್ಳಲು.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q12",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "What are primary data and secondary data?\nಪ್ರಾಥಮಿಕ ದತ್ತಾಂಶ ಮತ್ತು ದ್ವಿತೀಯಕ ದತ್ತಾಂಶ ಎಂದರೇನು?",
+      "ans": "Primary data: collected directly by us.\nSecondary data: collected by others and used by us.\nಪ್ರಾಥಮಿಕ ದತ್ತಾಂಶ: ನಾವು ನೇರವಾಗಿ ಸಂಗ್ರಹಿಸುವ ದತ್ತಾಂಶ.\nದ್ವಿತೀಯಕ ದತ್ತಾಂಶ: ಇತರರು ಸಂಗ್ರಹಿಸಿದ, ನಾವು ಬಳಸುವ ದತ್ತಾಂಶ.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q13",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "What is data collection? Mention any two methods of collecting data.\nದತ್ತಾಂಶ ಸಂಗ್ರಹಣೆ ಎಂದರೇನು? ದತ್ತಾಂಶ ಸಂಗ್ರಹಿಸುವ ಯಾವುದೇ ಎರಡು ವಿಧಾನಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "ans": "Data collection means gathering information. Methods: observation and survey.\nದತ್ತಾಂಶ ಸಂಗ್ರಹಣೆ ಎಂದರೆ ಮಾಹಿತಿಯನ್ನು ಸಂಗ್ರಹಿಸುವುದು. ವಿಧಾನಗಳು: ವೀಕ್ಷಣೆ ಮತ್ತು ಸಮೀಕ್ಷೆ.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q14",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "What is a tally mark? Why is it used?\nಟ್ಯಾಲಿ ಗುರುತು (Tally mark) ಎಂದರೇನು? ಅದನ್ನು ಏಕೆ ಬಳಸುತ್ತಾರೆ?",
+      "ans": "A tally mark is a counting mark. It is used to count and record data easily.\nಟ್ಯಾಲಿ ಗುರುತು ಎಣಿಕೆಯ ಗುರುತು. ದತ್ತಾಂಶವನ್ನು ಸುಲಭವಾಗಿ ಎಣಿಸಿ ದಾಖಲಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q15",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Write any two advantages of organising data in a table.\nದತ್ತಾಂಶವನ್ನು ಕೋಷ್ಟಕದಲ್ಲಿ ಜೋಡಿಸುವುದರಿಂದಾಗುವ ಯಾವುದೇ ಎರಡು ಪ್ರಯೋಜನಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "ans": "(i) Easy to read. (ii) Easy to compare.\n(i) ಓದಲು ಸುಲಭ. (ii) ಹೋಲಿಸಲು ಸುಲಭ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q16",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Why is it important to organise data before drawing a pictograph or bar graph?\nಪಿಕ್ಟೋಗ್ರಾಫ್ ಅಥವಾ ಬಾರ್ ಗ್ರಾಫ್ ರಚಿಸುವ ಮೊದಲು ದತ್ತಾಂಶವನ್ನು ಏಕೆ ಜೋಡಿಸಬೇಕು?",
+      "ans": "Organised data helps us draw correct and neat graphs.\nದತ್ತಾಂಶವನ್ನು ವ್ಯವಸ್ಥಿತಗೊಳಿಸಿದರೆ ಸರಿಯಾದ ಮತ್ತು ಸುಂದರವಾದ ಗ್ರಾಫ್‌ಗಳನ್ನು ರಚಿಸಬಹುದು.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q17",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Write any two examples of data collected in your school.\nನಿಮ್ಮ ಶಾಲೆಯಲ್ಲಿ ಸಂಗ್ರಹಿಸುವ ಯಾವುದೇ ಎರಡು ದತ್ತಾಂಶಗಳ ಉದಾಹರಣೆಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "ans": "Attendance of students and marks obtained in exams.\nವಿದ್ಯಾರ್ಥಿಗಳ ಹಾಜರಾತಿ ಮತ್ತು ಪರೀಕ್ಷೆಯ ಅಂಕಗಳು.",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q18",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "How does data help us in daily life? Write any two uses.\nದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ದತ್ತಾಂಶವು ನಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ? ಯಾವುದೇ ಎರಡು ಉಪಯೋಗಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "ans": "It helps us compare information and make correct decisions.\nದತ್ತಾಂಶವು ಮಾಹಿತಿಯನ್ನು ಹೋಲಿಸಲು ಮತ್ತು ಸರಿಯಾದ ನಿರ್ಧಾರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q19",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "What is a pictograph? Give one example.\nಪಿಕ್ಟೋಗ್ರಾಫ್ ಎಂದರೇನು? ಒಂದು ಉದಾಹರಣೆ ನೀಡಿ.",
+      "ans": "A pictograph is a graph that uses pictures or symbols to represent data. Example: one apple symbol = 5 apples.\nಪಿಕ್ಟೋಗ್ರಾಫ್ ಎಂದರೆ ಚಿತ್ರಗಳು ಅಥವಾ ಸಂಕೇತಗಳನ್ನು ಬಳಸಿ ದತ್ತಾಂಶವನ್ನು ತೋರಿಸುವ ಗ್ರಾಫ್. ಉದಾಹರಣೆ: ಒಂದು ಸೇಬಿನ ಚಿಹ್ನೆ = 5 ಸೇಬುಗಳು.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q20",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "What is a key (symbol value) in a pictograph? Why is it important?\nಪಿಕ್ಟೋಗ್ರಾಫ್‌ನಲ್ಲಿ ಸಂಕೇತದ ಮೌಲ್ಯ (Key) ಎಂದರೇನು? ಅದು ಏಕೆ ಮುಖ್ಯವಾಗಿದೆ?",
+      "ans": "A key tells the value of one symbol. It helps us read the pictograph correctly.\nಒಂದು ಸಂಕೇತವು ಎಷ್ಟು ವಸ್ತುಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ ಎಂಬುದನ್ನು Key ತಿಳಿಸುತ್ತದೆ. ಇದು ಪಿಕ್ಟೋಗ್ರಾಫ್ ಅನ್ನು ಸರಿಯಾಗಿ ಓದಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q21",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "In a pictograph, how do you find which category has the highest and which has the lowest number of objects?\nಪಿಕ್ಟೋಗ್ರಾಫ್‌ನಲ್ಲಿ ಯಾವ ವರ್ಗದಲ್ಲಿ ಹೆಚ್ಚು ವಸ್ತುಗಳಿವೆ ಮತ್ತು ಯಾವ ವರ್ಗದಲ್ಲಿ ಕಡಿಮೆ ವಸ್ತುಗಳಿವೆ ಎಂದು ಹೇಗೆ ಕಂಡುಹಿಡಿಯುತ್ತೀರಿ?",
+      "ans": "The category with the most symbols has the highest value; the category with the fewest symbols has the lowest value.\nಹೆಚ್ಚು ಸಂಕೇತಗಳಿರುವ ವರ್ಗದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ವಸ್ತುಗಳಿರುತ್ತವೆ; ಕಡಿಮೆ ಸಂಕೇತಗಳಿರುವ ವರ್ಗದಲ್ಲಿ ಅತಿ ಕಡಿಮೆ ವಸ್ತುಗಳಿರುತ್ತವೆ.",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q22",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "If one symbol represents 5 objects, how many objects do 7 symbols represent?\nಒಂದು ಸಂಕೇತವು 5 ವಸ್ತುಗಳನ್ನು ಸೂಚಿಸಿದರೆ, 7 ಸಂಕೇತಗಳು ಎಷ್ಟು ವಸ್ತುಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ?",
+      "ans": "7 × 5 = 35 objects\n7 × 5 = 35 ವಸ್ತುಗಳು",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q23",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Write any two advantages of using a pictograph.\nಪಿಕ್ಟೋಗ್ರಾಫ್ ಬಳಸುವುದರಿಂದಾಗುವ ಯಾವುದೇ ಎರಡು ಪ್ರಯೋಜನಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "ans": "(i) Easy to understand. (ii) Easy to compare data.\n(i) ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸುಲಭ. (ii) ದತ್ತಾಂಶವನ್ನು ಹೋಲಿಸಲು ಸುಲಭ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q24",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Why do we use pictures or symbols to represent data?\nದತ್ತಾಂಶವನ್ನು ಚಿತ್ರಗಳು ಅಥವಾ ಸಂಕೇತಗಳ ಮೂಲಕ ಏಕೆ ತೋರಿಸುತ್ತೇವೆ?",
+      "ans": "Pictures and symbols make data easy to read, understand and compare.\nಚಿತ್ರಗಳು ಮತ್ತು ಸಂಕೇತಗಳು ದತ್ತಾಂಶವನ್ನು ಓದಲು, ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಮತ್ತು ಹೋಲಿಸಲು ಸುಲಭವಾಗಿಸುತ್ತವೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q25",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "What is a bar graph?\nಬಾರ್ ಗ್ರಾಫ್ ಎಂದರೇನು?",
+      "ans": "A bar graph is a graph that uses rectangular bars to represent data.\nಬಾರ್ ಗ್ರಾಫ್ ಎಂದರೆ ಆಯತಾಕಾರದ ಪಟ್ಟಿಗಳನ್ನು ಬಳಸಿ ದತ್ತಾಂಶವನ್ನು ತೋರಿಸುವ ಗ್ರಾಫ್.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q26",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "What are the main parts of a bar graph?\nಬಾರ್ ಗ್ರಾಫ್‌ನ ಮುಖ್ಯ ಭಾಗಗಳು ಯಾವುವು?",
+      "ans": "Title, X-axis, Y-axis, scale and bars.\nಶೀರ್ಷಿಕೆ, X-ಅಕ್ಷ, Y-ಅಕ್ಷ, ಮಾಪಕ (Scale) ಮತ್ತು ಪಟ್ಟಿಗಳು.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q27",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "What is the scale in a bar graph? Why is it important?\nಬಾರ್ ಗ್ರಾಫ್‌ನಲ್ಲಿ ಮಾಪಕ (Scale) ಎಂದರೇನು? ಅದು ಏಕೆ ಮುಖ್ಯ?",
+      "ans": "The scale shows the value represented on the axis. It helps us read the graph correctly.\nಮಾಪಕವು ಅಕ್ಷದಲ್ಲಿ ತೋರಿಸುವ ಮೌಲ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದು ಗ್ರಾಫ್ ಅನ್ನು ಸರಿಯಾಗಿ ಓದಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q28",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Why should all bars in a bar graph have equal width?\nಬಾರ್ ಗ್ರಾಫ್‌ನ ಎಲ್ಲಾ ಪಟ್ಟಿಗಳ ಅಗಲವು ಸಮಾನವಾಗಿರಬೇಕು ಏಕೆ?",
+      "ans": "Equal width makes the graph clear and easy to compare.\nಪಟ್ಟಿಗಳ ಅಗಲ ಸಮಾನವಾಗಿದ್ದರೆ ಗ್ರಾಫ್ ಸ್ಪಷ್ಟವಾಗಿದ್ದು ಹೋಲಿಕೆ ಮಾಡಲು ಸುಲಭವಾಗುತ್ತದೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q29",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "What is the difference between a pictograph and a bar graph?\nಪಿಕ್ಟೋಗ್ರಾಫ್ ಮತ್ತು ಬಾರ್ ಗ್ರಾಫ್ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "ans": "A pictograph uses pictures or symbols, while a bar graph uses rectangular bars.\nಪಿಕ್ಟೋಗ್ರಾಫ್‌ನಲ್ಲಿ ಚಿತ್ರಗಳು ಅಥವಾ ಸಂಕೇತಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ; ಬಾರ್ ಗ್ರಾಫ್‌ನಲ್ಲಿ ಆಯತಾಕಾರದ ಪಟ್ಟಿಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q30",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Which axis shows the categories and which axis shows the values?\nಯಾವ ಅಕ್ಷವು ವರ್ಗಗಳನ್ನು ಮತ್ತು ಯಾವ ಅಕ್ಷವು ಮೌಲ್ಯಗಳನ್ನು ತೋರಿಸುತ್ತದೆ?",
+      "ans": "The X-axis shows the categories and the Y-axis shows the values.\nX-ಅಕ್ಷವು ವರ್ಗಗಳನ್ನು ಮತ್ತು Y-ಅಕ್ಷವು ಮೌಲ್ಯಗಳನ್ನು ತೋರಿಸುತ್ತದೆ.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q31",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Write any two advantages of a bar graph.\nಬಾರ್ ಗ್ರಾಫ್‌ನ ಯಾವುದೇ ಎರಡು ಉಪಯೋಗಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "ans": "(i) Easy to understand. (ii) Easy to compare data.\n(i) ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸುಲಭ. (ii) ದತ್ತಾಂಶವನ್ನು ಹೋಲಿಸಲು ಸುಲಭ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c15_q32_a",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Hours spent watching TV and number of children: ½ hour – 10, 1 hour – 13, 1½ hours – 5, 2 hours – 4, more than 2 hours – 3.\nಟಿ.ವಿ. ನೋಡಲು ವಿನಿಯೋಗಿಸಿದ ಗಂಟೆಗಳು ಮತ್ತು ಮಕ್ಕಳ ಸಂಖ್ಯೆ: ½ ಗಂಟೆ – 10, 1 ಗಂಟೆ – 13, 1½ ಗಂಟೆ – 5, 2 ಗಂಟೆ – 4, 2 ಗಂಟೆಗಿಂತ ಹೆಚ್ಚು – 3.\nHow many children watch TV for more than half an hour?\nಎಷ್ಟು ಮಕ್ಕಳು ಅರ್ಧ ಗಂಟೆಗೂ ಹೆಚ್ಚು ಕಾಲ ಟಿ.ವಿ. ನೋಡುತ್ತಾರೆ?",
+      "ans": "13 + 5 + 4 + 3 = 25 children\n13 + 5 + 4 + 3 = 25 ಮಕ್ಕಳು",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q32_b",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Hours spent watching TV and number of children: ½ hour – 10, 1 hour – 13, 1½ hours – 5, 2 hours – 4, more than 2 hours – 3.\nಟಿ.ವಿ. ನೋಡಲು ವಿನಿಯೋಗಿಸಿದ ಗಂಟೆಗಳು ಮತ್ತು ಮಕ್ಕಳ ಸಂಖ್ಯೆ: ½ ಗಂಟೆ – 10, 1 ಗಂಟೆ – 13, 1½ ಗಂಟೆ – 5, 2 ಗಂಟೆ – 4, 2 ಗಂಟೆಗಿಂತ ಹೆಚ್ಚು – 3.\nHow many children watch TV for less than two hours?\nಎರಡು ಗಂಟೆಗಳಿಗಿಂತ ಕಡಿಮೆ ಸಮಯ ಟಿ.ವಿ. ನೋಡುವ ಮಕ್ಕಳು ಎಷ್ಟು?",
+      "ans": "10 + 13 + 5 = 28 children\n10 + 13 + 5 = 28 ಮಕ್ಕಳು",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q32_c",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Hours spent watching TV and number of children: ½ hour – 10, 1 hour – 13, 1½ hours – 5, 2 hours – 4, more than 2 hours – 3.\nಟಿ.ವಿ. ನೋಡಲು ವಿನಿಯೋಗಿಸಿದ ಗಂಟೆಗಳು ಮತ್ತು ಮಕ್ಕಳ ಸಂಖ್ಯೆ: ½ ಗಂಟೆ – 10, 1 ಗಂಟೆ – 13, 1½ ಗಂಟೆ – 5, 2 ಗಂಟೆ – 4, 2 ಗಂಟೆಗಿಂತ ಹೆಚ್ಚು – 3.\nThe number of children who watch TV for more than two hours is ______.\nಎರಡು ಗಂಟೆಗಳಿಗಿಂತ ಹೆಚ್ಚು ಕಾಲ ಟಿ.ವಿ. ನೋಡುವ ಮಕ್ಕಳ ಸಂಖ್ಯೆ ______.",
+      "ans": "3 children\n3 ಮಕ್ಕಳು",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q32_d",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Hours spent watching TV and number of children: ½ hour – 10, 1 hour – 13, 1½ hours – 5, 2 hours – 4, more than 2 hours – 3.\nಟಿ.ವಿ. ನೋಡಲು ವಿನಿಯೋಗಿಸಿದ ಗಂಟೆಗಳು ಮತ್ತು ಮಕ್ಕಳ ಸಂಖ್ಯೆ: ½ ಗಂಟೆ – 10, 1 ಗಂಟೆ – 13, 1½ ಗಂಟೆ – 5, 2 ಗಂಟೆ – 4, 2 ಗಂಟೆಗಿಂತ ಹೆಚ್ಚು – 3.\nMore children watch TV for two hours than for half an hour. (True/False)\nಎರಡು ಗಂಟೆ ಟಿ.ವಿ. ನೋಡುವ ಮಕ್ಕಳ ಸಂಖ್ಯೆ, ಅರ್ಧ ಗಂಟೆ ಟಿ.ವಿ. ನೋಡುವ ಮಕ್ಕಳ ಸಂಖ್ಯೆಗಿಂತ ಹೆಚ್ಚು. (ಸರಿ/ತಪ್ಪು)",
+      "ans": "False (4 < 10)\nತಪ್ಪು (4 < 10)",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q34_a",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Joseph Uncle's pictograph of play items (1 symbol = 5 items): Toys – 8 symbols, Board games – 10 symbols, Sports items – 12 symbols.\nಜೋಸೆಫ್ ಅಂಕಲ್ ಅವರ ಆಟದ ವಸ್ತುಗಳ ಪಿಕ್ಟೋಗ್ರಾಫ್ (1 ಚಿಹ್ನೆ = 5 ವಸ್ತುಗಳು): ಆಟಿಕೆಗಳು – 8 ಚಿಹ್ನೆ, ಬೋರ್ಡ್ ಆಟಗಳು – 10 ಚಿಹ್ನೆ, ಕ್ರೀಡಾ ವಸ್ತುಗಳು – 12 ಚಿಹ್ನೆ.\nHow many toys does Joseph Uncle have?\nಜೋಸೆಫ್ ಅಂಕಲ್ ಎಷ್ಟು ಆಟಿಕೆಗಳನ್ನು ಹೊಂದಿದ್ದಾರೆ?",
+      "ans": "8 × 5 = 40 toys\n8 × 5 = 40 ಆಟಿಕೆಗಳು",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c15_q34_b",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Joseph Uncle's pictograph of play items (1 symbol = 5 items): Toys – 8 symbols, Board games – 10 symbols, Sports items – 12 symbols.\nಜೋಸೆಫ್ ಅಂಕಲ್ ಅವರ ಆಟದ ವಸ್ತುಗಳ ಪಿಕ್ಟೋಗ್ರಾಫ್ (1 ಚಿಹ್ನೆ = 5 ವಸ್ತುಗಳು): ಆಟಿಕೆಗಳು – 8 ಚಿಹ್ನೆ, ಬೋರ್ಡ್ ಆಟಗಳು – 10 ಚಿಹ್ನೆ, ಕ್ರೀಡಾ ವಸ್ತುಗಳು – 12 ಚಿಹ್ನೆ.\nHow many board games does Joseph Uncle have?\nಜೋಸೆಫ್ ಅಂಕಲ್ ಅವರ ಬಳಿ ಎಷ್ಟು ಬೋರ್ಡ್ ಆಟಗಳಿವೆ?",
+      "ans": "10 × 5 = 50 board games\n10 × 5 = 50 ಬೋರ್ಡ್ ಆಟಗಳು",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c15_q34_c",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Joseph Uncle's pictograph of play items (1 symbol = 5 items): Toys – 8 symbols, Board games – 10 symbols, Sports items – 12 symbols.\nಜೋಸೆಫ್ ಅಂಕಲ್ ಅವರ ಆಟದ ವಸ್ತುಗಳ ಪಿಕ್ಟೋಗ್ರಾಫ್ (1 ಚಿಹ್ನೆ = 5 ವಸ್ತುಗಳು): ಆಟಿಕೆಗಳು – 8 ಚಿಹ್ನೆ, ಬೋರ್ಡ್ ಆಟಗಳು – 10 ಚಿಹ್ನೆ, ಕ್ರೀಡಾ ವಸ್ತುಗಳು – 12 ಚಿಹ್ನೆ.\nHow many play items does Joseph Uncle have in total?\nಜೋಸೆಫ್ ಅಂಕಲ್ ಬಳಿ ಒಟ್ಟು ಎಷ್ಟು ಆಟದ ಸಾಮಾನುಗಳಿವೆ?",
+      "ans": "40 + 50 + 60 = 150 items\n40 + 50 + 60 = 150 ವಸ್ತುಗಳು",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c15_q35_a",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Deepti's pictograph of two-wheelers passing her house in one hour (1 icon = 3 two-wheelers): Monday – 8 icons, Wednesday – 4 icons, Friday – 12 icons.\nದೀಪ್ತಿಯ ಮನೆಯ ಮುಂದೆ ಒಂದು ಗಂಟೆಯಲ್ಲಿ ಹಾದುಹೋದ ದ್ವಿಚಕ್ರ ವಾಹನಗಳ ಪಿಕ್ಟೋಗ್ರಾಫ್ (1 ಚಿಹ್ನೆ = 3 ದ್ವಿಚಕ್ರ ವಾಹನಗಳು): ಸೋಮವಾರ – 8 ಚಿಹ್ನೆ, ಬುಧವಾರ – 4 ಚಿಹ್ನೆ, ಶುಕ್ರವಾರ – 12 ಚಿಹ್ನೆ.\nWhich day had the most two-wheelers passing her house?\nಯಾವ ದಿನ ಅವಳ ಮನೆಯ ಮುಂದೆ ಅತೀ ಹೆಚ್ಚು ದ್ವಿಚಕ್ರ ವಾಹನಗಳು ಹಾದುಹೋದವು?",
+      "ans": "Friday (36)\nಶುಕ್ರವಾರ (36)",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q35_b",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Deepti's pictograph of two-wheelers passing her house in one hour (1 icon = 3 two-wheelers): Monday – 8 icons, Wednesday – 4 icons, Friday – 12 icons.\nದೀಪ್ತಿಯ ಮನೆಯ ಮುಂದೆ ಒಂದು ಗಂಟೆಯಲ್ಲಿ ಹಾದುಹೋದ ದ್ವಿಚಕ್ರ ವಾಹನಗಳ ಪಿಕ್ಟೋಗ್ರಾಫ್ (1 ಚಿಹ್ನೆ = 3 ದ್ವಿಚಕ್ರ ವಾಹನಗಳು): ಸೋಮವಾರ – 8 ಚಿಹ್ನೆ, ಬುಧವಾರ – 4 ಚಿಹ್ನೆ, ಶುಕ್ರವಾರ – 12 ಚಿಹ್ನೆ.\nHow many two-wheelers did she record over the three days in total?\nಅವರು ಮೂರು ದಿನಗಳಲ್ಲಿ ಒಟ್ಟು ಎಷ್ಟು ದ್ವಿಚಕ್ರ ವಾಹನಗಳನ್ನು ದಾಖಲಿಸಿದ್ದಾರೆ?",
+      "ans": "24 + 12 + 36 = 72 two-wheelers\n24 + 12 + 36 = 72 ದ್ವಿಚಕ್ರ ವಾಹನಗಳು",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q35_c",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Deepti's pictograph of two-wheelers passing her house in one hour (1 icon = 3 two-wheelers): Monday – 8 icons, Wednesday – 4 icons, Friday – 12 icons.\nದೀಪ್ತಿಯ ಮನೆಯ ಮುಂದೆ ಒಂದು ಗಂಟೆಯಲ್ಲಿ ಹಾದುಹೋದ ದ್ವಿಚಕ್ರ ವಾಹನಗಳ ಪಿಕ್ಟೋಗ್ರಾಫ್ (1 ಚಿಹ್ನೆ = 3 ದ್ವಿಚಕ್ರ ವಾಹನಗಳು): ಸೋಮವಾರ – 8 ಚಿಹ್ನೆ, ಬುಧವಾರ – 4 ಚಿಹ್ನೆ, ಶುಕ್ರವಾರ – 12 ಚಿಹ್ನೆ.\nHow many fewer two-wheelers were seen on Wednesday than on Monday?\nಸೋಮವಾರಕ್ಕಿಂತ ಬುಧವಾರ ಎಷ್ಟು ಕಡಿಮೆ ದ್ವಿಚಕ್ರ ವಾಹನಗಳು ಕಂಡುಬಂದಿವೆ?",
+      "ans": "24 − 12 = 12\n24 − 12 = 12",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q35_d",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Deepti's pictograph of two-wheelers passing her house in one hour (1 icon = 3 two-wheelers): Monday – 8 icons, Wednesday – 4 icons, Friday – 12 icons.\nದೀಪ್ತಿಯ ಮನೆಯ ಮುಂದೆ ಒಂದು ಗಂಟೆಯಲ್ಲಿ ಹಾದುಹೋದ ದ್ವಿಚಕ್ರ ವಾಹನಗಳ ಪಿಕ್ಟೋಗ್ರಾಫ್ (1 ಚಿಹ್ನೆ = 3 ದ್ವಿಚಕ್ರ ವಾಹನಗಳು): ಸೋಮವಾರ – 8 ಚಿಹ್ನೆ, ಬುಧವಾರ – 4 ಚಿಹ್ನೆ, ಶುಕ್ರವಾರ – 12 ಚಿಹ್ನೆ.\nHow many more two-wheelers were seen on Friday than on Wednesday?\nಬುಧವಾರಕ್ಕಿಂತ ಶುಕ್ರವಾರ ಎಷ್ಟು ಹೆಚ್ಚು ದ್ವಿಚಕ್ರ ವಾಹನಗಳು ಕಂಡುಬಂದಿವೆ?",
+      "ans": "36 − 12 = 24\n36 − 12 = 24",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q36_a",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "A shopkeeper's pictograph of balloons sold (1 symbol = 5 balloons): Monday – 3 symbols, Wednesday – 4 symbols, Friday – 5 symbols.\nಅಂಗಡಿಯವರು ಮಾರಾಟ ಮಾಡಿದ ಬಲೂನುಗಳ ಪಿಕ್ಟೋಗ್ರಾಫ್ (1 ಚಿಹ್ನೆ = 5 ಬಲೂನುಗಳು): ಸೋಮವಾರ – 3 ಚಿಹ್ನೆ, ಬುಧವಾರ – 4 ಚಿಹ್ನೆ, ಶುಕ್ರವಾರ – 5 ಚಿಹ್ನೆ.\nWhich day had the most balloons sold?\nಯಾವ ದಿನ ಹೆಚ್ಚು ಬಲೂನುಗಳು ಮಾರಾಟವಾದವು?",
+      "ans": "Friday (25)\nಶುಕ್ರವಾರ (25)",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q36_b",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "A shopkeeper's pictograph of balloons sold (1 symbol = 5 balloons): Monday – 3 symbols, Wednesday – 4 symbols, Friday – 5 symbols.\nಅಂಗಡಿಯವರು ಮಾರಾಟ ಮಾಡಿದ ಬಲೂನುಗಳ ಪಿಕ್ಟೋಗ್ರಾಫ್ (1 ಚಿಹ್ನೆ = 5 ಬಲೂನುಗಳು): ಸೋಮವಾರ – 3 ಚಿಹ್ನೆ, ಬುಧವಾರ – 4 ಚಿಹ್ನೆ, ಶುಕ್ರವಾರ – 5 ಚಿಹ್ನೆ.\nHow many balloons were sold in all?\nಒಟ್ಟು ಎಷ್ಟು ಬಲೂನುಗಳು ಮಾರಾಟವಾದವು?",
+      "ans": "15 + 20 + 25 = 60 balloons\n15 + 20 + 25 = 60 ಬಲೂನುಗಳು",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q36_c",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "A shopkeeper's pictograph of balloons sold (1 symbol = 5 balloons): Monday – 3 symbols, Wednesday – 4 symbols, Friday – 5 symbols.\nಅಂಗಡಿಯವರು ಮಾರಾಟ ಮಾಡಿದ ಬಲೂನುಗಳ ಪಿಕ್ಟೋಗ್ರಾಫ್ (1 ಚಿಹ್ನೆ = 5 ಬಲೂನುಗಳು): ಸೋಮವಾರ – 3 ಚಿಹ್ನೆ, ಬುಧವಾರ – 4 ಚಿಹ್ನೆ, ಶುಕ್ರವಾರ – 5 ಚಿಹ್ನೆ.\nHow many fewer balloons were sold on Monday than on Wednesday?\nಬುಧವಾರಕ್ಕಿಂತ ಸೋಮವಾರ ಎಷ್ಟು ಕಡಿಮೆ ಬಲೂನುಗಳು ಮಾರಾಟವಾದವು?",
+      "ans": "20 − 15 = 5 balloons\n20 − 15 = 5 ಬಲೂನುಗಳು",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c15_q36_d",
+      "chapter": "15. ಚಿತ್ರಗಳ ಮೂಲಕ ದತ್ತಾಂಶ (Data Through Pictures)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "A shopkeeper's pictograph of balloons sold (1 symbol = 5 balloons): Monday – 3 symbols, Wednesday – 4 symbols, Friday – 5 symbols.\nಅಂಗಡಿಯವರು ಮಾರಾಟ ಮಾಡಿದ ಬಲೂನುಗಳ ಪಿಕ್ಟೋಗ್ರಾಫ್ (1 ಚಿಹ್ನೆ = 5 ಬಲೂನುಗಳು): ಸೋಮವಾರ – 3 ಚಿಹ್ನೆ, ಬುಧವಾರ – 4 ಚಿಹ್ನೆ, ಶುಕ್ರವಾರ – 5 ಚಿಹ್ನೆ.\nHow many more balloons were sold on Friday than on Monday?\nಸೋಮವಾರಕ್ಕಿಂತ ಶುಕ್ರವಾರ ಎಷ್ಟು ಹೆಚ್ಚು ಬಲೂನುಗಳು ಮಾರಾಟವಾದವು?",
+      "ans": "25 − 15 = 10 balloons\n25 − 15 = 10 ಬಲೂನುಗಳು",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    }
+  ]
 }
