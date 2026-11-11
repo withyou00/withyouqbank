@@ -2642,4 +2642,780 @@
       "diff": "ಕಠಿಣ"
     }
   ]
+{
+  "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+  "questions": [
+    {
+      "id": "c12_q1",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "A clock shows 3:30. What is the angle between the hour hand and the minute hand?\nಒಂದು ಗಡಿಯಾರದಲ್ಲಿ 3:30 ಸಮಯ ತೋರಿಸುತ್ತಿದೆ. ಗಂಟೆ ಮುಳ್ಳು ಮತ್ತು ನಿಮಿಷ ಮುಳ್ಳಿನ ನಡುವಿನ ಕೋನ ಎಷ್ಟು?",
+      "a": "75°",
+      "b": "90°",
+      "c": "105°",
+      "d": "120°",
+      "ans": "A) 75°",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q2",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which of the following is equal to 2 hours 30 minutes?\nಕೆಳಗಿನವುಗಳಲ್ಲಿ 2 ಗಂಟೆ 30 ನಿಮಿಷಗಳಿಗೆ ಸಮವಾದುದು ಯಾವುದು?",
+      "a": "120 minutes\n120 ನಿಮಿಷ",
+      "b": "130 minutes\n130 ನಿಮಿಷ",
+      "c": "150 minutes\n150 ನಿಮಿಷ",
+      "d": "180 minutes\n180 ನಿಮಿಷ",
+      "ans": "C) 150 minutes\n150 ನಿಮಿಷ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q3",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "School starts at 8:45 a.m. and ends at 3:15 p.m. How long is the school time?\nಶಾಲೆ ಬೆಳಿಗ್ಗೆ 8:45ಕ್ಕೆ ಆರಂಭವಾಗಿ ಮಧ್ಯಾಹ್ನ 3:15ಕ್ಕೆ ಮುಗಿಯುತ್ತದೆ. ಒಟ್ಟು ಶಾಲೆಯ ಸಮಯ ಎಷ್ಟು?",
+      "a": "6 hours\n6 ಗಂಟೆ",
+      "b": "6 hours 15 minutes\n6 ಗಂಟೆ 15 ನಿಮಿಷ",
+      "c": "6 hours 30 minutes\n6 ಗಂಟೆ 30 ನಿಮಿಷ",
+      "d": "6 hours 45 minutes\n6 ಗಂಟೆ 45 ನಿಮಿಷ",
+      "ans": "C) 6 hours 30 minutes\n6 ಗಂಟೆ 30 ನಿಮಿಷ",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q4",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which is the correct 24-hour format of 7:20 p.m.?\nಸಂಜೆ 7:20ರ 24-ಗಂಟೆಗಳ ರೂಪ ಯಾವುದು?",
+      "a": "07:20",
+      "b": "17:20",
+      "c": "19:20",
+      "d": "21:20",
+      "ans": "C) 19:20",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c12_q5",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "How many minutes are there in 4½ hours?\n4½ ಗಂಟೆಗಳಲ್ಲಿ ಎಷ್ಟು ನಿಮಿಷಗಳಿವೆ?",
+      "a": "240",
+      "b": "250",
+      "c": "270",
+      "d": "300",
+      "ans": "C) 270",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c12_q6",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "A movie starts at 5:40 p.m. and lasts 2 hours 25 minutes. When will it end?\nಒಂದು ಸಿನಿಮಾ ಸಂಜೆ 5:40ಕ್ಕೆ ಆರಂಭವಾಗಿ 2 ಗಂಟೆ 25 ನಿಮಿಷ ನಡೆಯುತ್ತದೆ. ಅದು ಯಾವಾಗ ಮುಗಿಯುತ್ತದೆ?",
+      "a": "7:55 p.m.",
+      "b": "8:05 p.m.",
+      "c": "8:15 p.m.",
+      "d": "8:25 p.m.",
+      "ans": "B) 8:05 p.m.",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q7",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which unit is best to measure the time taken to blink your eyes?\nಕಣ್ಣು ಮಿಟುಕಿಸಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯವನ್ನು ಅಳೆಯಲು ಯಾವ ಅಳತೆ ಸೂಕ್ತ?",
+      "a": "Hour\nಗಂಟೆ",
+      "b": "Minute\nನಿಮಿಷ",
+      "c": "Second\nಸೆಕೆಂಡ್",
+      "d": "Day\nದಿನ",
+      "ans": "C) Second\nಸೆಕೆಂಡ್",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q8",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "A train leaves at 10:50 a.m. and reaches at 1:20 p.m. How long is the journey?\nಒಂದು ರೈಲು ಬೆಳಿಗ್ಗೆ 10:50ಕ್ಕೆ ಹೊರಟು ಮಧ್ಯಾಹ್ನ 1:20ಕ್ಕೆ ತಲುಪುತ್ತದೆ. ಪ್ರಯಾಣದ ಅವಧಿ ಎಷ್ಟು?",
+      "a": "2 hours\n2 ಗಂಟೆ",
+      "b": "2 hours 20 minutes\n2 ಗಂಟೆ 20 ನಿಮಿಷ",
+      "c": "2 hours 30 minutes\n2 ಗಂಟೆ 30 ನಿಮಿಷ",
+      "d": "3 hours\n3 ಗಂಟೆ",
+      "ans": "C) 2 hours 30 minutes\n2 ಗಂಟೆ 30 ನಿಮಿಷ",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q9",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "How many seconds are there in 5 minutes?\n5 ನಿಮಿಷಗಳಲ್ಲಿ ಎಷ್ಟು ಸೆಕೆಂಡುಗಳಿವೆ?",
+      "a": "60",
+      "b": "120",
+      "c": "240",
+      "d": "300",
+      "ans": "D) 300",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c12_q10",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which time is 'Quarter past 9'?\n'ಒಂಬತ್ತು ಗಂಟೆ ಹದಿನೈದು ನಿಮಿಷ' (Quarter past 9) ಯಾವ ಸಮಯ?",
+      "a": "9:15",
+      "b": "9:30",
+      "c": "8:45",
+      "d": "10:15",
+      "ans": "A) 9:15",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q11",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Ravi starts his homework at 4:20 p.m. and finishes at 5:05 p.m. How much time does he take?\nರವಿ ಸಂಜೆ 4:20ಕ್ಕೆ ಗೃಹಪಾಠವನ್ನು ಆರಂಭಿಸಿ 5:05ಕ್ಕೆ ಮುಗಿಸುತ್ತಾನೆ. ಅವನು ಎಷ್ಟು ಸಮಯ ತೆಗೆದುಕೊಂಡನು?",
+      "a": "35 minutes\n35 ನಿಮಿಷ",
+      "b": "40 minutes\n40 ನಿಮಿಷ",
+      "c": "45 minutes\n45 ನಿಮಿಷ",
+      "d": "50 minutes\n50 ನಿಮಿಷ",
+      "ans": "C) 45 minutes\n45 ನಿಮಿಷ",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q12",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which of the following is equal to 1 day?\nಕೆಳಗಿನವುಗಳಲ್ಲಿ 1 ದಿನಕ್ಕೆ ಸಮವಾದುದು ಯಾವುದು?",
+      "a": "12 hours\n12 ಗಂಟೆಗಳು",
+      "b": "18 hours\n18 ಗಂಟೆಗಳು",
+      "c": "24 hours\n24 ಗಂಟೆಗಳು",
+      "d": "36 hours\n36 ಗಂಟೆಗಳು",
+      "ans": "C) 24 hours\n24 ಗಂಟೆಗಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c12_q13",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What time will it be 50 minutes after 8:25 a.m.?\nಬೆಳಿಗ್ಗೆ 8:25ರ ನಂತರ 50 ನಿಮಿಷವಾದರೆ ಸಮಯ ಎಷ್ಟು?",
+      "a": "9:05 a.m.",
+      "b": "9:10 a.m.",
+      "c": "9:15 a.m.",
+      "d": "9:25 a.m.",
+      "ans": "C) 9:15 a.m.",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q14",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "How many seconds are there in 3 minutes?\n3 ನಿಮಿಷಗಳಲ್ಲಿ ಎಷ್ಟು ಸೆಕೆಂಡುಗಳಿವೆ?",
+      "a": "120",
+      "b": "150",
+      "c": "180",
+      "d": "240",
+      "ans": "C) 180",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c12_q15",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "A bus leaves at 7:35 a.m. and reaches at 8:25 a.m. What is the travel time?\nಒಂದು ಬಸ್ ಬೆಳಿಗ್ಗೆ 7:35ಕ್ಕೆ ಹೊರಟು 8:25ಕ್ಕೆ ತಲುಪುತ್ತದೆ. ಪ್ರಯಾಣದ ಸಮಯ ಎಷ್ಟು?",
+      "a": "40 minutes\n40 ನಿಮಿಷ",
+      "b": "45 minutes\n45 ನಿಮಿಷ",
+      "c": "50 minutes\n50 ನಿಮಿಷ",
+      "d": "55 minutes\n55 ನಿಮಿಷ",
+      "ans": "C) 50 minutes\n50 ನಿಮಿಷ",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q16",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "match",
+      "marks": 4,
+      "q": "Match the following:\nಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "matchPairs": [
+        {
+          "a": "1 hour\n1 ಗಂಟೆ",
+          "b": "60 minutes\n60 ನಿಮಿಷಗಳು"
+        },
+        {
+          "a": "1 minute\n1 ನಿಮಿಷ",
+          "b": "60 seconds\n60 ಸೆಕೆಂಡುಗಳು"
+        },
+        {
+          "a": "1 day\n1 ದಿನ",
+          "b": "24 hours\n24 ಗಂಟೆಗಳು"
+        },
+        {
+          "a": "1 week\n1 ವಾರ",
+          "b": "7 days\n7 ದಿನಗಳು"
+        }
+      ],
+      "ans": "(1) ➔ 60 minutes / 60 ನಿಮಿಷಗಳು | (2) ➔ 60 seconds / 60 ಸೆಕೆಂಡುಗಳು | (3) ➔ 24 hours / 24 ಗಂಟೆಗಳು | (4) ➔ 7 days / 7 ದಿನಗಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q17",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "match",
+      "marks": 4,
+      "q": "Match the following:\nಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "matchPairs": [
+        {
+          "a": "Quarter past 9\n9 ಗಂಟೆ ಹದಿನೈದು ನಿಮಿಷ ಕಳೆದ",
+          "b": "9:15"
+        },
+        {
+          "a": "Half past 9\n9 ಗಂಟೆ ಅರ್ಧ ಗಂಟೆ ಕಳೆದ",
+          "b": "9:30"
+        },
+        {
+          "a": "Quarter to 10\n10 ಗಂಟೆಗೆ ಹದಿನೈದು ನಿಮಿಷ ಬಾಕಿ",
+          "b": "9:45"
+        },
+        {
+          "a": "One hour after 8:20\n8:20 ರ ಒಂದು ಗಂಟೆ ನಂತರ",
+          "b": "9:20"
+        }
+      ],
+      "ans": "(1) ➔ 9:15 | (2) ➔ 9:30 | (3) ➔ 9:45 | (4) ➔ 9:20",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q18",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "match",
+      "marks": 6,
+      "q": "Match the following:\nಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "matchPairs": [
+        {
+          "a": "06:30 a.m.",
+          "b": "06:30 hours\n06:30 ಗಂಟೆಗಳು"
+        },
+        {
+          "a": "08:45 p.m.",
+          "b": "20:45 hours\n20:45 ಗಂಟೆಗಳು"
+        },
+        {
+          "a": "11:45 p.m.",
+          "b": "23:45 hours\n23:45 ಗಂಟೆಗಳು"
+        },
+        {
+          "a": "04:30 a.m.",
+          "b": "04:30 hours\n04:30 ಗಂಟೆಗಳು"
+        },
+        {
+          "a": "07:30 p.m.",
+          "b": "19:30 hours\n19:30 ಗಂಟೆಗಳು"
+        },
+        {
+          "a": "01:30 a.m.",
+          "b": "01:30 hours\n01:30 ಗಂಟೆಗಳು"
+        }
+      ],
+      "ans": "(1) ➔ 06:30 hours / 06:30 ಗಂಟೆಗಳು | (2) ➔ 20:45 hours / 20:45 ಗಂಟೆಗಳು | (3) ➔ 23:45 hours / 23:45 ಗಂಟೆಗಳು | (4) ➔ 04:30 hours / 04:30 ಗಂಟೆಗಳು | (5) ➔ 19:30 hours / 19:30 ಗಂಟೆಗಳು | (6) ➔ 01:30 hours / 01:30 ಗಂಟೆಗಳು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q19",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "There are ______ minutes in 1 hour.\n1 ಗಂಟೆಯಲ್ಲಿ ______ ನಿಮಿಷಗಳಿರುತ್ತವೆ.",
+      "ans": "60",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q20",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "There are ______ seconds in 1 minute.\n1 ನಿಮಿಷದಲ್ಲಿ ______ ಸೆಕೆಂಡುಗಳಿರುತ್ತವೆ.",
+      "ans": "60",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q21",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "There are ______ hours in 1 day.\n1 ದಿನದಲ್ಲಿ ______ ಗಂಟೆಗಳಿರುತ್ತವೆ.",
+      "ans": "24",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q22",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Half an hour is equal to ______ minutes.\nಅರ್ಧ ಗಂಟೆ ಎಂದರೆ ______ ನಿಮಿಷಗಳು.",
+      "ans": "30",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q23",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "A week has ______ days.\nಒಂದು ವಾರದಲ್ಲಿ ______ ದಿನಗಳಿರುತ್ತವೆ.",
+      "ans": "7",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q24",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "One year has ______ months.\nಒಂದು ವರ್ಷದಲ್ಲಿ ______ ತಿಂಗಳುಗಳಿರುತ್ತವೆ.",
+      "ans": "12",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q25",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Quarter past 8 means ______.\n'8 ಗಂಟೆ ಹದಿನೈದು ನಿಮಿಷ' ಎಂದರೆ ______.",
+      "ans": "8:15",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q26",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Quarter to 5 means ______.\n'5 ಗಂಟೆಗೆ ಹದಿನೈದು ನಿಮಿಷ ಬಾಕಿ' ಎಂದರೆ ______.",
+      "ans": "4:45",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q27",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "90 minutes = ____ hour ____ minutes.\n90 ನಿಮಿಷ = ____ ಗಂಟೆ ____ ನಿಮಿಷ.",
+      "ans": "1 hour 30 minutes\n1 ಗಂಟೆ 30 ನಿಮಿಷ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q28",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "If the time is 6:20, after 40 minutes it will be ______.\nಸಮಯ 6:20 ಆಗಿದ್ದರೆ, 40 ನಿಮಿಷಗಳ ನಂತರ ______ ಆಗುತ್ತದೆ.",
+      "ans": "7:00",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q29",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "1 hour 10 minutes = ______ minutes.\n1 ಗಂಟೆ 10 ನಿಮಿಷ = ______ ನಿಮಿಷಗಳು.",
+      "ans": "70",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q30",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "2 hours 45 minutes = ______ minutes.\n2 ಗಂಟೆ 45 ನಿಮಿಷ = ______ ನಿಮಿಷಗಳು.",
+      "ans": "165",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q31",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "3 hours 15 minutes = ______ minutes.\n3 ಗಂಟೆ 15 ನಿಮಿಷ = ______ ನಿಮಿಷಗಳು.",
+      "ans": "195",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q32",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "4 hours 20 minutes = ______ minutes.\n4 ಗಂಟೆ 20 ನಿಮಿಷ = ______ ನಿಮಿಷಗಳು.",
+      "ans": "260",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q33",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "75 minutes = ____ hours ____ minutes.\n75 ನಿಮಿಷಗಳು = ____ ಗಂಟೆ ____ ನಿಮಿಷಗಳು.",
+      "ans": "1 hour 15 minutes\n1 ಗಂಟೆ 15 ನಿಮಿಷ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q34",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "150 minutes = ____ hours ____ minutes.\n150 ನಿಮಿಷಗಳು = ____ ಗಂಟೆ ____ ನಿಮಿಷಗಳು.",
+      "ans": "2 hours 30 minutes\n2 ಗಂಟೆ 30 ನಿಮಿಷ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q35",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "220 minutes = ____ hours ____ minutes.\n220 ನಿಮಿಷಗಳು = ____ ಗಂಟೆ ____ ನಿಮಿಷಗಳು.",
+      "ans": "3 hours 40 minutes\n3 ಗಂಟೆ 40 ನಿಮಿಷ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q36",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "390 minutes = ____ hours ____ minutes.\n390 ನಿಮಿಷಗಳು = ____ ಗಂಟೆ ____ ನಿಮಿಷಗಳು.",
+      "ans": "6 hours 30 minutes\n6 ಗಂಟೆ 30 ನಿಮಿಷ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q39_a",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Convert:\nಪರಿವರ್ತಿಸಿ:\n320 sec = ____ min ____ sec\n320 ಸೆಕೆಂಡು = ____ ನಿಮಿಷ ____ ಸೆಕೆಂಡು",
+      "ans": "5 min 20 sec\n5 ನಿಮಿಷ 20 ಸೆಕೆಂಡು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c12_q39_b",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Convert:\nಪರಿವರ್ತಿಸಿ:\n225 sec = ____ min ____ sec\n225 ಸೆಕೆಂಡು = ____ ನಿಮಿಷ ____ ಸೆಕೆಂಡು",
+      "ans": "3 min 45 sec\n3 ನಿಮಿಷ 45 ಸೆಕೆಂಡು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c12_q39_c",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Convert:\nಪರಿವರ್ತಿಸಿ:\n700 sec = ____ min ____ sec\n700 ಸೆಕೆಂಡು = ____ ನಿಮಿಷ ____ ಸೆಕೆಂಡು",
+      "ans": "11 min 40 sec\n11 ನಿಮಿಷ 40 ಸೆಕೆಂಡು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c12_q39_d",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Convert:\nಪರಿವರ್ತಿಸಿ:\n1000 sec = ____ min ____ sec\n1000 ಸೆಕೆಂಡು = ____ ನಿಮಿಷ ____ ಸೆಕೆಂಡು",
+      "ans": "16 min 40 sec\n16 ನಿಮಿಷ 40 ಸೆಕೆಂಡು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c12_q39_e",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Convert:\nಪರಿವರ್ತಿಸಿ:\n10 min 13 sec = ____ sec\n10 ನಿಮಿಷ 13 ಸೆಕೆಂಡು = ____ ಸೆಕೆಂಡು",
+      "ans": "10 × 60 + 13 = 613 sec\n10 × 60 + 13 = 613 ಸೆಕೆಂಡು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c12_q39_f",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Convert:\nಪರಿವರ್ತಿಸಿ:\n4 min 8 sec = ____ sec\n4 ನಿಮಿಷ 8 ಸೆಕೆಂಡು = ____ ಸೆಕೆಂಡು",
+      "ans": "4 × 60 + 8 = 248 sec\n4 × 60 + 8 = 248 ಸೆಕೆಂಡು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c12_q39_g",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Convert:\nಪರಿವರ್ತಿಸಿ:\n15 min 40 sec = ____ sec\n15 ನಿಮಿಷ 40 ಸೆಕೆಂಡು = ____ ಸೆಕೆಂಡು",
+      "ans": "15 × 60 + 40 = 940 sec\n15 × 60 + 40 = 940 ಸೆಕೆಂಡು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c12_q40",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Riya started reading at 4:15 PM. She read for 45 minutes. At what time did she finish reading?\nರಿಯಾ ಸಂಜೆ 4:15ಕ್ಕೆ ಓದಲು ಪ್ರಾರಂಭಿಸಿದಳು. ಅವಳು 45 ನಿಮಿಷಗಳು ಓದಿದಳು. ಅವಳು ಯಾವ ಸಮಯಕ್ಕೆ ಓದನ್ನು ಮುಗಿಸಿದಳು?",
+      "ans": "Finishing time = 4:15 PM + 45 minutes = 5:00 PM\nಮುಗಿಸಿದ ಸಮಯ = ಸಂಜೆ 4:15 + 45 ನಿಮಿಷ = ಸಂಜೆ 5:00",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q41",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "A movie started at 6:30 PM and ended at 8:00 PM. Find the duration of the movie.\nಒಂದು ಚಲನಚಿತ್ರ ಸಂಜೆ 6:30ಕ್ಕೆ ಪ್ರಾರಂಭವಾಗಿ ರಾತ್ರಿ 8:00ಕ್ಕೆ ಮುಗಿಯಿತು. ಚಿತ್ರದ ಅವಧಿಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "ans": "Duration = 8:00 PM − 6:30 PM = 1 hour 30 minutes\nಅವಧಿ = ರಾತ್ರಿ 8:00 − ಸಂಜೆ 6:30 = 1 ಗಂಟೆ 30 ನಿಮಿಷ",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q42",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Convert 2 hours 35 minutes into minutes.\n2 ಗಂಟೆ 35 ನಿಮಿಷಗಳನ್ನು ನಿಮಿಷಗಳಾಗಿ ಪರಿವರ್ತಿಸಿ.",
+      "ans": "2 hours = 2 × 60 = 120 minutes\n120 + 35 = 155 minutes\n2 ಗಂಟೆ = 2 × 60 = 120 ನಿಮಿಷ\n120 + 35 = 155 ನಿಮಿಷಗಳು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q43",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Convert 185 minutes into hours and minutes.\n185 ನಿಮಿಷಗಳನ್ನು ಗಂಟೆ ಮತ್ತು ನಿಮಿಷಗಳಾಗಿ ಪರಿವರ್ತಿಸಿ.",
+      "ans": "185 ÷ 60 = 3, remainder 5\n185 minutes = 3 hours 5 minutes\n185 ÷ 60 = 3, ಶೇಷ 5\n185 ನಿಮಿಷ = 3 ಗಂಟೆ 5 ನಿಮಿಷ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c12_q44",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Arun reached school at 8:20 AM. He started from home at 7:50 AM. How long did he travel?\nಅರುಣ್ ಬೆಳಿಗ್ಗೆ 8:20ಕ್ಕೆ ಶಾಲೆ ತಲುಪಿದನು. ಅವನು 7:50ಕ್ಕೆ ಮನೆಯಿಂದ ಹೊರಟನು. ಅವನು ಎಷ್ಟು ಸಮಯ ಪ್ರಯಾಣ ಮಾಡಿದನು?",
+      "ans": "Time taken = 8:20 AM − 7:50 AM = 30 minutes\nಪ್ರಯಾಣದ ಸಮಯ = ಬೆಳಿಗ್ಗೆ 8:20 − 7:50 = 30 ನಿಮಿಷ",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q45",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Priya completed her homework in 1 hour 20 minutes. Express the time in minutes.\nಪ್ರಿಯಾ ತನ್ನ ಮನೆಪಾಠವನ್ನು 1 ಗಂಟೆ 20 ನಿಮಿಷಗಳಲ್ಲಿ ಪೂರ್ಣಗೊಳಿಸಿದಳು. ಅದನ್ನು ನಿಮಿಷಗಳಲ್ಲಿ ಬರೆಯಿರಿ.",
+      "ans": "1 hour = 60 minutes\n60 + 20 = 80 minutes\n1 ಗಂಟೆ = 60 ನಿಮಿಷ\n60 + 20 = 80 ನಿಮಿಷಗಳು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q46",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Raghav studies Mathematics, English, Hindi and The World Around Us. He took 50 minutes to study each subject. Find the total time taken in hours and minutes.\nರಾಘವ ಗಣಿತ, ಇಂಗ್ಲಿಷ್, ಹಿಂದಿ ಮತ್ತು ನಮ್ಮ ಸುತ್ತಲಿನ ಪ್ರಪಂಚ ವಿಷಯಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡುತ್ತಾನೆ. ಪ್ರತಿಯೊಂದು ವಿಷಯಕ್ಕೆ 50 ನಿಮಿಷ ತೆಗೆದುಕೊಂಡನು. ಒಟ್ಟು ಸಮಯವನ್ನು ಗಂಟೆ ಮತ್ತು ನಿಮಿಷಗಳಲ್ಲಿ ಕಂಡುಹಿಡಿಯಿರಿ.",
+      "ans": "Total time = 4 × 50 = 200 minutes = 3 hours 20 minutes\nಒಟ್ಟು ಸಮಯ = 4 × 50 = 200 ನಿಮಿಷ = 3 ಗಂಟೆ 20 ನಿಮಿಷ",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q47",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Raghu left his house at 08:00 hours and arrived at his Nanaji's house at 09:05 hours. How long did he take?\nರಘು ಬೆಳಿಗ್ಗೆ 08:00 ಗಂಟೆಗೆ ಮನೆಯಿಂದ ಹೊರಟು 09:05 ಗಂಟೆಗೆ ತನ್ನ ನಾನಾಜಿಯ ಮನೆ ತಲುಪಿದನು. ಅವನು ಎಷ್ಟು ಸಮಯ ತೆಗೆದುಕೊಂಡನು?",
+      "ans": "08:00 to 09:00 = 1 hour; 09:00 to 09:05 = 5 minutes\nTotal = 1 hour 5 minutes\n08:00 ರಿಂದ 09:00 = 1 ಗಂಟೆ; 09:00 ರಿಂದ 09:05 = 5 ನಿಮಿಷ\nಒಟ್ಟು = 1 ಗಂಟೆ 5 ನಿಮಿಷ",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q48",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Jyoti went to play games at 06:15 PM. She came back after 1 hour 45 minutes. At what time did she reach home?\nಜ್ಯೋತಿ ಸಂಜೆ 06:15ಕ್ಕೆ ಆಟವಾಡಲು ಹೋದಳು. ಅವಳು 1 ಗಂಟೆ 45 ನಿಮಿಷಗಳ ನಂತರ ಮನೆಗೆ ಹಿಂದಿರುಗಿದಳು. ಅವಳು ಎಷ್ಟು ಗಂಟೆಗೆ ಮನೆ ತಲುಪಿದಳು?",
+      "ans": "06:15 PM + 1 hour 45 minutes = 08:00 PM\nಸಂಜೆ 06:15 + 1 ಗಂಟೆ 45 ನಿಮಿಷ = ರಾತ್ರಿ 08:00",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q49",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Ragini took 1 hour 10 minutes to do her homework. She finished it at 09:40 PM. At what time did she start?\nರಾಗಿಣಿ ತನ್ನ ಮನೆಗೆಲಸ ಮಾಡಲು 1 ಗಂಟೆ 10 ನಿಮಿಷ ತೆಗೆದುಕೊಂಡಳು. ಅವಳು ರಾತ್ರಿ 09:40ಕ್ಕೆ ಮುಗಿಸಿದಳು. ಅವಳು ಎಷ್ಟು ಗಂಟೆಗೆ ಪ್ರಾರಂಭಿಸಿದಳು?",
+      "ans": "09:40 PM − 1 hour 10 minutes = 08:30 PM\nರಾತ್ರಿ 09:40 − 1 ಗಂಟೆ 10 ನಿಮಿಷ = ರಾತ್ರಿ 08:30",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q50",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "A group of children left for a picnic at 08:30 AM. They returned after 4 hours 10 minutes. At what time did they return?\nಮಕ್ಕಳ ಗುಂಪೊಂದು ಬೆಳಿಗ್ಗೆ 08:30ಕ್ಕೆ ಪಿಕ್ನಿಕ್‌ಗೆ ಹೊರಟಿತು. ಅವರು 4 ಗಂಟೆ 10 ನಿಮಿಷಗಳ ನಂತರ ಹಿಂದಿರುಗಿದರು. ಅವರು ಎಷ್ಟು ಗಂಟೆಗೆ ಹಿಂದಿರುಗಿದರು?",
+      "ans": "08:30 AM + 4 hours 10 minutes = 12:40 PM\nಬೆಳಿಗ್ಗೆ 08:30 + 4 ಗಂಟೆ 10 ನಿಮಿಷ = ಮಧ್ಯಾಹ್ನ 12:40",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q51",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "Alya goes out to play at 05:30 PM and comes back after 1 hour 10 minutes. At what time does she come back?\nಅಲಿಯಾ ಸಂಜೆ 05:30ಕ್ಕೆ ಆಟವಾಡಲು ಹೋಗುತ್ತಾಳೆ. ಅವಳು 1 ಗಂಟೆ 10 ನಿಮಿಷಗಳ ನಂತರ ಹಿಂದಿರುಗುತ್ತಾಳೆ. ಅವಳು ಎಷ್ಟು ಗಂಟೆಗೆ ಹಿಂದಿರುಗುತ್ತಾಳೆ?",
+      "ans": "05:30 PM + 1 hour 10 minutes = 06:40 PM\nಸಂಜೆ 05:30 + 1 ಗಂಟೆ 10 ನಿಮಿಷ = ಸಂಜೆ 06:40",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q52",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "The lunch break of a school starts at 12:30 PM and ends after 35 minutes. At what time will lunch end?\nಒಂದು ಶಾಲೆಯ ಊಟದ ವಿರಾಮವು ಮಧ್ಯಾಹ್ನ 12:30ಕ್ಕೆ ಪ್ರಾರಂಭವಾಗಿ 35 ನಿಮಿಷಗಳ ನಂತರ ಮುಗಿಯುತ್ತದೆ. ಊಟದ ವಿರಾಮವು ಎಷ್ಟು ಗಂಟೆಗೆ ಮುಗಿಯುತ್ತದೆ?",
+      "ans": "12:30 PM + 35 minutes = 01:05 PM\nಮಧ್ಯಾಹ್ನ 12:30 + 35 ನಿಮಿಷ = ಮಧ್ಯಾಹ್ನ 01:05",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q53",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "sa_2m",
+      "marks": 2,
+      "q": "It is 08:35 PM now. What time will it be after 8 hours and 25 minutes?\nಈಗ ರಾತ್ರಿ 08:35 ಆಗಿದೆ. 8 ಗಂಟೆ 25 ನಿಮಿಷಗಳ ನಂತರ ಸಮಯ ಎಷ್ಟಾಗಿರುತ್ತದೆ?",
+      "ans": "08:35 PM + 8 hours = 04:35 AM; + 25 minutes = 05:00 AM (next day)\nರಾತ್ರಿ 08:35 + 8 ಗಂಟೆ = ಬೆಳಿಗ್ಗೆ 04:35; + 25 ನಿಮಿಷ = ಬೆಳಿಗ್ಗೆ 05:00 (ಮುಂದಿನ ದಿನ)",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c12_q54_a",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Time taken by three children to paint a picture: Raghav – 1 hour 20 minutes, Rani – 2 hours 10 minutes, Reeta – 1 hour 35 minutes.\nಮೂರು ಮಕ್ಕಳು ಒಂದು ಚಿತ್ರಕ್ಕೆ ಬಣ್ಣ ಹಾಕಲು ತೆಗೆದುಕೊಂಡ ಸಮಯ: ರಾಘವ್ – 1 ಗಂಟೆ 20 ನಿಮಿಷ, ರಾಣಿ – 2 ಗಂಟೆ 10 ನಿಮಿಷ, ರೀಟಾ – 1 ಗಂಟೆ 35 ನಿಮಿಷ.\nWho took the longest time?\nಯಾರು ಅತೀ ಹೆಚ್ಚು ಸಮಯ ತೆಗೆದುಕೊಂಡರು?",
+      "ans": "Rani (130 minutes)\nರಾಣಿ (130 ನಿಮಿಷ)",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q54_b",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Time taken by three children to paint a picture: Raghav – 1 hour 20 minutes, Rani – 2 hours 10 minutes, Reeta – 1 hour 35 minutes.\nಮೂರು ಮಕ್ಕಳು ಒಂದು ಚಿತ್ರಕ್ಕೆ ಬಣ್ಣ ಹಾಕಲು ತೆಗೆದುಕೊಂಡ ಸಮಯ: ರಾಘವ್ – 1 ಗಂಟೆ 20 ನಿಮಿಷ, ರಾಣಿ – 2 ಗಂಟೆ 10 ನಿಮಿಷ, ರೀಟಾ – 1 ಗಂಟೆ 35 ನಿಮಿಷ.\nWho took the least time?\nಯಾರು ಅತೀ ಕಡಿಮೆ ಸಮಯ ತೆಗೆದುಕೊಂಡರು?",
+      "ans": "Raghav (80 minutes)\nರಾಘವ್ (80 ನಿಮಿಷ)",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q54_c",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Time taken by three children to paint a picture: Raghav – 1 hour 20 minutes, Rani – 2 hours 10 minutes, Reeta – 1 hour 35 minutes.\nಮೂರು ಮಕ್ಕಳು ಒಂದು ಚಿತ್ರಕ್ಕೆ ಬಣ್ಣ ಹಾಕಲು ತೆಗೆದುಕೊಂಡ ಸಮಯ: ರಾಘವ್ – 1 ಗಂಟೆ 20 ನಿಮಿಷ, ರಾಣಿ – 2 ಗಂಟೆ 10 ನಿಮಿಷ, ರೀಟಾ – 1 ಗಂಟೆ 35 ನಿಮಿಷ.\nHow many more minutes did Rani take than Raghav?\nರಾಣಿ ರಾಘವ್‌ಗಿಂತ ಎಷ್ಟು ನಿಮಿಷ ಹೆಚ್ಚು ತೆಗೆದುಕೊಂಡಳು?",
+      "ans": "130 − 80 = 50 minutes\n130 − 80 = 50 ನಿಮಿಷ",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q54_d",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Time taken by three children to paint a picture: Raghav – 1 hour 20 minutes, Rani – 2 hours 10 minutes, Reeta – 1 hour 35 minutes.\nಮೂರು ಮಕ್ಕಳು ಒಂದು ಚಿತ್ರಕ್ಕೆ ಬಣ್ಣ ಹಾಕಲು ತೆಗೆದುಕೊಂಡ ಸಮಯ: ರಾಘವ್ – 1 ಗಂಟೆ 20 ನಿಮಿಷ, ರಾಣಿ – 2 ಗಂಟೆ 10 ನಿಮಿಷ, ರೀಟಾ – 1 ಗಂಟೆ 35 ನಿಮಿಷ.\nConvert Reeta's time into minutes.\nರೀಟಾಳ ಸಮಯವನ್ನು ನಿಮಿಷಗಳಿಗೆ ಪರಿವರ್ತಿಸಿ.",
+      "ans": "60 + 35 = 95 minutes\n60 + 35 = 95 ನಿಮಿಷ",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q55_a",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Write the time in the other format (12-hour ↔ 24-hour):\nಸಮಯವನ್ನು ಇನ್ನೊಂದು ರೂಪದಲ್ಲಿ ಬರೆಯಿರಿ (12 ಗಂಟೆ ↔ 24 ಗಂಟೆ):\n______ (12-hour) = 08:35 hours\n______ (12 ಗಂಟೆ) = 08:35 ಗಂಟೆಗಳು",
+      "ans": "8:35 a.m.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q55_b",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Write the time in the other format (12-hour ↔ 24-hour):\nಸಮಯವನ್ನು ಇನ್ನೊಂದು ರೂಪದಲ್ಲಿ ಬರೆಯಿರಿ (12 ಗಂಟೆ ↔ 24 ಗಂಟೆ):\n11:00 a.m. = ______ hours\nಬೆಳಿಗ್ಗೆ 11:00 = ______ ಗಂಟೆಗಳು",
+      "ans": "11:00 hours\n11:00 ಗಂಟೆಗಳು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q55_c",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Write the time in the other format (12-hour ↔ 24-hour):\nಸಮಯವನ್ನು ಇನ್ನೊಂದು ರೂಪದಲ್ಲಿ ಬರೆಯಿರಿ (12 ಗಂಟೆ ↔ 24 ಗಂಟೆ):\n5:30 p.m. = ______ hours\nಸಂಜೆ 5:30 = ______ ಗಂಟೆಗಳು",
+      "ans": "17:30 hours\n17:30 ಗಂಟೆಗಳು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c12_q55_d",
+      "chapter": "12. ಸೆಕೆಂಡುಗಳ ಓಟ (Racing Seconds)",
+      "type": "fib",
+      "marks": 1,
+      "q": "Write the time in the other format (12-hour ↔ 24-hour):\nಸಮಯವನ್ನು ಇನ್ನೊಂದು ರೂಪದಲ್ಲಿ ಬರೆಯಿರಿ (12 ಗಂಟೆ ↔ 24 ಗಂಟೆ):\n9:35 p.m. = ______ hours\nರಾತ್ರಿ 9:35 = ______ ಗಂಟೆಗಳು",
+      "ans": "21:35 hours\n21:35 ಗಂಟೆಗಳು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    }
+  ]
 }
