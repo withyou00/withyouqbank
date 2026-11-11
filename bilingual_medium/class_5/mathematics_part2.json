@@ -1692,4 +1692,360 @@
       "diff": "ಕಠಿಣ"
     }
   ]
-}
+{
+  "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+  "questions": [
+    {
+      "id": "c10_q1",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What is a symmetrical design?\nಸಮಮಿತಿಯ ವಿನ್ಯಾಸ ಎಂದರೇನು?",
+      "a": "A design with only one colour\nಒಂದು ಬಣ್ಣದ ವಿನ್ಯಾಸ",
+      "b": "A design that can be divided into two equal halves\nಎರಡು ಸಮಾನ ಭಾಗಗಳಾಗಿ ವಿಭಜಿಸಬಹುದಾದ ವಿನ್ಯಾಸ",
+      "c": "A design with many shapes\nಅನೇಕ ಆಕಾರಗಳಿರುವ ವಿನ್ಯಾಸ",
+      "d": "A design without lines\nರೇಖೆಗಳಿಲ್ಲದ ವಿನ್ಯಾಸ",
+      "ans": "B) A design that can be divided into two equal halves\nಎರಡು ಸಮಾನ ಭಾಗಗಳಾಗಿ ವಿಭಜಿಸಬಹುದಾದ ವಿನ್ಯಾಸ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c10_q2",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The line that divides a symmetrical figure into two equal halves is called\nಸಮಮಿತಿಯ ಆಕೃತಿಯನ್ನು ಎರಡು ಸಮಾನ ಭಾಗಗಳಾಗಿ ವಿಭಜಿಸುವ ರೇಖೆಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "a": "Curved line\nವಕ್ರ ರೇಖೆ",
+      "b": "Zigzag line\nಅಡ್ಡಾದಿಡ್ಡಿ ರೇಖೆ",
+      "c": "Line of symmetry\nಸಮಮಿತಿ ರೇಖೆ",
+      "d": "Parallel line\nಸಮಾಂತರ ರೇಖೆ",
+      "ans": "C) Line of symmetry\nಸಮಮಿತಿ ರೇಖೆ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c10_q3",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which of the following has a line of symmetry?\nಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದಕ್ಕೆ ಸಮಮಿತಿ ರೇಖೆ ಇದೆ?",
+      "a": "Butterfly\nಚಿಟ್ಟೆ",
+      "b": "Irregular stone\nಅಸಮ ಕಲ್ಲು",
+      "c": "Random scribble\nಯಾದೃಚ್ಛಿಕ ಗೆರೆಗಳು",
+      "d": "Cloud\nಮೋಡ",
+      "ans": "A) Butterfly\nಚಿಟ್ಟೆ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c10_q4",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "How many lines of symmetry does a square have?\nಚೌಕಕ್ಕೆ ಎಷ್ಟು ಸಮಮಿತಿ ರೇಖೆಗಳಿವೆ?",
+      "a": "One\nಒಂದು",
+      "b": "Two\nಎರಡು",
+      "c": "Four\nನಾಲ್ಕು",
+      "d": "Six\nಆರು",
+      "ans": "C) Four\nನಾಲ್ಕು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c10_q5",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which shape has no line of symmetry?\nಯಾವ ಆಕಾರಕ್ಕೆ ಸಮಮಿತಿ ರೇಖೆ ಇಲ್ಲ?",
+      "a": "Square\nಚೌಕ",
+      "b": "Circle\nವೃತ್ತ",
+      "c": "Scalene triangle\nಅಸಮಬಾಹು ತ್ರಿಭುಜ",
+      "d": "Rectangle\nಆಯತ",
+      "ans": "C) Scalene triangle\nಅಸಮಬಾಹು ತ್ರಿಭುಜ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c10_q6",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which of these is an example of symmetry in nature?\nಪ್ರಕೃತಿಯಲ್ಲಿ ಸಮಮಿತಿಯ ಉದಾಹರಣೆ ಯಾವುದು?",
+      "a": "Butterfly wings\nಚಿಟ್ಟೆಯ ರೆಕ್ಕೆಗಳು",
+      "b": "Broken branch\nಮುರಿದ ಕೊಂಬೆ",
+      "c": "Rock\nಕಲ್ಲು",
+      "d": "River\nನದಿ",
+      "ans": "A) Butterfly wings\nಚಿಟ್ಟೆಯ ರೆಕ್ಕೆಗಳು",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c10_q7",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "A circle has:\nವೃತ್ತಕ್ಕೆ ________ ಇವೆ.",
+      "a": "No line of symmetry\nಸಮಮಿತಿ ರೇಖೆಗಳಿಲ್ಲ",
+      "b": "One line of symmetry\nಒಂದು ಸಮಮಿತಿ ರೇಖೆ",
+      "c": "Two lines of symmetry\nಎರಡು ಸಮಮಿತಿ ರೇಖೆಗಳು",
+      "d": "Infinite lines of symmetry\nಅನಂತ ಸಮಮಿತಿ ರೇಖೆಗಳು",
+      "ans": "D) Infinite lines of symmetry\nಅನಂತ ಸಮಮಿತಿ ರೇಖೆಗಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c10_q8",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "A full turn brings an object back to its:\nಒಂದು ಪೂರ್ಣ ತಿರುಗುವಿಕೆಯ ನಂತರ ವಸ್ತು ತನ್ನ ______ ಗೆ ಮರಳುತ್ತದೆ.",
+      "a": "Side\nಬದಿ",
+      "b": "Starting position\nಆರಂಭಿಕ ಸ್ಥಾನ",
+      "c": "Corner\nಮೂಲೆ",
+      "d": "Bottom\nಕೆಳಭಾಗ",
+      "ans": "B) Starting position\nಆರಂಭಿಕ ಸ್ಥಾನ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c10_q9",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which letter has rotational symmetry?\nಯಾವ ಅಕ್ಷರಕ್ಕೆ ಭ್ರಮಣ ಸಮಮಿತಿ ಇದೆ?",
+      "a": "H",
+      "b": "K",
+      "c": "L",
+      "d": "E",
+      "ans": "A) H",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c10_q10",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "A pinwheel (with 4 blades) looks the same after\nಗಾಳಿಚಕ್ರವು (4 ರೆಕ್ಕೆಗಳು) ಯಾವ ತಿರುಗುವಿಕೆಯ ನಂತರ ಅದೇ ರೀತಿಯಾಗಿ ಕಾಣುತ್ತದೆ?",
+      "a": "¼ turn\nಕಾಲು ತಿರುವು",
+      "b": "½ turn\nಅರ್ಧ ತಿರುವು",
+      "c": "¾ turn\nಮುಕ್ಕಾಲು ತಿರುವು",
+      "d": "All of these\nಮೇಲಿನ ಎಲ್ಲವೂ",
+      "ans": "D) All of these\nಮೇಲಿನ ಎಲ್ಲವೂ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c10_q11",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "match",
+      "marks": 5,
+      "q": "Match the following:\nಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
+      "matchPairs": [
+        {
+          "a": "Butterfly\nಚಿಟ್ಟೆ",
+          "b": "One line of symmetry\nಒಂದು ಸಮಮಿತಿ ರೇಖೆ"
+        },
+        {
+          "a": "Fan\nಫ್ಯಾನ್",
+          "b": "Rotates\nತಿರುಗುತ್ತದೆ"
+        },
+        {
+          "a": "Circle\nವೃತ್ತ",
+          "b": "Infinite lines of symmetry\nಅನಂತ ಸಮಮಿತಿ ರೇಖೆಗಳು"
+        },
+        {
+          "a": "Pinwheel\nಪಿನ್‌ವೀಲ್ (ಗಾಳಿಚಕ್ರ)",
+          "b": "Rotation\nಭ್ರಮಣ"
+        },
+        {
+          "a": "Square\nಚೌಕ",
+          "b": "4 lines of symmetry\n4 ಸಮಮಿತಿ ರೇಖೆಗಳು"
+        }
+      ],
+      "ans": "(1) ➔ One line of symmetry / ಒಂದು ಸಮಮಿತಿ ರೇಖೆ | (2) ➔ Rotates / ತಿರುಗುತ್ತದೆ | (3) ➔ Infinite lines of symmetry / ಅನಂತ ಸಮಮಿತಿ ರೇಖೆಗಳು | (4) ➔ Rotation / ಭ್ರಮಣ | (5) ➔ 4 lines of symmetry / 4 ಸಮಮಿತಿ ರೇಖೆಗಳು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c10_q13",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Which of these objects show line symmetry: butterfly, leaf, heart, snowflake, flower?\nಈ ವಸ್ತುಗಳಲ್ಲಿ ಯಾವುವು ರೇಖಾ ಸಮಮಿತಿಯನ್ನು ಹೊಂದಿವೆ: ಚಿಟ್ಟೆ, ಎಲೆ, ಹೃದಯ, ಹಿಮದ ಕಣ, ಹೂವು?",
+      "ans": "All of them: butterfly, leaf, heart, snowflake, flower\nಎಲ್ಲವೂ: ಚಿಟ್ಟೆ, ಎಲೆ, ಹೃದಯ, ಹಿಮದ ಕಣ, ಹೂವು",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c10_q14_a",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Objects: pinwheel, fan, wheel, book, pencil box.\nವಸ್ತುಗಳು: ಗಾಳಿಚಕ್ರ, ಫ್ಯಾನ್, ಚಕ್ರ, ಪುಸ್ತಕ, ಪೆನ್ಸಿಲ್ ಬಾಕ್ಸ್.\nName the three rotational objects.\nಮೂರು ಭ್ರಮಣ ವಸ್ತುಗಳ ಹೆಸರನ್ನು ಬರೆಯಿರಿ.",
+      "ans": "Pinwheel, fan, wheel\nಗಾಳಿಚಕ್ರ, ಫ್ಯಾನ್, ಚಕ್ರ",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c10_q14_b",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Objects: pinwheel, fan, wheel, book, pencil box.\nವಸ್ತುಗಳು: ಗಾಳಿಚಕ್ರ, ಫ್ಯಾನ್, ಚಕ್ರ, ಪುಸ್ತಕ, ಪೆನ್ಸಿಲ್ ಬಾಕ್ಸ್.\nName the two non-rotational objects.\nಎರಡು ಭ್ರಮಣವಲ್ಲದ ವಸ್ತುಗಳ ಹೆಸರನ್ನು ಬರೆಯಿರಿ.",
+      "ans": "Book, pencil box\nಪುಸ್ತಕ, ಪೆನ್ಸಿಲ್ ಬಾಕ್ಸ್",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c10_q14_c",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Objects: pinwheel, fan, wheel, book, pencil box.\nವಸ್ತುಗಳು: ಗಾಳಿಚಕ್ರ, ಫ್ಯಾನ್, ಚಕ್ರ, ಪುಸ್ತಕ, ಪೆನ್ಸಿಲ್ ಬಾಕ್ಸ್.\nWhat is the common type of movement shown by the pinwheel, fan and wheel?\nಗಾಳಿಚಕ್ರ, ಫ್ಯಾನ್ ಮತ್ತು ಚಕ್ರದಲ್ಲಿ ಕಂಡುಬರುವ ಸಾಮಾನ್ಯ ಚಲನೆಯ ವಿಧ ಯಾವುದು?",
+      "ans": "Rotational movement (rotation)\nಭ್ರಮಣ ಚಲನೆ",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c10_q15_a",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Observe the letters: F  A  N  K  O  T  X\nಅಕ್ಷರಗಳನ್ನು ಗಮನಿಸಿ: F  A  N  K  O  T  X\nWhich letters have a vertical line of symmetry?\nಯಾವ ಅಕ್ಷರಗಳಿಗೆ ಲಂಬ ಸಮಮಿತಿ ರೇಖೆ ಇದೆ?",
+      "ans": "A, O, T, X",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c10_q15_b",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Observe the letters: F  A  N  K  O  T  X\nಅಕ್ಷರಗಳನ್ನು ಗಮನಿಸಿ: F  A  N  K  O  T  X\nWhich letters have a horizontal line of symmetry?\nಯಾವ ಅಕ್ಷರಗಳಿಗೆ ಅಡ್ಡ ಸಮಮಿತಿ ರೇಖೆ ಇದೆ?",
+      "ans": "K, O, X",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c10_q15_c",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Observe the letters: F  A  N  K  O  T  X\nಅಕ್ಷರಗಳನ್ನು ಗಮನಿಸಿ: F  A  N  K  O  T  X\nWhich letters have both vertical and horizontal lines of symmetry?\nಯಾವ ಅಕ್ಷರಗಳಿಗೆ ಲಂಬ ಮತ್ತು ಅಡ್ಡ ಎರಡೂ ಸಮಮಿತಿ ರೇಖೆಗಳಿವೆ?",
+      "ans": "O, X",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c10_q15_d",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Observe the letters: F  A  N  K  O  T  X\nಅಕ್ಷರಗಳನ್ನು ಗಮನಿಸಿ: F  A  N  K  O  T  X\nWhich letter does not have any symmetry?\nಯಾವ ಅಕ್ಷರಕ್ಕೆ ಯಾವುದೇ ಸಮಮಿತಿ ಇಲ್ಲ?",
+      "ans": "F (N has no line of symmetry, but it looks the same after a half turn)\nF (N ಗೆ ಸಮಮಿತಿ ರೇಖೆ ಇಲ್ಲ, ಆದರೆ ಅರ್ಧ ತಿರುವಿನ ನಂತರ ಅದೇ ರೀತಿ ಕಾಣುತ್ತದೆ)",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "c10_q16_a",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Observe the letters: O  N  S  Z  H  X\nಅಕ್ಷರಗಳನ್ನು ಗಮನಿಸಿ: O  N  S  Z  H  X\nWhich letter has ¼ turn rotational symmetry?\nಯಾವ ಅಕ್ಷರಕ್ಕೆ ¼ ಭ್ರಮಣ ಸಮಮಿತಿ ಇದೆ?",
+      "ans": "O",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c10_q16_b",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Observe the letters: O  N  S  Z  H  X\nಅಕ್ಷರಗಳನ್ನು ಗಮನಿಸಿ: O  N  S  Z  H  X\nWhich letters look the same after a half turn?\nಅರ್ಧ ಸುತ್ತಿನ ನಂತರ ಯಾವ ಅಕ್ಷರಗಳು ಒಂದೇ ರೀತಿಯಾಗಿ ಕಾಣುತ್ತವೆ?",
+      "ans": "O, N, S, Z, H, X",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c10_q17_a",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Answer for the given shape: (i) Rotational symmetry? (Yes/No) (ii) Reflection symmetry? (Yes/No) (iii) How many lines of symmetry?\nಕೊಟ್ಟಿರುವ ಆಕೃತಿಗೆ ಉತ್ತರಿಸಿ: (i) ಭ್ರಮಣ ಸಮಮಿತಿ ಇದೆಯೇ? (ಹೌದು/ಇಲ್ಲ) (ii) ಪ್ರತಿಬಿಂಬ ಸಮಮಿತಿ ಇದೆಯೇ? (ಹೌದು/ಇಲ್ಲ) (iii) ಎಷ್ಟು ಸಮಮಿತಿ ರೇಖೆಗಳಿವೆ?\nSquare\nಚೌಕ",
+      "ans": "(i) Yes (order 4) (ii) Yes (iii) 4 lines\n(i) ಹೌದು (4 ಬಾರಿ) (ii) ಹೌದು (iii) 4 ರೇಖೆಗಳು",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c10_q17_b",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Answer for the given shape: (i) Rotational symmetry? (Yes/No) (ii) Reflection symmetry? (Yes/No) (iii) How many lines of symmetry?\nಕೊಟ್ಟಿರುವ ಆಕೃತಿಗೆ ಉತ್ತರಿಸಿ: (i) ಭ್ರಮಣ ಸಮಮಿತಿ ಇದೆಯೇ? (ಹೌದು/ಇಲ್ಲ) (ii) ಪ್ರತಿಬಿಂಬ ಸಮಮಿತಿ ಇದೆಯೇ? (ಹೌದು/ಇಲ್ಲ) (iii) ಎಷ್ಟು ಸಮಮಿತಿ ರೇಖೆಗಳಿವೆ?\nRectangle\nಆಯತ",
+      "ans": "(i) Yes (order 2) (ii) Yes (iii) 2 lines\n(i) ಹೌದು (2 ಬಾರಿ) (ii) ಹೌದು (iii) 2 ರೇಖೆಗಳು",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c10_q17_c",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Answer for the given shape: (i) Rotational symmetry? (Yes/No) (ii) Reflection symmetry? (Yes/No) (iii) How many lines of symmetry?\nಕೊಟ್ಟಿರುವ ಆಕೃತಿಗೆ ಉತ್ತರಿಸಿ: (i) ಭ್ರಮಣ ಸಮಮಿತಿ ಇದೆಯೇ? (ಹೌದು/ಇಲ್ಲ) (ii) ಪ್ರತಿಬಿಂಬ ಸಮಮಿತಿ ಇದೆಯೇ? (ಹೌದು/ಇಲ್ಲ) (iii) ಎಷ್ಟು ಸಮಮಿತಿ ರೇಖೆಗಳಿವೆ?\nCircle\nವೃತ್ತ",
+      "ans": "(i) Yes (infinite) (ii) Yes (iii) Infinite lines\n(i) ಹೌದು (ಅನಂತ ಬಾರಿ) (ii) ಹೌದು (iii) ಅನಂತ ರೇಖೆಗಳು",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c10_q17_d",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "Answer for the given shape: (i) Rotational symmetry? (Yes/No) (ii) Reflection symmetry? (Yes/No) (iii) How many lines of symmetry?\nಕೊಟ್ಟಿರುವ ಆಕೃತಿಗೆ ಉತ್ತರಿಸಿ: (i) ಭ್ರಮಣ ಸಮಮಿತಿ ಇದೆಯೇ? (ಹೌದು/ಇಲ್ಲ) (ii) ಪ್ರತಿಬಿಂಬ ಸಮಮಿತಿ ಇದೆಯೇ? (ಹೌದು/ಇಲ್ಲ) (iii) ಎಷ್ಟು ಸಮಮಿತಿ ರೇಖೆಗಳಿವೆ?\nScalene triangle\nಅಸಮಬಾಹು ತ್ರಿಭುಜ",
+      "ans": "(i) No (ii) No (iii) No line of symmetry\n(i) ಇಲ್ಲ (ii) ಇಲ್ಲ (iii) ಸಮಮಿತಿ ರೇಖೆ ಇಲ್ಲ",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಕಠಿಣ"
+    },
+    {
+      "id": "c10_q18_a",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "A square is divided into 4 equal small squares. The top-left and bottom-right squares are black; the other two are white.\nಒಂದು ಚೌಕವನ್ನು 4 ಸಮಾನ ಸಣ್ಣ ಚೌಕಗಳಾಗಿ ವಿಭಜಿಸಲಾಗಿದೆ. ಮೇಲಿನ ಎಡ ಮತ್ತು ಕೆಳಗಿನ ಬಲ ಚೌಕಗಳು ಕಪ್ಪು; ಉಳಿದ ಎರಡು ಬಿಳಿ.\nDoes this design look the same after a ½ turn?\nಈ ವಿನ್ಯಾಸವು ಅರ್ಧ ತಿರುಗುವಿಕೆಯ (½ turn) ನಂತರ ಒಂದೇ ರೀತಿಯಾಗಿ ಕಾಣುತ್ತದೆಯೇ?",
+      "ans": "Yes\nಹೌದು",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c10_q18_b",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "A square is divided into 4 equal small squares. The top-left and bottom-right squares are black; the other two are white.\nಒಂದು ಚೌಕವನ್ನು 4 ಸಮಾನ ಸಣ್ಣ ಚೌಕಗಳಾಗಿ ವಿಭಜಿಸಲಾಗಿದೆ. ಮೇಲಿನ ಎಡ ಮತ್ತು ಕೆಳಗಿನ ಬಲ ಚೌಕಗಳು ಕಪ್ಪು; ಉಳಿದ ಎರಡು ಬಿಳಿ.\nDoes this design look the same after a ¼ turn?\nಈ ವಿನ್ಯಾಸವು ಕಾಲು ತಿರುಗುವಿಕೆಯ (¼ turn) ನಂತರ ಒಂದೇ ರೀತಿಯಾಗಿ ಕಾಣುತ್ತದೆಯೇ?",
+      "ans": "No (the colours swap places)\nಇಲ್ಲ (ಬಣ್ಣಗಳು ಸ್ಥಾನ ಬದಲಾಯಿಸುತ್ತವೆ)",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c10_q18_c",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "A square is divided into 4 equal small squares. The top-left and bottom-right squares are black; the other two are white.\nಒಂದು ಚೌಕವನ್ನು 4 ಸಮಾನ ಸಣ್ಣ ಚೌಕಗಳಾಗಿ ವಿಭಜಿಸಲಾಗಿದೆ. ಮೇಲಿನ ಎಡ ಮತ್ತು ಕೆಳಗಿನ ಬಲ ಚೌಕಗಳು ಕಪ್ಪು; ಉಳಿದ ಎರಡು ಬಿಳಿ.\nDoes this design have reflection symmetry?\nಈ ವಿನ್ಯಾಸವು ಪ್ರತಿಫಲನ ಸಮಮಿತಿಯನ್ನು ಹೊಂದಿದೆಯೇ?",
+      "ans": "Yes\nಹೌದು",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "c10_q18_d",
+      "chapter": "10. ಸಮಮಿತಿಯ ವಿನ್ಯಾಸಗಳು (Symmetrical Designs)",
+      "type": "vsa_1m",
+      "marks": 1,
+      "q": "A square is divided into 4 equal small squares. The top-left and bottom-right squares are black; the other two are white.\nಒಂದು ಚೌಕವನ್ನು 4 ಸಮಾನ ಸಣ್ಣ ಚೌಕಗಳಾಗಿ ವಿಭಜಿಸಲಾಗಿದೆ. ಮೇಲಿನ ಎಡ ಮತ್ತು ಕೆಳಗಿನ ಬಲ ಚೌಕಗಳು ಕಪ್ಪು; ಉಳಿದ ಎರಡು ಬಿಳಿ.\nHow many lines of symmetry does it have, and where are they?\nಇದಕ್ಕೆ ಎಷ್ಟು ಸಮಮಿತಿ ರೇಖೆಗಳಿವೆ ಮತ್ತು ಅವು ಎಲ್ಲಿವೆ?",
+      "ans": "2 lines – along the two diagonals\n2 ರೇಖೆಗಳು – ಎರಡು ಕರ್ಣಗಳ ಮೇಲೆ",
+      "obj": "ಕೌಶಲ",
+      "diff": "ಸಾಧಾರಣ"
+    }
+  ]
+
