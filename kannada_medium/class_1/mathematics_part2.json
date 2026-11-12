@@ -1,0 +1,34 @@
+[
+  {
+    "id": "m1_p2_act_001",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಎಣಿಕೆ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸುಲಭ",
+    "activity": "count",
+    "q": "ಎಣಿಸಿ ಸಂಖ್ಯೆ ಬರೆ",
+    "items": [
+      {
+        "img": "images/class_1/mavu.png",
+        "n": 3
+      },
+      {
+        "img": "images/class_1/chendu.png",
+        "n": 5
+      },
+      {
+        "img": "images/class_1/hoovu.png",
+        "n": 2
+      },
+      {
+        "img": "images/class_1/meenu.png",
+        "n": 4
+      }
+    ]
+  }
+]
