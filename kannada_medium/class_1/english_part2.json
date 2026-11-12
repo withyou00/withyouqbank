@@ -1,0 +1,315 @@
+[
+  {
+    "id": "q_en_1_ch01_001",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "English",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "Capital Letters",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "q": "Trace and write the capital letters",
+    "activity": "letters",
+    "letters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "trace": 3,
+    "boxes": 3
+  },
+  {
+    "id": "q_en_1_ch02_002",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "English",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "Small Letters",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "q": "Trace and write the small letters",
+    "activity": "letters",
+    "letters": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "trace": 3,
+    "boxes": 3
+  },
+  {
+    "id": "q_en_1_ch03_003",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "English",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "Capital and Small Letters",
+    "type": "match",
+    "marks": 4,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸುಲಭ",
+    "q": "Match the capital letter with its small letter:",
+    "matchPairs": [
+      {
+        "a": "A",
+        "b": "a"
+      },
+      {
+        "a": "G",
+        "b": "g"
+      },
+      {
+        "a": "M",
+        "b": "m"
+      },
+      {
+        "a": "R",
+        "b": "r"
+      }
+    ],
+    "ans": "1-a, 2-g, 3-m, 4-r"
+  },
+  {
+    "id": "q_en_1_ch04_004",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "English",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "Missing Letters",
+    "type": "blanks",
+    "marks": 4,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸುಲಭ",
+    "q": "Write the missing letter:\n1. A  B  [____]  D\n2. P  [____]  R  S\n3. [____]  F  G  H\n4. W  X  [____]  Z",
+    "ans": "1. C, 2. Q, 3. E, 4. Y"
+  },
+  {
+    "id": "q_en_1_ch05_005",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "English",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "Picture Words",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸುಲಭ",
+    "q": "Look at the picture and write its name",
+    "activity": "picword",
+    "help": [
+      "cat",
+      "sun",
+      "cup",
+      "bus"
+    ],
+    "items": [
+      {
+        "img": "🐈",
+        "ans": "cat"
+      },
+      {
+        "img": "☀️",
+        "ans": "sun"
+      },
+      {
+        "img": "☕",
+        "ans": "cup"
+      },
+      {
+        "img": "🚌",
+        "ans": "bus"
+      }
+    ]
+  },
+  {
+    "id": "q_en_1_ch05_006",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "English",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "Picture Words",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸುಲಭ",
+    "q": "Match the picture with the word",
+    "activity": "picmatch",
+    "pairs": [
+      {
+        "img": "🍎",
+        "word": "apple"
+      },
+      {
+        "img": "🐶",
+        "word": "dog"
+      },
+      {
+        "img": "⚽",
+        "word": "ball"
+      },
+      {
+        "img": "🐟",
+        "word": "fish"
+      }
+    ]
+  },
+  {
+    "id": "q_en_1_ch06_007",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "English",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "Beginning Sounds",
+    "type": "blanks",
+    "marks": 4,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸುಲಭ",
+    "q": "Write the first letter:\n1. 🐈 _at ➔ [____]\n2. 🐶 _og ➔ [____]\n3. 🎩 _at ➔ [____]\n4. 🐷 _ig ➔ [____]",
+    "ans": "1. c, 2. d, 3. h, 4. p"
+  },
+  {
+    "id": "q_en_1_ch06_008",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "English",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "Beginning Sounds",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸುಲಭ",
+    "q": "Circle the picture that begins with the letter",
+    "activity": "circle",
+    "rows": [
+      {
+        "q": "b",
+        "options": [
+          "🍎",
+          "⚽",
+          "🐈"
+        ],
+        "ans": 2
+      },
+      {
+        "q": "s",
+        "options": [
+          "☀️",
+          "🐶",
+          "🍌"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "f",
+        "options": [
+          "🚌",
+          "🎈",
+          "🐟"
+        ],
+        "ans": 3
+      }
+    ]
+  },
+  {
+    "id": "q_en_1_ch07_009",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "English",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "Copy Writing",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "q": "Copy the words neatly",
+    "activity": "copy",
+    "words": [
+      "pen",
+      "hen",
+      "bag",
+      "cap"
+    ],
+    "lines": 2
+  },
+  {
+    "id": "q_en_1_ch08_010",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "English",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "Colours",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "q": "Colour the pictures",
+    "activity": "color",
+    "shapes": [
+      {
+        "shape": "star",
+        "label": "yellow"
+      },
+      {
+        "shape": "apple",
+        "label": "red"
+      },
+      {
+        "shape": "leaf",
+        "label": "green"
+      }
+    ]
+  },
+  {
+    "id": "q_en_1_ch09_011",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "English",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "Numbers",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸುಲಭ",
+    "q": "Match the number with the word",
+    "activity": "picmatch",
+    "pairs": [
+      {
+        "img": "1",
+        "word": "one"
+      },
+      {
+        "img": "2",
+        "word": "two"
+      },
+      {
+        "img": "3",
+        "word": "three"
+      },
+      {
+        "img": "4",
+        "word": "four"
+      }
+    ]
+  },
+  {
+    "id": "q_en_1_ch10_012",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "English",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "Draw",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "q": "Draw a ball and colour it",
+    "activity": "draw",
+    "height": 55
+  }
+]
