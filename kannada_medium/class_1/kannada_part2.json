@@ -170,5 +170,1232 @@
     "activity": "draw",
     "q": "ನಿನ್ನ ಮನೆಯ ಚಿತ್ರ ಬಿಡಿಸು",
     "height": 70
+  },
+  
+  {
+    "id": "kn1_p2_act_008",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಅಕ್ಷರ ತಿದ್ದುವುದು",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "letters",
+    "q": "ಅಕ್ಷರಗಳನ್ನು ತಿದ್ದಿ, ನಂತರ ಖಾಲಿ ಚೌಕದಲ್ಲಿ ನೀನೇ ಬರೆ",
+    "letters": [
+      "ಈ",
+      "ಉ",
+      "ಊ"
+    ],
+    "trace": 3,
+    "boxes": 3
+  },
+  {
+    "id": "kn1_p2_act_009",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸುಂದರ ಕೈಬರಹ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "copy",
+    "q": "ಈ ಪದಗಳನ್ನು ಸುಂದರವಾಗಿ ನಕಲು ಮಾಡಿ ಬರೆ",
+    "words": [
+      "ಅರಸ",
+      "ಆನೆ",
+      "ಇಲಿ",
+      "ಉಯ್ಯಾಲೆ"
+    ],
+    "lines": 2
+  },
+  {
+    "id": "kn1_p2_act_010",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ-ಪದ ಪರಿಚಯ",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸುಲಭ",
+    "activity": "picword",
+    "q": "ಚಿತ್ರ ನೋಡಿ ಕಂಸದಲ್ಲಿರುವ ಸರಿಯಾದ ಪದ ಆರಿಸಿ ಬರೆ",
+    "help": [
+      "ಆನೆ",
+      "ಹಕ್ಕಿ",
+      "ಮೀನು"
+    ],
+    "items": [
+      {
+        "img": "images/class_1/aane.png",
+        "ans": "ಆನೆ"
+      },
+      {
+        "img": "images/class_1/hakki.png",
+        "ans": "ಹಕ್ಕಿ"
+      },
+      {
+        "img": "images/class_1/meenu.png",
+        "ans": "ಮೀನು"
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_011",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ-ಪದ ಹೊಂದಿಸುವಿಕೆ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸಾಧಾರಣ",
+    "activity": "picmatch",
+    "q": "ಚಿತ್ರ ಮತ್ತು ಪದವನ್ನು ಗೆರೆ ಎಳೆದು ಹೊಂದಿಸು",
+    "pairs": [
+      {
+        "img": "images/class_1/balehannu.png",
+        "word": "ಬಾಳೆಹಣ್ಣು"
+      },
+      {
+        "img": "images/class_1/sebu.png",
+        "word": "ಸೇಬು"
+      },
+      {
+        "img": "images/class_1/maavu.png",
+        "word": "ಮಾವು"
+      },
+      {
+        "img": "images/class_1/drakshi.png",
+        "word": "ದ್ರಾಕ್ಷಿ"
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_012",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸುತ್ತು ಹಾಕುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸುಲಭ",
+    "activity": "circle",
+    "q": "ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಸುತ್ತು ಹಾಕು",
+    "rows": [
+      {
+        "q": "ನೀರಿನಲ್ಲಿ ಈಜುವ ಪ್ರಾಣಿ ಯಾವುದು?",
+        "options": [
+          "ಮೀನು",
+          "ನಾಯಿ",
+          "ಆಕಳು"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "'ಕ' ಅಕ್ಷರದಿಂದ ಆರಂಭವಾಗುವ ಪದ",
+        "options": [
+          "ಕಮಲ",
+          "ಅರಸ",
+          "ಹೂವು"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_013",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಬಣ್ಣ ತುಂಬುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "color",
+    "q": "ಮಾವಿನ ಹಣ್ಣಿನ ಚಿತ್ರಕ್ಕೆ ಹಳದಿ ಬಣ್ಣ ತುಂಬು",
+    "img": "images/class_1/mango_outline.png",
+    "height": 90
+  },
+  {
+    "id": "kn1_p2_act_014",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ ಬಿಡಿಸುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "draw",
+    "q": "ಸೂರ್ಯನ ಚಿತ್ರ ಬಿಡಿಸು",
+    "height": 70
+  },
+  {
+    "id": "kn1_p2_act_015",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಅಕ್ಷರ ತಿದ್ದುವುದು",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "letters",
+    "q": "ಅಕ್ಷರಗಳನ್ನು ತಿದ್ದಿ, ನಂತರ ಖಾಲಿ ಚೌಕದಲ್ಲಿ ನೀನೇ ಬರೆ",
+    "letters": [
+      "ಋ",
+      "ಎ",
+      "ಏ"
+    ],
+    "trace": 3,
+    "boxes": 3
+  },
+  {
+    "id": "kn1_p2_act_016",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸುಂದರ ಕೈಬರಹ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "copy",
+    "q": "ಈ ಪದಗಳನ್ನು ಸುಂದರವಾಗಿ ನಕಲು ಮಾಡಿ ಬರೆ",
+    "words": [
+      "ಕಣ್ಣು",
+      "ಕಿವಿ",
+      "ಮೂಗು",
+      "ಬಾಯಿ"
+    ],
+    "lines": 2
+  },
+  {
+    "id": "kn1_p2_act_017",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ-ಪದ ಪರಿಚಯ",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸುಲಭ",
+    "activity": "picword",
+    "q": "ಚಿತ್ರ ನೋಡಿ ಕಂಸದಲ್ಲಿರುವ ಸರಿಯಾದ ಪದ ಆರಿಸಿ ಬರೆ",
+    "help": [
+      "ಬೆಕ್ಕು",
+      "ನಾಯಿ",
+      "ಆಡು"
+    ],
+    "items": [
+      {
+        "img": "images/class_1/bekku.png",
+        "ans": "ಬೆಕ್ಕು"
+      },
+      {
+        "img": "images/class_1/naayi.png",
+        "ans": "ನಾಯಿ"
+      },
+      {
+        "img": "images/class_1/aadu.png",
+        "ans": "ಆಡು"
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_018",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ-ಪದ ಹೊಂದಿಸುವಿಕೆ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸಾಧಾರಣ",
+    "activity": "picmatch",
+    "q": "ಚಿತ್ರ ಮತ್ತು ಪದವನ್ನು ಗೆರೆ ಎಳೆದು ಹೊಂದಿಸು",
+    "pairs": [
+      {
+        "img": "images/class_1/chandu.png",
+        "word": "ಚಂಡು"
+      },
+      {
+        "img": "images/class_1/billu.png",
+        "word": "ಬಿಲ್ಲು"
+      },
+      {
+        "img": "images/class_1/battalu.png",
+        "word": "ಬಟ್ಟಲು"
+      },
+      {
+        "img": "images/class_1/kurchi.png",
+        "word": "ಕುರ್ಚಿ"
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_019",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸುತ್ತು ಹಾಕುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸುಲಭ",
+    "activity": "circle",
+    "q": "ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಸುತ್ತು ಹಾಕು",
+    "rows": [
+      {
+        "q": "ಹಾಲು ಕೊಡುವ ಪ್ರಾಣಿ ಯಾವುದು?",
+        "options": [
+          "ಹಸು",
+          "ಹುಲಿ",
+          "ಕರಡಿ"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "'ಗ' ಅಕ್ಷರದಿಂದ ಆರಂಭವಾಗುವ ಪದ",
+        "options": [
+          "ಗಡಿಯಾರ",
+          "ಚಮಚ",
+          "ಮನೆ"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_020",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಬಣ್ಣ ತುಂಬುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "color",
+    "q": "ಚೆಂಡಿನ ಚಿತ್ರಕ್ಕೆ ನಿನಗಿಷ್ಟವಾದ ಬಣ್ಣ ತುಂಬು",
+    "img": "images/class_1/ball_outline.png",
+    "height": 90
+  },
+  {
+    "id": "kn1_p2_act_021",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ ಬಿಡಿಸುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "draw",
+    "q": "ಒಂದು ಸುಂದರ ಹೂವಿನ ಚಿತ್ರ ಬಿಡಿಸು",
+    "height": 70
+  },
+  {
+    "id": "kn1_p2_act_022",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಅಕ್ಷರ ತಿದ್ದುವುದು",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "letters",
+    "q": "ಅಕ್ಷರಗಳನ್ನು ತಿದ್ದಿ, ನಂತರ ಖಾಲಿ ಚೌಕದಲ್ಲಿ ನೀನೇ ಬರೆ",
+    "letters": [
+      "ಐ",
+      "ಒ",
+      "ಓ"
+    ],
+    "trace": 3,
+    "boxes": 3
+  },
+  {
+    "id": "kn1_p2_act_023",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸುಂದರ ಕೈಬರಹ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "copy",
+    "q": "ಈ ಪದಗಳನ್ನು ಸುಂದರವಾಗಿ ನಕಲು ಮಾಡಿ ಬರೆ",
+    "words": [
+      "ಅಮ್ಮ",
+      "ಅಪ್ಪ",
+      "ಅಣ್ಣ",
+      "ಅಕ್ಕ"
+    ],
+    "lines": 2
+  },
+  {
+    "id": "kn1_p2_act_024",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ-ಪದ ಪರಿಚಯ",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸುಲಭ",
+    "activity": "picword",
+    "q": "ಚಿತ್ರ ನೋಡಿ ಕಂಸದಲ್ಲಿರುವ ಸರಿಯಾದ ಪದ ಆರಿಸಿ ಬರೆ",
+    "help": [
+      "ದೋಣಿ",
+      "ಕಾರು",
+      "ಸೈಕಲ್"
+    ],
+    "items": [
+      {
+        "img": "images/class_1/doni.png",
+        "ans": "ದೋಣಿ"
+      },
+      {
+        "img": "images/class_1/kaaru.png",
+        "ans": "ಕಾರು"
+      },
+      {
+        "img": "images/class_1/cycle.png",
+        "ans": "ಸೈಕಲ್"
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_025",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ-ಪದ ಹೊಂದಿಸುವಿಕೆ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸಾಧಾರಣ",
+    "activity": "picmatch",
+    "q": "ಚಿತ್ರ ಮತ್ತು ಪಕ್ಷಿಯ ಹೆಸರನ್ನು ಗೆರೆ ಎಳೆದು ಹೊಂದಿಸು",
+    "pairs": [
+      {
+        "img": "images/class_1/kaage.png",
+        "word": "ಕಾಗೆ"
+      },
+      {
+        "img": "images/class_1/gili.png",
+        "word": "ಗಿಳಿ"
+      },
+      {
+        "img": "images/class_1/navilu.png",
+        "word": "ನವಿಲು"
+      },
+      {
+        "img": "images/class_1/koli.png",
+        "word": "ಕೋಳಿ"
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_026",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸುತ್ತು ಹಾಕುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸುಲಭ",
+    "activity": "circle",
+    "q": "ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಸುತ್ತು ಹಾಕು",
+    "rows": [
+      {
+        "q": "ನಮ್ಮ ರಾಷ್ಟ್ರೀಯ ಪಕ್ಷಿ ಯಾವುದು?",
+        "options": [
+          "ನವಿಲು",
+          "ಕಾಗೆ",
+          "ಗುಬ್ಬಚ್ಚಿ"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "'ಚ' ಅಕ್ಷರದಿಂದ ಆರಂಭವಾಗುವ ಪದ",
+        "options": [
+          "ಚಂಡು",
+          "ಬಸ್ಸು",
+          "ಕಾಗೆ"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_027",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಬಣ್ಣ ತುಂಬುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "color",
+    "q": "ಎಲೆಯ ಚಿತ್ರಕ್ಕೆ ಹಸಿರು ಬಣ್ಣ ತುಂಬು",
+    "img": "images/class_1/leaf_outline.png",
+    "height": 90
+  },
+  {
+    "id": "kn1_p2_act_028",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ ಬಿಡಿಸುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "draw",
+    "q": "ಒಂದು ದೊಡ್ಡ ಮರದ ಚಿತ್ರ ಬಿಡಿಸು",
+    "height": 70
+  },
+  {
+    "id": "kn1_p2_act_029",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಅಕ್ಷರ ತಿದ್ದುವುದು",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "letters",
+    "q": "ಅಕ್ಷರಗಳನ್ನು ತಿದ್ದಿ, ನಂತರ ಖಾಲಿ ಚೌಕದಲ್ಲಿ ನೀನೇ ಬರೆ",
+    "letters": [
+      "ಔ",
+      "ಅಂ",
+      "ಅಃ"
+    ],
+    "trace": 3,
+    "boxes": 3
+  },
+  {
+    "id": "kn1_p2_act_030",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸುಂದರ ಕೈಬರಹ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "copy",
+    "q": "ಈ ಪದಗಳನ್ನು ಸುಂದರವಾಗಿ ನಕಲು ಮಾಡಿ ಬರೆ",
+    "words": [
+      "ಆಟ",
+      "ಪಾಠ",
+      "ಊಟ",
+      "ನೋಟ"
+    ],
+    "lines": 2
+  },
+  {
+    "id": "kn1_p2_act_031",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ-ಪದ ಪರಿಚಯ",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸುಲಭ",
+    "activity": "picword",
+    "q": "ಚಿತ್ರ ನೋಡಿ ಕಂಸದಲ್ಲಿರುವ ಸರಿಯಾದ ಪದ ಆರಿಸಿ ಬರೆ",
+    "help": [
+      "ಪುಸ್ತಕ",
+      "ಚೀಲ",
+      "ಪೆನ್ಸಿಲ್"
+    ],
+    "items": [
+      {
+        "img": "images/class_1/pustaka.png",
+        "ans": "ಪುಸ್ತಕ"
+      },
+      {
+        "img": "images/class_1/cheela.png",
+        "ans": "ಚೀಲ"
+      },
+      {
+        "img": "images/class_1/pencil.png",
+        "ans": "ಪೆನ್ಸಿಲ್"
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_032",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ-ಪದ ಹೊಂದಿಸುವಿಕೆ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸಾಧಾರಣ",
+    "activity": "picmatch",
+    "q": "ಚಿತ್ರ ಮತ್ತು ಹೆಸರನ್ನು ಗೆರೆ ಎಳೆದು ಹೊಂದಿಸು",
+    "pairs": [
+      {
+        "img": "images/class_1/soorya.png",
+        "word": "ಸೂರ್ಯ"
+      },
+      {
+        "img": "images/class_1/chandra.png",
+        "word": "ಚಂದ್ರ"
+      },
+      {
+        "img": "images/class_1/nakshatra.png",
+        "word": "ನಕ್ಷತ್ರ"
+      },
+      {
+        "img": "images/class_1/moda.png",
+        "word": "ಮೋಡ"
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_033",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸುತ್ತು ಹಾಕುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸುಲಭ",
+    "activity": "circle",
+    "q": "ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಸುತ್ತು ಹಾಕು",
+    "rows": [
+      {
+        "q": "ರಾತ್ರಿ ಹೊತ್ತು ಬೆಳಕು ನೀಡುವವರು ಯಾರು?",
+        "options": [
+          "ಚಂದ್ರ",
+          "ಸೂರ್ಯ",
+          "ಮೋಡ"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "'ತ' ಅಕ್ಷರದಿಂದ ಆರಂಭವಾಗುವ ಪದ",
+        "options": [
+          "ತರಕಾರಿ",
+          "ಮರ",
+          "ಹಕ್ಕಿ"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_034",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಬಣ್ಣ ತುಂಬುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "color",
+    "q": "ಸೇಬಿನ ಹಣ್ಣಿನ ಚಿತ್ರಕ್ಕೆ ಕೆಂಪು ಬಣ್ಣ ತುಂಬು",
+    "img": "images/class_1/apple_outline.png",
+    "height": 90
+  },
+  {
+    "id": "kn1_p2_act_035",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ ಬಿಡಿಸುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "draw",
+    "q": "ಆಕಾಶದಲ್ಲಿ ಹಾರುವ ಗಾಳಿಪಟದ ಚಿತ್ರ ಬಿಡಿಸು",
+    "height": 70
+  },
+  {
+    "id": "kn1_p2_act_036",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಅಕ್ಷರ ತಿದ್ದುವುದು",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "letters",
+    "q": "ಅಕ್ಷರಗಳನ್ನು ತಿದ್ದಿ, ನಂತರ ಖಾಲಿ ಚೌಕದಲ್ಲಿ ನೀನೇ ಬರೆ",
+    "letters": [
+      "ಕ",
+      "ಖ",
+      "ಗ"
+    ],
+    "trace": 3,
+    "boxes": 3
+  },
+  {
+    "id": "kn1_p2_act_037",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸುಂದರ ಕೈಬರಹ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "copy",
+    "q": "ಈ ಪದಗಳನ್ನು ಸುಂದರವಾಗಿ ನಕಲು ಮಾಡಿ ಬರೆ",
+    "words": [
+      "ಬೆಟ್ಟ",
+      "ನದಿ",
+      "ಕಾಡು",
+      "ನಾಡು"
+    ],
+    "lines": 2
+  },
+  {
+    "id": "kn1_p2_act_038",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ-ಪದ ಪರಿಚಯ",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸುಲಭ",
+    "activity": "picword",
+    "q": "ಚಿತ್ರ ನೋಡಿ ಕಂಸದಲ್ಲಿರುವ ಸರಿಯಾದ ಪದ ಆರಿಸಿ ಬರೆ",
+    "help": [
+      "ಹಾವು",
+      "ಕಪ್ಪೆ",
+      "ಆಮೆ"
+    ],
+    "items": [
+      {
+        "img": "images/class_1/haavu.png",
+        "ans": "ಹಾವು"
+      },
+      {
+        "img": "images/class_1/kappe.png",
+        "ans": "ಕಪ್ಪೆ"
+      },
+      {
+        "img": "images/class_1/aame.png",
+        "ans": "ಆಮೆ"
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_039",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ-ಪದ ಹೊಂದಿಸುವಿಕೆ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸಾಧಾರಣ",
+    "activity": "picmatch",
+    "q": "ಅಡುಗೆ ಮನೆಯ ವಸ್ತುಗಳನ್ನು ಪದಕ್ಕೆ ಗೆರೆ ಎಳೆದು ಹೊಂದಿಸು",
+    "pairs": [
+      {
+        "img": "images/class_1/lota.png",
+        "word": "ಲೋಟ"
+      },
+      {
+        "img": "images/class_1/tatte.png",
+        "word": "ತಟ್ಟೆ"
+      },
+      {
+        "img": "images/class_1/chamacha.png",
+        "word": "ಚಮಚ"
+      },
+      {
+        "img": "images/class_1/bindige.png",
+        "word": "ಬಿಂದಿಗೆ"
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_040",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸುತ್ತು ಹಾಕುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸುಲಭ",
+    "activity": "circle",
+    "q": "ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಸುತ್ತು ಹಾಕು",
+    "rows": [
+      {
+        "q": "ಕಾಡಿನ ರಾಜ ಯಾರು?",
+        "options": [
+          "ಸಿಂಹ",
+          "ಜಿಂಕೆ",
+          "ಮೊಲ"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "'ಪ' ಅಕ್ಷರದಿಂದ ಆರಂಭವಾಗುವ ಪದ",
+        "options": [
+          "ಪಟ",
+          "ದೋಣಿ",
+          "ಕಮಲ"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_041",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಬಣ್ಣ ತುಂಬುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "color",
+    "q": "ಮೀನಿನ ಚಿತ್ರಕ್ಕೆ ಸುಂದರವಾದ ಬಣ್ಣ ತುಂಬು",
+    "img": "images/class_1/fish_outline.png",
+    "height": 90
+  },
+  {
+    "id": "kn1_p2_act_042",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ ಬಿಡಿಸುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "draw",
+    "q": "ಒಂದು ಬಲೂನಿನ ಚಿತ್ರ ಬಿಡಿಸು",
+    "height": 70
+  },
+  {
+    "id": "kn1_p2_act_043",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಅಕ್ಷರ ತಿದ್ದುವುದು",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "letters",
+    "q": "ಅಕ್ಷರಗಳನ್ನು ತಿದ್ದಿ, ನಂತರ ಖಾಲಿ ಚೌಕದಲ್ಲಿ ನೀನೇ ಬರೆ",
+    "letters": [
+      "ಘ",
+      "ಚ",
+      "ಛ"
+    ],
+    "trace": 3,
+    "boxes": 3
+  },
+  {
+    "id": "kn1_p2_act_044",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸುಂದರ ಕೈಬರಹ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "copy",
+    "q": "ಈ ಪದಗಳನ್ನು ಸುಂದರವಾಗಿ ನಕಲು ಮಾಡಿ ಬರೆ",
+    "words": [
+      "ಶಾಲೆ",
+      "ಗುರು",
+      "ಪುಸ್ತಕ",
+      "ಆಟದ ಮೈದಾನ"
+    ],
+    "lines": 2
+  },
+  {
+    "id": "kn1_p2_act_045",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ-ಪದ ಪರಿಚಯ",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸುಲಭ",
+    "activity": "picword",
+    "q": "ಚಿತ್ರ ನೋಡಿ ಹೂವಿನ ಸರಿಯಾದ ಹೆಸರನ್ನು ಬರೆ",
+    "help": [
+      "ಗುಲಾಬಿ",
+      "ತಾವರೆ",
+      "ಸೂರ್ಯಕಾಂತಿ"
+    ],
+    "items": [
+      {
+        "img": "images/class_1/gulabi.png",
+        "ans": "ಗುಲಾಬಿ"
+      },
+      {
+        "img": "images/class_1/taavare.png",
+        "ans": "ತಾವರೆ"
+      },
+      {
+        "img": "images/class_1/sooryakaanti.png",
+        "ans": "ಸೂರ್ಯಕಾಂತಿ"
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_046",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ-ಪದ ಹೊಂದಿಸುವಿಕೆ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸಾಧಾರಣ",
+    "activity": "picmatch",
+    "q": "ತರಕಾರಿಗಳ ಚಿತ್ರ ಮತ್ತು ಪದವನ್ನು ಹೊಂದಿಸು",
+    "pairs": [
+      {
+        "img": "images/class_1/tomato.png",
+        "word": "ಟೊಮೆಟೊ"
+      },
+      {
+        "img": "images/class_1/badane.png",
+        "word": "ಬದನೆಕಾಯಿ"
+      },
+      {
+        "img": "images/class_1/carrot.png",
+        "word": "ಕ್ಯಾರೆಟ್"
+      },
+      {
+        "img": "images/class_1/eerulli.png",
+        "word": "ಈರುಳ್ಳಿ"
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_047",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸುತ್ತು ಹಾಕುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸುಲಭ",
+    "activity": "circle",
+    "q": "ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಸುತ್ತು ಹಾಕು",
+    "rows": [
+      {
+        "q": "ನಮ್ಮ ರಾಜ್ಯದ ಹೆಸರು ಯಾವುದು?",
+        "options": [
+          "ಕರ್ನಾಟಕ",
+          "ಕೇರಳ",
+          "ಗೋವಾ"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "'ಬ' ಅಕ್ಷರದಿಂದ ಆರಂಭವಾಗುವ ಪದ",
+        "options": [
+          "ಬಾಳೆಹಣ್ಣು",
+          "ಸೇಬು",
+          "ಅನಾನಸ್"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_048",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಬಣ್ಣ ತುಂಬುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "color",
+    "q": "ಪುಟ್ಟ ಮನೆಯ ಚಿತ್ರಕ್ಕೆ ಇಷ್ಟವಾದ ಬಣ್ಣ ತುಂಬು",
+    "img": "images/class_1/house_outline.png",
+    "height": 90
+  },
+  {
+    "id": "kn1_p2_act_049",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ ಬಿಡಿಸುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "draw",
+    "q": "ಒಂದು ತಟ್ಟೆಯ ಚಿತ್ರ ಬಿಡಿಸು",
+    "height": 70
+  },
+  {
+    "id": "kn1_p2_act_050",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಅಕ್ಷರ ತಿದ್ದುವುದು",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "letters",
+    "q": "ಅಕ್ಷರಗಳನ್ನು ತಿದ್ದಿ, ನಂತರ ಖಾಲಿ ಚೌಕದಲ್ಲಿ ನೀನೇ ಬರೆ",
+    "letters": [
+      "ಜ",
+      "ಝ",
+      "ಟ"
+    ],
+    "trace": 3,
+    "boxes": 3
+  },
+  {
+    "id": "kn1_p2_act_051",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸುಂದರ ಕೈಬರಹ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "copy",
+    "q": "ಈ ಪದಗಳನ್ನು ಸುಂದರವಾಗಿ ನಕಲು ಮಾಡಿ ಬರೆ",
+    "words": [
+      "ಹಾಲು",
+      "ಹಣ್ಣು",
+      "ತಿಂಡಿ",
+      "ನೀರು"
+    ],
+    "lines": 2
+  },
+  {
+    "id": "kn1_p2_act_052",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ-ಪದ ಪರಿಚಯ",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸುಲಭ",
+    "activity": "picword",
+    "q": "ಚಿತ್ರ ನೋಡಿ ಪ್ರಾಣಿಯ ಹೆಸರನ್ನು ಆರಿಸಿ ಬರೆ",
+    "help": [
+      "ಹುಲಿ",
+      "ಜಿಂಕೆ",
+      "ಮೊಲ"
+    ],
+    "items": [
+      {
+        "img": "images/class_1/huli.png",
+        "ans": "ಹುಲಿ"
+      },
+      {
+        "img": "images/class_1/jinke.png",
+        "ans": "ಜಿಂಕೆ"
+      },
+      {
+        "img": "images/class_1/mola.png",
+        "ans": "ಮೊಲ"
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_053",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ-ಪದ ಹೊಂದಿಸುವಿಕೆ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸಾಧಾರಣ",
+    "activity": "picmatch",
+    "q": "ನಾವು ಬಳಸುವ ವಸ್ತುಗಳ ಚಿತ್ರವನ್ನು ಹೆಸರಿಗೆ ಹೊಂದಿಸು",
+    "pairs": [
+      {
+        "img": "images/class_1/topi.png",
+        "word": "ಟೋಪಿ"
+      },
+      {
+        "img": "images/class_1/kannadaka.png",
+        "word": "ಕನ್ನಡಕ"
+      },
+      {
+        "img": "images/class_1/chatri.png",
+        "word": "ಛತ್ರಿ"
+      },
+      {
+        "img": "images/class_1/ghadiyara.png",
+        "word": "ಗಡಿಯಾರ"
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_054",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸುತ್ತು ಹಾಕುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸುಲಭ",
+    "activity": "circle",
+    "q": "ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಸುತ್ತು ಹಾಕು",
+    "rows": [
+      {
+        "q": "ಮಳೆ ಬಂದಾಗ ನಾವು ಹಿಡಿಯುವುದು ಯಾವುದು?",
+        "options": [
+          "ಛತ್ರಿ",
+          "ಪುಸ್ತಕ",
+          "ಚೆಂಡು"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "'ರ' ಅಕ್ಷರದಿಂದ ಆರಂಭವಾಗುವ ಪದ",
+        "options": [
+          "ರಥ",
+          "ಕಮಲ",
+          "ಆನೆ"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_055",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಬಣ್ಣ ತುಂಬುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "color",
+    "q": "ನಕ್ಷತ್ರದ ಚಿತ್ರಕ್ಕೆ ಹಳದಿ ಬಣ್ಣ ತುಂಬು",
+    "img": "images/class_1/star_outline.png",
+    "height": 90
+  },
+  {
+    "id": "kn1_p2_act_056",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ ಬಿಡಿಸುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "draw",
+    "q": "ಒಂದು ಎಲೆಯ ಚಿತ್ರ ಬಿಡಿಸು",
+    "height": 70
+  },
+  {
+    "id": "kn1_p2_act_057",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಅಕ್ಷರ ತಿದ್ದುವುದು",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "letters",
+    "q": "ಅಕ್ಷರಗಳನ್ನು ತಿದ್ದಿ, ನಂತರ ಖಾಲಿ ಚೌಕದಲ್ಲಿ ನೀನೇ ಬರೆ",
+    "letters": [
+      "ಠ",
+      "ಡ",
+      "ಢ"
+    ],
+    "trace": 3,
+    "boxes": 3
   }
 ]
+
