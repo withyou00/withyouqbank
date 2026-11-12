@@ -1,0 +1,174 @@
+[
+  {
+    "id": "kn1_p2_act_001",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಅಕ್ಷರ ತಿದ್ದುವುದು",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "letters",
+    "q": "ಅಕ್ಷರಗಳನ್ನು ತಿದ್ದಿ, ನಂತರ ಖಾಲಿ ಚೌಕದಲ್ಲಿ ನೀನೇ ಬರೆ",
+    "letters": [
+      "ಅ",
+      "ಆ",
+      "ಇ"
+    ],
+    "trace": 3,
+    "boxes": 3
+  },
+  {
+    "id": "kn1_p2_act_002",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸುಂದರ ಕೈಬರಹ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "copy",
+    "q": "ಈ ಪದಗಳನ್ನು ಸುಂದರವಾಗಿ ನಕಲು ಮಾಡಿ ಬರೆ",
+    "words": [
+      "ಮರ",
+      "ಕಮಲ",
+      "ಜಗ",
+      "ನಗರ"
+    ],
+    "lines": 2
+  },
+  {
+    "id": "kn1_p2_act_003",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ-ಪದ ಪರಿಚಯ",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸುಲಭ",
+    "activity": "picword",
+    "q": "ಚಿತ್ರ ನೋಡಿ ಕಂಸದಲ್ಲಿರುವ ಸರಿಯಾದ ಪದ ಆರಿಸಿ ಬರೆ",
+    "help": [
+      "ಮರ",
+      "ಚಮಚ",
+      "ಪಟ"
+    ],
+    "items": [
+      {
+        "img": "images/class_1/mara.png",
+        "ans": "ಮರ"
+      },
+      {
+        "img": "images/class_1/chamacha.png",
+        "ans": "ಚಮಚ"
+      },
+      {
+        "img": "images/class_1/pata.png",
+        "ans": "ಪಟ"
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_004",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ-ಪದ ಹೊಂದಿಸುವಿಕೆ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸಾಧಾರಣ",
+    "activity": "picmatch",
+    "q": "ಚಿತ್ರ ಮತ್ತು ಪದವನ್ನು ಗೆರೆ ಎಳೆದು ಹೊಂದಿಸು",
+    "pairs": [
+      {
+        "img": "images/class_1/hasu.png",
+        "word": "ಹಸು"
+      },
+      {
+        "img": "images/class_1/mane.png",
+        "word": "ಮನೆ"
+      },
+      {
+        "img": "images/class_1/bassu.png",
+        "word": "ಬಸ್ಸು"
+      },
+      {
+        "img": "images/class_1/hoovu.png",
+        "word": "ಹೂವು"
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_005",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸುತ್ತು ಹಾಕುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸುಲಭ",
+    "activity": "circle",
+    "q": "ಸರಿಯಾದ ಚಿತ್ರಕ್ಕೆ ಸುತ್ತು ಹಾಕು",
+    "rows": [
+      {
+        "q": "ಹಾರುವುದು ಯಾವುದು?",
+        "options": [
+          "images/class_1/hasu.png",
+          "images/class_1/hakki.png",
+          "images/class_1/meenu.png"
+        ],
+        "ans": 2
+      },
+      {
+        "q": "'ಮ' ಅಕ್ಷರದಿಂದ ಆರಂಭವಾಗುವ ಪದ",
+        "options": [
+          "ಮರ",
+          "ಕಮಲ",
+          "ಜಗ"
+        ],
+        "ans": 1
+      }
+    ]
+  },
+  {
+    "id": "kn1_p2_act_006",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಬಣ್ಣ ತುಂಬುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "color",
+    "q": "ಚಿಟ್ಟೆಯ ಚಿತ್ರಕ್ಕೆ ನಿನಗೆ ಇಷ್ಟವಾದ ಬಣ್ಣ ತುಂಬು",
+    "img": "images/class_1/chitte_outline.png",
+    "height": 90
+  },
+  {
+    "id": "kn1_p2_act_007",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಕನ್ನಡ (Kannada)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಚಿತ್ರ ಬಿಡಿಸುವುದು",
+    "type": "vsa_1m",
+    "marks": 2,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "activity": "draw",
+    "q": "ನಿನ್ನ ಮನೆಯ ಚಿತ್ರ ಬಿಡಿಸು",
+    "height": 70
+  }
+]
