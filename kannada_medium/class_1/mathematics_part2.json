@@ -1,6 +1,6 @@
 [
   {
-    "id": "m1_p2_act_001",
+    "id": "q_ma_1_ch01_001",
     "grade": "1ನೇ ತರಗತಿ",
     "subject": "ಗಣಿತ (Mathematics)",
     "medium": "kannada_medium",
@@ -10,25 +10,457 @@
     "marks": 4,
     "obj": "ಜ್ಞಾನ",
     "diff": "ಸುಲಭ",
-    "activity": "count",
     "q": "ಎಣಿಸಿ ಸಂಖ್ಯೆ ಬರೆ",
+    "activity": "count",
     "items": [
       {
-        "img": "images/class_1/mavu.png",
+        "img": "🍎",
         "n": 3
       },
       {
-        "img": "images/class_1/chendu.png",
+        "img": "🍌",
         "n": 5
       },
       {
-        "img": "images/class_1/hoovu.png",
+        "img": "⭐",
         "n": 2
       },
       {
-        "img": "images/class_1/meenu.png",
+        "img": "🐟",
         "n": 4
       }
     ]
+  },
+  {
+    "id": "q_ma_1_ch01_002",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಎಣಿಕೆ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸುಲಭ",
+    "q": "ಎಣಿಸಿ ಸಂಖ್ಯೆ ಬರೆ",
+    "activity": "count",
+    "items": [
+      {
+        "img": "🌸",
+        "n": 6
+      },
+      {
+        "img": "🎈",
+        "n": 1
+      },
+      {
+        "img": "🐤",
+        "n": 7
+      },
+      {
+        "img": "⚽",
+        "n": 8
+      }
+    ]
+  },
+  {
+    "id": "q_ma_1_ch02_003",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸಂಖ್ಯೆ ಬರೆಯುವುದು",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "q": "ಸಂಖ್ಯೆಗಳನ್ನು ತಿದ್ದಿ, ನಂತರ ನೀನೇ ಬರೆ",
+    "activity": "letters",
+    "letters": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "trace": 3,
+    "boxes": 3
+  },
+  {
+    "id": "q_ma_1_ch02_004",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸಂಖ್ಯೆ ಬರೆಯುವುದು",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "q": "ಸಂಖ್ಯೆಗಳನ್ನು ತಿದ್ದಿ, ನಂತರ ನೀನೇ ಬರೆ",
+    "activity": "letters",
+    "letters": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "trace": 3,
+    "boxes": 3
+  },
+  {
+    "id": "q_ma_1_ch03_005",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಮುಂದಿನ ಸಂಖ್ಯೆ",
+    "type": "blanks",
+    "marks": 5,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸುಲಭ",
+    "q": "ಮುಂದಿನ ಸಂಖ್ಯೆ ಬರೆ:\n೧. 3 ➔ [____]\n೨. 7 ➔ [____]\n೩. 12 ➔ [____]\n೪. 19 ➔ [____]\n೫. 9 ➔ [____]",
+    "ans": "೧. 4, ೨. 8, ೩. 13, ೪. 20, ೫. 10"
+  },
+  {
+    "id": "q_ma_1_ch03_006",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಮುಂದಿನ ಸಂಖ್ಯೆ",
+    "type": "blanks",
+    "marks": 5,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸಾಧಾರಣ",
+    "q": "ಹಿಂದಿನ ಸಂಖ್ಯೆ ಬರೆ:\n೧. 5 ➔ [____]\n೨. 10 ➔ [____]\n೩. 16 ➔ [____]\n೪. 2 ➔ [____]\n೫. 20 ➔ [____]",
+    "ans": "೧. 4, ೨. 9, ೩. 15, ೪. 1, ೫. 19"
+  },
+  {
+    "id": "q_ma_1_ch04_007",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸಂಖ್ಯಾ ಕ್ರಮ",
+    "type": "blanks",
+    "marks": 4,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸುಲಭ",
+    "q": "ಬಿಟ್ಟ ಸಂಖ್ಯೆ ತುಂಬು:\n೧. 1, 2, [____], 4\n೨. 5, 6, 7, [____]\n೩. 10, [____], 12, 13\n೪. [____], 16, 17, 18",
+    "ans": "೧. 3, ೨. 8, ೩. 11, ೪. 15"
+  },
+  {
+    "id": "q_ma_1_ch05_008",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಹೆಚ್ಚು-ಕಡಿಮೆ",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸುಲಭ",
+    "q": "ಹೆಚ್ಚು ಇರುವ ಗುಂಪಿಗೆ ಸುತ್ತು ಹಾಕು",
+    "activity": "circle",
+    "rows": [
+      {
+        "q": "",
+        "options": [
+          "🍎 🍎 🍎",
+          "🍎 🍎 🍎 🍎 🍎"
+        ],
+        "ans": 2
+      },
+      {
+        "q": "",
+        "options": [
+          "⭐ ⭐ ⭐ ⭐ ⭐ ⭐",
+          "⭐ ⭐"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "",
+        "options": [
+          "🐟 🐟 🐟 🐟",
+          "🐟 🐟 🐟 🐟 🐟 🐟 🐟"
+        ],
+        "ans": 2
+      }
+    ]
+  },
+  {
+    "id": "q_ma_1_ch05_009",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಹೆಚ್ಚು-ಕಡಿಮೆ",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸುಲಭ",
+    "q": "ಕಡಿಮೆ ಇರುವ ಗುಂಪಿಗೆ ಸುತ್ತು ಹಾಕು",
+    "activity": "circle",
+    "rows": [
+      {
+        "q": "",
+        "options": [
+          "🌸 🌸",
+          "🌸 🌸 🌸 🌸"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "",
+        "options": [
+          "🎈 🎈 🎈 🎈 🎈",
+          "🎈 🎈 🎈"
+        ],
+        "ans": 2
+      },
+      {
+        "q": "",
+        "options": [
+          "🍌 🍌 🍌 🍌 🍌 🍌",
+          "🍌"
+        ],
+        "ans": 2
+      }
+    ]
+  },
+  {
+    "id": "q_ma_1_ch06_010",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸಂಕಲನ",
+    "type": "blanks",
+    "marks": 4,
+    "obj": "ಅನ್ವಯ",
+    "diff": "ಸುಲಭ",
+    "q": "ಚಿತ್ರ ನೋಡಿ ಕೂಡಿಸು:\n೧. 🍎🍎 + 🍎 =  ➔ [____]\n೨. ⭐⭐⭐ + ⭐⭐ =  ➔ [____]\n೩. 🐟 + 🐟🐟🐟 =  ➔ [____]\n೪. 🎈🎈 + 🎈🎈 =  ➔ [____]",
+    "ans": "೧. 3, ೨. 5, ೩. 4, ೪. 4"
+  },
+  {
+    "id": "q_ma_1_ch06_011",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸಂಕಲನ",
+    "type": "blanks",
+    "marks": 5,
+    "obj": "ಅನ್ವಯ",
+    "diff": "ಸುಲಭ",
+    "q": "ಕೂಡಿಸು:\n೧. 2 + 3 = ➔ [____]\n೨. 4 + 1 = ➔ [____]\n೩. 5 + 4 = ➔ [____]\n೪. 3 + 3 = ➔ [____]\n೫. 6 + 2 = ➔ [____]",
+    "ans": "೧. 5, ೨. 5, ೩. 9, ೪. 6, ೫. 8"
+  },
+  {
+    "id": "q_ma_1_ch07_012",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ವ್ಯವಕಲನ",
+    "type": "blanks",
+    "marks": 5,
+    "obj": "ಅನ್ವಯ",
+    "diff": "ಸಾಧಾರಣ",
+    "q": "ಕಳೆ:\n೧. 5 - 2 = ➔ [____]\n೨. 7 - 3 = ➔ [____]\n೩. 9 - 5 = ➔ [____]\n೪. 6 - 1 = ➔ [____]\n೫. 8 - 4 = ➔ [____]",
+    "ans": "೧. 3, ೨. 4, ೩. 4, ೪. 5, ೫. 4"
+  },
+  {
+    "id": "q_ma_1_ch07_013",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ವ್ಯವಕಲನ",
+    "type": "blanks",
+    "marks": 3,
+    "obj": "ಅನ್ವಯ",
+    "diff": "ಸಾಧಾರಣ",
+    "q": "ಚಿತ್ರ ನೋಡಿ ಉಳಿದದ್ದು ಎಷ್ಟು?\n೧. 🍌🍌🍌🍌 ರಲ್ಲಿ 1 ತಿಂದರೆ ➔ [____]\n೨. 🎈🎈🎈 ರಲ್ಲಿ 2 ಒಡೆದರೆ ➔ [____]\n೩. 🐤🐤🐤🐤🐤 ರಲ್ಲಿ 3 ಹಾರಿದರೆ ➔ [____]",
+    "ans": "೧. 3, ೨. 1, ೩. 2"
+  },
+  {
+    "id": "q_ma_1_ch08_014",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಆಕಾರಗಳು",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಜ್ಞಾನ",
+    "diff": "ಸುಲಭ",
+    "q": "ಹೇಳಿದ ಆಕಾರಕ್ಕೆ ಸುತ್ತು ಹಾಕು",
+    "activity": "circle",
+    "rows": [
+      {
+        "q": "ವೃತ್ತ",
+        "options": [
+          "shape:square",
+          "shape:circle",
+          "shape:triangle"
+        ],
+        "ans": 2
+      },
+      {
+        "q": "ತ್ರಿಭುಜ",
+        "options": [
+          "shape:triangle",
+          "shape:rectangle",
+          "shape:circle"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "ಚೌಕ",
+        "options": [
+          "shape:circle",
+          "shape:star",
+          "shape:square"
+        ],
+        "ans": 3
+      }
+    ]
+  },
+  {
+    "id": "q_ma_1_ch08_015",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಆಕಾರಗಳು",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "q": "ಆಕಾರಗಳಿಗೆ ಹೇಳಿದ ಬಣ್ಣ ತುಂಬು",
+    "activity": "color",
+    "shapes": [
+      {
+        "shape": "circle",
+        "label": "ವೃತ್ತ – ಕೆಂಪು"
+      },
+      {
+        "shape": "triangle",
+        "label": "ತ್ರಿಭುಜ – ಹಸಿರು"
+      },
+      {
+        "shape": "square",
+        "label": "ಚೌಕ – ನೀಲಿ"
+      }
+    ]
+  },
+  {
+    "id": "q_ma_1_ch09_016",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಮಾದರಿಗಳು",
+    "type": "blanks",
+    "marks": 4,
+    "obj": "ಅನ್ವಯ",
+    "diff": "ಸಾಧಾರಣ",
+    "q": "ಮಾದರಿ ನೋಡಿ ಮುಂದಿನದು ಬರೆ / ಬಿಡಿಸು:\n೧. 🔴 🔵 🔴 🔵 🔴 ➔ [____]\n೨. ⭐ ⭐ 🌙 ⭐ ⭐ ➔ [____]\n೩. 1, 2, 1, 2, 1 ➔ [____]\n೪. 🍎 🍌 🍎 🍌 🍎 ➔ [____]",
+    "ans": "೧. 🔵, ೨. 🌙, ೩. 2, ೪. 🍌"
+  },
+  {
+    "id": "q_ma_1_ch10_017",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸಂಖ್ಯೆ-ಗುಂಪು ಹೊಂದಿಸುವಿಕೆ",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸುಲಭ",
+    "q": "ಗುಂಪು ಮತ್ತು ಸಂಖ್ಯೆಯನ್ನು ಗೆರೆ ಎಳೆದು ಹೊಂದಿಸು",
+    "activity": "picmatch",
+    "pairs": [
+      {
+        "img": "🍓 🍓",
+        "word": "2"
+      },
+      {
+        "img": "🍓 🍓 🍓 🍓",
+        "word": "4"
+      },
+      {
+        "img": "🍓",
+        "word": "1"
+      },
+      {
+        "img": "🍓 🍓 🍓",
+        "word": "3"
+      }
+    ]
+  },
+  {
+    "id": "q_ma_1_ch11_018",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ದೊಡ್ಡದು-ಚಿಕ್ಕದು",
+    "type": "vsa_1m",
+    "marks": 3,
+    "obj": "ಗ್ರಹಿಕೆ",
+    "diff": "ಸುಲಭ",
+    "q": "ದೊಡ್ಡ ಸಂಖ್ಯೆಗೆ ಸುತ್ತು ಹಾಕು",
+    "activity": "circle",
+    "rows": [
+      {
+        "q": "",
+        "options": [
+          "4",
+          "9"
+        ],
+        "ans": 2
+      },
+      {
+        "q": "",
+        "options": [
+          "15",
+          "11"
+        ],
+        "ans": 1
+      },
+      {
+        "q": "",
+        "options": [
+          "7",
+          "17"
+        ],
+        "ans": 2
+      }
+    ]
+  },
+  {
+    "id": "q_ma_1_ch02_019",
+    "grade": "1ನೇ ತರಗತಿ",
+    "subject": "ಗಣಿತ (Mathematics)",
+    "medium": "kannada_medium",
+    "part": "ಭಾಗ 2",
+    "chapter": "ಸಂಖ್ಯೆ ಬರೆಯುವುದು",
+    "type": "vsa_1m",
+    "marks": 4,
+    "obj": "ಕೌಶಲ",
+    "diff": "ಸುಲಭ",
+    "q": "ಸಂಖ್ಯೆಗಳನ್ನು ಅಂದವಾಗಿ ಬರೆ",
+    "activity": "copy",
+    "words": [
+      "11  12  13",
+      "14  15  16",
+      "17  18  19",
+      "20"
+    ],
+    "lines": 1
   }
 ]
