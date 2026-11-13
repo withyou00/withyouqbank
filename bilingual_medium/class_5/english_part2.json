@@ -9,6 +9,7 @@
       "a": "An amphibian\nಒಂದು ಉಭಯಚರ ಪ್ರಾಣಿ",
       "b": "A bird\nಒಂದು ಪಕ್ಷಿ",
       "c": "A fish\nಒಂದು ಮೀನು",
+      "d": "A reptile\nಒಂದು ಸರೀಸೃಪ",
       "ans": "(A) An amphibian\nಒಂದು ಉಭಯಚರ ಪ್ರಾಣಿ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -22,6 +23,7 @@
       "a": "Small water body\nಸಣ್ಣ ನೀರಿನ ತಾಣ (ಕೊಳ)",
       "b": "Building\nಕಟ್ಟಡ",
       "c": "Garden\nಉದ್ಯಾನವನ",
+      "d": "Mountain\nಪರ್ವತ",
       "ans": "(A) Small water body\nಸಣ್ಣ ನೀರಿನ ತಾಣ (ಕೊಳ)",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -35,6 +37,7 @@
       "a": "Frog's sound\nಕಪ್ಪೆಯ ಶಬ್ದ (ವಟಗುಟ್ಟುವಿಕೆ)",
       "b": "Dance\nನೃತ್ಯ",
       "c": "Run\nಓಟ",
+      "d": "Sleep\nನಿದ್ರೆ",
       "ans": "(A) Frog's sound\nಕಪ್ಪೆಯ ಶಬ್ದ (ವಟಗುಟ್ಟುವಿಕೆ)",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -48,6 +51,7 @@
       "a": "Small creature\nಸಣ್ಣ ಜೀವಿ",
       "b": "Tree\nಮರ",
       "c": "River\nನದಿ",
+      "d": "Stone\nಕಲ್ಲು",
       "ans": "(A) Small creature\nಸಣ್ಣ ಜೀವಿ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -61,6 +65,7 @@
       "a": "Natural world\nನೈಸರ್ಗಿಕ ಜಗತ್ತು",
       "b": "School\nಶಾಲೆ",
       "c": "Market\nಮಾರುಕಟ್ಟೆ",
+      "d": "Factory\nಕಾರ್ಖಾನೆ",
       "ans": "(A) Natural world\nನೈಸರ್ಗಿಕ ಜಗತ್ತು",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -678,6 +683,7 @@
       "a": "Pond\nಕೊಳ",
       "b": "House\nಮನೆ",
       "c": "Tree\nಮರ",
+      "d": "Cave\nಗುಹೆ",
       "ans": "(A) Pond\nಕೊಳ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -691,6 +697,7 @@
       "a": "Stones\nಕಲ್ಲುಗಳು",
       "b": "Lily pads\nತಾವರೆ ಎಲೆಗಳು",
       "c": "Roads\nರಸ್ತೆಗಳು",
+      "d": "Roofs\nಛಾವಣಿಗಳು",
       "ans": "(B) Lily pads\nತಾವರೆ ಎಲೆಗಳು",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -704,6 +711,7 @@
       "a": "Summer\nಬೇಸಿಗೆ",
       "b": "Winter\nಚಳಿಗಾಲ",
       "c": "Rainy season\nಮಳೆಗಾಲ",
+      "d": "Spring\nವಸಂತಕಾಲ",
       "ans": "(C) Rainy season\nಮಳೆಗಾಲ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -717,6 +725,7 @@
       "a": "Fruits\nಹಣ್ಣುಗಳು",
       "b": "Insects\nಕೀಟಗಳು",
       "c": "Grass\nಹುಲ್ಲು",
+      "d": "Grains\nಧಾನ್ಯಗಳು",
       "ans": "(B) Insects\nಕೀಟಗಳು",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -730,6 +739,7 @@
       "a": "Ignored the frog\nಕಪ್ಪೆಯನ್ನು ನಿರ್ಲಕ್ಷಿಸಿದರು",
       "b": "Loved watching the frog\nಕಪ್ಪೆಯನ್ನು ನೋಡಲು ಇಷ್ಟಪಟ್ಟರು",
       "c": "Feared the frog\nಕಪ್ಪೆಗೆ ಹೆದರಿದರು",
+      "d": "Caught the frog\nಕಪ್ಪೆಯನ್ನು ಹಿಡಿದರು",
       "ans": "(B) Loved watching the frog\nಕಪ್ಪೆಯನ್ನು ನೋಡಲು ಇಷ್ಟಪಟ್ಟರು",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸುಲಭ"
@@ -797,6 +807,7 @@
       "a": "A water storage structure\nನೀರು ಸಂಗ್ರಹಿಸುವ ರಚನೆ",
       "b": "A school\nಒಂದು ಶಾಲೆ",
       "c": "A road\nಒಂದು ರಸ್ತೆ",
+      "d": "A playground\nಒಂದು ಆಟದ ಮೈದಾನ",
       "ans": "(A) A water storage structure\nನೀರು ಸಂಗ್ರಹಿಸುವ ರಚನೆ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -810,6 +821,7 @@
       "a": "Collecting crops\nಬೆಳೆಗಳನ್ನು ಸಂಗ್ರಹಿಸುವುದು (ಕೊಯ್ಲು)",
       "b": "Cooking food\nಆಹಾರ ಬೇಯಿಸುವುದು",
       "c": "Buying seeds\nಬೀಜಗಳನ್ನು ಖರೀದಿಸುವುದು",
+      "d": "Watering plants\nಸಸ್ಯಗಳಿಗೆ ನೀರು ಹಾಕುವುದು",
       "ans": "(A) Collecting crops\nಬೆಳೆಗಳನ್ನು ಸಂಗ್ರಹಿಸುವುದು (ಕೊಯ್ಲು)",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -823,6 +835,7 @@
       "a": "Protection and saving\nರಕ್ಷಿಸುವುದು ಮತ್ತು ಉಳಿಸುವುದು",
       "b": "Wasting\nವ್ಯರ್ಥ ಮಾಡುವುದು",
       "c": "Throwing away\nಎಸೆಯುವುದು",
+      "d": "Polluting\nಮಲಿನಗೊಳಿಸುವುದು",
       "ans": "(A) Protection and saving\nರಕ್ಷಿಸುವುದು ಮತ್ತು ಉಳಿಸುವುದು",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -836,6 +849,7 @@
       "a": "A person who grows crops\nಬೆಳೆಗಳನ್ನು ಬೆಳೆಯುವ ವ್ಯಕ್ತಿ",
       "b": "A teacher\nಒಬ್ಬ ಶಿಕ್ಷಕ",
       "c": "A doctor\nಒಬ್ಬ ವೈದ್ಯ",
+      "d": "A driver\nಒಬ್ಬ ಚಾಲಕ",
       "ans": "(A) A person who grows crops\nಬೆಳೆಗಳನ್ನು ಬೆಳೆಯುವ ವ್ಯಕ್ತಿ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -849,6 +863,7 @@
       "a": "Rural settlement\nಗ್ರಾಮೀಣ ವಸತಿ ಪ್ರದೇಶ",
       "b": "City\nನಗರ",
       "c": "Market\nಮಾರುಕಟ್ಟೆ",
+      "d": "Airport\nವಿಮಾನ ನಿಲ್ದಾಣ",
       "ans": "(A) Rural settlement\nಗ್ರಾಮೀಣ ವಸತಿ ಪ್ರದೇಶ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -1466,6 +1481,7 @@
       "a": "Village\nಹಳ್ಳಿ",
       "b": "Mall\nಮಾಲ್",
       "c": "Station\nನಿಲ್ದಾಣ",
+      "d": "Forest\nಕಾಡು",
       "ans": "(A) Village\nಹಳ್ಳಿ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -1479,6 +1495,7 @@
       "a": "Summer\nಬೇಸಿಗೆ",
       "b": "Rainy season\nಮಳೆಗಾಲ",
       "c": "Winter\nಚಳಿಗಾಲ",
+      "d": "Spring\nವಸಂತಕಾಲ",
       "ans": "(B) Rainy season\nಮಳೆಗಾಲ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -1492,6 +1509,7 @@
       "a": "Farming\nಕೃಷಿ",
       "b": "Driving\nವಾಹನ ಚಾಲನೆ",
       "c": "Shopping\nಶಾಪಿಂಗ್",
+      "d": "Painting\nಚಿತ್ರಕಲೆ",
       "ans": "(A) Farming\nಕೃಷಿ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -1505,6 +1523,7 @@
       "a": "Village\nಹಳ್ಳಿ",
       "b": "Airport\nವಿಮಾನ ನಿಲ್ದಾಣ",
       "c": "City bus\nನಗರ ಬಸ್",
+      "d": "Factory\nಕಾರ್ಖಾನೆ",
       "ans": "(A) Village\nಹಳ್ಳಿ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -1518,6 +1537,7 @@
       "a": "Water conservation\nಜಲ ಸಂರಕ್ಷಣೆ",
       "b": "Pollution\nಮಾಲಿನ್ಯ",
       "c": "Carelessness\nನಿರ್ಲಕ್ಷ್ಯ",
+      "d": "Wasting water\nನೀರು ವ್ಯರ್ಥ ಮಾಡುವುದು",
       "ans": "(A) Water conservation\nಜಲ ಸಂರಕ್ಷಣೆ",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸುಲಭ"
@@ -1585,6 +1605,7 @@
       "a": "A traditional game\nಒಂದು ಸಾಂಪ್ರದಾಯಿಕ ಆಟ",
       "b": "A story book\nಒಂದು ಕಥೆಯ ಪುಸ್ತಕ",
       "c": "A song\nಒಂದು ಹಾಡು",
+      "d": "A dance\nಒಂದು ನೃತ್ಯ",
       "ans": "(A) A traditional game\nಒಂದು ಸಾಂಪ್ರದಾಯಿಕ ಆಟ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -1598,6 +1619,7 @@
       "a": "One who plays\nಆಟ ಆಡುವವನು",
       "b": "One who teaches\nಪಾಠ ಮಾಡುವವನು",
       "c": "One who writes\nಬರೆಯುವವನು",
+      "d": "One who sings\nಹಾಡುವವನು",
       "ans": "(A) One who plays\nಆಟ ಆಡುವವನು",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -1611,6 +1633,7 @@
       "a": "A group working together\nಒಟ್ಟಾಗಿ ಕೆಲಸ ಮಾಡುವ ಗುಂಪು",
       "b": "A building\nಒಂದು ಕಟ್ಟಡ",
       "c": "A road\nಒಂದು ರಸ್ತೆ",
+      "d": "A tree\nಒಂದು ಮರ",
       "ans": "(A) A group working together\nಒಟ್ಟಾಗಿ ಕೆಲಸ ಮಾಡುವ ಗುಂಪು",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -1624,6 +1647,7 @@
       "a": "Open ground\nತೆರೆದ ಮೈದಾನ",
       "b": "Classroom\nತರಗತಿ ಕೊಠಡಿ",
       "c": "Shop\nಅಂಗಡಿ",
+      "d": "Kitchen\nಅಡುಗೆಮನೆ",
       "ans": "(A) Open ground\nತೆರೆದ ಮೈದಾನ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -1637,6 +1661,7 @@
       "a": "Enjoyment\nಆನಂದ / ಸಂತೋಷ",
       "b": "Sadness\nದುಃಖ",
       "c": "Anger\nಕೋಪ",
+      "d": "Fear\nಭಯ",
       "ans": "(A) Enjoyment\nಆನಂದ / ಸಂತೋಷ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -1650,6 +1675,7 @@
       "a": "Cricket\nಕ್ರಿಕೆಟ್",
       "b": "Gilli Danda\nಗಿಲ್ಲಿ ದಾಂಡು",
       "c": "Football\nಫುಟ್‌ಬಾಲ್",
+      "d": "Hockey\nಹಾಕಿ",
       "ans": "(B) Gilli Danda\nಗಿಲ್ಲಿ ದಾಂಡು",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -1663,6 +1689,7 @@
       "a": "Outdoors\nಹೊರಾಂಗಣದಲ್ಲಿ (ಬಯಲಿನಲ್ಲಿ)",
       "b": "Indoors\nಒಳಾಂಗಣದಲ್ಲಿ",
       "c": "Underwater\nನೀರಿನ ಒಳಗೆ",
+      "d": "In space\nಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ",
       "ans": "(A) Outdoors\nಹೊರಾಂಗಣದಲ್ಲಿ (ಬಯಲಿನಲ್ಲಿ)",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -1676,6 +1703,7 @@
       "a": "Bat and ball\nಬ್ಯಾಟ್ ಮತ್ತು ಚೆಂಡು",
       "b": "Gilli and danda\nಗಿಲ್ಲಿ ಮತ್ತು ದಾಂಡು",
       "c": "Racket and shuttle\nರಾಕೆಟ್ ಮತ್ತು ಶಟಲ್",
+      "d": "Chessboard\nಚದುರಂಗದ ಹಲಗೆ",
       "ans": "(B) Gilli and danda\nಗಿಲ್ಲಿ ಮತ್ತು ದಾಂಡು",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -1689,6 +1717,7 @@
       "a": "Friends\nಸ್ನೇಹಿತರೊಂದಿಗೆ",
       "b": "Robots\nರೋಬೋಟ್‌ಗಳೊಂದಿಗೆ",
       "c": "Animals\nಪ್ರಾಣಿಗಳೊಂದಿಗೆ",
+      "d": "Computers\nಕಂಪ್ಯೂಟರ್‌ಗಳೊಂದಿಗೆ",
       "ans": "(A) Friends\nಸ್ನೇಹಿತರೊಂದಿಗೆ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -1702,6 +1731,7 @@
       "a": "Physical fitness\nದೈಹಿಕ ಸದೃಢತೆ",
       "b": "Sleeping habits\nನಿದ್ರೆಯ ಅಭ್ಯಾಸ",
       "c": "Cooking skills\nಅಡುಗೆ ಕೌಶಲ್ಯ",
+      "d": "Laziness\nಸೋಮಾರಿತನ",
       "ans": "(A) Physical fitness\nದೈಹಿಕ ಸದೃಢತೆ",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸುಲಭ"
@@ -1715,6 +1745,7 @@
       "a": "Traditional game\nಸಾಂಪ್ರದಾಯಿಕ ಆಟ",
       "b": "Modern gadget\nಆಧುನಿಕ ಸಾಧನ",
       "c": "Television show\nಟಿವಿ ಕಾರ್ಯಕ್ರಮ",
+      "d": "Video game\nವಿಡಿಯೋ ಗೇಮ್",
       "ans": "(A) Traditional game\nಸಾಂಪ್ರದಾಯಿಕ ಆಟ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -1728,6 +1759,7 @@
       "a": "Skill\nಕೌಶಲ್ಯ",
       "b": "Money\nಹಣ",
       "c": "Tickets\nಟಿಕೆಟ್‌ಗಳು",
+      "d": "Cars\nಕಾರುಗಳು",
       "ans": "(A) Skill\nಕೌಶಲ್ಯ",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸುಲಭ"
@@ -1741,6 +1773,7 @@
       "a": "Villages\nಹಳ್ಳಿಗಳಲ್ಲಿ",
       "b": "Airports\nವಿಮಾನ ನಿಲ್ದಾಣಗಳಲ್ಲಿ",
       "c": "Factories\nಕಾರ್ಖಾನೆಗಳಲ್ಲಿ",
+      "d": "Offices\nಕಚೇರಿಗಳಲ್ಲಿ",
       "ans": "(A) Villages\nಹಳ್ಳಿಗಳಲ್ಲಿ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -1754,6 +1787,7 @@
       "a": "Health\nಆರೋಗ್ಯಕ್ಕೆ",
       "b": "Laziness\nಸೋಮಾರಿತನಕ್ಕೆ",
       "c": "Boredom\nಬೇಸರಕ್ಕೆ",
+      "d": "Weakness\nದುರ್ಬಲತೆಗೆ",
       "ans": "(A) Health\nಆರೋಗ್ಯಕ್ಕೆ",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸುಲಭ"
@@ -1767,6 +1801,7 @@
       "a": "Outdoor play\nಹೊರಾಂಗಣ ಆಟ",
       "b": "Screen time\nಪರದೆ (ಮೊಬೈಲ್/ಟಿವಿ) ನೋಡುವ ಸಮಯ",
       "c": "Isolation\nಏಕಾಂಗಿತನ",
+      "d": "Sleeping all day\nದಿನವಿಡೀ ಮಲಗುವುದು",
       "ans": "(A) Outdoor play\nಹೊರಾಂಗಣ ಆಟ",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸುಲಭ"
@@ -2244,6 +2279,7 @@
       "a": "Indoor game\nಒಳಾಂಗಣ ಆಟ",
       "b": "Outdoor game\nಹೊರಾಂಗಣ ಆಟ",
       "c": "Video game\nವಿಡಿಯೋ ಗೇಮ್",
+      "d": "Board game\nಬೋರ್ಡ್ ಆಟ",
       "ans": "(B) Outdoor game\nಹೊರಾಂಗಣ ಆಟ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -2257,6 +2293,7 @@
       "a": "Ball\nಚೆಂಡು",
       "b": "Gilli and danda\nಗಿಲ್ಲಿ ಮತ್ತು ದಾಂಡು",
       "c": "Net\nಬಲೆ",
+      "d": "Dice\nದಾಳ",
       "ans": "(B) Gilli and danda\nಗಿಲ್ಲಿ ಮತ್ತು ದಾಂಡು",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -2270,6 +2307,7 @@
       "a": "Open fields\nತೆರೆದ ಮೈದಾನಗಳಲ್ಲಿ",
       "b": "Classrooms\nತರಗತಿ ಕೊಠಡಿಗಳಲ್ಲಿ",
       "c": "Shops\nಅಂಗಡಿಗಳಲ್ಲಿ",
+      "d": "Rooms\nಕೋಣೆಗಳಲ್ಲಿ",
       "ans": "(A) Open fields\nತೆರೆದ ಮೈದಾನಗಳಲ್ಲಿ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -2283,6 +2321,7 @@
       "a": "Coordination\nಸಮನ್ವಯತೆ",
       "b": "Sleeping\nನಿದ್ರೆ",
       "c": "Painting\nಚಿತ್ರಕಲೆ",
+      "d": "Singing\nಹಾಡುಗಾರಿಕೆ",
       "ans": "(A) Coordination\nಸಮನ್ವಯತೆ",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸುಲಭ"
@@ -2296,6 +2335,7 @@
       "a": "Active play\nಚುರುಕಾದ ಆಟ",
       "b": "Laziness\nಸೋಮಾರಿತನ",
       "c": "Watching television\nಟಿವಿ ನೋಡುವುದು",
+      "d": "Staying indoors\nಮನೆಯೊಳಗೆ ಇರುವುದು",
       "ans": "(A) Active play\nಚುರುಕಾದ ಆಟ",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸುಲಭ"
@@ -3016,6 +3056,8 @@
       "q": "The Panchayat listened to both sides.\nಪಂಚಾಯತಿಯು ಎರಡೂ ಕಡೆಯವರ ವಾದವನ್ನು ಆಲಿಸಿತು.",
       "a": "Correct\nಸರಿ",
       "b": "Incorrect\nತಪ್ಪು",
+      "c": "Partially correct\nಭಾಗಶಃ ಸರಿ",
+      "d": "Not mentioned\nಪಾಠದಲ್ಲಿ ಉಲ್ಲೇಖಿಸಿಲ್ಲ",
       "ans": "(A) Correct\nಸರಿ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3028,6 +3070,8 @@
       "q": "The neighbour claimed he sold only the well.\nನೆರೆಯವನು ತಾನು ಕೇವಲ ಬಾವಿಯನ್ನು ಮಾತ್ರ ಮಾರಿದ್ದೇನೆಂದು ವಾದಿಸಿದನು.",
       "a": "Correct\nಸರಿ",
       "b": "Incorrect\nತಪ್ಪು",
+      "c": "Partially correct\nಭಾಗಶಃ ಸರಿ",
+      "d": "Not mentioned\nಪಾಠದಲ್ಲಿ ಉಲ್ಲೇಖಿಸಿಲ್ಲ",
       "ans": "(A) Correct\nಸರಿ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3040,6 +3084,8 @@
       "q": "The Panchayat decided the neighbour could keep water in the farmer's well forever.\nರೈತನ ಬಾವಿಯಲ್ಲಿ ನೆರೆಯವನು ಶಾಶ್ವತವಾಗಿ ನೀರನ್ನು ಇಟ್ಟುಕೊಳ್ಳಬಹುದೆಂದು ಪಂಚಾಯತಿ ತೀರ್ಪು ನೀಡಿತು.",
       "a": "Correct\nಸರಿ",
       "b": "Incorrect\nತಪ್ಪು",
+      "c": "Partially correct\nಭಾಗಶಃ ಸರಿ",
+      "d": "Not mentioned\nಪಾಠದಲ್ಲಿ ಉಲ್ಲೇಖಿಸಿಲ್ಲ",
       "ans": "(B) Incorrect\nತಪ್ಪು",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸುಲಭ"
@@ -3052,6 +3098,8 @@
       "q": "The neighbour had to pay a fine and apologise.\nನೆರೆಯವನು ದಂಡ ಪಾವತಿಸಿ ಕ್ಷಮೆ ಕೇಳಬೇಕಾಯಿತು.",
       "a": "Correct\nಸರಿ",
       "b": "Incorrect\nತಪ್ಪು",
+      "c": "Partially correct\nಭಾಗಶಃ ಸರಿ",
+      "d": "Not mentioned\nಪಾಠದಲ್ಲಿ ಉಲ್ಲೇಖಿಸಿಲ್ಲ",
       "ans": "(A) Correct\nಸರಿ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3064,6 +3112,8 @@
       "q": "The story teaches that cheating leads to a good result.\nಮೋಸ ಮಾಡುವುದರಿಂದ ಒಳ್ಳೆಯ ಫಲಿತಾಂಶ ಸಿಗುತ್ತದೆ ಎಂದು ಈ ಕಥೆ ಕಲಿಸುತ್ತದೆ.",
       "a": "Correct\nಸರಿ",
       "b": "Incorrect\nತಪ್ಪು",
+      "c": "Partially correct\nಭಾಗಶಃ ಸರಿ",
+      "d": "Not mentioned\nಪಾಠದಲ್ಲಿ ಉಲ್ಲೇಖಿಸಿಲ್ಲ",
       "ans": "(B) Incorrect\nತಪ್ಪು",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸುಲಭ"
@@ -3131,6 +3181,7 @@
       "a": "Occupation or work\nಉದ್ಯೋಗ ಅಥವಾ ಕೆಲಸ",
       "b": "Festival\nಹಬ್ಬ",
       "c": "Story\nಕಥೆ",
+      "d": "Holiday\nರಜೆ",
       "ans": "(A) Occupation or work\nಉದ್ಯೋಗ ಅಥವಾ ಕೆಲಸ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3144,6 +3195,7 @@
       "a": "Street seller\nಬೀದಿಯಲ್ಲಿ ವಸ್ತುಗಳನ್ನು ಮಾರುವವನು",
       "b": "Farmer\nರೈತ",
       "c": "Driver\nಚಾಲಕ",
+      "d": "Tailor\nದರ್ಜಿ",
       "ans": "(A) Street seller\nಬೀದಿಯಲ್ಲಿ ವಸ್ತುಗಳನ್ನು ಮಾರುವವನು",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3157,6 +3209,7 @@
       "a": "One who grows plants\nಸಸ್ಯಗಳನ್ನು ಬೆಳೆಸುವವನು",
       "b": "Teacher\nಶಿಕ್ಷಕ",
       "c": "Tailor\nದರ್ಜಿ (ಟೈಲರ್)",
+      "d": "Painter\nಚಿತ್ರಕಾರ",
       "ans": "(A) One who grows plants\nಸಸ್ಯಗಳನ್ನು ಬೆಳೆಸುವವನು",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3170,6 +3223,7 @@
       "a": "Guard\nಕಾವಲು ಕಾಯುವವನು",
       "b": "Doctor\nವೈದ್ಯ",
       "c": "Singer\nಗಾಯಕ",
+      "d": "Baker\nಬೇಕರಿ ಕೆಲಸಗಾರ",
       "ans": "(A) Guard\nಕಾವಲು ಕಾಯುವವನು",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3183,6 +3237,7 @@
       "a": "Wish or imagination\nಆಸೆ ಅಥವಾ ಕಲ್ಪನೆ",
       "b": "Problem\nಸಮಸ್ಯೆ",
       "c": "Rule\nನಿಯಮ",
+      "d": "Punishment\nಶಿಕ್ಷೆ",
       "ans": "(A) Wish or imagination\nಆಸೆ ಅಥವಾ ಕಲ್ಪನೆ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3196,6 +3251,7 @@
       "a": "Rabindranath Tagore\nರವೀಂದ್ರನಾಥ ಟ್ಯಾಗೋರ್",
       "b": "Ruskin Bond\nರಸ್ಕಿನ್ ಬಾಂಡ್",
       "c": "R.K. Narayan\nಆರ್.ಕೆ. ನಾರಾಯಣ್",
+      "d": "Sarojini Naidu\nಸರೋಜಿನಿ ನಾಯ್ಡು",
       "ans": "(A) Rabindranath Tagore\nರವೀಂದ್ರನಾಥ ಟ್ಯಾಗೋರ್",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3209,6 +3265,7 @@
       "a": "Different workers he observed\nತಾನು ಗಮನಿಸಿದ ವಿವಿಧ ಕೆಲಸಗಾರರಾಗಲು",
       "b": "A king\nಒಬ್ಬ ರಾಜನಾಗಲು",
       "c": "A pilot\nಒಬ್ಬ ಪೈಲಟ್ ಆಗಲು",
+      "d": "A soldier\nಒಬ್ಬ ಸೈನಿಕನಾಗಲು",
       "ans": "(A) Different workers he observed\nತಾನು ಗಮನಿಸಿದ ವಿವಿಧ ಕೆಲಸಗಾರರಾಗಲು",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸುಲಭ"
@@ -3222,6 +3279,7 @@
       "a": "Hawker\nಬೀದಿ ವ್ಯಾಪಾರಿ",
       "b": "Doctor\nವೈದ್ಯ",
       "c": "Chef\nಬಾಣಸಿಗ",
+      "d": "Pilot\nಪೈಲಟ್",
       "ans": "(A) Hawker\nಬೀದಿ ವ್ಯಾಪಾರಿ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3235,6 +3293,7 @@
       "a": "Gardener\nತೋಟಗಾರ",
       "b": "Engineer\nಇಂಜಿನಿಯರ್",
       "c": "Artist\nಕಲಾವಿದ",
+      "d": "Lawyer\nವಕೀಲ",
       "ans": "(A) Gardener\nತೋಟಗಾರ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3248,6 +3307,7 @@
       "a": "At night\nರಾತ್ರಿಯಲ್ಲಿ",
       "b": "In water\nನೀರಿನಲ್ಲಿ",
       "c": "In a classroom\nತರಗತಿ ಕೊಠಡಿಯಲ್ಲಿ",
+      "d": "In the sky\nಆಕಾಶದಲ್ಲಿ",
       "ans": "(A) At night\nರಾತ್ರಿಯಲ್ಲಿ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3261,6 +3321,7 @@
       "a": "Curiosity\nಕುತೂಹಲವನ್ನು",
       "b": "Fear\nಭಯವನ್ನು",
       "c": "Anger\nಕೋಪವನ್ನು",
+      "d": "Laziness\nಸೋಮಾರಿತನವನ್ನು",
       "ans": "(A) Curiosity\nಕುತೂಹಲವನ್ನು",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸಾಧಾರಣ"
@@ -3274,6 +3335,7 @@
       "a": "Different occupations\nವಿವಿಧ ವೃತ್ತಿಗಳನ್ನು",
       "b": "Toys\nಆಟಿಕೆಗಳನ್ನು",
       "c": "Machines\nಯಂತ್ರಗಳನ್ನು",
+      "d": "Video games\nವಿಡಿಯೋ ಗೇಮ್‌ಗಳನ್ನು",
       "ans": "(A) Different occupations\nವಿವಿಧ ವೃತ್ತಿಗಳನ್ನು",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸುಲಭ"
@@ -3287,6 +3349,7 @@
       "a": "Work and imagination\nಕೆಲಸ ಮತ್ತು ಕಲ್ಪನೆ",
       "b": "Sports\nಕ್ರೀಡೆ",
       "c": "Travel\nಪ್ರಯಾಣ",
+      "d": "Festivals\nಹಬ್ಬಗಳು",
       "ans": "(A) Work and imagination\nಕೆಲಸ ಮತ್ತು ಕಲ್ಪನೆ",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸಾಧಾರಣ"
@@ -3300,6 +3363,7 @@
       "a": "Different vocations\nವಿವಿಧ ವೃತ್ತಿಗಳಲ್ಲಿ",
       "b": "Different countries\nವಿವಿಧ ದೇಶಗಳಲ್ಲಿ",
       "c": "Different schools\nವಿವಿಧ ಶಾಲೆಗಳಲ್ಲಿ",
+      "d": "Different shops\nವಿವಿಧ ಅಂಗಡಿಗಳಲ್ಲಿ",
       "ans": "(A) Different vocations\nವಿವಿಧ ವೃತ್ತಿಗಳಲ್ಲಿ",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸುಲಭ"
@@ -3313,6 +3377,7 @@
       "a": "Respect all occupations\nಎಲ್ಲಾ ವೃತ್ತಿಗಳನ್ನು ಗೌರವಿಸಲು",
       "b": "Ignore workers\nಕೆಲಸಗಾರರನ್ನು ನಿರ್ಲಕ್ಷಿಸಲು",
       "c": "Avoid work\nಕೆಲಸದಿಂದ ದೂರವಿರಲು",
+      "d": "Disrespect labour\nಶ್ರಮವನ್ನು ಅಗೌರವಿಸಲು",
       "ans": "(A) Respect all occupations\nಎಲ್ಲಾ ವೃತ್ತಿಗಳನ್ನು ಗೌರವಿಸಲು",
       "obj": "ಅನ್ವಯ",
       "diff": "ಸುಲಭ"
@@ -3790,6 +3855,7 @@
       "a": "Workers\nಕೆಲಸಗಾರರನ್ನು",
       "b": "Birds\nಪಕ್ಷಿಗಳನ್ನು",
       "c": "Animals\nಪ್ರಾಣಿಗಳನ್ನು",
+      "d": "Vehicles\nವಾಹನಗಳನ್ನು",
       "ans": "(A) Workers\nಕೆಲಸಗಾರರನ್ನು",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3803,6 +3869,7 @@
       "a": "Flowers\nಹೂವುಗಳು",
       "b": "Books\nಪುಸ್ತಕಗಳು",
       "c": "Machines\nಯಂತ್ರಗಳು",
+      "d": "Stones\nಕಲ್ಲುಗಳು",
       "ans": "(A) Flowers\nಹೂವುಗಳು",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3816,6 +3883,7 @@
       "a": "At night\nರಾತ್ರಿಯಲ್ಲಿ",
       "b": "At noon\nಮಧ್ಯಾಹ್ನ",
       "c": "In the morning\nಬೆಳಗ್ಗೆ",
+      "d": "In the afternoon\nಅಪರಾಹ್ನ",
       "ans": "(A) At night\nರಾತ್ರಿಯಲ್ಲಿ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3829,6 +3897,7 @@
       "a": "Respect for occupations\nವೃತ್ತಿಗಳಿಗೆ ಗೌರವ",
       "b": "Fear of work\nಕೆಲಸದ ಭಯ",
       "c": "Competition\nಪೈಪೋಟಿ",
+      "d": "Laziness\nಸೋಮಾರಿತನ",
       "ans": "(A) Respect for occupations\nವೃತ್ತಿಗಳಿಗೆ ಗೌರವ",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸುಲಭ"
@@ -3842,6 +3911,7 @@
       "a": "Imagination\nಕಲ್ಪನಾಶಕ್ತಿ",
       "b": "Anger\nಕೋಪ",
       "c": "Silence\nಮೌನ",
+      "d": "Fear\nಭಯ",
       "ans": "(A) Imagination\nಕಲ್ಪನಾಶಕ್ತಿ",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸುಲಭ"
@@ -3909,6 +3979,7 @@
       "a": "A skilled craftsperson\nಕುಶಲ ಕೈಗಾರಿಕಾ ಕಲಾವಿದ",
       "b": "A customer\nಒಬ್ಬ ಗ್ರಾಹಕ",
       "c": "A driver\nಒಬ್ಬ ಚಾಲಕ",
+      "d": "A farmer\nಒಬ್ಬ ರೈತ",
       "ans": "(A) A skilled craftsperson\nಕುಶಲ ಕೈಗಾರಿಕಾ ಕಲಾವಿದ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3922,6 +3993,7 @@
       "a": "A light ringing sound\nತೆಳುವಾದ ಗಾಜು ತಾಗಿದಾಗ ಬರುವ ಮೃದುವಾದ ಶಬ್ದ",
       "b": "A loud shout\nಜೋರಾದ ಕೂಗು",
       "c": "A soft whisper\nಮೆಲ್ಲನೆಯ ಪಿಸುಮಾತು",
+      "d": "A heavy thud\nಭಾರವಾದ ಸದ್ದು",
       "ans": "(A) A light ringing sound\nತೆಳುವಾದ ಗಾಜು ತಾಗಿದಾಗ ಬರುವ ಮೃದುವಾದ ಶಬ್ದ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3935,6 +4007,7 @@
       "a": "A place for heating\nಬಿಸಿ ಮಾಡುವ (ಕಾಯಿಸುವ) ಸ್ಥಳ",
       "b": "A shop\nಒಂದು ಅಂಗಡಿ",
       "c": "A cupboard\nಒಂದು ಕಪಾಟು",
+      "d": "A library\nಒಂದು ಗ್ರಂಥಾಲಯ",
       "ans": "(A) A place for heating\nಬಿಸಿ ಮಾಡುವ (ಕಾಯಿಸುವ) ಸ್ಥಳ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3948,6 +4021,7 @@
       "a": "Related to flowers\nಹೂವುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ",
       "b": "Related to animals\nಪ್ರಾಣಿಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ",
       "c": "Related to machines\nಯಂತ್ರಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ",
+      "d": "Related to rivers\nನದಿಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ",
       "ans": "(A) Related to flowers\nಹೂವುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -3961,6 +4035,7 @@
       "a": "Having new ideas\nಹೊಸ ಆಲೋಚನೆಗಳನ್ನು ಹೊಂದಿರುವ",
       "b": "Being careless\nನಿರ್ಲಕ್ಷ್ಯದಿಂದಿರುವ",
       "c": "Being old-fashioned\nಹಳೆಯ ಪದ್ಧತಿಯಲ್ಲಿರುವ",
+      "d": "Being lazy\nಸೋಮಾರಿಯಾಗಿರುವ",
       "ans": "(A) Having new ideas\nಹೊಸ ಆಲೋಚನೆಗಳನ್ನು ಹೊಂದಿರುವ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -4578,6 +4653,7 @@
       "a": "A short time\nಸ್ವಲ್ಪ ಸಮಯದಿಂದ",
       "b": "A very long time\nಬಹಳ ದೀರ್ಘ ಕಾಲದಿಂದ",
       "c": "One year\nಒಂದು ವರ್ಷದಿಂದ",
+      "d": "One month\nಒಂದು ತಿಂಗಳಿನಿಂದ",
       "ans": "(B) A very long time\nಬಹಳ ದೀರ್ಘ ಕಾಲದಿಂದ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -4591,6 +4667,7 @@
       "a": "Only in red\nಕೇವಲ ಕೆಂಪು ಬಣ್ಣದಲ್ಲಿ",
       "b": "In many colours\nಹಲವು ಬಣ್ಣಗಳಲ್ಲಿ",
       "c": "Only in blue\nಕೇವಲ ನೀಲಿ ಬಣ್ಣದಲ್ಲಿ",
+      "d": "Only in white\nಕೇವಲ ಬಿಳಿ ಬಣ್ಣದಲ್ಲಿ",
       "ans": "(B) In many colours\nಹಲವು ಬಣ್ಣಗಳಲ್ಲಿ",
       "obj": "ಜ್ಞಾನ",
       "diff": "ಸುಲಭ"
@@ -4604,6 +4681,7 @@
       "a": "Old and new designs\nಹಳೆಯ ಮತ್ತು ಹೊಸ ವಿನ್ಯಾಸಗಳು",
       "b": "Food and art\nಆಹಾರ ಮತ್ತು ಕಲೆ",
       "c": "Glass and wood\nಗಾಜು ಮತ್ತು ಮರ",
+      "d": "Paper and cloth\nಕಾಗದ ಮತ್ತು ಬಟ್ಟೆ",
       "ans": "(A) Old and new designs\nಹಳೆಯ ಮತ್ತು ಹೊಸ ವಿನ್ಯಾಸಗಳು",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸಾಧಾರಣ"
@@ -4617,6 +4695,7 @@
       "a": "Hesitant\nಹಿಂಜರಿಯುತ್ತಿದ್ದನು",
       "b": "Angry\nಕೋಪಗೊಂಡಿದ್ದನು",
       "c": "Uninterested\nಆಸಕ್ತಿಯಿಲ್ಲದವನಾಗಿದ್ದನು",
+      "d": "Afraid\nಭಯಪಟ್ಟಿದ್ದನು",
       "ans": "(A) Hesitant\nಹಿಂಜರಿಯುತ್ತಿದ್ದನು",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸಾಧಾರಣ"
@@ -4630,6 +4709,7 @@
       "a": "Only Ravi\nಕೇವಲ ರವಿಗೆ",
       "b": "The whole community\nಇಡೀ ಸಮುದಾಯಕ್ಕೆ",
       "c": "Only the customers\nಕೇವಲ ಗ್ರಾಹಕರಿಗೆ",
+      "d": "Only Ananya\nಕೇವಲ ಅನನ್ಯಾಳಿಗೆ",
       "ans": "(B) The whole community\nಇಡೀ ಸಮುದಾಯಕ್ಕೆ",
       "obj": "ತಿಳುವಳಿಕೆ",
       "diff": "ಸಾಧಾರಣ"
