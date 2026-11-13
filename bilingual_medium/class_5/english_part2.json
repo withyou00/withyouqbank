@@ -786,3 +786,3903 @@
     }
   ]
 }
+{
+  "questions": [
+    {
+      "id": "tank_q36",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Tank means:\nಟ್ಯಾಂಕ್ / ಕೆರೆ (Tank) ಎಂದರೆ:",
+      "a": "A water storage structure\nನೀರು ಸಂಗ್ರಹಿಸುವ ರಚನೆ",
+      "b": "A school\nಒಂದು ಶಾಲೆ",
+      "c": "A road\nಒಂದು ರಸ್ತೆ",
+      "ans": "(A) A water storage structure\nನೀರು ಸಂಗ್ರಹಿಸುವ ರಚನೆ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q37",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Harvest means:\nಸುಗ್ಗಿ / ಕೊಯ್ಲು (Harvest) ಎಂದರೆ:",
+      "a": "Collecting crops\nಬೆಳೆಗಳನ್ನು ಸಂಗ್ರಹಿಸುವುದು (ಕೊಯ್ಲು)",
+      "b": "Cooking food\nಆಹಾರ ಬೇಯಿಸುವುದು",
+      "c": "Buying seeds\nಬೀಜಗಳನ್ನು ಖರೀದಿಸುವುದು",
+      "ans": "(A) Collecting crops\nಬೆಳೆಗಳನ್ನು ಸಂಗ್ರಹಿಸುವುದು (ಕೊಯ್ಲು)",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q38",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Conservation means:\nಸಂರಕ್ಷಣೆ (Conservation) ಎಂದರೆ:",
+      "a": "Protection and saving\nರಕ್ಷಿಸುವುದು ಮತ್ತು ಉಳಿಸುವುದು",
+      "b": "Wasting\nವ್ಯರ್ಥ ಮಾಡುವುದು",
+      "c": "Throwing away\nಎಸೆಯುವುದು",
+      "ans": "(A) Protection and saving\nರಕ್ಷಿಸುವುದು ಮತ್ತು ಉಳಿಸುವುದು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q39",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Farmer means:\nರೈತ (Farmer) ಎಂದರೆ:",
+      "a": "A person who grows crops\nಬೆಳೆಗಳನ್ನು ಬೆಳೆಯುವ ವ್ಯಕ್ತಿ",
+      "b": "A teacher\nಒಬ್ಬ ಶಿಕ್ಷಕ",
+      "c": "A doctor\nಒಬ್ಬ ವೈದ್ಯ",
+      "ans": "(A) A person who grows crops\nಬೆಳೆಗಳನ್ನು ಬೆಳೆಯುವ ವ್ಯಕ್ತಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q40",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Village means:\nಗ್ರಾಮ / ಹಳ್ಳಿ (Village) ಎಂದರೆ:",
+      "a": "Rural settlement\nಗ್ರಾಮೀಣ ವಸತಿ ಪ್ರದೇಶ",
+      "b": "City\nನಗರ",
+      "c": "Market\nಮಾರುಕಟ್ಟೆ",
+      "ans": "(A) Rural settlement\nಗ್ರಾಮೀಣ ವಸತಿ ಪ್ರದೇಶ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q41",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What is the main purpose of a water tank?\nನೀರಿನ ಟ್ಯಾಂಕ್‌ನ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
+      "a": "To store water\nನೀರನ್ನು ಸಂಗ್ರಹಿಸುವುದು",
+      "b": "To grow plants\nಸಸ್ಯಗಳನ್ನು ಬೆಳೆಸುವುದು",
+      "c": "To keep animals\nಪ್ರಾಣಿಗಳನ್ನು ಸಾಕುವುದು",
+      "d": "To store food\nಆಹಾರವನ್ನು ಸಂಗ್ರಹಿಸುವುದು",
+      "ans": "(A) To store water\nನೀರನ್ನು ಸಂಗ್ರಹಿಸುವುದು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q42",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What do Ooranis in Tamil Nadu store?\nತಮಿಳುನಾಡಿನ 'ಊರಣಿ'ಗಳು (Ooranis) ಏನನ್ನು ಸಂಗ್ರಹಿಸುತ್ತವೆ?",
+      "a": "Milk\nಹಾಲು",
+      "b": "Rainwater\nಮಳೆನೀರು",
+      "c": "Food grains\nಆಹಾರ ಧಾನ್ಯಗಳು",
+      "d": "Oil\nಎಣ್ಣೆ",
+      "ans": "(B) Rainwater\nಮಳೆನೀರು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q43",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What are Panam Keni?\n'ಪನಂ ಕೇಣಿ' (Panam Keni) ಎಂದರೇನು?",
+      "a": "Underground tanks\nನೆಲದಡಿಯ ಟ್ಯಾಂಕ್‌ಗಳು",
+      "b": "Special wells\nವಿಶೇಷ ಬಾವಿಗಳು",
+      "c": "Overhead tanks\nಮೇಲ್ಮಟ್ಟದ (ತಾರಸಿಯ) ಟ್ಯಾಂಕ್‌ಗಳು",
+      "d": "Large containers\nದೊಡ್ಡ ಪಾತ್ರೆಗಳು",
+      "ans": "(B) Special wells\nವಿಶೇಷ ಬಾವಿಗಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "tank_q44",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Where are Tankas commonly found?\n'ಟಾಂಕಾ'ಗಳು (Tankas) ಸಾಮಾನ್ಯವಾಗಿ ಎಲ್ಲಿ ಕಂಡುಬರುತ್ತವೆ?",
+      "a": "Kerala\nಕೇರಳ",
+      "b": "Punjab\nಪಂಜಾಬ್",
+      "c": "Rajasthan\nರಾಜಸ್ಥಾನ",
+      "d": "Tamil Nadu\nತಮಿಳುನಾಡು",
+      "ans": "(C) Rajasthan\nರಾಜಸ್ಥಾನ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q45",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "How long can Tankas store enough water?\nಟಾಂಕಾಗಳು ಎಷ್ಟು ಸಮಯದವರೆಗೆ ಸಾಕಷ್ಟು ನೀರನ್ನು ಸಂಗ್ರಹಿಸಬಲ್ಲವು?",
+      "a": "One month\nಒಂದು ತಿಂಗಳು",
+      "b": "Two to three months\nಎರಡರಿಂದ ಮೂರು ತಿಂಗಳು",
+      "c": "Six to seven months\nಆರರಿಂದ ಏಳು ತಿಂಗಳು",
+      "d": "One year\nಒಂದು ವರ್ಷ",
+      "ans": "(C) Six to seven months\nಆರರಿಂದ ಏಳು ತಿಂಗಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "tank_q46",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What are water tanks kept or built on the roofs called?\nಮನೆಗಳ ಛಾವಣಿಯ ಮೇಲೆ ಇಡುವ ಅಥವಾ ನಿರ್ಮಿಸುವ ನೀರಿನ ಟ್ಯಾಂಕ್‌ಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "a": "Underground tanks\nನೆಲದಡಿಯ ಟ್ಯಾಂಕ್‌ಗಳು",
+      "b": "Overhead water tanks\nಓವರ್‌ಹೆಡ್ (ಮೇಲ್ಮಟ್ಟದ) ನೀರಿನ ಟ್ಯಾಂಕ್‌ಗಳು",
+      "c": "Panam Keni\nಪನಂ ಕೇಣಿ",
+      "d": "Tankas\nಟಾಂಕಾಗಳು",
+      "ans": "(B) Overhead water tanks\nಓವರ್‌ಹೆಡ್ (ಮೇಲ್ಮಟ್ಟದ) ನೀರಿನ ಟ್ಯಾಂಕ್‌ಗಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q47",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "In which part of India is Punjab located?\nಭಾರತದ ಯಾವ ಭಾಗದಲ್ಲಿ ಪಂಜಾಬ್ ನೆಲೆಗೊಂಡಿದೆ?",
+      "a": "Southern\nದಕ್ಷಿಣ",
+      "b": "Eastern\nಪೂರ್ವ",
+      "c": "Northwestern\nವಾಯುವ್ಯ",
+      "d": "Northeastern\nಈಶಾನ್ಯ",
+      "ans": "(C) Northwestern\nವಾಯುವ್ಯ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "tank_q48",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Which of these can be the shape of a water tank in rural Punjab?\nಗ್ರಾಮೀಣ ಪಂಜಾಬ್‌ನಲ್ಲಿ ನೀರಿನ ಟ್ಯಾಂಕ್ ಇವುಗಳಲ್ಲಿ ಯಾವ ಆಕಾರದಲ್ಲಿರಬಹುದು?",
+      "a": "Football\nಫುಟ್‌ಬಾಲ್",
+      "b": "Book\nಪುಸ್ತಕ",
+      "c": "Pencil\nಪೆನ್ಸಿಲ್",
+      "d": "Cup\nಕಪ್",
+      "ans": "(A) Football\nಫುಟ್‌ಬಾಲ್",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q49",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What is the frame of the Punjab water tanks made of?\nಪಂಜಾಬ್‌ನ ನೀರಿನ ಟ್ಯಾಂಕ್‌ಗಳ ಚೌಕಟ್ಟನ್ನು (frame) ಯಾವುದರಿಂದ ಮಾಡಲಾಗುತ್ತದೆ?",
+      "a": "Wood\nಮರ",
+      "b": "Steel rods\nಉಕ್ಕಿನ ಕಂಬಿಗಳು",
+      "c": "Plastic\nಪ್ಲಾಸ್ಟಿಕ್",
+      "d": "Bamboo\nಬಿದಿರು",
+      "ans": "(B) Steel rods\nಉಕ್ಕಿನ ಕಂಬಿಗಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q50",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What is used to give the tank its final shape?\nಟ್ಯಾಂಕ್‌ಗೆ ಅಂತಿಮ ಆಕಾರ ನೀಡಲು ಏನನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "a": "Paper\nಕಾಗದ",
+      "b": "Clay\nಜೇಡಿಮಣ್ಣು",
+      "c": "Concrete\nಕಾಂಕ್ರೀಟ್",
+      "d": "Cloth\nಬಟ್ಟೆ",
+      "ans": "(C) Concrete\nಕಾಂಕ್ರೀಟ್",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q51",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Water conservation has existed for centuries.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಜಲ ಸಂರಕ್ಷಣೆಯು ಶತಮಾನಗಳಿಂದಲೂ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q52",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Ancient water-storage structures only provided drinking water.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಪ್ರಾಚೀನ ನೀರು ಸಂಗ್ರಹಣಾ ರಚನೆಗಳು ಕೇವಲ ಕುಡಿಯುವ ನೀರನ್ನು ಮಾತ್ರ ಒದಗಿಸುತ್ತಿದ್ದವು.",
+      "ans": "False\nತಪ್ಪು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "tank_q53",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Ooranis are found in Tamil Nadu.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಊರಣಿಗಳು ತಮಿಳುನಾಡಿನಲ್ಲಿ ಕಂಡುಬರುತ್ತವೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q54",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Ooranis store rainwater for drinking and farming.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಊರಣಿಗಳು ಕುಡಿಯಲು ಮತ್ತು ಕೃಷಿಗಾಗಿ ಮಳೆನೀರನ್ನು ಸಂಗ್ರಹಿಸುತ್ತವೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q55",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Panam Keni wells are found in Kerala.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಪನಂ ಕೇಣಿ ಬಾವಿಗಳು ಕೇರಳದಲ್ಲಿ ಕಂಡುಬರುತ್ತವೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q56",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Tankas are underground tanks found commonly in Rajasthan's Thar region.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಟಾಂಕಾಗಳು ರಾಜಸ್ಥಾನದ ಥಾರ್ ಪ್ರದೇಶದಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಕಂಡುಬರುವ ನೆಲದಡಿಯ ಟ್ಯಾಂಕ್‌ಗಳಾಗಿವೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q57",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Tankas can store enough water for six to seven months.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಟಾಂಕಾಗಳು ಆರರಿಂದ ಏಳು ತಿಂಗಳವರೆಗೆ ಸಾಕಷ್ಟು ನೀರನ್ನು ಸಂಗ್ರಹಿಸಬಲ್ಲವು.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q58",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Overhead water tanks are usually built under the ground.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಓವರ್‌ಹೆಡ್ ನೀರಿನ ಟ್ಯಾಂಕ್‌ಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ನೆಲದಡಿಯಲ್ಲಿ ನಿರ್ಮಿಸಲಾಗುತ್ತದೆ.",
+      "ans": "False\nತಪ್ಪು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q59",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Punjab is known for unique water-tank designs in its rural areas.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಪಂಜಾಬ್ ತನ್ನ ಗ್ರಾಮೀಣ ಪ್ರದೇಶಗಳಲ್ಲಿನ ವಿಶಿಷ್ಟ ನೀರಿನ ಟ್ಯಾಂಕ್ ವಿನ್ಯಾಸಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q60",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: All water tanks in Punjab are shaped like footballs.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಪಂಜಾಬ್‌ನ ಎಲ್ಲಾ ನೀರಿನ ಟ್ಯಾಂಕ್‌ಗಳು ಫುಟ್‌ಬಾಲ್ ಆಕಾರದಲ್ಲಿರುತ್ತವೆ.",
+      "ans": "False\nತಪ್ಪು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "tank_match1",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "match",
+      "marks": 5,
+      "q": "Match the following (Set 1: Q61–65):\nಹೊಂದಿಸಿ ಬರೆಯಿರಿ (ಸೆಟ್ 1: ಪ್ರಶ್ನೆ 61–65):",
+      "matchPairs": [
+        {
+          "a": "Ooranis\nಊರಣಿಗಳು",
+          "b": "Tamil Nadu\nತಮಿಳುನಾಡು"
+        },
+        {
+          "a": "Panam Keni\nಪನಂ ಕೇಣಿ",
+          "b": "Kerala\nಕೇರಳ"
+        },
+        {
+          "a": "Tankas\nಟಾಂಕಾಗಳು",
+          "b": "Rajasthan\nರಾಜಸ್ಥಾನ"
+        },
+        {
+          "a": "Thar region\nಥಾರ್ ಪ್ರದೇಶ",
+          "b": "Rajasthan\nರಾಜಸ್ಥಾನ"
+        },
+        {
+          "a": "Overhead water tank\nಓವರ್‌ಹೆಡ್ ನೀರಿನ ಟ್ಯಾಂಕ್",
+          "b": "Built on the roof\nಛಾವಣಿಯ ಮೇಲೆ ನಿರ್ಮಿಸಲಾಗಿದೆ"
+        }
+      ],
+      "ans": "(1) -> Tamil Nadu / ತಮಿಳುನಾಡು | (2) -> Kerala / ಕೇರಳ | (3) -> Rajasthan / ರಾಜಸ್ಥಾನ | (4) -> Rajasthan / ರಾಜಸ್ಥಾನ | (5) -> Built on the roof / ಛಾವಣಿಯ ಮೇಲೆ ನಿರ್ಮಿಸಲಾಗಿದೆ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_match2",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "match",
+      "marks": 5,
+      "q": "Match the following (Set 2: Q66–70):\nಹೊಂದಿಸಿ ಬರೆಯಿರಿ (ಸೆಟ್ 2: ಪ್ರಶ್ನೆ 66–70):",
+      "matchPairs": [
+        {
+          "a": "Football-shaped tank\nಫುಟ್‌ಬಾಲ್ ಆಕಾರದ ಟ್ಯಾಂಕ್",
+          "b": "Football lover\nಫುಟ್‌ಬಾಲ್ ಪ್ರೇಮಿ"
+        },
+        {
+          "a": "Tractor-shaped tank\nಟ್ರ್ಯಾಕ್ಟರ್ ಆಕಾರದ ಟ್ಯಾಂಕ್",
+          "b": "Farmer\nರೈತ"
+        },
+        {
+          "a": "Steel rods\nಉಕ್ಕಿನ ಕಂಬಿಗಳು",
+          "b": "Make the frame\nಚೌಕಟ್ಟು ತಯಾರಿಸುತ್ತವೆ"
+        },
+        {
+          "a": "Concrete\nಕಾಂಕ್ರೀಟ್",
+          "b": "Gives the tank its final shape\nಟ್ಯಾಂಕ್‌ಗೆ ಅಂತಿಮ ಆಕಾರ ನೀಡುತ್ತದೆ"
+        },
+        {
+          "a": "Punjab\nಪಂಜಾಬ್",
+          "b": "Unique water-tank designs\nವಿಶಿಷ್ಟ ನೀರಿನ ಟ್ಯಾಂಕ್ ವಿನ್ಯಾಸಗಳು"
+        }
+      ],
+      "ans": "(1) -> Football lover / ಫುಟ್‌ಬಾಲ್ ಪ್ರೇಮಿ | (2) -> Farmer / ರೈತ | (3) -> Make the frame / ಚೌಕಟ್ಟು ತಯಾರಿಸುತ್ತವೆ | (4) -> Gives the tank its final shape / ಟ್ಯಾಂಕ್‌ಗೆ ಅಂತಿಮ ಆಕಾರ ನೀಡುತ್ತದೆ | (5) -> Unique water-tank designs / ವಿಶಿಷ್ಟ ನೀರಿನ ಟ್ಯಾಂಕ್ ವಿನ್ಯಾಸಗಳು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "tank_q71",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What do Ooranis store?\nಊರಣಿಗಳು ಏನನ್ನು ಸಂಗ್ರಹಿಸುತ್ತವೆ?",
+      "ans": "Rainwater\nಮಳೆನೀರು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q72",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "In which state are Ooranis found?\nಊರಣಿಗಳು ಯಾವ ರಾಜ್ಯದಲ್ಲಿ ಕಂಡುಬರುತ್ತವೆ?",
+      "ans": "Tamil Nadu\nತಮಿಳುನಾಡು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q73",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What are the special wells in Kerala called?\nಕೇರಳದಲ್ಲಿರುವ ವಿಶೇಷ ಬಾವಿಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "ans": "Panam Keni\nಪನಂ ಕೇಣಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q74",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What are the underground tanks in Rajasthan called?\nರಾಜಸ್ಥಾನದಲ್ಲಿರುವ ನೆಲದಡಿಯ ಟ್ಯಾಂಕ್‌ಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "ans": "Tankas\nಟಾಂಕಾಗಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q75",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "In which region of Rajasthan are Tankas commonly found?\nರಾಜಸ್ಥಾನದ ಯಾವ ಪ್ರದೇಶದಲ್ಲಿ ಟಾಂಕಾಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಕಂಡುಬರುತ್ತವೆ?",
+      "ans": "Thar\nಥಾರ್",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q76",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "In which state are unique overhead water tanks found?\nವಿಶಿಷ್ಟವಾದ ಓವರ್‌ಹೆಡ್ ನೀರಿನ ಟ್ಯಾಂಕ್‌ಗಳು ಯಾವ ರಾಜ್ಯದಲ್ಲಿ ಕಂಡುಬರುತ್ತವೆ?",
+      "ans": "Punjab\nಪಂಜಾಬ್",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q77",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What material is used to make the frame of the Punjab water tanks?\nಪಂಜಾಬ್ ನೀರಿನ ಟ್ಯಾಂಕ್‌ಗಳ ಚೌಕಟ್ಟನ್ನು ತಯಾರಿಸಲು ಯಾವ ವಸ್ತುವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "ans": "Steel\nಉಕ್ಕು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q78",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What material gives the tanks their final shape?\nಟ್ಯಾಂಕ್‌ಗಳಿಗೆ ಅಂತಿಮ ಆಕಾರ ನೀಡುವ ವಸ್ತು ಯಾವುದು?",
+      "ans": "Concrete\nಕಾಂಕ್ರೀಟ್",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q79",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What shape might a football lover's water tank have?\nಫುಟ್‌ಬಾಲ್ ಪ್ರೇಮಿಯ ನೀರಿನ ಟ್ಯಾಂಕ್ ಯಾವ ಆಕಾರದಲ್ಲಿರಬಹುದು?",
+      "ans": "Football\nಫುಟ್‌ಬಾಲ್",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q80",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What shape might a farmer's water tank have?\nರೈತನ ನೀರಿನ ಟ್ಯಾಂಕ್ ಯಾವ ಆಕಾರದಲ್ಲಿರಬಹುದು?",
+      "ans": "Tractor\nಟ್ರ್ಯಾಕ್ಟರ್",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q81",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Water conservation is a practice that has existed for __________.\nಜಲ ಸಂರಕ್ಷಣೆಯು __________ಗಳಿಂದಲೂ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಪದ್ಧತಿಯಾಗಿದೆ.",
+      "ans": "centuries\nಶತಮಾನ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q82",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Ooranis in Tamil Nadu store __________ for drinking and farming.\nತಮಿಳುನಾಡಿನ ಊರಣಿಗಳು ಕುಡಿಯಲು ಮತ್ತು ಕೃಷಿಗಾಗಿ __________ನ್ನು ಸಂಗ್ರಹಿಸುತ್ತವೆ.",
+      "ans": "rainwater\nಮಳೆನೀರ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q83",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Panam Keni wells are found in __________.\nಪನಂ ಕೇಣಿ ಬಾವಿಗಳು __________ದಲ್ಲಿ ಕಂಡುಬರುತ್ತವೆ.",
+      "ans": "Kerala\nಕೇರಳ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q84",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Tankas are commonly found in Rajasthan's __________ region.\nಟಾಂಕಾಗಳು ಸಾಮಾನ್ಯವಾಗಿ ರಾಜಸ್ಥಾನದ __________ ಪ್ರದೇಶದಲ್ಲಿ ಕಂಡುಬರುತ್ತವೆ.",
+      "ans": "Thar\nಥಾರ್",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q85",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Tankas can store enough water for __________ to seven months.\nಟಾಂಕಾಗಳು __________ರಿಂದ ಏಳು ತಿಂಗಳವರೆಗೆ ಸಾಕಷ್ಟು ನೀರನ್ನು ಸಂಗ್ರಹಿಸಬಲ್ಲವು.",
+      "ans": "six\nಆರ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q86",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Water tanks built on the roofs are called __________ water tanks.\nಛಾವಣಿಯ ಮೇಲೆ ನಿರ್ಮಿಸಲಾದ ನೀರಿನ ಟ್ಯಾಂಕ್‌ಗಳನ್ನು __________ ನೀರಿನ ಟ್ಯಾಂಕ್‌ಗಳೆಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "ans": "overhead\nಓವರ್‌ಹೆಡ್ (ಮೇಲ್ಮಟ್ಟದ)",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q87",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Punjab is located in the __________ part of India.\nಪಂಜಾಬ್ ಭಾರತದ __________ ಭಾಗದಲ್ಲಿ ನೆಲೆಗೊಂಡಿದೆ.",
+      "ans": "northwestern\nವಾಯುವ್ಯ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "tank_q88",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The frame of the water tank is made using __________ rods.\nನೀರಿನ ಟ್ಯಾಂಕ್‌ನ ಚೌಕಟ್ಟನ್ನು __________ ಕಂಬಿಗಳನ್ನು ಬಳಸಿ ತಯಾರಿಸಲಾಗುತ್ತದೆ.",
+      "ans": "steel\nಉಕ್ಕಿನ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q89",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "__________ is used to give the water tank its final shape.\nನೀರಿನ ಟ್ಯಾಂಕ್‌ಗೆ ಅಂತಿಮ ಆಕಾರವನ್ನು ನೀಡಲು __________ ಅನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.",
+      "ans": "Concrete\nಕಾಂಕ್ರೀಟ್",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q90",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "A football lover may have a water tank shaped like a __________.\nಫುಟ್‌ಬಾಲ್ ಪ್ರೇಮಿಯು __________ ಆಕಾರದ ನೀರಿನ ಟ್ಯಾಂಕ್ ಅನ್ನು ಹೊಂದಿರಬಹುದು.",
+      "ans": "football\nಫುಟ್‌ಬಾಲ್",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q116",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Where was the tank located?\nಕೆರೆ (ಟ್ಯಾಂಕ್) ಎಲ್ಲಿತ್ತು?",
+      "ans": "Near a village\nಒಂದು ಹಳ್ಳಿಯ ಬಳಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q117",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "When did the tank fill with water?\nಕೆರೆ ಯಾವಾಗ ನೀರಿನಿಂದ ತುಂಬಿತು?",
+      "ans": "During the rainy season\nಮಳೆಗಾಲದಲ್ಲಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q118",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Who used the tank water?\nಕೆರೆಯ ನೀರನ್ನು ಯಾರು ಬಳಸಿದರು?",
+      "ans": "Farmers\nರೈತರು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q119",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Why did farmers need the water?\nರೈತರಿಗೆ ನೀರು ಏಕೆ ಬೇಕಿತ್ತು?",
+      "ans": "To grow crops\nಬೆಳೆಗಳನ್ನು ಬೆಳೆಯಲು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q120",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What did the tank help?\nಕೆರೆ ಯಾವುದಕ್ಕೆ ಸಹಾಯ ಮಾಡಿತು?",
+      "ans": "The village\nಹಳ್ಳಿಗೆ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q121",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Did the village benefit from the tank?\nಹಳ್ಳಿಗೆ ಕೆರೆಯಿಂದ ಲಾಭವಾಯಿತೇ?",
+      "ans": "Yes\nಹೌದು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q122",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What season is mentioned?\nಪಾಠದಲ್ಲಿ ಯಾವ ಋತುವನ್ನು ಉಲ್ಲೇಖಿಸಲಾಗಿದೆ?",
+      "ans": "Rainy season\nಮಳೆಗಾಲ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q123",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What grew in the fields?\nಹೊಲಗಳಲ್ಲಿ ಏನು ಬೆಳೆಯಿತು?",
+      "ans": "Crops\nಬೆಳೆಗಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q124",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What did people understand?\nಜನರು ಏನನ್ನು ಅರ್ಥಮಾಡಿಕೊಂಡರು?",
+      "ans": "Importance of saving water\nನೀರನ್ನು ಉಳಿಸುವ ಮಹತ್ವವನ್ನು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q125",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Was the tank useful?\nಕೆರೆ ಉಪಯುಕ್ತವಾಗಿತ್ತೇ?",
+      "ans": "Yes\nಹೌದು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q126",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The tank was near a:\nಕೆರೆಯು ಇದರ ಬಳಿ ಇತ್ತು:",
+      "a": "Village\nಹಳ್ಳಿ",
+      "b": "Mall\nಮಾಲ್",
+      "c": "Station\nನಿಲ್ದಾಣ",
+      "ans": "(A) Village\nಹಳ್ಳಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q127",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The tank filled during:\nಕೆರೆಯು ಈ ಸಮಯದಲ್ಲಿ ತುಂಬಿತು:",
+      "a": "Summer\nಬೇಸಿಗೆ",
+      "b": "Rainy season\nಮಳೆಗಾಲ",
+      "c": "Winter\nಚಳಿಗಾಲ",
+      "ans": "(B) Rainy season\nಮಳೆಗಾಲ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q128",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Farmers used water for:\nರೈತರು ನೀರನ್ನು ಇದಕ್ಕಾಗಿ ಬಳಸಿದರು:",
+      "a": "Farming\nಕೃಷಿ",
+      "b": "Driving\nವಾಹನ ಚಾಲನೆ",
+      "c": "Shopping\nಶಾಪಿಂಗ್",
+      "ans": "(A) Farming\nಕೃಷಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q129",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The tank helped:\nಕೆರೆಯು ಇದಕ್ಕೆ ಸಹಾಯ ಮಾಡಿತು:",
+      "a": "Village\nಹಳ್ಳಿ",
+      "b": "Airport\nವಿಮಾನ ನಿಲ್ದಾಣ",
+      "c": "City bus\nನಗರ ಬಸ್",
+      "ans": "(A) Village\nಹಳ್ಳಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q130",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The lesson teaches:\nಈ ಪಾಠವು ಕಲಿಸುವುದು:",
+      "a": "Water conservation\nಜಲ ಸಂರಕ್ಷಣೆ",
+      "b": "Pollution\nಮಾಲಿನ್ಯ",
+      "c": "Carelessness\nನಿರ್ಲಕ್ಷ್ಯ",
+      "ans": "(A) Water conservation\nಜಲ ಸಂರಕ್ಷಣೆ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "tank_q131",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "Why are tanks important in villages?\nಹಳ್ಳಿಗಳಲ್ಲಿ ಕೆರೆಗಳು ಏಕೆ ಮುಖ್ಯವಾಗಿವೆ?",
+      "ans": "They store water for community use.\nಅವು ಸಮುದಾಯದ ಬಳಕೆಗಾಗಿ ನೀರನ್ನು ಸಂಗ್ರಹಿಸುತ್ತವೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "tank_q132",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "How does water help farmers?\nನೀರು ರೈತರಿಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ?",
+      "ans": "It helps grow crops.\nಇದು ಬೆಳೆಗಳನ್ನು ಬೆಳೆಯಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "tank_q133",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "What might happen if tanks dry up?\nಕೆರೆಗಳು ಬತ್ತಿಹೋದರೆ ಏನಾಗಬಹುದು?",
+      "ans": "Farming may suffer.\nಕೃಷಿಗೆ ತೊಂದರೆಯಾಗಬಹುದು.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "tank_q134",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "Why should we conserve water?\nನಾವು ನೀರನ್ನು ಏಕೆ ಸಂರಕ್ಷಿಸಬೇಕು?",
+      "ans": "Water is essential and limited.\nನೀರು ಅತ್ಯಗತ್ಯ ಮತ್ತು ಸೀಮಿತವಾಗಿದೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "tank_q135",
+      "chapter": "6. What a Tank! (ಎಂತಹ ಟ್ಯಾಂಕ್!)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "What lesson can we learn from the chapter?\nಈ ಪಾಠದಿಂದ ನಾವು ಯಾವ ಪಾಠವನ್ನು ಕಲಿಯಬಹುದು?",
+      "ans": "Use natural resources wisely.\nನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ ಬಳಸಿ.",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    }
+  ]
+}
+{
+  "questions": [
+    {
+      "id": "gilli_q36",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Gilli Danda is:\nಗಿಲ್ಲಿ ದಾಂಡು ಎಂದರೆ:",
+      "a": "A traditional game\nಒಂದು ಸಾಂಪ್ರದಾಯಿಕ ಆಟ",
+      "b": "A story book\nಒಂದು ಕಥೆಯ ಪುಸ್ತಕ",
+      "c": "A song\nಒಂದು ಹಾಡು",
+      "ans": "(A) A traditional game\nಒಂದು ಸಾಂಪ್ರದಾಯಿಕ ಆಟ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q37",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Player means:\nಆಟಗಾರ (Player) ಎಂದರೆ:",
+      "a": "One who plays\nಆಟ ಆಡುವವನು",
+      "b": "One who teaches\nಪಾಠ ಮಾಡುವವನು",
+      "c": "One who writes\nಬರೆಯುವವನು",
+      "ans": "(A) One who plays\nಆಟ ಆಡುವವನು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q38",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Team means:\nತಂಡ (Team) ಎಂದರೆ:",
+      "a": "A group working together\nಒಟ್ಟಾಗಿ ಕೆಲಸ ಮಾಡುವ ಗುಂಪು",
+      "b": "A building\nಒಂದು ಕಟ್ಟಡ",
+      "c": "A road\nಒಂದು ರಸ್ತೆ",
+      "ans": "(A) A group working together\nಒಟ್ಟಾಗಿ ಕೆಲಸ ಮಾಡುವ ಗುಂಪು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q39",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Field means:\nಮೈದಾನ (Field) ಎಂದರೆ:",
+      "a": "Open ground\nತೆರೆದ ಮೈದಾನ",
+      "b": "Classroom\nತರಗತಿ ಕೊಠಡಿ",
+      "c": "Shop\nಅಂಗಡಿ",
+      "ans": "(A) Open ground\nತೆರೆದ ಮೈದಾನ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q40",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Fun means:\nತಮಾಷೆ / ಮೋಜು (Fun) ಎಂದರೆ:",
+      "a": "Enjoyment\nಆನಂದ / ಸಂತೋಷ",
+      "b": "Sadness\nದುಃಖ",
+      "c": "Anger\nಕೋಪ",
+      "ans": "(A) Enjoyment\nಆನಂದ / ಸಂತೋಷ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q41",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What is the chapter mainly about?\nಈ ಪಾಠವು ಮುಖ್ಯವಾಗಿ ಯಾವುದರ ಬಗ್ಗೆ ಇದೆ?",
+      "a": "Cricket\nಕ್ರಿಕೆಟ್",
+      "b": "Gilli Danda\nಗಿಲ್ಲಿ ದಾಂಡು",
+      "c": "Football\nಫುಟ್‌ಬಾಲ್",
+      "ans": "(B) Gilli Danda\nಗಿಲ್ಲಿ ದಾಂಡು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q42",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Gilli Danda is played:\nಗಿಲ್ಲಿ ದಾಂಡು ಆಟವನ್ನು ಎಲ್ಲಿ ಆಡಲಾಗುತ್ತದೆ?",
+      "a": "Outdoors\nಹೊರಾಂಗಣದಲ್ಲಿ (ಬಯಲಿನಲ್ಲಿ)",
+      "b": "Indoors\nಒಳಾಂಗಣದಲ್ಲಿ",
+      "c": "Underwater\nನೀರಿನ ಒಳಗೆ",
+      "ans": "(A) Outdoors\nಹೊರಾಂಗಣದಲ್ಲಿ (ಬಯಲಿನಲ್ಲಿ)",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q43",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The game uses:\nಈ ಆಟದಲ್ಲಿ ಏನನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "a": "Bat and ball\nಬ್ಯಾಟ್ ಮತ್ತು ಚೆಂಡು",
+      "b": "Gilli and danda\nಗಿಲ್ಲಿ ಮತ್ತು ದಾಂಡು",
+      "c": "Racket and shuttle\nರಾಕೆಟ್ ಮತ್ತು ಶಟಲ್",
+      "ans": "(B) Gilli and danda\nಗಿಲ್ಲಿ ಮತ್ತು ದಾಂಡು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q44",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Children play the game with:\nಮಕ್ಕಳು ಈ ಆಟವನ್ನು ಯಾರೊಂದಿಗೆ ಆಡುತ್ತಾರೆ?",
+      "a": "Friends\nಸ್ನೇಹಿತರೊಂದಿಗೆ",
+      "b": "Robots\nರೋಬೋಟ್‌ಗಳೊಂದಿಗೆ",
+      "c": "Animals\nಪ್ರಾಣಿಗಳೊಂದಿಗೆ",
+      "ans": "(A) Friends\nಸ್ನೇಹಿತರೊಂದಿಗೆ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q45",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The game develops:\nಈ ಆಟವು ಏನನ್ನು ಬೆಳೆಸುತ್ತದೆ?",
+      "a": "Physical fitness\nದೈಹಿಕ ಸದೃಢತೆ",
+      "b": "Sleeping habits\nನಿದ್ರೆಯ ಅಭ್ಯಾಸ",
+      "c": "Cooking skills\nಅಡುಗೆ ಕೌಶಲ್ಯ",
+      "ans": "(A) Physical fitness\nದೈಹಿಕ ಸದೃಢತೆ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q46",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Gilli Danda is a:\nಗಿಲ್ಲಿ ದಾಂಡು ಒಂದು:",
+      "a": "Traditional game\nಸಾಂಪ್ರದಾಯಿಕ ಆಟ",
+      "b": "Modern gadget\nಆಧುನಿಕ ಸಾಧನ",
+      "c": "Television show\nಟಿವಿ ಕಾರ್ಯಕ್ರಮ",
+      "ans": "(A) Traditional game\nಸಾಂಪ್ರದಾಯಿಕ ಆಟ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q47",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The players need:\nಆಟಗಾರರಿಗೆ ಏನು ಬೇಕಾಗುತ್ತದೆ?",
+      "a": "Skill\nಕೌಶಲ್ಯ",
+      "b": "Money\nಹಣ",
+      "c": "Tickets\nಟಿಕೆಟ್‌ಗಳು",
+      "ans": "(A) Skill\nಕೌಶಲ್ಯ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q48",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The game is popular in:\nಈ ಆಟವು ಎಲ್ಲಿ ಜನಪ್ರಿಯವಾಗಿದೆ?",
+      "a": "Villages\nಹಳ್ಳಿಗಳಲ್ಲಿ",
+      "b": "Airports\nವಿಮಾನ ನಿಲ್ದಾಣಗಳಲ್ಲಿ",
+      "c": "Factories\nಕಾರ್ಖಾನೆಗಳಲ್ಲಿ",
+      "ans": "(A) Villages\nಹಳ್ಳಿಗಳಲ್ಲಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q49",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Playing games helps:\nಆಟಗಳನ್ನು ಆಡುವುದು ಯಾವುದಕ್ಕೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ?",
+      "a": "Health\nಆರೋಗ್ಯಕ್ಕೆ",
+      "b": "Laziness\nಸೋಮಾರಿತನಕ್ಕೆ",
+      "c": "Boredom\nಬೇಸರಕ್ಕೆ",
+      "ans": "(A) Health\nಆರೋಗ್ಯಕ್ಕೆ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q50",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The lesson promotes:\nಈ ಪಾಠವು ಏನನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ?",
+      "a": "Outdoor play\nಹೊರಾಂಗಣ ಆಟ",
+      "b": "Screen time\nಪರದೆ (ಮೊಬೈಲ್/ಟಿವಿ) ನೋಡುವ ಸಮಯ",
+      "c": "Isolation\nಏಕಾಂಗಿತನ",
+      "ans": "(A) Outdoor play\nಹೊರಾಂಗಣ ಆಟ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q51",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Gilli Danda is an outdoor game.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಗಿಲ್ಲಿ ದಾಂಡು ಒಂದು ಹೊರಾಂಗಣ ಆಟವಾಗಿದೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q52",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The game uses a gilli and a danda.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಈ ಆಟದಲ್ಲಿ ಗಿಲ್ಲಿ ಮತ್ತು ದಾಂಡನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q53",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Children play it alone.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಮಕ್ಕಳು ಇದನ್ನು ಒಬ್ಬರೇ ಆಡುತ್ತಾರೆ.",
+      "ans": "False\nತಪ್ಪು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q54",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The game improves physical fitness.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಈ ಆಟವು ದೈಹಿಕ ಸದೃಢತೆಯನ್ನು ಸುಧಾರಿಸುತ್ತದೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q55",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Gilli Danda is a traditional game.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಗಿಲ್ಲಿ ದಾಂಡು ಒಂದು ಸಾಂಪ್ರದಾಯಿಕ ಆಟವಾಗಿದೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q56",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Outdoor games are healthy.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಹೊರಾಂಗಣ ಆಟಗಳು ಆರೋಗ್ಯಕರವಾಗಿವೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q57",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The game can be played with friends.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಈ ಆಟವನ್ನು ಸ್ನೇಹಿತರೊಂದಿಗೆ ಆಡಬಹುದು.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q58",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Physical activity is important.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ದೈಹಿಕ ಚಟುವಟಿಕೆಯು ಮುಖ್ಯವಾಗಿದೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q59",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Gilli Danda is part of our culture.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಗಿಲ್ಲಿ ದಾಂಡು ನಮ್ಮ ಸಂಸ್ಕೃತಿಯ ಭಾಗವಾಗಿದೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q60",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The lesson encourages active play.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಈ ಪಾಠವು ಚುರುಕಾದ ಆಟವನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_match1",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "match",
+      "marks": 5,
+      "q": "Match the following (Set 1: Q61–65):\nಹೊಂದಿಸಿ ಬರೆಯಿರಿ (ಸೆಟ್ 1: ಪ್ರಶ್ನೆ 61–65):",
+      "matchPairs": [
+        {
+          "a": "Gilli\nಗಿಲ್ಲಿ",
+          "b": "Small wooden piece\nಸಣ್ಣ ಮರದ ತುಂಡು"
+        },
+        {
+          "a": "Danda\nದಾಂಡು",
+          "b": "Long stick\nಉದ್ದವಾದ ಕೋಲು"
+        },
+        {
+          "a": "Player\nಆಟಗಾರ",
+          "b": "Participant\nಭಾಗವಹಿಸುವವರು"
+        },
+        {
+          "a": "Team\nತಂಡ",
+          "b": "Group\nಗುಂಪು"
+        },
+        {
+          "a": "Friends\nಸ್ನೇಹಿತರು",
+          "b": "Companions\nಸಂಗಾತಿಗಳು (ಗೆಳೆಯರು)"
+        }
+      ],
+      "ans": "(1) -> Small wooden piece / ಸಣ್ಣ ಮರದ ತುಂಡು | (2) -> Long stick / ಉದ್ದವಾದ ಕೋಲು | (3) -> Participant / ಭಾಗವಹಿಸುವವರು | (4) -> Group / ಗುಂಪು | (5) -> Companions / ಸಂಗಾತಿಗಳು (ಗೆಳೆಯರು)",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_match2",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "match",
+      "marks": 5,
+      "q": "Match the following (Set 2: Q66–70):\nಹೊಂದಿಸಿ ಬರೆಯಿರಿ (ಸೆಟ್ 2: ಪ್ರಶ್ನೆ 66–70):",
+      "matchPairs": [
+        {
+          "a": "Game\nಆಟ",
+          "b": "Activity\nಚಟುವಟಿಕೆ"
+        },
+        {
+          "a": "Field\nಮೈದಾನ",
+          "b": "Playground\nಆಟದ ಮೈದಾನ"
+        },
+        {
+          "a": "Village\nಹಳ್ಳಿ",
+          "b": "Rural area\nಗ್ರಾಮೀಣ ಪ್ರದೇಶ"
+        },
+        {
+          "a": "Fitness\nಸದೃಢತೆ",
+          "b": "Health\nಆರೋಗ್ಯ"
+        },
+        {
+          "a": "Fun\nಮೋಜು",
+          "b": "Enjoyment\nಆನಂದ"
+        }
+      ],
+      "ans": "(1) -> Activity / ಚಟುವಟಿಕೆ | (2) -> Playground / ಆಟದ ಮೈದಾನ | (3) -> Rural area / ಗ್ರಾಮೀಣ ಪ್ರದೇಶ | (4) -> Health / ಆರೋಗ್ಯ | (5) -> Enjoyment / ಆನಂದ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q71",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What game is discussed in the lesson?\nಪಾಠದಲ್ಲಿ ಯಾವ ಆಟದ ಬಗ್ಗೆ ಚರ್ಚಿಸಲಾಗಿದೆ?",
+      "ans": "Gilli Danda\nಗಿಲ್ಲಿ ದಾಂಡು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q72",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What is used to hit the gilli?\nಗಿಲ್ಲಿಯನ್ನು ಹೊಡೆಯಲು ಏನನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "ans": "Danda\nದಾಂಡು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q73",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "Where is the game played?\nಈ ಆಟವನ್ನು ಎಲ್ಲಿ ಆಡಲಾಗುತ್ತದೆ?",
+      "ans": "Field\nಮೈದಾನ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q74",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "Who play the game together?\nಯಾರು ಒಟ್ಟಾಗಿ ಆಟ ಆಡುತ್ತಾರೆ?",
+      "ans": "Friends\nಸ್ನೇಹಿತರು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q75",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What does the game improve?\nಈ ಆಟವು ಏನನ್ನು ಸುಧಾರಿಸುತ್ತದೆ?",
+      "ans": "Fitness\nದೈಹಿಕ ಸದೃಢತೆ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q76",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What kind of game is Gilli Danda?\nಗಿಲ್ಲಿ ದಾಂಡು ಯಾವ ರೀತಿಯ ಆಟವಾಗಿದೆ?",
+      "ans": "Traditional\nಸಾಂಪ್ರದಾಯಿಕ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q77",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What is the long stick called?\nಉದ್ದವಾದ ಕೋಲನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "ans": "Danda\nದಾಂಡು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q78",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "Which area is mentioned in the lesson?\nಪಾಠದಲ್ಲಿ ಯಾವ ಪ್ರದೇಶವನ್ನು ಉಲ್ಲೇಖಿಸಲಾಗಿದೆ?",
+      "ans": "Village\nಹಳ್ಳಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q79",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What do players need?\nಆಟಗಾರರಿಗೆ ಏನು ಬೇಕು?",
+      "ans": "Skill\nಕೌಶಲ್ಯ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q80",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What feeling does the game give?\nಈ ಆಟವು ಯಾವ ಭಾವನೆಯನ್ನು ನೀಡುತ್ತದೆ?",
+      "ans": "Fun\nಸಂತೋಷ / ಮೋಜು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q81",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Gilli Danda is a traditional __________.\nಗಿಲ್ಲಿ ದಾಂಡು ಒಂದು ಸಾಂಪ್ರದಾಯಿಕ __________ವಾಗಿದೆ.",
+      "ans": "game\nಆಟ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q82",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The game is played in an open __________.\nಈ ಆಟವನ್ನು ತೆರೆದ __________ದಲ್ಲಿ ಆಡಲಾಗುತ್ತದೆ.",
+      "ans": "field\nಮೈದಾನ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q83",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Players use a gilli and a __________.\nಆಟಗಾರರು ಗಿಲ್ಲಿ ಮತ್ತು __________ನ್ನು ಬಳಸುತ್ತಾರೆ.",
+      "ans": "danda\nದಾಂಡ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q84",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Outdoor games improve __________.\nಹೊರಾಂಗಣ ಆಟಗಳು __________ಯನ್ನು ಸುಧಾರಿಸುತ್ತವೆ.",
+      "ans": "fitness\nಸದೃಢತೆ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q85",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Friends play together as a __________.\nಸ್ನೇಹಿತರು ಒಟ್ಟಾಗಿ ಒಂದು __________ವಾಗಿ ಆಡುತ್ತಾರೆ.",
+      "ans": "team\nತಂಡ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q86",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The game requires __________.\nಈ ಆಟಕ್ಕೆ __________ ಬೇಕಾಗುತ್ತದೆ.",
+      "ans": "skill\nಕೌಶಲ್ಯ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q87",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Villages often have open __________.\nಹಳ್ಳಿಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ತೆರೆದ __________ಗಳಿರುತ್ತವೆ.",
+      "ans": "grounds\nಮೈದಾನ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q88",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Playing games gives us __________.\nಆಟಗಳನ್ನು ಆಡುವುದು ನಮಗೆ __________ ನೀಡುತ್ತದೆ.",
+      "ans": "fun\nಮೋಜು / ಸಂತೋಷ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q89",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Physical activities keep us __________.\nದೈಹಿಕ ಚಟುವಟಿಕೆಗಳು ನಮ್ಮನ್ನು __________ವಾಗಿರಿಸುತ್ತವೆ.",
+      "ans": "healthy\nಆರೋಗ್ಯ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q90",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The lesson encourages __________ play.\nಈ ಪಾಠವು __________ ಆಟವನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ.",
+      "ans": "outdoor\nಹೊರಾಂಗಣ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q116",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What is the name of the game?\nಆಟದ ಹೆಸರೇನು?",
+      "ans": "Gilli Danda\nಗಿಲ್ಲಿ ದಾಂಡು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q117",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Where is the game played?\nಈ ಆಟವನ್ನು ಎಲ್ಲಿ ಆಡಲಾಗುತ್ತದೆ?",
+      "ans": "Open fields\nತೆರೆದ ಮೈದಾನಗಳಲ್ಲಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q118",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What is the small wooden piece called?\nಸಣ್ಣ ಮರದ ತುಂಡನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "ans": "Gilli\nಗಿಲ್ಲಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q119",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What is the long stick called?\nಉದ್ದವಾದ ಕೋಲನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "ans": "Danda\nದಾಂಡು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q120",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Who play the game?\nಈ ಆಟವನ್ನು ಯಾರು ಆಡುತ್ತಾರೆ?",
+      "ans": "Children\nಮಕ್ಕಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q121",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Is it an outdoor game?\nಇದು ಹೊರಾಂಗಣ ಆಟವೇ?",
+      "ans": "Yes\nಹೌದು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q122",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What does the game improve?\nಈ ಆಟವು ಏನನ್ನು ಸುಧಾರಿಸುತ್ತದೆ?",
+      "ans": "Coordination\nಸಮನ್ವಯತೆ (ಕೈ-ಕಣ್ಣಿನ ಹೊಂದಾಣಿಕೆ)",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q123",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Do villages still play the game?\nಹಳ್ಳಿಗಳಲ್ಲಿ ಈಗಲೂ ಈ ಆಟವನ್ನು ಆಡುತ್ತಾರೆಯೇ?",
+      "ans": "Yes\nಹೌದು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q124",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Does the game require skill?\nಈ ಆಟಕ್ಕೆ ಕೌಶಲ್ಯ ಬೇಕೇ?",
+      "ans": "Yes\nಹೌದು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q125",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What does the game provide besides exercise?\nವ್ಯಾಯಾಮದ ಜೊತೆಗೆ ಈ ಆಟವು ಏನನ್ನು ನೀಡುತ್ತದೆ?",
+      "ans": "Fun\nಮೋಜು / ಸಂತೋಷ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q126",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Gilli Danda is:\nಗಿಲ್ಲಿ ದಾಂಡು ಒಂದು:",
+      "a": "Indoor game\nಒಳಾಂಗಣ ಆಟ",
+      "b": "Outdoor game\nಹೊರಾಂಗಣ ಆಟ",
+      "c": "Video game\nವಿಡಿಯೋ ಗೇಮ್",
+      "ans": "(B) Outdoor game\nಹೊರಾಂಗಣ ಆಟ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q127",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The game uses:\nಈ ಆಟದಲ್ಲಿ ಬಳಸಲಾಗುವುದು:",
+      "a": "Ball\nಚೆಂಡು",
+      "b": "Gilli and danda\nಗಿಲ್ಲಿ ಮತ್ತು ದಾಂಡು",
+      "c": "Net\nಬಲೆ",
+      "ans": "(B) Gilli and danda\nಗಿಲ್ಲಿ ಮತ್ತು ದಾಂಡು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q128",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Children play in:\nಮಕ್ಕಳು ಇಲ್ಲಿ ಆಡುತ್ತಾರೆ:",
+      "a": "Open fields\nತೆರೆದ ಮೈದಾನಗಳಲ್ಲಿ",
+      "b": "Classrooms\nತರಗತಿ ಕೊಠಡಿಗಳಲ್ಲಿ",
+      "c": "Shops\nಅಂಗಡಿಗಳಲ್ಲಿ",
+      "ans": "(A) Open fields\nತೆರೆದ ಮೈದಾನಗಳಲ್ಲಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q129",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The game helps improve:\nಈ ಆಟವು ಇದನ್ನು ಸುಧಾರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ:",
+      "a": "Coordination\nಸಮನ್ವಯತೆ",
+      "b": "Sleeping\nನಿದ್ರೆ",
+      "c": "Painting\nಚಿತ್ರಕಲೆ",
+      "ans": "(A) Coordination\nಸಮನ್ವಯತೆ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q130",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The lesson encourages:\nಈ ಪಾಠವು ಪ್ರೋತ್ಸಾಹಿಸುವುದು:",
+      "a": "Active play\nಚುರುಕಾದ ಆಟ",
+      "b": "Laziness\nಸೋಮಾರಿತನ",
+      "c": "Watching television\nಟಿವಿ ನೋಡುವುದು",
+      "ans": "(A) Active play\nಚುರುಕಾದ ಆಟ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "gilli_q131",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "Why is Gilli Danda considered a healthy game?\nಗಿಲ್ಲಿ ದಾಂಡನ್ನು ಆರೋಗ್ಯಕರ ಆಟವೆಂದು ಏಕೆ ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ?",
+      "ans": "It keeps children physically active.\nಇದು ಮಕ್ಕಳನ್ನು ದೈಹಿಕವಾಗಿ ಚುರುಕಾಗಿರಿಸುತ್ತದೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "gilli_q132",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "Why do children enjoy playing it with friends?\nಮಕ್ಕಳು ಸ್ನೇಹಿತರೊಂದಿಗೆ ಈ ಆಟವನ್ನು ಆಡಿ ಏಕೆ ಆನಂದಿಸುತ್ತಾರೆ?",
+      "ans": "It is enjoyable and promotes teamwork.\nಇದು ಆನಂದದಾಯಕವಾಗಿದೆ ಮತ್ತು ತಂಡದ ಮನೋಭಾವವನ್ನು (ಟೀಮ್‌ವರ್ಕ್) ಬೆಳೆಸುತ್ತದೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "gilli_q133",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "How does outdoor play help children?\nಹೊರಾಂಗಣ ಆಟವು ಮಕ್ಕಳಿಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ?",
+      "ans": "It improves fitness and coordination.\nಇದು ದೈಹಿಕ ಸದೃಢತೆ ಮತ್ತು ಸಮನ್ವಯತೆಯನ್ನು ಸುಧಾರಿಸುತ್ತದೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "gilli_q134",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "Why should traditional games be preserved?\nಸಾಂಪ್ರದಾಯಿಕ ಆಟಗಳನ್ನು ಏಕೆ ಸಂರಕ್ಷಿಸಬೇಕು?",
+      "ans": "They are part of our cultural heritage.\nಅವು ನಮ್ಮ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯ ಭಾಗವಾಗಿವೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "gilli_q135",
+      "chapter": "7. Gilli Danda (ಗಿಲ್ಲಿ ದಾಂಡು)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "What can we learn from this lesson?\nಈ ಪಾಠದಿಂದ ನಾವು ಏನನ್ನು ಕಲಿಯಬಹುದು?",
+      "ans": "Outdoor games are healthy and enjoyable.\nಹೊರಾಂಗಣ ಆಟಗಳು ಆರೋಗ್ಯಕರ ಮತ್ತು ಆನಂದದಾಯಕವಾಗಿವೆ.",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    }
+  ]
+}
+{
+  "questions": [
+    {
+      "id": "panchayat_q36",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What is the meaning of 'Panchayat'?\n'ಪಂಚಾಯತಿ' (Panchayat) ಎಂಬುದರ ಅರ್ಥವೇನು?",
+      "ans": "A village council that discusses and settles local matters.\nಸ್ಥಳೀಯ ವಿಷಯಗಳನ್ನು ಚರ್ಚಿಸಿ ಬಗೆಹರಿಸುವ ಗ್ರಾಮ ಮಂಡಳಿ (ಗ್ರಾಮ ಸಭೆ).",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q37",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What does 'cunning' mean?\n'ಕಪಟಿ / ಕುತಂತ್ರಿ' (cunning) ಎಂದರೇನು?",
+      "ans": "Clever in a tricky or dishonest way.\nಮೋಸದ ಅಥವಾ ಅಪ್ರಾಮಾಣಿಕ ರೀತಿಯಲ್ಲಿ ಚತುರತೆಯಿಂದಿರುವುದು.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q38",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What does 'adamant' mean?\n'ಹಠಮಾರಿ' (adamant) ಎಂದರೇನು?",
+      "ans": "Refusing to change one's decision or opinion.\nತನ್ನ ನಿರ್ಧಾರ ಅಥವಾ ಅಭಿಪ್ರಾಯವನ್ನು ಬದಲಾಯಿಸಲು ನಿರಾಕರಿಸುವುದು.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "panchayat_q39",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What is the meaning of 'wisdom'?\n'ವಿವೇಕ / ಜಾಣ್ಮೆ' (wisdom) ಎಂಬುದರ ಅರ್ಥವೇನು?",
+      "ans": "The ability to make good and sensible decisions.\nಒಳ್ಳೆಯ ಮತ್ತು ವಿವೇಚನಾಯುಕ್ತ ನಿರ್ಧಾರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವ ಸಾಮರ್ಥ್ಯ.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q40",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What does 'apologise' mean?\n'ಕ್ಷಮೆ ಕೇಳು' (apologise) ಎಂದರೇನು?",
+      "ans": "To say sorry for a mistake or wrong action.\nಮಾಡಿದ ತಪ್ಪು ಅಥವಾ ಕೆಟ್ಟ ಕೆಲಸಕ್ಕಾಗಿ ಕ್ಷಮೆ ಕೇಳುವುದು.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q41",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Why did the farmer buy the well?\nರೈತ ಬಾವಿಯನ್ನು ಏಕೆ ಖರೀದಿಸಿದನು?",
+      "a": "To sell it\nಅದನ್ನು ಮಾರಾಟ ಮಾಡಲು",
+      "b": "To get water for his fields\nತನ್ನ ಹೊಲಗಳಿಗೆ ನೀರು ಪಡೆಯಲು",
+      "c": "To build a house\nಮನೆ ಕಟ್ಟಲು",
+      "d": "To keep animals\nಪ್ರಾಣಿಗಳನ್ನು ಸಾಕಲು",
+      "ans": "(B) To get water for his fields\nತನ್ನ ಹೊಲಗಳಿಗೆ ನೀರು ಪಡೆಯಲು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q42",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Who sold the well to the farmer?\nರೈತನಿಗೆ ಬಾವಿಯನ್ನು ಯಾರು ಮಾರಿದರು?",
+      "a": "The chief\nಮುಖಂಡರು",
+      "b": "The neighbour\nನೆರೆಯವನು",
+      "c": "A villager\nಒಬ್ಬ ಗ್ರಾಮಸ್ಥ",
+      "d": "A shopkeeper\nಒಬ್ಬ ಅಂಗಡಿಯವನು",
+      "ans": "(B) The neighbour\nನೆರೆಯವನು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q43",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What did the neighbour refuse to let the farmer take?\nನೆರೆಯವನು ರೈತನಿಗೆ ಏನನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ನಿರಾಕರಿಸಿದನು?",
+      "a": "Grain\nಧಾನ್ಯ",
+      "b": "Water\nನೀರು",
+      "c": "Money\nಹಣ",
+      "d": "Seeds\nಬೀಜಗಳು",
+      "ans": "(B) Water\nನೀರು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q44",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Whom did the worried farmer approach?\nಚಿಂತಿತನಾದ ರೈತ ಯಾರ ಬಳಿಗೆ ಹೋದನು?",
+      "a": "Teacher\nಶಿಕ್ಷಕರು",
+      "b": "Village chief\nಗ್ರಾಮದ ಮುಖಂಡ",
+      "c": "Shopkeeper\nಅಂಗಡಿಯವನು",
+      "d": "Friend\nಸ್ನೇಹಿತ",
+      "ans": "(B) Village chief\nಗ್ರಾಮದ ಮುಖಂಡ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q45",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Where did the Panchayat gather?\nಪಂಚಾಯತಿಯು ಎಲ್ಲಿ ಸೇರಿತು?",
+      "a": "Market\nಮಾರುಕಟ್ಟೆಯಲ್ಲಿ",
+      "b": "Under the banyan tree\nಆಲದ ಮರದ ಕೆಳಗೆ",
+      "c": "School\nಶಾಲೆಯಲ್ಲಿ",
+      "d": "River\nನದಿಯ ಬಳಿ",
+      "ans": "(B) Under the banyan tree\nಆಲದ ಮರದ ಕೆಳಗೆ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q46",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "How did the neighbour behave when people reasoned with him?\nಜನರು ಬುದ್ಧಿವಾದ ಹೇಳಿದಾಗ ನೆರೆಯವನು ಹೇಗೆ ವರ್ತಿಸಿದನು?",
+      "a": "Adamant\nಹಠಮಾರಿಯಾಗಿ",
+      "b": "Frightened\nಭಯದಿಂದ",
+      "c": "Sorry\nಪಶ್ಚಾತ್ತಾಪದಿಂದ",
+      "d": "Silent\nಮೌನವಾಗಿ",
+      "ans": "(A) Adamant\nಹಠಮಾರಿಯಾಗಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q47",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What did the neighbour claim he had sold?\nತಾನು ಏನನ್ನು ಮಾತ್ರ ಮಾರಿದ್ದೇನೆಂದು ನೆರೆಯವನು ವಾದಿಸಿದನು?",
+      "a": "Water\nನೀರು",
+      "b": "Only the well\nಕೇವಲ ಬಾವಿಯನ್ನು ಮಾತ್ರ",
+      "c": "Field\nಹೊಲ",
+      "d": "Crops\nಬೆಳೆಗಳು",
+      "ans": "(B) Only the well\nಕೇವಲ ಬಾವಿಯನ್ನು ಮಾತ್ರ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q48",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What did the chief say the neighbour should do with the water?\nನೆರೆಯವನು ನೀರನ್ನು ಏನು ಮಾಡಬೇಕೆಂದು ಮುಖಂಡರು ಹೇಳಿದರು?",
+      "a": "Keep it forever\nಅದನ್ನು ಶಾಶ್ವತವಾಗಿ ಇಟ್ಟುಕೊಳ್ಳಲು",
+      "b": "Remove it or use it all immediately\nತಕ್ಷಣವೇ ಅದನ್ನು ಹೊರತೆಗೆಯಲು ಅಥವಾ ಪೂರ್ತಿ ಬಳಸಲು",
+      "c": "Sell it again\nಮತ್ತೆ ಮಾರಾಟ ಮಾಡಲು",
+      "d": "Give it to the villagers\nಗ್ರಾಮಸ್ಥರಿಗೆ ನೀಡಲು",
+      "ans": "(B) Remove it or use it all immediately\nತಕ್ಷಣವೇ ಅದನ್ನು ಹೊರತೆಗೆಯಲು ಅಥವಾ ಪೂರ್ತಿ ಬಳಸಲು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "panchayat_q49",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What did the neighbour have to do after the judgement?\nತೀರ್ಪಿನ ನಂತರ ನೆರೆಯವನು ಏನು ಮಾಡಬೇಕಾಯಿತು?",
+      "a": "Pay a fine and apologise\nದಂಡ ಪಾವತಿಸಿ ಕ್ಷಮೆ ಕೇಳಬೇಕಾಯಿತು",
+      "b": "Leave the village\nಹಳ್ಳಿಯನ್ನು ಬಿಟ್ಟು ಹೋಗಬೇಕಾಯಿತು",
+      "c": "Sell his field\nತನ್ನ ಹೊಲವನ್ನು ಮಾರಬೇಕಾಯಿತು",
+      "d": "Dig a new well\nಹೊಸ ಬಾವಿಯನ್ನು ತೋಡಬೇಕಾಯಿತು",
+      "ans": "(A) Pay a fine and apologise\nದಂಡ ಪಾವತಿಸಿ ಕ್ಷಮೆ ಕೇಳಬೇಕಾಯಿತು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q50",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What did the villagers praise?\nಗ್ರಾಮಸ್ಥರು ಏನನ್ನು ಹೊಗಳಿದರು?",
+      "a": "His cleverness\nಅವನ ಚತುರತೆಯನ್ನು",
+      "b": "Farmer's wealth\nರೈತನ ಸಂಪತ್ತನ್ನು",
+      "c": "Wisdom of the Panchayat\nಪಂಚಾಯತಿಯ ವಿವೇಕವನ್ನು (ಜಾಣ್ಮೆಯನ್ನು)",
+      "d": "Size of the well\nಬಾವಿಯ ಗಾತ್ರವನ್ನು",
+      "ans": "(C) Wisdom of the Panchayat\nಪಂಚಾಯತಿಯ ವಿವೇಕವನ್ನು (ಜಾಣ್ಮೆಯನ್ನು)",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q51",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The farmer worked very hard.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ರೈತನು ತುಂಬಾ ಕಷ್ಟಪಟ್ಟು ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದನು.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q52",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The farmer bought the well because he needed water.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ರೈತನಿಗೆ ನೀರಿನ ಅಗತ್ಯವಿದ್ದುದರಿಂದ ಬಾವಿಯನ್ನು ಖರೀದಿಸಿದನು.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q53",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The neighbour wanted to help the farmer.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ನೆರೆಯವನು ರೈತನಿಗೆ ಸಹಾಯ ಮಾಡಲು ಬಯಸಿದ್ದನು.",
+      "ans": "False\nತಪ್ಪು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q54",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The neighbour was trying to cheat the farmer.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ನೆರೆಯವನು ರೈತನಿಗೆ ಮೋಸ ಮಾಡಲು ಪ್ರಯತ್ನಿಸುತ್ತಿದ್ದನು.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q55",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The farmer did not seek help.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ರೈತನು ಯಾರ ಸಹಾಯವನ್ನೂ ಕೇಳಲಿಲ್ಲ.",
+      "ans": "False\nತಪ್ಪು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q56",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The village chief fixed a day for the Panchayat meeting.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಗ್ರಾಮದ ಮುಖಂಡನು ಪಂಚಾಯತಿ ಸಭೆಗಾಗಿ ಒಂದು ದಿನವನ್ನು ನಿಗದಿಪಡಿಸಿದನು.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q57",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The Panchayat met under a banyan tree.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಪಂಚಾಯತಿಯು ಆಲದ ಮರದ ಕೆಳಗೆ ಸೇರಿತು.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q58",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The Panchayat listened to both sides.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಪಂಚಾಯತಿಯು ಎರಡೂ ಕಡೆಯವರ ವಾದವನ್ನು ಆಲಿಸಿತು.",
+      "ans": "True\nಸರಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q59",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The farmer was relieved after the judgement.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ತೀರ್ಪಿನ ನಂತರ ರೈತನಿಗೆ ನೆಮ್ಮದಿಯಾಯಿತು.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q60",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The villagers praised the wisdom of the Panchayat.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಗ್ರಾಮಸ್ಥರು ಪಂಚಾಯತಿಯ ವಿವೇಕವನ್ನು ಹೊಗಳಿದರು.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_match1",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "match",
+      "marks": 5,
+      "q": "Match the following (Set 1: Q61–65):\nಹೊಂದಿಸಿ ಬರೆಯಿರಿ (ಸೆಟ್ 1: ಪ್ರಶ್ನೆ 61–65):",
+      "matchPairs": [
+        {
+          "a": "Farmer\nರೈತ",
+          "b": "Needed water for his fields\nತನ್ನ ಹೊಲಗಳಿಗೆ ನೀರು ಬೇಕಿತ್ತು"
+        },
+        {
+          "a": "Neighbour\nನೆರೆಯವನು",
+          "b": "Tried to cheat the farmer\nರೈತನಿಗೆ ಮೋಸ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿದನು"
+        },
+        {
+          "a": "Village chief\nಗ್ರಾಮದ ಮುಖಂಡ",
+          "b": "Led the discussion\nಚರ್ಚೆಯ ನೇತೃತ್ವ ವಹಿಸಿದ್ದನು"
+        },
+        {
+          "a": "Panchayat\nಪಂಚಾಯತಿ",
+          "b": "Gave the judgement\nತೀರ್ಪು ನೀಡಿತು"
+        },
+        {
+          "a": "Banyan tree\nಆಲದ ಮರ",
+          "b": "Meeting place\nಸಭೆ ಸೇರಿದ ಸ್ಥಳ"
+        }
+      ],
+      "ans": "(1) -> Needed water for his fields / ತನ್ನ ಹೊಲಗಳಿಗೆ ನೀರು ಬೇಕಿತ್ತು | (2) -> Tried to cheat the farmer / ರೈತನಿಗೆ ಮೋಸ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿದನು | (3) -> Led the discussion / ಚರ್ಚೆಯ ನೇತೃತ್ವ ವಹಿಸಿದ್ದನು | (4) -> Gave the judgement / ತೀರ್ಪು ನೀಡಿತು | (5) -> Meeting place / ಸಭೆ ಸೇರಿದ ಸ್ಥಳ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_match2",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "match",
+      "marks": 5,
+      "q": "Match the following (Set 2: Q66–70):\nಹೊಂದಿಸಿ ಬರೆಯಿರಿ (ಸೆಟ್ 2: ಪ್ರಶ್ನೆ 66–70):",
+      "matchPairs": [
+        {
+          "a": "Well\nಬಾವಿ",
+          "b": "Source of water\nನೀರಿನ ಮೂಲ"
+        },
+        {
+          "a": "Villagers\nಗ್ರಾಮಸ್ಥರು",
+          "b": "Came to hear the case\nಪ್ರಕರಣವನ್ನು ಕೇಳಲು ಬಂದಿದ್ದರು"
+        },
+        {
+          "a": "Neighbour after judgement (penalty)\nತೀರ್ಪಿನ ನಂತರ ನೆರೆಯವನು (ಶಿಕ್ಷೆ)",
+          "b": "Paid a fine\nದಂಡ ಪಾವತಿಸಿದನು"
+        },
+        {
+          "a": "Neighbour after judgement (regret)\nತೀರ್ಪಿನ ನಂತರ ನೆರೆಯವನು (ಪಶ್ಚಾತ್ತಾಪ)",
+          "b": "Apologised\nಕ್ಷಮೆ ಕೇಳಿದನು"
+        },
+        {
+          "a": "Villagers at the end\nಕೊನೆಯಲ್ಲಿ ಗ್ರಾಮಸ್ಥರು",
+          "b": "Praised the Panchayat\nಪಂಚಾಯತಿಯನ್ನು ಹೊಗಳಿದರು"
+        }
+      ],
+      "ans": "(1) -> Source of water / ನೀರಿನ ಮೂಲ | (2) -> Came to hear the case / ಪ್ರಕರಣವನ್ನು ಕೇಳಲು ಬಂದಿದ್ದರು | (3) -> Paid a fine / ದಂಡ ಪಾವತಿಸಿದನು | (4) -> Apologised / ಕ್ಷಮೆ ಕೇಳಿದನು | (5) -> Praised the Panchayat / ಪಂಚಾಯತಿಯನ್ನು ಹೊಗಳಿದರು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "panchayat_q71",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What did the farmer buy from his neighbour?\nರೈತ ತನ್ನ ನೆರೆಯವನಿಂದ ಏನನ್ನು ಖರೀದಿಸಿದನು?",
+      "ans": "Well\nಬಾವಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q72",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What did the farmer need for his fields?\nರೈತನಿಗೆ ತನ್ನ ಹೊಲಗಳಿಗೆ ಏನು ಬೇಕಿತ್ತು?",
+      "ans": "Water\nನೀರು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q73",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "Who planned to cheat the farmer?\nರೈತನಿಗೆ ಮೋಸ ಮಾಡಲು ಯಾರು ಸಂಚು ರೂಪಿಸಿದರು?",
+      "ans": "Neighbour\nನೆರೆಯವನು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q74",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "Who did the farmer approach for help?\nರೈತ ಸಹಾಯಕ್ಕಾಗಿ ಯಾರ ಬಳಿ ಹೋದನು?",
+      "ans": "Chief\nಮುಖಂಡ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q75",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "Where did the Panchayat meet?\nಪಂಚಾಯತಿ ಎಲ್ಲಿ ಸಭೆ ಸೇರಿತು?",
+      "ans": "Banyan tree\nಆಲದ ಮರ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q76",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What kind of man was the neighbour?\nನೆರೆಯವನು ಎಂತಹ ಮನುಷ್ಯನಾಗಿದ್ದನು?",
+      "ans": "Cunning\nಕುತಂತ್ರಿ / ಕಪಟಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q77",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What did the Panchayat give after discussing the case?\nಪ್ರಕರಣವನ್ನು ಚರ್ಚಿಸಿದ ನಂತರ ಪಂಚಾಯತಿ ಏನನ್ನು ನೀಡಿತು?",
+      "ans": "Judgement\nತೀರ್ಪು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q78",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What did the neighbour have to pay?\nನೆರೆಯವನು ಏನನ್ನು ಪಾವತಿಸಬೇಕಾಯಿತು?",
+      "ans": "Fine\nದಂಡ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q79",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What did the neighbour have to offer to the farmer?\nನೆರೆಯವನು ರೈತನಿಗೆ ಏನನ್ನು ಕೇಳಬೇಕಾಯಿತು?",
+      "ans": "Apology\nಕ್ಷಮೆ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q80",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What quality of the Panchayat did the villagers praise?\nಪಂಚಾಯತಿಯ ಯಾವ ಗುಣವನ್ನು ಗ್ರಾಮಸ್ಥರು ಹೊಗಳಿದರು?",
+      "ans": "Wisdom\nವಿವೇಕ / ಜಾಣ್ಮೆ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q81",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The farmer worked very ________.\nರೈತನು ತುಂಬಾ ________ಪಟ್ಟು ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದನು.",
+      "ans": "hard\nಕಷ್ಟ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q82",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "When he prospered, he bought another ________.\nಅವನು ಅಭಿವೃದ್ಧಿ ಹೊಂದಿದಾಗ, ಇನ್ನೊಂದು ________ವನ್ನು ಖರೀದಿಸಿದನು.",
+      "ans": "field\nಹೊಲ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q83",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "There was a well next to his ________.\nಅವನ ________ದ ಪಕ್ಕದಲ್ಲಿ ಒಂದು ಬಾವಿ ಇತ್ತು.",
+      "ans": "field\nಹೊಲ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q84",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The neighbour planned to ________ the farmer.\nನೆರೆಯವನು ರೈತನಿಗೆ ________ ಮಾಡಲು ಯೋಜಿಸಿದನು.",
+      "ans": "cheat\nಮೋಸ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q85",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The farmer was not allowed to take ________ from the well.\nಬಾವಿಯಿಂದ ________ ತೆಗೆದುಕೊಳ್ಳಲು ರೈತನಿಗೆ ಅನುಮತಿ ನೀಡಲಿಲ್ಲ.",
+      "ans": "water\nನೀರು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q86",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The farmer went to the village ________.\nರೈತನು ಗ್ರಾಮದ ________ನ ಬಳಿಗೆ ಹೋದನು.",
+      "ans": "chief\nಮುಖಂಡ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q87",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Both the farmer and neighbour were ________ to the Panchayat.\nರೈತ ಮತ್ತು ನೆರೆಯವನನ್ನು ಪಂಚಾಯತಿಗೆ ________.",
+      "ans": "summoned\nಕರೆಯಲಾಯಿತು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "panchayat_q88",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The members tried to ________ with him.\nಸದಸ್ಯರು ಅವನಿಗೆ ________ ಹೇಳಿ ಮನವೊಲಿಸಲು ಪ್ರಯತ್ನಿಸಿದರು.",
+      "ans": "reason\nತರ್ಕಬದ್ಧವಾಗಿ (ಬುದ್ಧಿವಾದ)",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "panchayat_q89",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The water had to be removed or used ________.\nನೀರನ್ನು ________ ಹೊರತೆಗೆಯಬೇಕು ಅಥವಾ ಬಳಸಬೇಕು ಎಂದು ಹೇಳಲಾಯಿತು.",
+      "ans": "immediately\nತಕ್ಷಣವೇ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q90",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The villagers praised the ________ of the Panchayat.\nಗ್ರಾಮಸ್ಥರು ಪಂಚಾಯತಿಯ ________ನ್ನು ಹೊಗಳಿದರು.",
+      "ans": "wisdom\nವಿವೇಕವ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q116",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "How many fields did the farmer have before buying another field?\nಇನ್ನೊಂದು ಹೊಲವನ್ನು ಖರೀದಿಸುವ ಮೊದಲು ರೈತನ ಬಳಿ ಎಷ್ಟು ಹೊಲಗಳಿದ್ದವು?",
+      "ans": "Two fields.\nಎರಡು ಹೊಲಗಳು.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q117",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Why did the farmer need a source of water?\nರೈತನಿಗೆ ನೀರಿನ ಮೂಲ ಏಕೆ ಬೇಕಿತ್ತು?",
+      "ans": "He needed water for his fields/crops.\nಅವನ ಹೊಲಗಳಿಗೆ ಮತ್ತು ಬೆಳೆಗಳಿಗೆ ನೀರು ಬೇಕಿತ್ತು.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q118",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "From whom did the farmer buy the well?\nರೈತ ಬಾವಿಯನ್ನು ಯಾರಿಂದ ಖರೀದಿಸಿದನು?",
+      "ans": "His neighbour.\nತನ್ನ ನೆರೆಯವನಿಂದ.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q119",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What did the neighbour say he had sold?\nತಾನು ಏನನ್ನು ಮಾರಿದ್ದೇನೆಂದು ನೆರೆಯವನು ಹೇಳಿದನು?",
+      "ans": "Only the well.\nಕೇವಲ ಬಾವಿಯನ್ನು ಮಾತ್ರ.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q120",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What did the farmer do when the neighbour refused to give him water?\nನೆರೆಯವನು ನೀರು ಕೊಡಲು ನಿರಾಕರಿಸಿದಾಗ ರೈತ ಏನು ಮಾಡಿದನು?",
+      "ans": "He went to the village chief for help.\nಅವನು ಸಹಾಯಕ್ಕಾಗಿ ಗ್ರಾಮದ ಮುಖಂಡನ ಬಳಿಗೆ ಹೋದನು.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q121",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Who were summoned to the Panchayat meeting?\nಪಂಚಾಯತಿ ಸಭೆಗೆ ಯಾರನ್ನು ಕರೆಯಲಾಯಿತು?",
+      "ans": "The farmer and the neighbour.\nರೈತ ಮತ್ತು ನೆರೆಯವನನ್ನು.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q122",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Where did the Panchayat gather?\nಪಂಚಾಯತಿ ಎಲ್ಲಿ ಸಭೆ ಸೇರಿತು?",
+      "ans": "Under the banyan tree.\nಆಲದ ಮರದ ಕೆಳಗೆ.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q123",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What did the Panchayat members do before giving their judgement?\nತೀರ್ಪು ನೀಡುವ ಮೊದಲು ಪಂಚಾಯತಿ ಸದಸ್ಯರು ಏನು ಮಾಡಿದರು?",
+      "ans": "They discussed the matter before giving their judgement.\nತೀರ್ಪು ನೀಡುವ ಮೊದಲು ಅವರು ವಿಷಯವನ್ನು ಚರ್ಚಿಸಿದರು.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q124",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What did the chief say would happen if the water was not removed or used?\nನೀರನ್ನು ತೆಗೆಯದಿದ್ದರೆ ಅಥವಾ ಬಳಸದಿದ್ದರೆ ಏನು ಮಾಡಬೇಕೆಂದು ಮುಖಂಡರು ಹೇಳಿದರು?",
+      "ans": "The water had to be removed or used immediately.\nನೀರನ್ನು ತಕ್ಷಣವೇ ಹೊರತೆಗೆಯಬೇಕು ಅಥವಾ ಬಳಸಬೇಕು ಎಂದು ಹೇಳಿದರು.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "panchayat_q125",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What did the neighbour have to do after the judgement?\nತೀರ್ಪಿನ ನಂತರ ನೆರೆಯವನು ಏನು ಮಾಡಬೇಕಾಯಿತು?",
+      "ans": "He had to pay a fine and apologise to the farmer.\nಅವನು ದಂಡವನ್ನು ಪಾವತಿಸಿ ರೈತನ ಕ್ಷಮೆ ಕೇಳಬೇಕಾಯಿತು.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q126",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The Panchayat listened to both sides.\nಪಂಚಾಯತಿಯು ಎರಡೂ ಕಡೆಯವರ ವಾದವನ್ನು ಆಲಿಸಿತು.",
+      "a": "Correct\nಸರಿ",
+      "b": "Incorrect\nತಪ್ಪು",
+      "ans": "(A) Correct\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q127",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The neighbour claimed he sold only the well.\nನೆರೆಯವನು ತಾನು ಕೇವಲ ಬಾವಿಯನ್ನು ಮಾತ್ರ ಮಾರಿದ್ದೇನೆಂದು ವಾದಿಸಿದನು.",
+      "a": "Correct\nಸರಿ",
+      "b": "Incorrect\nತಪ್ಪು",
+      "ans": "(A) Correct\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q128",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The Panchayat decided the neighbour could keep water in the farmer's well forever.\nರೈತನ ಬಾವಿಯಲ್ಲಿ ನೆರೆಯವನು ಶಾಶ್ವತವಾಗಿ ನೀರನ್ನು ಇಟ್ಟುಕೊಳ್ಳಬಹುದೆಂದು ಪಂಚಾಯತಿ ತೀರ್ಪು ನೀಡಿತು.",
+      "a": "Correct\nಸರಿ",
+      "b": "Incorrect\nತಪ್ಪು",
+      "ans": "(B) Incorrect\nತಪ್ಪು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q129",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The neighbour had to pay a fine and apologise.\nನೆರೆಯವನು ದಂಡ ಪಾವತಿಸಿ ಕ್ಷಮೆ ಕೇಳಬೇಕಾಯಿತು.",
+      "a": "Correct\nಸರಿ",
+      "b": "Incorrect\nತಪ್ಪು",
+      "ans": "(A) Correct\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q130",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The story teaches that cheating leads to a good result.\nಮೋಸ ಮಾಡುವುದರಿಂದ ಒಳ್ಳೆಯ ಫಲಿತಾಂಶ ಸಿಗುತ್ತದೆ ಎಂದು ಈ ಕಥೆ ಕಲಿಸುತ್ತದೆ.",
+      "a": "Correct\nಸರಿ",
+      "b": "Incorrect\nತಪ್ಪು",
+      "ans": "(B) Incorrect\nತಪ್ಪು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "panchayat_q131",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "Why do you think the villagers came to hear the Panchayat case?\nಗ್ರಾಮಸ್ಥರು ಪಂಚಾಯತಿ ಪ್ರಕರಣವನ್ನು ಕೇಳಲು ಏಕೆ ಬಂದರೆಂದು ನೀವು ಭಾವಿಸುತ್ತೀರಿ?",
+      "ans": "The villagers came to hear the dispute and the Panchayat's judgement.\nವಿವಾದ ಮತ್ತು ಪಂಚಾಯತಿಯ ತೀರ್ಪನ್ನು ಕೇಳಲು ಗ್ರಾಮಸ್ಥರು ಬಂದಿದ್ದರು.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "panchayat_q132",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "What does the neighbour's behaviour show about his character?\nನೆರೆಯವನ ವರ್ತನೆಯು ಅವನ ವ್ಯಕ್ತಿತ್ವದ ಬಗ್ಗೆ ಏನನ್ನು ತೋರಿಸುತ್ತದೆ?",
+      "ans": "It shows that the neighbour was cunning, dishonest, and unwilling to accept reason.\nನೆರೆಯವನು ಕುತಂತ್ರಿ, ಅಪ್ರಾಮಾಣಿಕ ಮತ್ತು ನ್ಯಾಯವನ್ನು ಒಪ್ಪಿಕೊಳ್ಳದವನು ಎಂಬುದನ್ನು ಇದು ತೋರಿಸುತ್ತದೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "panchayat_q133",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "Why was the Panchayat's decision fair to the farmer?\nರೈತನಿಗೆ ಪಂಚಾಯತಿಯ ನಿರ್ಧಾರವು ಏಕೆ ನ್ಯಾಯಯುತವಾಗಿತ್ತು?",
+      "ans": "It was based on the facts and the neighbour's own claim that he had sold only the well.\nಅದು ಸತ್ಯಾಂಶಗಳು ಮತ್ತು ತಾನು ಕೇವಲ ಬಾವಿಯನ್ನು ಮಾತ್ರ ಮಾರಿದ್ದೇನೆ ಎಂಬ ನೆರೆಯವನ ಸ್ವಂತ ಮಾತಿನ ಆಧಾರದ ಮೇಲಿತ್ತು.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "panchayat_q134",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "Why did the farmer feel relieved after the judgement?\nತೀರ್ಪಿನ ನಂತರ ರೈತನಿಗೆ ಏಕೆ ನೆಮ್ಮದಿಯಾಯಿತು?",
+      "ans": "He was relieved because the Panchayat's decision allowed him to use the water for his fields.\nಪಂಚಾಯತಿಯ ನಿರ್ಧಾರವು ತನ್ನ ಹೊಲಗಳಿಗೆ ನೀರನ್ನು ಬಳಸಲು ಅನುಮತಿ ನೀಡಿದ್ದರಿಂದ ಅವನಿಗೆ ನೆಮ್ಮದಿಯಾಯಿತು.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "panchayat_q135",
+      "chapter": "8. The Decision of the Panchayat (ಪಂಚಾಯತಿಯ ತೀರ್ಪು)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "What lesson can we infer from the neighbour's fine and apology?\nನೆರೆಯವನ ದಂಡ ಮತ್ತು ಕ್ಷಮೆಯಾಚನೆಯಿಂದ ನಾವು ಯಾವ ಪಾಠವನ್ನು ಕಲಿಯಬಹುದು?",
+      "ans": "Cheating is wrong; people should accept mistakes and apologise.\nಮೋಸ ಮಾಡುವುದು ತಪ್ಪು; ಜನರು ತಮ್ಮ ತಪ್ಪುಗಳನ್ನು ಒಪ್ಪಿಕೊಂಡು ಕ್ಷಮೆ ಕೇಳಬೇಕು.",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    }
+  ]
+}
+{
+  "questions": [
+    {
+      "id": "vocation_q36",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Vocation means:\nವೃತ್ತಿ / ಕಸಬು (Vocation) ಎಂದರೆ:",
+      "a": "Occupation or work\nಉದ್ಯೋಗ ಅಥವಾ ಕೆಲಸ",
+      "b": "Festival\nಹಬ್ಬ",
+      "c": "Story\nಕಥೆ",
+      "ans": "(A) Occupation or work\nಉದ್ಯೋಗ ಅಥವಾ ಕೆಲಸ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q37",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Hawker means:\nಬೀದಿ ವ್ಯಾಪಾರಿ (Hawker) ಎಂದರೆ:",
+      "a": "Street seller\nಬೀದಿಯಲ್ಲಿ ವಸ್ತುಗಳನ್ನು ಮಾರುವವನು",
+      "b": "Farmer\nರೈತ",
+      "c": "Driver\nಚಾಲಕ",
+      "ans": "(A) Street seller\nಬೀದಿಯಲ್ಲಿ ವಸ್ತುಗಳನ್ನು ಮಾರುವವನು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q38",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Gardener means:\nತೋಟಗಾರ (Gardener) ಎಂದರೆ:",
+      "a": "One who grows plants\nಸಸ್ಯಗಳನ್ನು ಬೆಳೆಸುವವನು",
+      "b": "Teacher\nಶಿಕ್ಷಕ",
+      "c": "Tailor\nದರ್ಜಿ (ಟೈಲರ್)",
+      "ans": "(A) One who grows plants\nಸಸ್ಯಗಳನ್ನು ಬೆಳೆಸುವವನು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q39",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Watchman means:\nಕಾವಲುಗಾರ (Watchman) ಎಂದರೆ:",
+      "a": "Guard\nಕಾವಲು ಕಾಯುವವನು",
+      "b": "Doctor\nವೈದ್ಯ",
+      "c": "Singer\nಗಾಯಕ",
+      "ans": "(A) Guard\nಕಾವಲು ಕಾಯುವವನು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q40",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Dream means:\nಕನಸು (Dream) ಎಂದರೆ:",
+      "a": "Wish or imagination\nಆಸೆ ಅಥವಾ ಕಲ್ಪನೆ",
+      "b": "Problem\nಸಮಸ್ಯೆ",
+      "c": "Rule\nನಿಯಮ",
+      "ans": "(A) Wish or imagination\nಆಸೆ ಅಥವಾ ಕಲ್ಪನೆ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q41",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Who wrote the poem \"Vocation\"?\n\"ವೊಕೇಶನ್\" (Vocation) ಪದ್ಯವನ್ನು ಬರೆದವರು ಯಾರು?",
+      "a": "Rabindranath Tagore\nರವೀಂದ್ರನಾಥ ಟ್ಯಾಗೋರ್",
+      "b": "Ruskin Bond\nರಸ್ಕಿನ್ ಬಾಂಡ್",
+      "c": "R.K. Narayan\nಆರ್.ಕೆ. ನಾರಾಯಣ್",
+      "ans": "(A) Rabindranath Tagore\nರವೀಂದ್ರನಾಥ ಟ್ಯಾಗೋರ್",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q42",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The child wanted to be:\nಮಗು ಏನಾಗಲು ಬಯಸಿತು?",
+      "a": "Different workers he observed\nತಾನು ಗಮನಿಸಿದ ವಿವಿಧ ಕೆಲಸಗಾರರಾಗಲು",
+      "b": "A king\nಒಬ್ಬ ರಾಜನಾಗಲು",
+      "c": "A pilot\nಒಬ್ಬ ಪೈಲಟ್ ಆಗಲು",
+      "ans": "(A) Different workers he observed\nತಾನು ಗಮನಿಸಿದ ವಿವಿಧ ಕೆಲಸಗಾರರಾಗಲು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q43",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "One person the child saw was a:\nಮಗು ನೋಡಿದ ಒಬ್ಬ ವ್ಯಕ್ತಿ:",
+      "a": "Hawker\nಬೀದಿ ವ್ಯಾಪಾರಿ",
+      "b": "Doctor\nವೈದ್ಯ",
+      "c": "Chef\nಬಾಣಸಿಗ",
+      "ans": "(A) Hawker\nಬೀದಿ ವ್ಯಾಪಾರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q44",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Another person in the poem was a:\nಪದ್ಯದಲ್ಲಿ ಕಂಡುಬರುವ ಇನ್ನೊಬ್ಬ ವ್ಯಕ್ತಿ:",
+      "a": "Gardener\nತೋಟಗಾರ",
+      "b": "Engineer\nಇಂಜಿನಿಯರ್",
+      "c": "Artist\nಕಲಾವಿದ",
+      "ans": "(A) Gardener\nತೋಟಗಾರ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q45",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The watchman worked:\nಕಾವಲುಗಾರನು ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದುದು:",
+      "a": "At night\nರಾತ್ರಿಯಲ್ಲಿ",
+      "b": "In water\nನೀರಿನಲ್ಲಿ",
+      "c": "In a classroom\nತರಗತಿ ಕೊಠಡಿಯಲ್ಲಿ",
+      "ans": "(A) At night\nರಾತ್ರಿಯಲ್ಲಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q46",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The poem shows:\nಈ ಪದ್ಯವು ತೋರಿಸುವುದು:",
+      "a": "Curiosity\nಕುತೂಹಲವನ್ನು",
+      "b": "Fear\nಭಯವನ್ನು",
+      "c": "Anger\nಕೋಪವನ್ನು",
+      "ans": "(A) Curiosity\nಕುತೂಹಲವನ್ನು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "vocation_q47",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The child admired:\nಮಗು ಯಾವುದನ್ನು ಮೆಚ್ಚಿಕೊಂಡಿತು?",
+      "a": "Different occupations\nವಿವಿಧ ವೃತ್ತಿಗಳನ್ನು",
+      "b": "Toys\nಆಟಿಕೆಗಳನ್ನು",
+      "c": "Machines\nಯಂತ್ರಗಳನ್ನು",
+      "ans": "(A) Different occupations\nವಿವಿಧ ವೃತ್ತಿಗಳನ್ನು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q48",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The poem is mainly about:\nಈ ಪದ್ಯವು ಮುಖ್ಯವಾಗಿ ಯಾವುದರ ಬಗ್ಗೆ ಇದೆ?",
+      "a": "Work and imagination\nಕೆಲಸ ಮತ್ತು ಕಲ್ಪನೆ",
+      "b": "Sports\nಕ್ರೀಡೆ",
+      "c": "Travel\nಪ್ರಯಾಣ",
+      "ans": "(A) Work and imagination\nಕೆಲಸ ಮತ್ತು ಕಲ್ಪನೆ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "vocation_q49",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The child imagined himself in:\nಮಗು ತನ್ನನ್ನು ತಾನು ಯಾವುದರಲ್ಲಿ ಕಲ್ಪಿಸಿಕೊಂಡಿತು?",
+      "a": "Different vocations\nವಿವಿಧ ವೃತ್ತಿಗಳಲ್ಲಿ",
+      "b": "Different countries\nವಿವಿಧ ದೇಶಗಳಲ್ಲಿ",
+      "c": "Different schools\nವಿವಿಧ ಶಾಲೆಗಳಲ್ಲಿ",
+      "ans": "(A) Different vocations\nವಿವಿಧ ವೃತ್ತಿಗಳಲ್ಲಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q50",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The poem teaches us to:\nಈ ಪದ್ಯವು ನಮಗೆ ಏನನ್ನು ಕಲಿಸುತ್ತದೆ?",
+      "a": "Respect all occupations\nಎಲ್ಲಾ ವೃತ್ತಿಗಳನ್ನು ಗೌರವಿಸಲು",
+      "b": "Ignore workers\nಕೆಲಸಗಾರರನ್ನು ನಿರ್ಲಕ್ಷಿಸಲು",
+      "c": "Avoid work\nಕೆಲಸದಿಂದ ದೂರವಿರಲು",
+      "ans": "(A) Respect all occupations\nಎಲ್ಲಾ ವೃತ್ತಿಗಳನ್ನು ಗೌರವಿಸಲು",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q51",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The poem is narrated by a child.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಈ ಪದ್ಯವನ್ನು ಒಂದು ಮಗುವು ನಿರೂಪಿಸಿದೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q52",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The child observes different workers.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಮಗುವು ವಿವಿಧ ಕೆಲಸಗಾರರನ್ನು ಗಮನಿಸುತ್ತದೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q53",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The hawker sells goods.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಬೀದಿ ವ್ಯಾಪಾರಿಯು ವಸ್ತುಗಳನ್ನು ಮಾರುತ್ತಾನೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q54",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The gardener grows flowers.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ತೋಟಗಾರನು ಹೂವುಗಳನ್ನು ಬೆಳೆಯುತ್ತಾನೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q55",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The watchman protects property.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಕಾವಲುಗಾರನು ಆಸ್ತಿಯನ್ನು ರಕ್ಷಿಸುತ್ತಾನೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q56",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The child dislikes the workers.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಮಗುವು ಕೆಲಸಗಾರರನ್ನು ಇಷ್ಟಪಡುವುದಿಲ್ಲ.",
+      "ans": "False\nತಪ್ಪು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q57",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The poem highlights imagination.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಈ ಪದ್ಯವು ಕಲ್ಪನಾಶಕ್ತಿಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q58",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Every occupation is important.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಪ್ರತಿಯೊಂದು ವೃತ್ತಿಯೂ ಮುಖ್ಯವಾಗಿದೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q59",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The child dreams about different jobs.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಮಗುವು ವಿವಿಧ ಕೆಲಸಗಳ ಬಗ್ಗೆ ಕನಸು ಕಾಣುತ್ತದೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q60",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The poem teaches respect for work.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಈ ಪದ್ಯವು ಕೆಲಸದ ಬಗ್ಗೆ ಗೌರವವನ್ನು ಕಲಿಸುತ್ತದೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_match1",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "match",
+      "marks": 5,
+      "q": "Match the following (Set 1: Q61–65):\nಹೊಂದಿಸಿ ಬರೆಯಿರಿ (ಸೆಟ್ 1: ಪ್ರಶ್ನೆ 61–65):",
+      "matchPairs": [
+        {
+          "a": "Hawker\nಬೀದಿ ವ್ಯಾಪಾರಿ",
+          "b": "Sells goods\nವಸ್ತುಗಳನ್ನು ಮಾರುತ್ತಾನೆ"
+        },
+        {
+          "a": "Gardener\nತೋಟಗಾರ",
+          "b": "Grows flowers\nಹೂವುಗಳನ್ನು ಬೆಳೆಯುತ್ತಾನೆ"
+        },
+        {
+          "a": "Watchman\nಕಾವಲುಗಾರ",
+          "b": "Guards property\nಆಸ್ತಿಯನ್ನು ಕಾಯುತ್ತಾನೆ"
+        },
+        {
+          "a": "Child\nಮಗು",
+          "b": "Narrator\nನಿರೂಪಕ"
+        },
+        {
+          "a": "Street\nಬೀದಿ / ರಸ್ತೆ",
+          "b": "Place of work\nಕೆಲಸದ ಸ್ಥಳ"
+        }
+      ],
+      "ans": "(1) -> Sells goods / ವಸ್ತುಗಳನ್ನು ಮಾರುತ್ತಾನೆ | (2) -> Grows flowers / ಹೂವುಗಳನ್ನು ಬೆಳೆಯುತ್ತಾನೆ | (3) -> Guards property / ಆಸ್ತಿಯನ್ನು ಕಾಯುತ್ತಾನೆ | (4) -> Narrator / ನಿರೂಪಕ | (5) -> Place of work / ಕೆಲಸದ ಸ್ಥಳ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_match2",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "match",
+      "marks": 5,
+      "q": "Match the following (Set 2: Q66–70):\nಹೊಂದಿಸಿ ಬರೆಯಿರಿ (ಸೆಟ್ 2: ಪ್ರಶ್ನೆ 66–70):",
+      "matchPairs": [
+        {
+          "a": "Basket\nಬುಟ್ಟಿ",
+          "b": "Carries goods\nವಸ್ತುಗಳನ್ನು ಸಾಗಿಸುತ್ತದೆ"
+        },
+        {
+          "a": "Flowers\nಹೂವುಗಳು",
+          "b": "Garden\nತೋಟ"
+        },
+        {
+          "a": "Dream\nಕನಸು",
+          "b": "Imagination\nಕಲ್ಪನೆ"
+        },
+        {
+          "a": "Vocation\nವೃತ್ತಿ",
+          "b": "Occupation\nಉದ್ಯೋಗ / ಕಸಬು"
+        },
+        {
+          "a": "Work\nಕೆಲಸ",
+          "b": "Duty\nಕರ್ತವ್ಯ"
+        }
+      ],
+      "ans": "(1) -> Carries goods / ವಸ್ತುಗಳನ್ನು ಸಾಗಿಸುತ್ತದೆ | (2) -> Garden / ತೋಟ | (3) -> Imagination / ಕಲ್ಪನೆ | (4) -> Occupation / ಉದ್ಯೋಗ / ಕಸಬು | (5) -> Duty / ಕರ್ತವ್ಯ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q71",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "Who tells the poem?\nಪದ್ಯವನ್ನು ಯಾರು ಹೇಳುತ್ತಾರೆ?",
+      "ans": "Child\nಮಗು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q72",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What did the hawker carry?\nಬೀದಿ ವ್ಯಾಪಾರಿ ಏನನ್ನು ಕೊಂಡೊಯ್ಯುತ್ತಿದ್ದನು?",
+      "ans": "Basket\nಬುಟ್ಟಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q73",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "Who looked after plants?\nಸಸ್ಯಗಳನ್ನು ಯಾರು ನೋಡಿಕೊಳ್ಳುತ್ತಿದ್ದರು?",
+      "ans": "Gardener\nತೋಟಗಾರ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q74",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "Who guarded the streets at night?\nರಾತ್ರಿಯಲ್ಲಿ ಬೀದಿಗಳನ್ನು ಯಾರು ಕಾಯುತ್ತಿದ್ದರು?",
+      "ans": "Watchman\nಕಾವಲುಗಾರ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q75",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What is another word for occupation?\nಉದ್ಯೋಗಕ್ಕೆ (occupation) ಇನ್ನೊಂದು ಪದ ಯಾವುದು?",
+      "ans": "Vocation\nವೃತ್ತಿ (Vocation)",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q76",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What did the gardener grow?\nತೋಟಗಾರನು ಏನನ್ನು ಬೆಳೆಸಿದನು?",
+      "ans": "Flowers\nಹೂವುಗಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q77",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What quality did the child show?\nಮಗು ಯಾವ ಗುಣವನ್ನು ತೋರಿಸಿತು?",
+      "ans": "Curiosity\nಕುತೂಹಲ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "vocation_q78",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What did the child use to imagine different jobs?\nವಿವಿಧ ಕೆಲಸಗಳನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಲು ಮಗು ಏನನ್ನು ಬಳಸಿತು?",
+      "ans": "Imagination\nಕಲ್ಪನಾಶಕ್ತಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "vocation_q79",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What should we respect?\nನಾವು ಏನನ್ನು ಗೌರವಿಸಬೇಕು?",
+      "ans": "Work\nಕೆಲಸ (ಶ್ರಮ)",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q80",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What is the theme of the poem?\nಈ ಪದ್ಯದ ಮುಖ್ಯ ಆಶಯವೇನು?",
+      "ans": "Respect for occupations\nವೃತ್ತಿಗಳಿಗೆ ಗೌರವ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "vocation_q81",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The child watched different __________.\nಮಗು ವಿವಿಧ __________ನ್ನು ಗಮನಿಸಿತು.",
+      "ans": "workers\nಕೆಲಸಗಾರರ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q82",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The hawker sold his __________.\nಬೀದಿ ವ್ಯಾಪಾರಿಯು ತನ್ನ __________ನ್ನು ಮಾರಿದನು.",
+      "ans": "goods\nವಸ್ತುಗಳ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q83",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The gardener worked among __________.\nತೋಟಗಾರನು __________ಗಳ ನಡುವೆ ಕೆಲಸ ಮಾಡಿದನು.",
+      "ans": "flowers\nಹೂವು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q84",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The watchman stayed awake at __________.\nಕಾವಲುಗಾರನು __________ ಎಚ್ಚರವಾಗಿರುತ್ತಿದ್ದನು.",
+      "ans": "night\nರಾತ್ರಿಯಲ್ಲಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q85",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The child imagined different __________.\nಮಗು ವಿವಿಧ __________ನ್ನು ಕಲ್ಪಿಸಿಕೊಂಡಿತು.",
+      "ans": "vocations\nವೃತ್ತಿಗಳ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q86",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Every occupation deserves __________.\nಪ್ರತಿಯೊಂದು ವೃತ್ತಿಯೂ __________ಕ್ಕೆ ಅರ್ಹವಾಗಿದೆ.",
+      "ans": "respect\nಗೌರವ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q87",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The poem was written by __________.\nಈ ಪದ್ಯವನ್ನು __________ ರವರು ಬರೆದಿದ್ದಾರೆ.",
+      "ans": "Tagore\nಟ್ಯಾಗೋರ್",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q88",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The child was full of __________.\nಮಗುವಿನಲ್ಲಿ __________ ತುಂಬಿತ್ತು.",
+      "ans": "curiosity\nಕುತೂಹಲ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "vocation_q89",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The poem celebrates the dignity of __________.\nಈ ಪದ್ಯವು __________ದ ಘನತೆಯನ್ನು ಕೊಂಡಾಡುತ್ತದೆ.",
+      "ans": "labour\nಶ್ರಮ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "vocation_q90",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "We should value every __________.\nನಾವು ಪ್ರತಿಯೊಂದು __________ನ್ನು ಗೌರವಿಸಬೇಕು.",
+      "ans": "occupation\nವೃತ್ತಿಯ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q116",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Who watched the workers?\nಕೆಲಸಗಾರರನ್ನು ಯಾರು ಗಮನಿಸಿದರು?",
+      "ans": "A child\nಒಂದು ಮಗು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q117",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What did the hawker sell?\nಬೀದಿ ವ್ಯಾಪಾರಿ ಏನನ್ನು ಮಾರುತ್ತಿದ್ದನು?",
+      "ans": "Goods\nವಸ್ತುಗಳನ್ನು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q118",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Who cared for flowers?\nಹೂವುಗಳ ಆರೈಕೆಯನ್ನು ಯಾರು ಮಾಡಿದರು?",
+      "ans": "Gardener\nತೋಟಗಾರ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q119",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Who guarded the streets?\nಬೀದಿಗಳನ್ನು ಯಾರು ಕಾಯುತ್ತಿದ್ದರು?",
+      "ans": "Watchman\nಕಾವಲುಗಾರ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q120",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What did the child imagine?\nಮಗು ಏನನ್ನು ಕಲ್ಪಿಸಿಕೊಂಡಿತು?",
+      "ans": "Becoming different workers\nವಿವಿಧ ಕೆಲಸಗಾರರಾಗುವುದನ್ನು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q121",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Did the child admire the workers?\nಮಗು ಕೆಲಸಗಾರರನ್ನು ಮೆಚ್ಚಿಕೊಂಡಿತೇ?",
+      "ans": "Yes\nಹೌದು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q122",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What did the gardener take care of?\nತೋಟಗಾರನು ಯಾವುದರ ಆರೈಕೆ ಮಾಡಿದನು?",
+      "ans": "Flowers\nಹೂವುಗಳ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q123",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "When did the watchman work?\nಕಾವಲುಗಾರನು ಯಾವಾಗ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದನು?",
+      "ans": "At night\nರಾತ್ರಿಯಲ್ಲಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q124",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What did the child learn?\nಮಗು ಏನನ್ನು ಕಲಿಯಿತು?",
+      "ans": "Every occupation deserves respect\nಪ್ರತಿಯೊಂದು ವೃತ್ತಿಯೂ ಗೌರವಕ್ಕೆ ಅರ್ಹವಾಗಿದೆ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q125",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Are all occupations important?\nಎಲ್ಲಾ ವೃತ್ತಿಗಳೂ ಮುಖ್ಯವೇ?",
+      "ans": "Yes\nಹೌದು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q126",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The child observed:\nಮಗುವು ಇವರನ್ನು ಗಮನಿಸಿತು:",
+      "a": "Workers\nಕೆಲಸಗಾರರನ್ನು",
+      "b": "Birds\nಪಕ್ಷಿಗಳನ್ನು",
+      "c": "Animals\nಪ್ರಾಣಿಗಳನ್ನು",
+      "ans": "(A) Workers\nಕೆಲಸಗಾರರನ್ನು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q127",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The gardener worked with:\nತೋಟಗಾರನು ಇವುಗಳೊಂದಿಗೆ ಕೆಲಸ ಮಾಡಿದನು:",
+      "a": "Flowers\nಹೂವುಗಳು",
+      "b": "Books\nಪುಸ್ತಕಗಳು",
+      "c": "Machines\nಯಂತ್ರಗಳು",
+      "ans": "(A) Flowers\nಹೂವುಗಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q128",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The watchman worked:\nಕಾವಲುಗಾರನು ಕೆಲಸ ಮಾಡಿದ್ದು:",
+      "a": "At night\nರಾತ್ರಿಯಲ್ಲಿ",
+      "b": "At noon\nಮಧ್ಯಾಹ್ನ",
+      "c": "In the morning\nಬೆಳಗ್ಗೆ",
+      "ans": "(A) At night\nರಾತ್ರಿಯಲ್ಲಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q129",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The poem highlights:\nಈ ಪದ್ಯವು ಒತ್ತಿ ಹೇಳುವುದು:",
+      "a": "Respect for occupations\nವೃತ್ತಿಗಳಿಗೆ ಗೌರವ",
+      "b": "Fear of work\nಕೆಲಸದ ಭಯ",
+      "c": "Competition\nಪೈಪೋಟಿ",
+      "ans": "(A) Respect for occupations\nವೃತ್ತಿಗಳಿಗೆ ಗೌರವ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q130",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The child used:\nಮಗುವು ಬಳಸಿದ್ದು:",
+      "a": "Imagination\nಕಲ್ಪನಾಶಕ್ತಿ",
+      "b": "Anger\nಕೋಪ",
+      "c": "Silence\nಮೌನ",
+      "ans": "(A) Imagination\nಕಲ್ಪನಾಶಕ್ತಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "vocation_q131",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "Why did the child want to become different workers?\nಮಗು ಏಕೆ ವಿವಿಧ ಕೆಲಸಗಾರರಾಗಲು ಬಯಸಿತು?",
+      "ans": "He admired their work.\nಅದು ಅವರ ಕೆಲಸವನ್ನು ಮೆಚ್ಚಿಕೊಂಡಿತ್ತು.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "vocation_q132",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "Why should we respect all occupations?\nನಾವು ಎಲ್ಲಾ ವೃತ್ತಿಗಳನ್ನು ಏಕೆ ಗೌರವಿಸಬೇಕು?",
+      "ans": "Every occupation contributes to society.\nಪ್ರತಿಯೊಂದು ವೃತ್ತಿಯೂ ಸಮಾಜಕ್ಕೆ ತನ್ನದೇ ಆದ ಕೊಡುಗೆ ನೀಡುತ್ತದೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "vocation_q133",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "What does the poem teach about work?\nಕೆಲಸದ ಬಗ್ಗೆ ಈ ಪದ್ಯವು ಏನನ್ನು ಕಲಿಸುತ್ತದೆ?",
+      "ans": "All work has dignity and value.\nಎಲ್ಲಾ ಕೆಲಸಗಳಿಗೂ ಘನತೆ ಮತ್ತು ಮೌಲ್ಯವಿದೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "vocation_q134",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "How does imagination help learning?\nಕಲ್ಪನಾಶಕ್ತಿಯು ಕಲಿಕೆಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ?",
+      "ans": "It helps us understand different experiences.\nಇದು ನಮಗೆ ವಿಭಿನ್ನ ಅನುಭವಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "vocation_q135",
+      "chapter": "9. Vocation (ವೃತ್ತಿ)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "What lesson do we learn from the poem?\nಈ ಪದ್ಯದಿಂದ ನಾವು ಯಾವ ಪಾಠವನ್ನು ಕಲಿಯುತ್ತೇವೆ?",
+      "ans": "Respect every worker and every occupation.\nಪ್ರತಿಯೊಬ್ಬ ಕೆಲಸಗಾರನನ್ನು ಮತ್ತು ಪ್ರತಿಯೊಂದು ವೃತ್ತಿಯನ್ನು ಗೌರವಿಸಿ.",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    }
+  ]
+}
+{
+  "questions": [
+    {
+      "id": "bangles_q36",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Artisan means:\nಕುಶಲಕರ್ಮಿ (Artisan) ಎಂದರೆ:",
+      "a": "A skilled craftsperson\nಕುಶಲ ಕೈಗಾರಿಕಾ ಕಲಾವಿದ",
+      "b": "A customer\nಒಬ್ಬ ಗ್ರಾಹಕ",
+      "c": "A driver\nಒಬ್ಬ ಚಾಲಕ",
+      "ans": "(A) A skilled craftsperson\nಕುಶಲ ಕೈಗಾರಿಕಾ ಕಲಾವಿದ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q37",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Clinking means:\nಕಿಣಿ-ಕಿಣಿ ಶಬ್ದ (Clinking) ಎಂದರೆ:",
+      "a": "A light ringing sound\nತೆಳುವಾದ ಗಾಜು ತಾಗಿದಾಗ ಬರುವ ಮೃದುವಾದ ಶಬ್ದ",
+      "b": "A loud shout\nಜೋರಾದ ಕೂಗು",
+      "c": "A soft whisper\nಮೆಲ್ಲನೆಯ ಪಿಸುಮಾತು",
+      "ans": "(A) A light ringing sound\nತೆಳುವಾದ ಗಾಜು ತಾಗಿದಾಗ ಬರುವ ಮೃದುವಾದ ಶಬ್ದ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q38",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Furnace means:\nಕುಲುಮೆ (Furnace) ಎಂದರೆ:",
+      "a": "A place for heating\nಬಿಸಿ ಮಾಡುವ (ಕಾಯಿಸುವ) ಸ್ಥಳ",
+      "b": "A shop\nಒಂದು ಅಂಗಡಿ",
+      "c": "A cupboard\nಒಂದು ಕಪಾಟು",
+      "ans": "(A) A place for heating\nಬಿಸಿ ಮಾಡುವ (ಕಾಯಿಸುವ) ಸ್ಥಳ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q39",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Floral means:\nಹೂವಿನ ವಿನ್ಯಾಸ (Floral) ಎಂದರೆ:",
+      "a": "Related to flowers\nಹೂವುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ",
+      "b": "Related to animals\nಪ್ರಾಣಿಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ",
+      "c": "Related to machines\nಯಂತ್ರಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ",
+      "ans": "(A) Related to flowers\nಹೂವುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q40",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Innovative means:\nನವೀನ (Innovative) ಎಂದರೆ:",
+      "a": "Having new ideas\nಹೊಸ ಆಲೋಚನೆಗಳನ್ನು ಹೊಂದಿರುವ",
+      "b": "Being careless\nನಿರ್ಲಕ್ಷ್ಯದಿಂದಿರುವ",
+      "c": "Being old-fashioned\nಹಳೆಯ ಪದ್ಧತಿಯಲ್ಲಿರುವ",
+      "ans": "(A) Having new ideas\nಹೊಸ ಆಲೋಚನೆಗಳನ್ನು ಹೊಂದಿರುವ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q41",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Where did Ravi live?\nರವಿ ಎಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದನು?",
+      "a": "Jaipur\nಜೈಪುರ",
+      "b": "Firozabad\nಫಿರೋಜಾಬಾದ್",
+      "c": "Mumbai\nಮುಂಬೈ",
+      "d": "Delhi\nದೆಹಲಿ",
+      "ans": "(B) Firozabad\nಫಿರೋಜಾಬಾದ್",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q42",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What was Ravi's occupation?\nರವಿಯ ವೃತ್ತಿ ಏನಾಗಿತ್ತು?",
+      "a": "Farmer\nರೈತ",
+      "b": "Teacher\nಶಿಕ್ಷಕ",
+      "c": "Glass artisan\nಗಾಜಿನ ಕುಶಲಕರ್ಮಿ",
+      "d": "Shopkeeper\nಅಂಗಡಿಯವನು",
+      "ans": "(C) Glass artisan\nಗಾಜಿನ ಕುಶಲಕರ್ಮಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q43",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What was Firozabad famous for?\nಫಿರೋಜಾಬಾದ್ ಯಾವುದಕ್ಕೆ ಪ್ರಸಿದ್ಧವಾಗಿತ್ತು?",
+      "a": "Silk\nರೇಷ್ಮೆ",
+      "b": "Glass bangles\nಗಾಜಿನ ಬಳೆಗಳು",
+      "c": "Toys\nಆಟಿಕೆಗಳು",
+      "d": "Pottery\nಕುಂಬಾರಿಕೆ",
+      "ans": "(B) Glass bangles\nಗಾಜಿನ ಬಳೆಗಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q44",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What did Ravi and his team first do to the glass?\nರವಿ ಮತ್ತು ಅವನ ತಂಡವು ಗಾಜಿಗೆ ಮೊದಲು ಏನು ಮಾಡುತ್ತಿದ್ದರು?",
+      "a": "Painted it\nಬಣ್ಣ ಬಳಿಯುತ್ತಿದ್ದರು",
+      "b": "Heated it\nಕಾಯಿಸುತ್ತಿದ್ದರು (ಬಿಸಿ ಮಾಡುತ್ತಿದ್ದರು)",
+      "c": "Broke it\nಒಡೆಯುತ್ತಿದ್ದರು",
+      "d": "Sold it\nಮಾರುತ್ತಿದ್ದರು",
+      "ans": "(B) Heated it\nಕಾಯಿಸುತ್ತಿದ್ದರು (ಬಿಸಿ ಮಾಡುತ್ತಿದ್ದರು)",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q45",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What did Ravi add to the bangles?\nರವಿ ಬಳೆಗಳಿಗೆ ಏನನ್ನು ಸೇರಿಸಿದನು?",
+      "a": "Food\nಆಹಾರ",
+      "b": "Colours and designs\nಬಣ್ಣಗಳು ಮತ್ತು ವಿನ್ಯಾಸಗಳು",
+      "c": "Paper\nಕಾಗದ",
+      "d": "Wood\nಮರ",
+      "ans": "(B) Colours and designs\nಬಣ್ಣಗಳು ಮತ್ತು ವಿನ್ಯಾಸಗಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q46",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "When did the demand for bangles increase?\nಬಳೆಗಳಿಗೆ ಬೇಡಿಕೆ ಯಾವಾಗ ಹೆಚ್ಚಾಯಿತು?",
+      "a": "Holi\nಹೋಳಿ",
+      "b": "Diwali\nದೀಪಾವಳಿ",
+      "c": "Summer vacation\nಬೇಸಿಗೆ ರಜೆ",
+      "d": "Winter\nಚಳಿಗಾಲ",
+      "ans": "(B) Diwali\nದೀಪಾವಳಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q47",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Who was Ananya?\nಅನನ್ಯಾ ಯಾರು?",
+      "a": "Ravi's sister\nರವಿಯ ತಂಗಿ/ಅಕ್ಕ",
+      "b": "Ravi's daughter\nರವಿಯ ಮಗಳು",
+      "c": "Ravi's customer\nರವಿಯ ಗ್ರಾಹಕಿ",
+      "d": "Ravi's friend\nರವಿಯ ಸ್ನೇಹಿತೆ",
+      "ans": "(B) Ravi's daughter\nರವಿಯ ಮಗಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q48",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What did Ananya have an eye for?\nಅನನ್ಯಾಳಿಗೆ ಯಾವುದರ ಬಗ್ಗೆ ವಿಶೇಷ ಆಸಕ್ತಿ ಮತ್ತು ಕೌಶಲ್ಯವಿತ್ತು?",
+      "a": "Music\nಸಂಗೀತ",
+      "b": "Design\nವಿನ್ಯಾಸ",
+      "c": "Sports\nಕ್ರೀಡೆ",
+      "d": "Cooking\nಅಡುಗೆ",
+      "ans": "(B) Design\nವಿನ್ಯಾಸ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q49",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What patterns did Ananya introduce?\nಅನನ್ಯಾ ಯಾವ ವಿನ್ಯಾಸಗಳನ್ನು ಪರಿಚಯಿಸಿದಳು?",
+      "a": "Floral patterns and geometric shapes\nಹೂವಿನ ವಿನ್ಯಾಸಗಳು ಮತ್ತು ಜ್ಯಾಮಿತೀಯ ಆಕಾರಗಳು",
+      "b": "Animal pictures only\nಕೇವಲ ಪ್ರಾಣಿಗಳ ಚಿತ್ರಗಳು",
+      "c": "Numbers and letters\nಸಂಖ್ಯೆಗಳು ಮತ್ತು ಅಕ್ಷರಗಳು",
+      "d": "Stars only\nಕೇವಲ ನಕ್ಷತ್ರಗಳು",
+      "ans": "(A) Floral patterns and geometric shapes\nಹೂವಿನ ವಿನ್ಯಾಸಗಳು ಮತ್ತು ಜ್ಯಾಮಿತೀಯ ಆಕಾರಗಳು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q50",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "What happened after the new collection became successful?\nಹೊಸ ಸಂಗ್ರಹವು ಯಶಸ್ವಿಯಾದ ನಂತರ ಏನಾಯಿತು?",
+      "a": "The workshop closed.\nಕಾರ್ಯಾಗಾರ ಮುಚ್ಚಿತು.",
+      "b": "Demand decreased.\nಬೇಡಿಕೆ ಕಡಿಮೆಯಾಯಿತು.",
+      "c": "More work was created for local artisans.\nಸ್ಥಳೀಯ ಕುಶಲಕರ್ಮಿಗಳಿಗೆ ಹೆಚ್ಚಿನ ಕೆಲಸ ದೊರೆಯಿತು.",
+      "d": "Ravi stopped making bangles.\nರವಿ ಬಳೆ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸಿದನು.",
+      "ans": "(C) More work was created for local artisans.\nಸ್ಥಳೀಯ ಕುಶಲಕರ್ಮಿಗಳಿಗೆ ಹೆಚ್ಚಿನ ಕೆಲಸ ದೊರೆಯಿತು.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q51",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Ravi was a skilled glass artisan.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ರವಿ ಒಬ್ಬ ನುರಿತ ಗಾಜಿನ ಕುಶಲಕರ್ಮಿಯಾಗಿದ್ದನು.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q52",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Firozabad is famous for its glass bangles.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಫಿರೋಜಾಬಾದ್ ತನ್ನ ಗಾಜಿನ ಬಳೆಗಳಿಗೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q53",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Ravi made bangles without heating the glass.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ರವಿ ಗಾಜನ್ನು ಬಿಸಿ ಮಾಡದೆ ಬಳೆಗಳನ್ನು ತಯಾರಿಸುತ್ತಿದ್ದನು.",
+      "ans": "False\nತಪ್ಪು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q54",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Ravi made sure that his bangles were beautiful and long-lasting.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ತನ್ನ ಬಳೆಗಳು ಸುಂದರವಾಗಿ ಮತ್ತು ಬಾಳಿಕೆ ಬರುವಂತಿರಬೇಕೆಂದು ರವಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳುತ್ತಿದ್ದನು.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q55",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The demand for glass bangles increased during Diwali.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ದೀಪಾವಳಿಯ ಸಮಯದಲ್ಲಿ ಗಾಜಿನ ಬಳೆಗಳಿಗೆ ಬೇಡಿಕೆ ಹೆಚ್ಚಾಯಿತು.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q56",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Ananya had completed her schooling.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಅನನ್ಯಾ ತನ್ನ ಶಾಲಾ ಶಿಕ್ಷಣವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ್ದಳು.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q57",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Ananya wanted to remove all traditional designs.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಅನನ್ಯಾ ಎಲ್ಲಾ ಸಾಂಪ್ರದಾಯಿಕ ವಿನ್ಯಾಸಗಳನ್ನು ತೆಗೆದುಹಾಕಲು ಬಯಸಿದ್ದಳು.",
+      "ans": "False\nತಪ್ಪು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q58",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Ananya combined traditional and modern designs.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಅನನ್ಯಾ ಸಾಂಪ್ರದಾಯಿಕ ಮತ್ತು ಆಧುನಿಕ ವಿನ್ಯಾಸಗಳನ್ನು ಸಂಯೋಜಿಸಿದಳು.",
+      "ans": "True\nಸರಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q59",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: Ravi immediately rejected Ananya's designs.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ರವಿ ತಕ್ಷಣವೇ ಅನನ್ಯಾಳ ವಿನ್ಯಾಸಗಳನ್ನು ತಿರಸ್ಕರಿಸಿದನು.",
+      "ans": "False\nತಪ್ಪು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q60",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "true_false",
+      "marks": 1,
+      "q": "True or False: The success of the bangles benefited the community.\nಸರಿ ಅಥವಾ ತಪ್ಪು: ಬಳೆಗಳ ಯಶಸ್ಸು ಇಡೀ ಸಮುದಾಯಕ್ಕೆ ಪ್ರಯೋಜನವನ್ನು ನೀಡಿತು.",
+      "ans": "True\nಸರಿ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_match1",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "match",
+      "marks": 5,
+      "q": "Match the following (Set 1: Q61–65):\nಹೊಂದಿಸಿ ಬರೆಯಿರಿ (ಸೆಟ್ 1: ಪ್ರಶ್ನೆ 61–65):",
+      "matchPairs": [
+        {
+          "a": "Ravi\nರವಿ",
+          "b": "Glass artisan\nಗಾಜಿನ ಕುಶಲಕರ್ಮಿ"
+        },
+        {
+          "a": "Ananya\nಅನನ್ಯಾ",
+          "b": "Modern designs\nಆಧುನಿಕ ವಿನ್ಯಾಸಗಳು"
+        },
+        {
+          "a": "Firozabad\nಫಿರೋಜಾಬಾದ್",
+          "b": "Firozabad\nಫಿರೋಜಾಬಾದ್"
+        },
+        {
+          "a": "Furnace\nಕುಲುಮೆ",
+          "b": "Heating glass\nಗಾಜನ್ನು ಬಿಸಿ ಮಾಡುವುದು"
+        },
+        {
+          "a": "Ananya's designs\nಅನನ್ಯಾಳ ವಿನ್ಯಾಸಗಳು",
+          "b": "Floral patterns\nಹೂವಿನ ವಿನ್ಯಾಸಗಳು"
+        }
+      ],
+      "ans": "(1) -> Glass artisan / ಗಾಜಿನ ಕುಶಲಕರ್ಮಿ | (2) -> Modern designs / ಆಧುನಿಕ ವಿನ್ಯಾಸಗಳು | (3) -> Firozabad / ಫಿರೋಜಾಬಾದ್ | (4) -> Heating glass / ಗಾಜನ್ನು ಬಿಸಿ ಮಾಡುವುದು | (5) -> Floral patterns / ಹೂವಿನ ವಿನ್ಯಾಸಗಳು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_match2",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "match",
+      "marks": 5,
+      "q": "Match the following (Set 2: Q66–70):\nಹೊಂದಿಸಿ ಬರೆಯಿರಿ (ಸೆಟ್ 2: ಪ್ರಶ್ನೆ 66–70):",
+      "matchPairs": [
+        {
+          "a": "Diwali\nದೀಪಾವಳಿ",
+          "b": "Festival of lights\nದೀಪಗಳ ಹಬ್ಬ"
+        },
+        {
+          "a": "Floral patterns\nಹೂವಿನ ವಿನ್ಯಾಸಗಳು",
+          "b": "Flowers\nಹೂವುಗಳು"
+        },
+        {
+          "a": "Geometric shapes\nಜ್ಯಾಮಿತೀಯ ಆಕಾರಗಳು",
+          "b": "Shapes and forms\nಆಕಾರಗಳು ಮತ್ತು ರೂಪಗಳು"
+        },
+        {
+          "a": "Local artisans\nಸ್ಥಳೀಯ ಕುಶಲಕರ್ಮಿಗಳು",
+          "b": "More work\nಹೆಚ್ಚಿನ ಕೆಲಸ"
+        },
+        {
+          "a": "Packing and transportation\nಪ್ಯಾಕಿಂಗ್ ಮತ್ತು ಸಾಗಣೆ",
+          "b": "New jobs\nಹೊಸ ಉದ್ಯೋಗಗಳು"
+        }
+      ],
+      "ans": "(1) -> Festival of lights / ದೀಪಗಳ ಹಬ್ಬ | (2) -> Flowers / ಹೂವುಗಳು | (3) -> Shapes and forms / ಆಕಾರಗಳು ಮತ್ತು ರೂಪಗಳು | (4) -> More work / ಹೆಚ್ಚಿನ ಕೆಲಸ | (5) -> New jobs / ಹೊಸ ಉದ್ಯೋಗಗಳು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q71",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "Which town is famous for glass bangles?\nಗಾಜಿನ ಬಳೆಗಳಿಗೆ ಯಾವ ಪಟ್ಟಣ ಪ್ರಸಿದ್ಧವಾಗಿದೆ?",
+      "ans": "Firozabad\nಫಿರೋಜಾಬಾದ್",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q72",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What was Ravi's profession?\nರವಿಯ ವೃತ್ತಿ ಏನಾಗಿತ್ತು?",
+      "ans": "Artisan\nಕುಶಲಕರ್ಮಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q73",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What is used to heat glass?\nಗಾಜನ್ನು ಬಿಸಿ ಮಾಡಲು ಏನನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "ans": "Furnace\nಕುಲುಮೆ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q74",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "Who was Ravi's daughter?\nರವಿಯ ಮಗಳು ಯಾರು?",
+      "ans": "Ananya\nಅನನ್ಯಾ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q75",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "Which festival increased the demand for bangles?\nಯಾವ ಹಬ್ಬವು ಬಳೆಗಳಿಗೆ ಬೇಡಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸಿತು?",
+      "ans": "Diwali\nದೀಪಾವಳಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q76",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What kind of patterns did Ananya introduce?\nಅನನ್ಯಾ ಯಾವ ರೀತಿಯ ವಿನ್ಯಾಸಗಳನ್ನು ಪರಿಚಯಿಸಿದಳು?",
+      "ans": "Floral\nಹೂವಿನ (ಫ್ಲೋರಲ್)",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q77",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What shapes did Ananya introduce?\nಅನನ್ಯಾ ಯಾವ ಆಕಾರಗಳನ್ನು ಪರಿಚಯಿಸಿದಳು?",
+      "ans": "Geometric\nಜ್ಯಾಮಿತೀಯ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q78",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "Who loved the new collection?\nಹೊಸ ಸಂಗ್ರಹವನ್ನು ಯಾರು ಇಷ್ಟಪಟ್ಟರು?",
+      "ans": "Customers\nಗ್ರಾಹಕರು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q79",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "Who got more work after the success of the bangles?\nಬಳೆಗಳ ಯಶಸ್ಸಿನ ನಂತರ ಯಾರಿಗೆ ಹೆಚ್ಚು ಕೆಲಸ ಸಿಕ್ಕಿತು?",
+      "ans": "Artisans\nಕುಶಲಕರ್ಮಿಗಳು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q80",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "one_word",
+      "marks": 1,
+      "q": "What made Ananya's collection popular?\nಅನನ್ಯಾಳ ಸಂಗ್ರಹವನ್ನು ಜನಪ್ರಿಯಗೊಳಿಸಿದ್ದು ಯಾವುದು?",
+      "ans": "Designs\nವಿನ್ಯಾಸಗಳು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q81",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Ravi was a skilled glass __________.\nರವಿ ಒಬ್ಬ ನುರಿತ ಗಾಜಿನ __________ಯಾಗಿದ್ದನು.",
+      "ans": "artisan\nಕುಶಲಕರ್ಮಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q82",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Firozabad is famous for beautiful glass __________.\nಫಿರೋಜಾಬಾದ್ ಸುಂದರವಾದ ಗಾಜಿನ __________ಗಳಿಗೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ.",
+      "ans": "bangles\nಬಳೆ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q83",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Ravi and his team heated glass in a __________.\nರವಿ ಮತ್ತು ಅವನ ತಂಡವು ಗಾಜನ್ನು __________ಯಲ್ಲಿ ಬಿಸಿ ಮಾಡಿದರು.",
+      "ans": "furnace\nಕುಲುಮೆ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q84",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The bangles were decorated with traditional Indian __________.\nಬಳೆಗಳನ್ನು ಸಾಂಪ್ರದಾಯಿಕ ಭಾರತೀಯ __________ಗಳಿಂದ ಅಲಂಕರಿಸಲಾಗಿತ್ತು.",
+      "ans": "designs\nವಿನ್ಯಾಸ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q85",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The demand for bangles increased during __________.\n__________ಯ ಸಮಯದಲ್ಲಿ ಬಳೆಗಳಿಗೆ ಬೇಡಿಕೆ ಹೆಚ್ಚಾಯಿತು.",
+      "ans": "Diwali\nದೀಪಾವಳಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q86",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Ananya had completed her __________.\nಅನನ್ಯಾ ತನ್ನ __________ವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ್ದಳು.",
+      "ans": "schooling\nಶಾಲಾ ಶಿಕ್ಷಣ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q87",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Ananya wanted to add modern __________ to traditional designs.\nಅನನ್ಯಾ ಸಾಂಪ್ರದಾಯಿಕ ವಿನ್ಯಾಸಗಳಿಗೆ ಆಧುನಿಕ __________ಗಳನ್ನು ಸೇರಿಸಲು ಬಯಸಿದ್ದಳು.",
+      "ans": "ideas\nಆಲೋಚನೆ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q88",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "Ananya introduced delicate __________ patterns.\nಅನನ್ಯಾ ನಾಜೂಕಾದ __________ ವಿನ್ಯಾಸಗಳನ್ನು ಪರಿಚಯಿಸಿದಳು.",
+      "ans": "floral\nಹೂವಿನ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q89",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "The new collection was a big __________.\nಹೊಸ ಸಂಗ್ರಹವು ದೊಡ್ಡ __________ ಆಯಿತು.",
+      "ans": "success\nಯಶಸ್ಸು",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q90",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "fill_blank",
+      "marks": 1,
+      "q": "More jobs were generated in packing and __________.\nಪ್ಯಾಕಿಂಗ್ ಮತ್ತು __________ಯಲ್ಲಿ ಹೆಚ್ಚಿನ ಉದ್ಯೋಗಗಳು ಸೃಷ್ಟಿಯಾದವು.",
+      "ans": "transportation\nಸಾಗಣೆ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q116",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Where is Firozabad located?\nಫಿರೋಜಾಬಾದ್ ಎಲ್ಲಿದೆ?",
+      "ans": "Firozabad is located in Uttar Pradesh.\nಫಿರೋಜಾಬಾದ್ ಉತ್ತರ ಪ್ರದೇಶದಲ್ಲಿದೆ.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q117",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What is Firozabad famous for?\nಫಿರೋಜಾಬಾದ್ ಯಾವುದಕ್ಕೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ?",
+      "ans": "Firozabad is famous for its glass bangles/glassware.\nಫಿರೋಜಾಬಾದ್ ತನ್ನ ಗಾಜಿನ ಬಳೆಗಳು ಮತ್ತು ಗಾಜಿನ ವಸ್ತುಗಳಿಗೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q118",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What kind of artisan was Ravi?\nರವಿ ಎಂತಹ ಕುಶಲಕರ್ಮಿಯಾಗಿದ್ದನು?",
+      "ans": "Ravi was a skilled glass artisan.\nರವಿ ಒಬ್ಬ ನುರಿತ ಗಾಜಿನ ಕುಶಲಕರ್ಮಿಯಾಗಿದ್ದನು.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q119",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What sound filled Ravi's workshop?\nರವಿಯ ಕಾರ್ಯಾಗಾರದಲ್ಲಿ ಯಾವ ಶಬ್ದ ತುಂಬಿತ್ತು?",
+      "ans": "The clinking of glass filled Ravi's workshop.\nಗಾಜಿನ ಕಿಣಿ-ಕಿಣಿ ಶಬ್ದವು ರವಿಯ ಕಾರ್ಯಾಗಾರದಲ್ಲಿ ತುಂಬಿತ್ತು.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q120",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What did the artisans first do to the glass?\nಕುಶಲಕರ್ಮಿಗಳು ಗಾಜಿಗೆ ಮೊದಲು ಏನು ಮಾಡಿದರು?",
+      "ans": "The artisans first heated the glass.\nಕುಶಲಕರ್ಮಿಗಳು ಮೊದಲು ಗಾಜನ್ನು ಬಿಸಿ ಮಾಡಿದರು.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q121",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What did they add to the bangles?\nಅವರು ಬಳೆಗಳಿಗೆ ಏನನ್ನು ಸೇರಿಸಿದರು?",
+      "ans": "They added colours and designs to the bangles.\nಅವರು ಬಳೆಗಳಿಗೆ ಬಣ್ಣಗಳು ಮತ್ತು ವಿನ್ಯಾಸಗಳನ್ನು ಸೇರಿಸಿದರು.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q122",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "Why did Ravi work with full attention?\nರವಿ ಏಕೆ ಪೂರ್ಣ ಗಮನದಿಂದ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದನು?",
+      "ans": "Ravi worked with full attention because he wanted to make beautiful and long-lasting bangles.\nಸುಂದರವಾದ ಮತ್ತು ದೀರ್ಘಕಾಲ ಬಾಳಿಕೆ ಬರುವ ಬಳೆಗಳನ್ನು ತಯಾರಿಸಲು ಬಯಸಿದ್ದರಿಂದ ರವಿ ಪೂರ್ಣ ಗಮನದಿಂದ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದನು.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q123",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "When did the demand for bangles increase?\nಬಳೆಗಳಿಗೆ ಬೇಡಿಕೆ ಯಾವಾಗ ಹೆಚ್ಚಾಯಿತು?",
+      "ans": "The demand increased during Diwali.\nದೀಪಾವಳಿಯ ಸಮಯದಲ್ಲಿ ಬೇಡಿಕೆ ಹೆಚ್ಚಾಯಿತು.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q124",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What did Ananya want to add to traditional designs?\nಸಾಂಪ್ರದಾಯಿಕ ವಿನ್ಯಾಸಗಳಿಗೆ ಅನನ್ಯಾ ಏನನ್ನು ಸೇರಿಸಲು ಬಯಸಿದ್ದಳು?",
+      "ans": "Ananya wanted to add modern ideas/designs to the traditional designs.\nಸಾಂಪ್ರದಾಯಿಕ ವಿನ್ಯಾಸಗಳಿಗೆ ಆಧುನಿಕ ಆಲೋಚನೆಗಳು ಮತ್ತು ವಿನ್ಯಾಸಗಳನ್ನು ಸೇರಿಸಲು ಅನನ್ಯಾ ಬಯಸಿದ್ದಳು.",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q125",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "short_answer",
+      "marks": 1,
+      "q": "What happened to the workshop after the success of the new collection?\nಹೊಸ ಸಂಗ್ರಹದ ಯಶಸ್ಸಿನ ನಂತರ ಕಾರ್ಯಾಗಾರದಲ್ಲಿ ಏನಾಯಿತು?",
+      "ans": "The success of the new collection created more work and opportunities for the workshop and local artisans.\nಹೊಸ ಸಂಗ್ರಹದ ಯಶಸ್ಸು ಕಾರ್ಯಾಗಾರಕ್ಕೆ ಮತ್ತು ಸ್ಥಳೀಯ ಕುಶಲಕರ್ಮಿಗಳಿಗೆ ಹೆಚ್ಚಿನ ಕೆಲಸ ಮತ್ತು ಅವಕಾಶಗಳನ್ನು ಸೃಷ್ಟಿಸಿತು.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q126",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Ravi's family had been making bangles for:\nರವಿಯ ಕುಟುಂಬವು ಬಳೆಗಳನ್ನು ತಯಾರಿಸುತ್ತಿದ್ದ ಕಾಲಾವಧಿ:",
+      "a": "A short time\nಸ್ವಲ್ಪ ಸಮಯದಿಂದ",
+      "b": "A very long time\nಬಹಳ ದೀರ್ಘ ಕಾಲದಿಂದ",
+      "c": "One year\nಒಂದು ವರ್ಷದಿಂದ",
+      "ans": "(B) A very long time\nಬಹಳ ದೀರ್ಘ ಕಾಲದಿಂದ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q127",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The bangles were made:\nಬಳೆಗಳನ್ನು ತಯಾರಿಸಲಾಗುತ್ತಿತ್ತು:",
+      "a": "Only in red\nಕೇವಲ ಕೆಂಪು ಬಣ್ಣದಲ್ಲಿ",
+      "b": "In many colours\nಹಲವು ಬಣ್ಣಗಳಲ್ಲಿ",
+      "c": "Only in blue\nಕೇವಲ ನೀಲಿ ಬಣ್ಣದಲ್ಲಿ",
+      "ans": "(B) In many colours\nಹಲವು ಬಣ್ಣಗಳಲ್ಲಿ",
+      "obj": "ಜ್ಞಾನ",
+      "diff": "ಸುಲಭ"
+    },
+    {
+      "id": "bangles_q128",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Ananya wanted to combine:\nಅನನ್ಯಾ ಇವುಗಳನ್ನು ಸಂಯೋಜಿಸಲು ಬಯಸಿದ್ದಳು:",
+      "a": "Old and new designs\nಹಳೆಯ ಮತ್ತು ಹೊಸ ವಿನ್ಯಾಸಗಳು",
+      "b": "Food and art\nಆಹಾರ ಮತ್ತು ಕಲೆ",
+      "c": "Glass and wood\nಗಾಜು ಮತ್ತು ಮರ",
+      "ans": "(A) Old and new designs\nಹಳೆಯ ಮತ್ತು ಹೊಸ ವಿನ್ಯಾಸಗಳು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q129",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "Ravi was initially:\nರವಿ ಆರಂಭದಲ್ಲಿ ಹೀಗಿದ್ದನು:",
+      "a": "Hesitant\nಹಿಂಜರಿಯುತ್ತಿದ್ದನು",
+      "b": "Angry\nಕೋಪಗೊಂಡಿದ್ದನು",
+      "c": "Uninterested\nಆಸಕ್ತಿಯಿಲ್ಲದವನಾಗಿದ್ದನು",
+      "ans": "(A) Hesitant\nಹಿಂಜರಿಯುತ್ತಿದ್ದನು",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q130",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "mcq",
+      "marks": 1,
+      "q": "The success of the new collection helped:\nಹೊಸ ಸಂಗ್ರಹದ ಯಶಸ್ಸು ಇವರಿಗೆ ಸಹಾಯ ಮಾಡಿತು:",
+      "a": "Only Ravi\nಕೇವಲ ರವಿಗೆ",
+      "b": "The whole community\nಇಡೀ ಸಮುದಾಯಕ್ಕೆ",
+      "c": "Only the customers\nಕೇವಲ ಗ್ರಾಹಕರಿಗೆ",
+      "ans": "(B) The whole community\nಇಡೀ ಸಮುದಾಯಕ್ಕೆ",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q131",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "Why was Ravi initially hesitant about Ananya's ideas?\nಅನನ್ಯಾಳ ಆಲೋಚನೆಗಳ ಬಗ್ಗೆ ರವಿ ಆರಂಭದಲ್ಲಿ ಏಕೆ ಹಿಂಜರಿದನು?",
+      "ans": "Ravi was initially hesitant because he was used to traditional designs and was unsure whether the new ideas would be successful.\nರವಿ ಸಾಂಪ್ರದಾಯಿಕ ವಿನ್ಯಾಸಗಳಿಗೆ ಒಗ್ಗಿಕೊಂಡಿದ್ದರಿಂದ ಮತ್ತು ಹೊಸ ಆಲೋಚನೆಗಳು ಯಶಸ್ವಿಯಾಗುತ್ತವೆಯೇ ಎಂಬ ಸಂದೇಹವಿದ್ದುದರಿಂದ ಆರಂಭದಲ್ಲಿ ಹಿಂಜರಿದನು.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q132",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "What does Ananya's interest in modern designs show about her?\nಆಧುನಿಕ ವಿನ್ಯಾಸಗಳಲ್ಲಿನ ಅನನ್ಯಾಳ ಆಸಕ್ತಿಯು ಅವಳ ಬಗ್ಗೆ ಏನನ್ನು ತೋರಿಸುತ್ತದೆ?",
+      "ans": "It shows that Ananya was creative, observant and open to new ideas.\nಅನನ್ಯಾ ಸೃಜನಶೀಲಳು, ಸೂಕ್ಷ್ಮ ಗಮನವುಳ್ಳವಳು ಮತ್ತು ಹೊಸ ಆಲೋಚನೆಗಳಿಗೆ ತೆರೆದುಕೊಂಡಿದ್ದಳು ಎಂಬುದನ್ನು ಇದು ತೋರಿಸುತ್ತದೆ.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q133",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "Why was it important to combine traditional and modern designs?\nಸಾಂಪ್ರದಾಯಿಕ ಮತ್ತು ಆಧುನಿಕ ವಿನ್ಯಾಸಗಳನ್ನು ಸಂಯೋಜಿಸುವುದು ಏಕೆ ಮುಖ್ಯವಾಗಿತ್ತು?",
+      "ans": "Combining traditional and modern designs helped preserve the beauty of the traditional craft while making it attractive to modern customers.\nಸಾಂಪ್ರದಾಯಿಕ ಮತ್ತು ಆಧುನಿಕ ವಿನ್ಯಾಸಗಳನ್ನು ಸಂಯೋಜಿಸುವುದು ಸಾಂಪ್ರದಾಯಿಕ ಕಲೆಯ ಸೌಂದರ್ಯವನ್ನು ಉಳಿಸಿಕೊಳ್ಳುವುದರ ಜೊತೆಗೆ ಆಧುನಿಕ ಗ್ರಾಹಕರನ್ನು ಆಕರ್ಷಿಸಲು ಸಹಾಯ ಮಾಡಿತು.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q134",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "How did the success of the bangles help people other than Ravi and Ananya?\nಬಳೆಗಳ ಯಶಸ್ಸು ರವಿ ಮತ್ತು ಅನನ್ಯಾಳಲ್ಲದೆ ಇತರ ಜನರಿಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಿತು?",
+      "ans": "The success created more work and employment opportunities for local artisans and people involved in packing and transportation.\nಈ ಯಶಸ್ಸು ಸ್ಥಳೀಯ ಕುಶಲಕರ್ಮಿಗಳಿಗೆ ಹಾಗೂ ಪ್ಯಾಕಿಂಗ್ ಮತ್ತು ಸಾಗಣೆ ಕೆಲಸದಲ್ಲಿ ತೊಡಗಿರುವ ಜನರಿಗೆ ಹೆಚ್ಚಿನ ಕೆಲಸ ಮತ್ತು ಉದ್ಯೋಗಾವಕಾಶಗಳನ್ನು ಸೃಷ್ಟಿಸಿತು.",
+      "obj": "ತಿಳುವಳಿಕೆ",
+      "diff": "ಸಾಧಾರಣ"
+    },
+    {
+      "id": "bangles_q135",
+      "chapter": "10. Glass Bangles (ಗಾಜಿನ ಬಳೆಗಳು)",
+      "type": "short_answer",
+      "marks": 2,
+      "q": "What does the story teach us about tradition and innovation?\nಸಂಪ್ರದಾಯ ಮತ್ತು ನಾವೀನ್ಯತೆಯ ಬಗ್ಗೆ ಈ ಕಥೆ ನಮಗೆ ಏನನ್ನು ಕಲಿಸುತ್ತದೆ?",
+      "ans": "The story teaches us that traditions can be preserved and strengthened by combining them with fresh and creative ideas.\nಸಂಪ್ರದಾಯಗಳನ್ನು ಹೊಸ ಮತ್ತು ಸೃಜನಶೀಲ ಆಲೋಚನೆಗಳೊಂದಿಗೆ ಸಂಯೋಜಿಸುವ ಮೂಲಕ ಅವುಗಳನ್ನು ಸಂರಕ್ಷಿಸಬಹುದು ಮತ್ತು ಬಲಪಡಿಸಬಹುದು ಎಂದು ಈ ಕಥೆ ಕಲಿಸುತ್ತದೆ.",
+      "obj": "ಅನ್ವಯ",
+      "diff": "ಸಾಧಾರಣ"
+    }
+  ]
+}
