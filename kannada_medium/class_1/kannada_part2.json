@@ -61,15 +61,15 @@
     ],
     "items": [
       {
-        "img": "images/class_1/mara.png",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/tree22.jpeg",
         "ans": "ಮರ"
       },
       {
-        "img": "images/class_1/chamacha.png",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/spoon1.png",
         "ans": "ಚಮಚ"
       },
       {
-        "img": "images/class_1/pata.png",
+        "img": "raw.https://github.com/withyou00/withyouqbank/main/images/kite1.png",
         "ans": "ಪಟ"
       }
     ]
@@ -89,19 +89,19 @@
     "q": "ಚಿತ್ರ ಮತ್ತು ಪದವನ್ನು ಗೆರೆ ಎಳೆದು ಹೊಂದಿಸು",
     "pairs": [
       {
-        "img": "images/class_1/hasu.png",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/cow1.jpg",
         "word": "ಹಸು"
       },
       {
-        "img": "images/class_1/mane.png",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/home22.png",
         "word": "ಮನೆ"
       },
       {
-        "img": "images/class_1/bassu.png",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/bus1.png",
         "word": "ಬಸ್ಸು"
       },
       {
-        "img": "images/class_1/hoovu.png",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/flower1.png",
         "word": "ಹೂವು"
       }
     ]
@@ -123,9 +123,9 @@
       {
         "q": "ಹಾರುವುದು ಯಾವುದು?",
         "options": [
-          "images/class_1/hasu.png",
-          "images/class_1/hakki.png",
-          "images/class_1/meenu.png"
+          "https://raw.github.com/withyou00/withyouqbank/main/images/bus1.png",
+          "https://raw.github.com/withyou00/withyouqbank/main/images/bird11.png",
+          "https://raw.github.com/withyou00/withyouqbank/main/images/eye.jpg"
         ],
         "ans": 2
       },
@@ -234,15 +234,15 @@
     ],
     "items": [
       {
-        "img": "images/class_1/aane.png",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/elephant1.jpg",
         "ans": "ಆನೆ"
       },
       {
-        "img": "images/class_1/hakki.png",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/bird11.png",
         "ans": "ಹಕ್ಕಿ"
       },
       {
-        "img": "images/class_1/meenu.png",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/fish.jpeg",
         "ans": "ಮೀನು"
       }
     ]
@@ -262,19 +262,19 @@
     "q": "ಚಿತ್ರ ಮತ್ತು ಪದವನ್ನು ಗೆರೆ ಎಳೆದು ಹೊಂದಿಸು",
     "pairs": [
       {
-        "img": "images/class_1/balehannu.png",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/banana1.jpeg",
         "word": "ಬಾಳೆಹಣ್ಣು"
       },
       {
-        "img": "images/class_1/sebu.png",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/images.jpeg",
         "word": "ಸೇಬು"
       },
       {
-        "img": "images/class_1/maavu.png",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/mango1.jpeg",
         "word": "ಮಾವು"
       },
       {
-        "img": "images/class_1/drakshi.png",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/grapes1.jpeg",
         "word": "ದ್ರಾಕ್ಷಿ"
       }
     ]
