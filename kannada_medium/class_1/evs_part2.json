@@ -14,19 +14,19 @@
     "activity": "picmatch",
     "pairs": [
       {
-        "img": "👁️",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/eye.jpg",
         "word": "ಕಣ್ಣು"
       },
       {
-        "img": "👂",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/ear.jpg",
         "word": "ಕಿವಿ"
       },
       {
-        "img": "👃",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/nose.jpg",
         "word": "ಮೂಗು"
       },
       {
-        "img": "✋",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/hand.jpg",
         "word": "ಕೈ"
       }
     ]
@@ -66,19 +66,19 @@
     ],
     "items": [
       {
-        "img": "🐄",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/cow1.jpg",
         "ans": "ಹಸು"
       },
       {
-        "img": "🐕",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/cow1.jpg",
         "ans": "ನಾಯಿ"
       },
       {
-        "img": "🐈",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/cat1.png",
         "ans": "ಬೆಕ್ಕು"
       },
       {
-        "img": "🐘",
+        "img": "https://raw.github.com/withyou00/withyouqbank/main/images/elephant1.jpg",
         "ans": "ಆನೆ"
       }
     ]
