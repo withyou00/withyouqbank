@@ -1,0 +1,2315 @@
+[
+ {
+  "id": "q_1_matbi_07_001",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many children are there in the picture? / ಈ ಚಿತ್ರದಲ್ಲಿ ಎಷ್ಟು ಮಕ್ಕಳು ಇದ್ದಾರೆ?",
+  "items": [
+   {
+    "img": "images/m1_r060_395_160_520_260.jpg",
+    "ans": "Two (2) / ಎರಡು (2)"
+   }
+  ],
+  "ans": "Two (2) / ಎರಡು (2)",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_07_002",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many members are there in Lina's family? / ಲೀನಾಳ ಕುಟುಂಬದಲ್ಲಿ ಎಷ್ಟು ಸದಸ್ಯರಿದ್ದಾರೆ?",
+  "items": [
+   {
+    "img": "images/m1_r060_395_160_520_260.jpg",
+    "ans": "Seven (7) / ಏಳು (7)"
+   }
+  ],
+  "ans": "Seven (7) / ಏಳು (7)",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_07_003",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Which one is nearest to the boy in the picture? / ಚಿತ್ರದಲ್ಲಿ ಹುಡುಗನಿಗೆ ಹತ್ತಿರವಿರುವುದು ಯಾವುದು?",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "School / ಶಾಲೆ",
+     "Bus / ಬಸ್",
+     "House / ಮನೆ"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Bus / ಬಸ್",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_07_004",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Which one is farthest from the house in the picture? / ಚಿತ್ರದಲ್ಲಿ ಮನೆಗೆ ದೂರವಿರುವುದು ಯಾವುದು?",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "School / ಶಾಲೆ",
+     "Bus / ಬಸ್",
+     "House / ಮನೆ"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. School / ಶಾಲೆ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_07_005",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the heaviest one / ಭಾರವಾದ ವಸ್ತುವಿಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r062_270_40_315_92.jpg",
+     "images/m1_r062_330_50_350_92.jpg",
+     "images/m1_r062_370_40_405_92.jpg"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. 1",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_07_006",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the lightest one / ಹಗುರವಾದ ವಸ್ತುವಿಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r062_245_215_285_255.jpg",
+     "images/m1_r062_318_212_350_255.jpg",
+     "images/m1_r062_385_215_430_255.jpg"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. 3",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_07_007",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the thickest one / ದಪ್ಪವಾದುದಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r061_265_478_300_512.jpg",
+     "images/m1_r061_325_478_360_512.jpg",
+     "images/m1_r061_385_478_418_512.jpg"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. 1",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_07_008",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the thinnest one / ತೆಳ್ಳಗಿರುವುದಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r061_262_612_300_645.jpg",
+     "images/m1_r061_322_612_362_645.jpg",
+     "images/m1_r061_378_612_422_645.jpg"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. 1",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_07_009",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "What would you choose to measure the length of a bottle? / ಬಾಟಲಿಯ ಉದ್ದ ಅಳೆಯಲು ಯಾವುದನ್ನು ಬಳಸುವೆ?",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Handspan / ಗೇಣು",
+     "Fingers / ಬೆರಳುಗಳು"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Handspan / ಗೇಣು",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_07_010",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "What would you choose to measure the length of a key? / ಕೀಲಿಕೈಯ ಉದ್ದ ಅಳೆಯಲು ಯಾವುದನ್ನು ಬಳಸುವೆ?",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Handspan / ಗೇಣು",
+     "Fingers / ಬೆರಳುಗಳು"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Fingers / ಬೆರಳುಗಳು",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_07_011",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the one which holds more water / ಹೆಚ್ಚು ನೀರು ಹಿಡಿಯುವುದಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Bucket / ಬಕೆಟ್",
+     "Tank / ಟ್ಯಾಂಕ್"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Tank / ಟ್ಯಾಂಕ್",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_07_012",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the one which holds less water / ಕಡಿಮೆ ನೀರು ಹಿಡಿಯುವುದಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Bucket / ಬಕೆಟ್",
+     "Mug / ಮಗ್"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Mug / ಮಗ್",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_07_013",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "How much water do you need to prepare 2 glasses of lemon water? / 2 ಲೋಟ ಶರಬತ್ತು ಮಾಡಲು ಎಷ್ಟು ನೀರು ಬೇಕು?",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "A jug of water / 1 ಜಗ್ ನೀರು",
+     "A bucket of water / 1 ಬಕೆಟ್ ನೀರು"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. A jug of water / 1 ಜಗ್ ನೀರು",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_07_014",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Which is easier to carry? / ಯಾವುದನ್ನು ಸುಲಭವಾಗಿ ಸಾಗಿಸಬಹುದು?",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "A jug of water / ಜಗ್",
+     "A bucket of water / ಬಕೆಟ್"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. A jug of water / ಜಗ್",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_07_015",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Which is difficult to carry? / ಯಾವುದನ್ನು ಸಾಗಿಸಲು ಕಷ್ಟ?",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "A bucket of water / ಬಕೆಟ್",
+     "A tank / ಟ್ಯಾಂಕ್"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. A tank / ಟ್ಯಾಂಕ್",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_07_016",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the shorter leaf / ಗಿಡ್ಡವಾದ ಎಲೆಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r061_255_187_285_210.jpg",
+     "images/m1_r061_300_187_340_210.jpg"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. 1",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_07_017",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the shorter broom / ಗಿಡ್ಡವಾದ ಪೊರಕೆಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r061_365_187_412_210.jpg",
+     "images/m1_r061_420_187_455_210.jpg"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. 2",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_07_018",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the longer rope / ಉದ್ದವಾದ ಹಗ್ಗಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r061_208_311_270_343.jpg",
+     "images/m1_r061_280_315_322_343.jpg"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. 1",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_07_019",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the longer stick / ಉದ್ದವಾದ ಕೋಲಿಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r061_358_310_398_343.jpg",
+     "images/m1_r061_425_315_456_343.jpg"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. 1",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_07_020",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the longest pencil / ಅತಿ ಉದ್ದವಾದ ಪೆನ್ಸಿಲ್‌ಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r065_165_140_200_235.jpg",
+     "images/m1_r065_210_140_262_235.jpg",
+     "images/m1_r065_275_150_300_235.jpg"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. 2",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_07_021",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಲೀನಾಳ ಕುಟುಂಬ - ಅಳತೆ (Lina's Family - Measurement)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the lighter object / ಹಗುರವಾದ ವಸ್ತುವಿಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r065_185_520_245_600.jpg",
+     "images/m1_r065_270_570_300_600.jpg"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "images/m1_r065_365_515_435_600.jpg",
+     "images/m1_r065_450_555_495_600.jpg"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Lemon / ನಿಂಬೆಹಣ್ಣು\n2. Cup / ಕಪ್",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_08_001",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಮೋಜು - ಸಂಖ್ಯೆ 21 ರಿಂದ 99 (Fun with Numbers)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count the sticks and write the number / ಕಡ್ಡಿಗಳನ್ನು ಎಣಿಸಿ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r067_100_208_215_285.jpg",
+    "ans": "53"
+   },
+   {
+    "img": "images/m1_r067_100_292_215_370.jpg",
+    "ans": "54"
+   },
+   {
+    "img": "images/m1_r067_370_208_495_285.jpg",
+    "ans": "56"
+   },
+   {
+    "img": "images/m1_r067_370_292_495_370.jpg",
+    "ans": "57"
+   }
+  ],
+  "ans": "1. 53\n2. 54\n3. 56\n4. 57",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_08_002",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಮೋಜು - ಸಂಖ್ಯೆ 21 ರಿಂದ 99 (Fun with Numbers)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count the beads and write the numbers in the empty boxes / ಮಣಿಗಳನ್ನು ಎಣಿಸಿ ಖಾಲಿ ಬಾಕ್ಸ್‌ಗಳಲ್ಲಿ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r067_150_450_520_552.jpg",
+    "ans": "10, 20, 30, 40"
+   }
+  ],
+  "ans": "10, 20, 30, 40",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_08_003",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಮೋಜು - ಸಂಖ್ಯೆ 21 ರಿಂದ 99 (Fun with Numbers)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count and write the number / ಎಣಿಸಿ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r069_122_607_488_670.jpg",
+    "ans": "45"
+   },
+   {
+    "img": "images/m1_r069_122_676_488_738.jpg",
+    "ans": "47"
+   }
+  ],
+  "ans": "1. 45\n2. 47",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_08_004",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಮೋಜು - ಸಂಖ್ಯೆ 21 ರಿಂದ 99 (Fun with Numbers)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count and write the number / ಎಣಿಸಿ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r069_122_742_488_808.jpg",
+    "ans": "32"
+   }
+  ],
+  "ans": "32",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_08_005",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಮೋಜು - ಸಂಖ್ಯೆ 21 ರಿಂದ 99 (Fun with Numbers)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many people are there in the picture? / ಚಿತ್ರದಲ್ಲಿರುವ ಮನುಷ್ಯರ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
+  "items": [
+   {
+    "img": "images/m1_r068_230_92_450_282.jpg",
+    "ans": "17"
+   }
+  ],
+  "ans": "17",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_08_006",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಮೋಜು - ಸಂಖ್ಯೆ 21 ರಿಂದ 99 (Fun with Numbers)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many birds are there in the picture? / ಚಿತ್ರದಲ್ಲಿರುವ ಪಕ್ಷಿಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
+  "items": [
+   {
+    "img": "images/m1_r068_230_92_450_282.jpg",
+    "ans": "2"
+   }
+  ],
+  "ans": "2",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_08_007",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಮೋಜು - ಸಂಖ್ಯೆ 21 ರಿಂದ 99 (Fun with Numbers)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Count and match with the number / ಎಣಿಸಿ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+  "pairs": [
+   {
+    "img": "images/m1_r070_215_90_310_137.jpg",
+    "word": "44"
+   },
+   {
+    "img": "images/m1_r070_215_140_310_193.jpg",
+    "word": "33"
+   },
+   {
+    "img": "images/m1_r070_215_195_310_245.jpg",
+    "word": "43"
+   },
+   {
+    "img": "images/m1_r070_215_248_310_300.jpg",
+    "word": "25"
+   }
+  ],
+  "ans": "(1) → 44 | (2) → 33 | (3) → 43 | (4) → 25",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_08_008",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಮೋಜು - ಸಂಖ್ಯೆ 21 ರಿಂದ 99 (Fun with Numbers)",
+  "type": "vsa_1m",
+  "q": "Write the missing numbers / ಬಿಟ್ಟು ಹೋದ ಸಂಖ್ಯೆಗಳನ್ನು ಬರೆಯಿರಿ\n1. 61, ____, ____, ____, 65, ____, ____, ____, ____, 70 ?\n2. 41, 42, ____, 44, ____, ____, 47, ____, ____, 50 ?\n3. 51, ____, ____, ____, 55, ____, ____, ____, 59, ____ ?\n4. ____, ____, 63, ____, ____, 66, ____, 68, ____, ____ ?\n5. 21, ____, ____, ____, ____, ____, ____, ____, 29, 30 ?",
+  "ans": "1. 62, 63, 64, 66, 67, 68, 69\n2. 43, 45, 46, 48, 49\n3. 52, 53, 54, 56, 57, 58, 60\n4. 61, 62, 64, 65, 67, 69, 70\n5. 22, 23, 24, 25, 26, 27, 28",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_08_009",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಮೋಜು - ಸಂಖ್ಯೆ 21 ರಿಂದ 99 (Fun with Numbers)",
+  "type": "vsa_1m",
+  "q": "Write the missing numbers / ಬಿಟ್ಟು ಹೋದ ಸಂಖ್ಯೆಗಳನ್ನು ಬರೆಯಿರಿ\n1. 11, ____, 13, ____, 15, ____, 17, ____, 19, 20 ?\n2. 31, ____, 33, ____, 35, ____, 37, ____, 39, 40 ?\n3. 71, ____, 73, ____, 75, ____, 77, ____, 79, 80 ?\n4. 81, ____, 83, ____, 85, ____, 87, 88, ____, 90 ?\n5. 91, ____, 93, ____, 95, ____, 97, ____, 99, 100 ?",
+  "ans": "1. 12, 14, 16, 18\n2. 32, 34, 36, 38\n3. 72, 74, 76, 78\n4. 82, 84, 86, 89\n5. 92, 94, 96, 98",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_08_010",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಮೋಜು - ಸಂಖ್ಯೆ 21 ರಿಂದ 99 (Fun with Numbers)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks (tens and ones) / ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ (ಹತ್ತುಗಳು ಮತ್ತು ಬಿಡಿಗಳು)\n1. 68 = ____ tens ____ ones / 68 = ____ ಹತ್ತುಗಳು ____ ಬಿಡಿಗಳು ?\n2. 79 = ____ tens ____ ones / 79 = ____ ಹತ್ತುಗಳು ____ ಬಿಡಿಗಳು ?\n3. 50 = ____ tens ____ ones / 50 = ____ ಹತ್ತುಗಳು ____ ಬಿಡಿಗಳು ?\n4. 44 = ____ tens ____ ones / 44 = ____ ಹತ್ತುಗಳು ____ ಬಿಡಿಗಳು ?",
+  "ans": "1. 6 tens 8 ones / 6 ಹತ್ತುಗಳು 8 ಬಿಡಿಗಳು\n2. 7 tens 9 ones / 7 ಹತ್ತುಗಳು 9 ಬಿಡಿಗಳು\n3. 5 tens 0 ones / 5 ಹತ್ತುಗಳು 0 ಬಿಡಿಗಳು\n4. 4 tens 4 ones / 4 ಹತ್ತುಗಳು 4 ಬಿಡಿಗಳು",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_08_011",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಮೋಜು - ಸಂಖ್ಯೆ 21 ರಿಂದ 99 (Fun with Numbers)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks / ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. 7 tens and 2 ones make ____ / 7 ಹತ್ತುಗಳು ಮತ್ತು 2 ಬಿಡಿಗಳು ಸೇರಿ ____ ?\n2. 3 tens and 9 ones make ____ / 3 ಹತ್ತುಗಳು ಮತ್ತು 9 ಬಿಡಿಗಳು ಸೇರಿ ____ ?\n3. 5 tens and 6 ones make ____ / 5 ಹತ್ತುಗಳು ಮತ್ತು 6 ಬಿಡಿಗಳು ಸೇರಿ ____ ?",
+  "ans": "1. 72\n2. 39\n3. 56",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_08_012",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ಮೋಜು - ಸಂಖ್ಯೆ 21 ರಿಂದ 99 (Fun with Numbers)",
+  "type": "vsa_1m",
+  "q": "Write in tens / ಹತ್ತುಗಳನ್ನು ಬರೆಯಿರಿ\n1. 10, ____, ____, ____, ____, ____, ____, ____, ____, 100 ?\n2. 100, 90, ____, ____, ____, ____, ____, ____, 20, ____ ?",
+  "ans": "1. 20, 30, 40, 50, 60, 70, 80, 90\n2. 80, 70, 60, 50, 40, 30, 10",
+  "marks": 2,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_09_001",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಉತ್ಸವ - ವಿನ್ಯಾಸಗಳು (Utsav - Patterns)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Study the pattern and fill in the missing numbers / ಸರಣಿಯಲ್ಲಿ ಬಿಟ್ಟು ಹೋದ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r073_148_190_555_272.jpg",
+    "ans": "6, 8, 14"
+   },
+   {
+    "img": "images/m1_r073_148_288_555_375.jpg",
+    "ans": "50, 60"
+   }
+  ],
+  "ans": "1. 6, 8, 14\n2. 50, 60",
+  "marks": 2,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_09_002",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಉತ್ಸವ - ವಿನ್ಯಾಸಗಳು (Utsav - Patterns)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Study the pattern and fill in the missing numbers / ಸರಣಿಯಲ್ಲಿ ಬಿಟ್ಟು ಹೋದ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r073_148_393_555_462.jpg",
+    "ans": "8, 6"
+   },
+   {
+    "img": "images/m1_r075_100_598_452_642.jpg",
+    "ans": "44, 55, 77"
+   }
+  ],
+  "ans": "1. 8, 6\n2. 44, 55, 77",
+  "marks": 2,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_09_003",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಉತ್ಸವ - ವಿನ್ಯಾಸಗಳು (Utsav - Patterns)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Study the pattern and fill in the missing numbers / ಸರಣಿಯಲ್ಲಿ ಬಿಟ್ಟು ಹೋದ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r075_100_648_452_706.jpg",
+    "ans": "14, 17, 20"
+   },
+   {
+    "img": "images/m1_r074_120_612_422_656.jpg",
+    "ans": "9, 11"
+   }
+  ],
+  "ans": "1. 14, 17, 20\n2. 9, 11",
+  "marks": 2,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_09_004",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಉತ್ಸವ - ವಿನ್ಯಾಸಗಳು (Utsav - Patterns)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Study the pattern and fill in the missing numbers / ಸರಣಿಯಲ್ಲಿ ಬಿಟ್ಟು ಹೋದ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r074_110_660_422_716.jpg",
+    "ans": "40, 60"
+   },
+   {
+    "img": "images/m1_r074_150_722_422_788.jpg",
+    "ans": "19, 18"
+   }
+  ],
+  "ans": "1. 40, 60\n2. 19, 18",
+  "marks": 2,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_09_005",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಉತ್ಸವ - ವಿನ್ಯಾಸಗಳು (Utsav - Patterns)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "What comes next? Draw / ಮುಂದೆ ಯಾವುದು ಬರುತ್ತದೆ? ಚಿತ್ರ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r073_132_540_545_626.jpg",
+    "ans": "Circle, sun, circle / ವೃತ್ತ, ಸೂರ್ಯ, ವೃತ್ತ"
+   },
+   {
+    "img": "images/m1_r073_132_630_545_714.jpg",
+    "ans": "Arch, cup, arch / ಕಮಾನು, ಬಟ್ಟಲು, ಕಮಾನು"
+   }
+  ],
+  "ans": "1. Circle, sun, circle / ವೃತ್ತ, ಸೂರ್ಯ, ವೃತ್ತ\n2. Arch, cup, arch / ಕಮಾನು, ಬಟ್ಟಲು, ಕಮಾನು",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_09_006",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಉತ್ಸವ - ವಿನ್ಯಾಸಗಳು (Utsav - Patterns)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "What comes next? Draw / ಮುಂದೆ ಯಾವುದು ಬರುತ್ತದೆ? ಚಿತ್ರ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r073_132_718_545_802.jpg",
+    "ans": "Drop, hanging drop, drop / ಹನಿ, ತಲೆಕೆಳಗಾದ ಹನಿ, ಹನಿ"
+   }
+  ],
+  "ans": "Drop, hanging drop, drop / ಹನಿ, ತಲೆಕೆಳಗಾದ ಹನಿ, ಹನಿ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_09_007",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಉತ್ಸವ - ವಿನ್ಯಾಸಗಳು (Utsav - Patterns)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Draw the missing picture in the pattern / ವಿನ್ಯಾಸದಲ್ಲಿ ಬಿಟ್ಟಿರುವ ಚಿತ್ರ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r074_122_100_500_160.jpg",
+    "ans": "Rectangle, Triangle / ಆಯತ, ತ್ರಿಭುಜ"
+   }
+  ],
+  "ans": "Rectangle, Triangle / ಆಯತ, ತ್ರಿಭುಜ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_09_008",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಉತ್ಸವ - ವಿನ್ಯಾಸಗಳು (Utsav - Patterns)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Draw the missing picture in the pattern / ವಿನ್ಯಾಸದಲ್ಲಿ ಬಿಟ್ಟಿರುವ ಚಿತ್ರ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r074_122_182_500_242.jpg",
+    "ans": "4 circles, 6 circles / 4 ವೃತ್ತಗಳು, 6 ವೃತ್ತಗಳು"
+   }
+  ],
+  "ans": "4 circles, 6 circles / 4 ವೃತ್ತಗಳು, 6 ವೃತ್ತಗಳು",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_09_009",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಉತ್ಸವ - ವಿನ್ಯಾಸಗಳು (Utsav - Patterns)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Draw the missing picture in the pattern / ವಿನ್ಯಾಸದಲ್ಲಿ ಬಿಟ್ಟಿರುವ ಚಿತ್ರ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r074_122_266_490_326.jpg",
+    "ans": "4 candles with 4 arrows, 5 candles with 5 arrows / 4 ಮೇಣದಬತ್ತಿ-4 ಬಾಣ, 5 ಮೇಣದಬತ್ತಿ-5 ಬಾಣ"
+   }
+  ],
+  "ans": "4 candles with 4 arrows, 5 candles with 5 arrows / 4 ಮೇಣದಬತ್ತಿ-4 ಬಾಣ, 5 ಮೇಣದಬತ್ತಿ-5 ಬಾಣ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_09_010",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಉತ್ಸವ - ವಿನ್ಯಾಸಗಳು (Utsav - Patterns)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Extend the pattern by colouring / ಬಣ್ಣ ಹಚ್ಚಿ ವಿನ್ಯಾಸ ಮುಂದುವರಿಸಿ",
+  "items": [
+   {
+    "img": "images/m1_r074_118_435_462_480.jpg",
+    "ans": "Blue, Red, Blue / ನೀಲಿ, ಕೆಂಪು, ನೀಲಿ"
+   }
+  ],
+  "ans": "Blue, Red, Blue / ನೀಲಿ, ಕೆಂಪು, ನೀಲಿ",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_09_011",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಉತ್ಸವ - ವಿನ್ಯಾಸಗಳು (Utsav - Patterns)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Extend the pattern by colouring / ಬಣ್ಣ ಹಚ್ಚಿ ವಿನ್ಯಾಸ ಮುಂದುವರಿಸಿ",
+  "items": [
+   {
+    "img": "images/m1_r074_118_492_462_540.jpg",
+    "ans": "Green square, Yellow triangle, Green square / ಹಸಿರು ಚೌಕ, ಹಳದಿ ತ್ರಿಭುಜ, ಹಸಿರು ಚೌಕ"
+   }
+  ],
+  "ans": "Green square, Yellow triangle, Green square / ಹಸಿರು ಚೌಕ, ಹಳದಿ ತ್ರಿಭುಜ, ಹಸಿರು ಚೌಕ",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_09_012",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಉತ್ಸವ - ವಿನ್ಯಾಸಗಳು (Utsav - Patterns)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Extend the pattern by colouring / ಬಣ್ಣ ಹಚ್ಚಿ ವಿನ್ಯಾಸ ಮುಂದುವರಿಸಿ",
+  "items": [
+   {
+    "img": "images/m1_r075_140_106_445_150.jpg",
+    "ans": "Red, Green, Red, Green / ಕೆಂಪು, ಹಸಿರು, ಕೆಂಪು, ಹಸಿರು"
+   }
+  ],
+  "ans": "Red, Green, Red, Green / ಕೆಂಪು, ಹಸಿರು, ಕೆಂಪು, ಹಸಿರು",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_09_013",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಉತ್ಸವ - ವಿನ್ಯಾಸಗಳು (Utsav - Patterns)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Extend the pattern by colouring / ಬಣ್ಣ ಹಚ್ಚಿ ವಿನ್ಯಾಸ ಮುಂದುವರಿಸಿ",
+  "items": [
+   {
+    "img": "images/m1_r075_140_153_445_196.jpg",
+    "ans": "Red, Yellow, Red / ಕೆಂಪು, ಹಳದಿ, ಕೆಂಪು"
+   }
+  ],
+  "ans": "Red, Yellow, Red / ಕೆಂಪು, ಹಳದಿ, ಕೆಂಪು",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_09_014",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಉತ್ಸವ - ವಿನ್ಯಾಸಗಳು (Utsav - Patterns)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Extend the pattern by colouring / ಬಣ್ಣ ಹಚ್ಚಿ ವಿನ್ಯಾಸ ಮುಂದುವರಿಸಿ",
+  "items": [
+   {
+    "img": "images/m1_r075_140_197_445_240.jpg",
+    "ans": "Blue, Orange, Blue, Orange, Blue / ನೀಲಿ, ಕಿತ್ತಳೆ, ನೀಲಿ, ಕಿತ್ತಳೆ, ನೀಲಿ"
+   }
+  ],
+  "ans": "Blue, Orange, Blue, Orange, Blue / ನೀಲಿ, ಕಿತ್ತಳೆ, ನೀಲಿ, ಕಿತ್ತಳೆ, ನೀಲಿ",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_09_015",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಉತ್ಸವ - ವಿನ್ಯಾಸಗಳು (Utsav - Patterns)",
+  "type": "vsa_1m",
+  "q": "Study the pattern and fill in the missing numbers / ಸರಣಿಯಲ್ಲಿ ಬಿಟ್ಟು ಹೋದ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ\n1. 1, 3, ____, 7, ____, 11, ____, ____, 17 ?\n2. 22, 21, ____, 19, ____, ____, 16, ____, ____ ?\n3. 2, 4, ____, 8, ____, 12, ____ ?\n4. 5, 10, ____, 20, ____, 30 ?",
+  "ans": "1. 5, 9, 13, 15\n2. 20, 18, 17, 15, 14\n3. 6, 10, 14\n4. 15, 25",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_10_001",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ನಾನು ನನ್ನ ದಿನವನ್ನು ಹೇಗೆ ಕಳೆಯುವೆ? - ಸಮಯ (How do I Spend my Day?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the picture which shows night / ರಾತ್ರಿಯನ್ನು ತೋರಿಸುವ ಚಿತ್ರಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r077_170_337_268_392.jpg",
+     "images/m1_r077_170_398_270_452.jpg"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. 2",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_10_002",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ನಾನು ನನ್ನ ದಿನವನ್ನು ಹೇಗೆ ಕಳೆಯುವೆ? - ಸಮಯ (How do I Spend my Day?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the picture which shows a hot afternoon / ಬಿಸಿಲಿನ ಮಧ್ಯಾಹ್ನವನ್ನು ತೋರಿಸುವ ಚಿತ್ರಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r077_170_337_268_392.jpg",
+     "images/m1_r077_170_398_270_452.jpg"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. 1",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_10_003",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ನಾನು ನನ್ನ ದಿನವನ್ನು ಹೇಗೆ ಕಳೆಯುವೆ? - ಸಮಯ (How do I Spend my Day?)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the seasons with the pictures / ಋತುಗಳನ್ನು ಚಿತ್ರಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+  "pairs": [
+   {
+    "img": "images/m1_r077_140_525_216_580.jpg",
+    "word": "Summer / ಬೇಸಿಗೆಕಾಲ"
+   },
+   {
+    "img": "images/m1_r077_140_583_218_640.jpg",
+    "word": "Spring / ವಸಂತಕಾಲ"
+   },
+   {
+    "img": "images/m1_r077_140_643_218_700.jpg",
+    "word": "Monsoon / ಮಳೆಗಾಲ"
+   },
+   {
+    "img": "images/m1_r077_140_703_218_760.jpg",
+    "word": "Winter / ಚಳಿಗಾಲ"
+   }
+  ],
+  "ans": "(1) → Summer / ಬೇಸಿಗೆಕಾಲ | (2) → Spring / ವಸಂತಕಾಲ | (3) → Monsoon / ಮಳೆಗಾಲ | (4) → Winter / ಚಳಿಗಾಲ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_10_004",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ನಾನು ನನ್ನ ದಿನವನ್ನು ಹೇಗೆ ಕಳೆಯುವೆ? - ಸಮಯ (How do I Spend my Day?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "We wear a sweater in / ಸ್ವೆಟರನ್ನು ಧರಿಸುವುದು",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Summer / ಬೇಸಿಗೆಕಾಲ",
+     "Winter / ಚಳಿಗಾಲ"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Winter / ಚಳಿಗಾಲ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_10_005",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ನಾನು ನನ್ನ ದಿನವನ್ನು ಹೇಗೆ ಕಳೆಯುವೆ? - ಸಮಯ (How do I Spend my Day?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "We drink cold drinks in / ತಂಪು ಪಾನೀಯ ಕುಡಿಯುವುದು",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Winter / ಚಳಿಗಾಲ",
+     "Summer / ಬೇಸಿಗೆಕಾಲ"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Summer / ಬೇಸಿಗೆಕಾಲ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_10_006",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ನಾನು ನನ್ನ ದಿನವನ್ನು ಹೇಗೆ ಕಳೆಯುವೆ? - ಸಮಯ (How do I Spend my Day?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "We use an umbrella in / ಕೊಡೆ (ಛತ್ರಿ) ಬಳಸುವುದು",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Monsoon / ಮಳೆಗಾಲ",
+     "Spring / ವಸಂತಕಾಲ"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Monsoon / ಮಳೆಗಾಲ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_10_007",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ನಾನು ನನ್ನ ದಿನವನ್ನು ಹೇಗೆ ಕಳೆಯುವೆ? - ಸಮಯ (How do I Spend my Day?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "In this time of the day, we brush our teeth / ನಾವು ದಿನದ ಈ ಸಮಯದಲ್ಲಿ ಹಲ್ಲು ಉಜ್ಜುತ್ತೇವೆ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Morning / ಬೆಳಿಗ್ಗೆ",
+     "Afternoon / ಮಧ್ಯಾಹ್ನ",
+     "Evening / ಸಂಜೆ",
+     "Night / ರಾತ್ರಿ"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Morning / ಬೆಳಿಗ್ಗೆ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_10_008",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ನಾನು ನನ್ನ ದಿನವನ್ನು ಹೇಗೆ ಕಳೆಯುವೆ? - ಸಮಯ (How do I Spend my Day?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Pihu does this activity in the afternoon / ಪಿಹು ಮಧ್ಯಾಹ್ನ ಮಾಡುವ ಚಟುವಟಿಕೆ ಇದು",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Play / ಆಟ",
+     "Yoga / ಯೋಗ",
+     "Eat lunch / ಊಟ",
+     "Sleep / ನಿದ್ದೆ"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. Eat lunch / ಊಟ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_10_009",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ನಾನು ನನ್ನ ದಿನವನ್ನು ಹೇಗೆ ಕಳೆಯುವೆ? - ಸಮಯ (How do I Spend my Day?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "This season is associated with eating ice cream / ಈ ಕಾಲದಲ್ಲಿ ಐಸ್ ಕ್ರೀಮ್ ತಿನ್ನುತ್ತೇವೆ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Spring / ವಸಂತಕಾಲ",
+     "Winter / ಚಳಿಗಾಲ",
+     "Monsoon / ಮಳೆಗಾಲ",
+     "Summer / ಬೇಸಿಗೆಕಾಲ"
+    ],
+    "ans": 4
+   }
+  ],
+  "ans": "1. Summer / ಬೇಸಿಗೆಕಾಲ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_10_010",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ನಾನು ನನ್ನ ದಿನವನ್ನು ಹೇಗೆ ಕಳೆಯುವೆ? - ಸಮಯ (How do I Spend my Day?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "This activity takes a longer time / ಈ ಚಟುವಟಿಕೆ ಹೆಚ್ಚು ಸಮಯ ಹಿಡಿಯುತ್ತದೆ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Brushing teeth / ಹಲ್ಲುಜ್ಜುವುದು",
+     "Bathing / ಸ್ನಾನ ಮಾಡುವುದು",
+     "Hand wash / ಕೈ ತೊಳೆಯುವುದು",
+     "Drinking water / ನೀರು ಕುಡಿಯುವುದು"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Bathing / ಸ್ನಾನ ಮಾಡುವುದು",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_10_011",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ನಾನು ನನ್ನ ದಿನವನ್ನು ಹೇಗೆ ಕಳೆಯುವೆ? - ಸಮಯ (How do I Spend my Day?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Pihu does this before going to sleep / ಪಿಹು ಮಲಗುವ ಮುನ್ನ ಈ ಕೆಲಸ ಮಾಡುತ್ತಾಳೆ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Study / ವ್ಯಾಸಂಗ",
+     "Walk / ನಡಿಗೆ",
+     "Play / ಆಟ",
+     "Dinner / ರಾತ್ರಿ ಊಟ"
+    ],
+    "ans": 4
+   }
+  ],
+  "ans": "1. Dinner / ರಾತ್ರಿ ಊಟ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_10_012",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ನಾನು ನನ್ನ ದಿನವನ್ನು ಹೇಗೆ ಕಳೆಯುವೆ? - ಸಮಯ (How do I Spend my Day?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "This season is associated with rain and umbrella / ಮಳೆ ಮತ್ತು ಕೊಡೆ ಈ ಕಾಲಕ್ಕೆ ಸಂಬಂಧಿಸಿವೆ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Spring / ವಸಂತಕಾಲ",
+     "Winter / ಚಳಿಗಾಲ",
+     "Monsoon / ಮಳೆಗಾಲ",
+     "Summer / ಬೇಸಿಗೆಕಾಲ"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. Monsoon / ಮಳೆಗಾಲ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_10_013",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ನಾನು ನನ್ನ ದಿನವನ್ನು ಹೇಗೆ ಕಳೆಯುವೆ? - ಸಮಯ (How do I Spend my Day?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "This is eaten in the morning / ಬೆಳಿಗ್ಗೆ ಇದನ್ನು ತಿನ್ನುವರು",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Dinner / ರಾತ್ರಿ ಊಟ",
+     "Lunch / ಮಧ್ಯಾಹ್ನದ ಊಟ",
+     "Snacks / ಸ್ನ್ಯಾಕ್ಸ್",
+     "Breakfast / ಉಪಾಹಾರ (ತಿಂಡಿ)"
+    ],
+    "ans": 4
+   }
+  ],
+  "ans": "1. Breakfast / ಉಪಾಹಾರ (ತಿಂಡಿ)",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_10_014",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ನಾನು ನನ್ನ ದಿನವನ್ನು ಹೇಗೆ ಕಳೆಯುವೆ? - ಸಮಯ (How do I Spend my Day?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "In this season people wear warm clothes / ಬೆಚ್ಚಗಿನ ಉಡುಪು ಧರಿಸುವ ಋತು ಇದು",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Spring / ವಸಂತಕಾಲ",
+     "Winter / ಚಳಿಗಾಲ",
+     "Monsoon / ಮಳೆಗಾಲ",
+     "Summer / ಬೇಸಿಗೆಕಾಲ"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Winter / ಚಳಿಗಾಲ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_10_015",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ನಾನು ನನ್ನ ದಿನವನ್ನು ಹೇಗೆ ಕಳೆಯುವೆ? - ಸಮಯ (How do I Spend my Day?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the activity that takes longer time / ಹೆಚ್ಚು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುವ ಚಟುವಟಿಕೆಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r080_105_715_232_793.jpg",
+     "images/m1_r080_245_715_382_792.jpg"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "images/m1_r081_100_56_272_137.jpg",
+     "images/m1_r081_330_58_442_140.jpg"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Cooking / ಅಡುಗೆ ಮಾಡುವುದು\n2. Filling a tank / ಟ್ಯಾಂಕ್ ತುಂಬುವುದು",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_10_016",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ನಾನು ನನ್ನ ದಿನವನ್ನು ಹೇಗೆ ಕಳೆಯುವೆ? - ಸಮಯ (How do I Spend my Day?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the activity that you do at night / ರಾತ್ರಿಯಲ್ಲಿ ನೀವು ಮಾಡುವ ಚಟುವಟಿಕೆಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r081_100_512_197_576.jpg",
+     "images/m1_r081_225_503_345_578.jpg",
+     "images/m1_r081_350_498_442_576.jpg"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. Sleeping / ನಿದ್ದೆ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_10_017",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ನಾನು ನನ್ನ ದಿನವನ್ನು ಹೇಗೆ ಕಳೆಯುವೆ? - ಸಮಯ (How do I Spend my Day?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the activity that you do during the day / ಹಗಲಿನಲ್ಲಿ ನೀವು ಮಾಡುವ ಚಟುವಟಿಕೆಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r081_115_648_232_716.jpg",
+     "images/m1_r081_495_648_618_716.jpg"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Skipping / ಹಗ್ಗದಾಟ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_11_001",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ಎಷ್ಟು ಸಲ? - ಗುಣಾಕಾರ (How Many Times?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "5 + 5 + 5 + 5 = ____ toffees; ____ times 5 = 20 / 5 + 5 + 5 + 5 = ____ ಚಾಕಲೇಟ್‌ಗಳು; ____ ಸಲ 5 = 20",
+  "items": [
+   {
+    "img": "images/m1_r083_140_203_600_262.jpg",
+    "ans": "20; 4 times 5 = 20 / 4 ಸಲ 5 = 20"
+   }
+  ],
+  "ans": "20; 4 times 5 = 20 / 4 ಸಲ 5 = 20",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_11_002",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ಎಷ್ಟು ಸಲ? - ಗುಣಾಕಾರ (How Many Times?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "8 + 8 + 8 = ____ marbles; 3 times 8 = ____ / 8 + 8 + 8 = ____ ಗೋಲಿಗಳು; 3 ಸಲ 8 = ____",
+  "items": [
+   {
+    "img": "images/m1_r083_140_352_600_412.jpg",
+    "ans": "24; 3 times 8 = 24 / 3 ಸಲ 8 = 24"
+   }
+  ],
+  "ans": "24; 3 times 8 = 24 / 3 ಸಲ 8 = 24",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_11_003",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ಎಷ್ಟು ಸಲ? - ಗುಣಾಕಾರ (How Many Times?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "4 + 4 = ____ sweets; 2 times 4 = ____ / 4 + 4 = ____ ಸಿಹಿ ತಿಂಡಿಗಳು; 2 ಸಲ 4 = ____",
+  "items": [
+   {
+    "img": "images/m1_r083_140_488_560_552.jpg",
+    "ans": "8; 2 times 4 = 8 / 2 ಸಲ 4 = 8"
+   }
+  ],
+  "ans": "8; 2 times 4 = 8 / 2 ಸಲ 4 = 8",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_11_004",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ಎಷ್ಟು ಸಲ? - ಗುಣಾಕಾರ (How Many Times?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "2 + 2 + 2 + 2 + 2 = ____ socks; 5 times 2 = ____ / 2 + 2 + 2 + 2 + 2 = ____ ಸಾಕ್ಸ್‌ಗಳು; 5 ಸಲ 2 = ____",
+  "items": [
+   {
+    "img": "images/m1_r083_128_652_602_716.jpg",
+    "ans": "10; 5 times 2 = 10 / 5 ಸಲ 2 = 10"
+   }
+  ],
+  "ans": "10; 5 times 2 = 10 / 5 ಸಲ 2 = 10",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_11_005",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ಎಷ್ಟು ಸಲ? - ಗುಣಾಕಾರ (How Many Times?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "3 + 3 + 3 = ____ erasers; 3 times 3 = ____ / 3 + 3 + 3 = ____ ರಬ್ಬರ್‌ಗಳು; 3 ಸಲ 3 = ____",
+  "items": [
+   {
+    "img": "images/m1_r084_122_42_572_82.jpg",
+    "ans": "9; 3 times 3 = 9 / 3 ಸಲ 3 = 9"
+   }
+  ],
+  "ans": "9; 3 times 3 = 9 / 3 ಸಲ 3 = 9",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_11_006",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ಎಷ್ಟು ಸಲ? - ಗುಣಾಕಾರ (How Many Times?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "2 + 2 + 2 + 2 = ____ pencils; 4 times 2 = ____ / 2 + 2 + 2 + 2 = ____ ಪೆನ್ಸಿಲ್‌ಗಳು; 4 ಸಲ 2 = ____",
+  "items": [
+   {
+    "img": "images/m1_r084_122_152_572_226.jpg",
+    "ans": "8; 4 times 2 = 8 / 4 ಸಲ 2 = 8"
+   }
+  ],
+  "ans": "8; 4 times 2 = 8 / 4 ಸಲ 2 = 8",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_11_007",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ಎಷ್ಟು ಸಲ? - ಗುಣಾಕಾರ (How Many Times?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Look at the picture: 5 × 2 = ____ / ಚಿತ್ರ ನೋಡಿ ತುಂಬಿರಿ: 5 × 2 = ____",
+  "items": [
+   {
+    "img": "images/m1_r084_120_362_330_402.jpg",
+    "ans": "10"
+   }
+  ],
+  "ans": "10",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_11_008",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ಎಷ್ಟು ಸಲ? - ಗುಣಾಕಾರ (How Many Times?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Look at the picture: 3 × 2 = ____ / ಚಿತ್ರ ನೋಡಿ ತುಂಬಿರಿ: 3 × 2 = ____",
+  "items": [
+   {
+    "img": "images/m1_r084_120_412_340_465.jpg",
+    "ans": "6"
+   }
+  ],
+  "ans": "6",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_11_009",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ಎಷ್ಟು ಸಲ? - ಗುಣಾಕಾರ (How Many Times?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Look at the picture: 3 × 4 = ____ / ಚಿತ್ರ ನೋಡಿ ತುಂಬಿರಿ: 3 × 4 = ____",
+  "items": [
+   {
+    "img": "images/m1_r084_120_476_340_530.jpg",
+    "ans": "12"
+   }
+  ],
+  "ans": "12",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_11_010",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ಎಷ್ಟು ಸಲ? - ಗುಣಾಕಾರ (How Many Times?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Look at the picture: 4 × 2 = ____ / ಚಿತ್ರ ನೋಡಿ ತುಂಬಿರಿ: 4 × 2 = ____",
+  "items": [
+   {
+    "img": "images/m1_r084_120_540_340_594.jpg",
+    "ans": "8"
+   }
+  ],
+  "ans": "8",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_11_011",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ಎಷ್ಟು ಸಲ? - ಗುಣಾಕಾರ (How Many Times?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "True or False / ಸರಿ ಅಥವಾ ತಪ್ಪು",
+  "rows": [
+   {
+    "q": "5 × 5 = 25",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "3 × 6 = 9",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "1 × 7 = 17",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "2 × 2 = 4",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True / ಸರಿ\n2. False / ತಪ್ಪು\n3. False / ತಪ್ಪು\n4. True / ಸರಿ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_11_012",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ಎಷ್ಟು ಸಲ? - ಗುಣಾಕಾರ (How Many Times?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "True or False / ಸರಿ ಅಥವಾ ತಪ್ಪು",
+  "rows": [
+   {
+    "q": "4 × 3 = 12",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "2 × 5 = 8",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "6 × 1 = 7",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "3 × 2 = 6",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True / ಸರಿ\n2. False / ತಪ್ಪು\n3. False / ತಪ್ಪು\n4. True / ಸರಿ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_11_013",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ಎಷ್ಟು ಸಲ? - ಗುಣಾಕಾರ (How Many Times?)",
+  "type": "vsa_1m",
+  "q": "Answer as in the example: 2 + 2 + 2 + 2 = 4 times 2 = 8 / ಮಾದರಿಯಂತೆ ಉತ್ತರಿಸಿ: 2 + 2 + 2 + 2 = 4 ಸಲ 2 = 8\n1. 1 + 1 + 1 = ____ times 1 = ____ / 1 + 1 + 1 = ____ ಸಲ 1 = ____ ?\n2. 3 + 3 + 3 + 3 + 3 = ____ times ____ = ____ / 3 + 3 + 3 + 3 + 3 = ____ ಸಲ ____ = ____ ?\n3. 5 + 5 = ____ times ____ = ____ / 5 + 5 = ____ ಸಲ ____ = ____ ?\n4. 4 + 4 + 4 = ____ times ____ = ____ / 4 + 4 + 4 = ____ ಸಲ ____ = ____ ?",
+  "ans": "1. 3 times 1 = 3 / 3 ಸಲ 1 = 3\n2. 5 times 3 = 15 / 5 ಸಲ 3 = 15\n3. 2 times 5 = 10 / 2 ಸಲ 5 = 10\n4. 3 times 4 = 12 / 3 ಸಲ 4 = 12",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_11_014",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ಎಷ್ಟು ಸಲ? - ಗುಣಾಕಾರ (How Many Times?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write the number in each box; ____ times 3 = ____ / ಪ್ರತಿ ಬಾಕ್ಸ್‌ನಲ್ಲಿ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ; ____ ಸಲ 3 = ____",
+  "items": [
+   {
+    "img": "images/m1_r085_128_418_460_512.jpg",
+    "ans": "3, 3, 3; 3 times 3 = 9 / 3 ಸಲ 3 = 9"
+   }
+  ],
+  "ans": "3, 3, 3; 3 times 3 = 9 / 3 ಸಲ 3 = 9",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_11_015",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ಎಷ್ಟು ಸಲ? - ಗುಣಾಕಾರ (How Many Times?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write the number in each box; ____ times ____ = ____ / ಪ್ರತಿ ಬಾಕ್ಸ್‌ನಲ್ಲಿ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ; ____ ಸಲ ____ = ____",
+  "items": [
+   {
+    "img": "images/m1_r085_128_522_460_648.jpg",
+    "ans": "3, 3, 3, 3, 3; 5 times 3 = 15 / 5 ಸಲ 3 = 15"
+   },
+   {
+    "img": "images/m1_r085_138_652_445_758.jpg",
+    "ans": "5, 5; 2 times 5 = 10 / 2 ಸಲ 5 = 10"
+   }
+  ],
+  "ans": "1. 3, 3, 3, 3, 3; 5 times 3 = 15 / 5 ಸಲ 3 = 15\n2. 5, 5; 2 times 5 = 10 / 2 ಸಲ 5 = 10",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_12_001",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. ನಾವು ಎಷ್ಟು ಖರ್ಚು ಮಾಡುತ್ತೇವೆ? - ಹಣ (How Much Can We Spend?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "The apple costs ₹2. ____ coins of ₹1 / ಸೇಬಿನ ಬೆಲೆ ₹2. ₹1 ರ ____ ನಾಣ್ಯಗಳು",
+  "items": [
+   {
+    "img": "images/m1_r089_172_96_298_140.jpg",
+    "ans": "2"
+   }
+  ],
+  "ans": "2",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_12_002",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. ನಾವು ಎಷ್ಟು ಖರ್ಚು ಮಾಡುತ್ತೇವೆ? - ಹಣ (How Much Can We Spend?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "The ball costs ₹5. ____ coin of ₹5 / ಚೆಂಡಿನ ಬೆಲೆ ₹5. ₹5 ರ ____ ನಾಣ್ಯ",
+  "items": [
+   {
+    "img": "images/m1_r089_172_152_298_196.jpg",
+    "ans": "1"
+   }
+  ],
+  "ans": "1",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_12_003",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. ನಾವು ಎಷ್ಟು ಖರ್ಚು ಮಾಡುತ್ತೇವೆ? - ಹಣ (How Much Can We Spend?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "The lollipop costs ₹4. ____ coins of ₹2 / ಲಾಲಿಪಾಪ್ ಬೆಲೆ ₹4. ₹2 ರ ____ ನಾಣ್ಯಗಳು",
+  "items": [
+   {
+    "img": "images/m1_r089_172_205_298_250.jpg",
+    "ans": "2"
+   }
+  ],
+  "ans": "2",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_12_004",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. ನಾವು ಎಷ್ಟು ಖರ್ಚು ಮಾಡುತ್ತೇವೆ? - ಹಣ (How Much Can We Spend?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "The crayons cost ₹15. ____ coins of ₹5 / ಬಣ್ಣದ ಪೆನ್ಸಿಲ್‌ಗಳ ಬೆಲೆ ₹15. ₹5 ರ ____ ನಾಣ್ಯಗಳು",
+  "items": [
+   {
+    "img": "images/m1_r089_172_260_298_306.jpg",
+    "ans": "3"
+   }
+  ],
+  "ans": "3",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_12_005",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. ನಾವು ಎಷ್ಟು ಖರ್ಚು ಮಾಡುತ್ತೇವೆ? - ಹಣ (How Much Can We Spend?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Add and write the total amount / ಕೂಡಿಸಿ ಒಟ್ಟು ಮೊತ್ತ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r089_145_388_460_430.jpg",
+    "ans": "₹25"
+   }
+  ],
+  "ans": "₹25",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_12_006",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. ನಾವು ಎಷ್ಟು ಖರ್ಚು ಮಾಡುತ್ತೇವೆ? - ಹಣ (How Much Can We Spend?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Add and write the total amount / ಕೂಡಿಸಿ ಒಟ್ಟು ಮೊತ್ತ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r089_145_443_460_486.jpg",
+    "ans": "₹38"
+   }
+  ],
+  "ans": "₹38",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_12_007",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. ನಾವು ಎಷ್ಟು ಖರ್ಚು ಮಾಡುತ್ತೇವೆ? - ಹಣ (How Much Can We Spend?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Add and write the total amount / ಕೂಡಿಸಿ ಒಟ್ಟು ಮೊತ್ತ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r089_145_495_460_537.jpg",
+    "ans": "₹44"
+   }
+  ],
+  "ans": "₹44",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_12_008",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. ನಾವು ಎಷ್ಟು ಖರ್ಚು ಮಾಡುತ್ತೇವೆ? - ಹಣ (How Much Can We Spend?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Look at these coins and notes, and write their value below / ನಾಣ್ಯ ಮತ್ತು ನೋಟುಗಳ ಬೆಲೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r089_48_640_622_797.jpg",
+    "ans": "Coins: ₹1, ₹2, ₹5, ₹10; Notes: ₹10, ₹20, ₹50, ₹100 / ನಾಣ್ಯಗಳು: ₹1, ₹2, ₹5, ₹10; ನೋಟುಗಳು: ₹10, ₹20, ₹50, ₹100"
+   }
+  ],
+  "ans": "Coins: ₹1, ₹2, ₹5, ₹10; Notes: ₹10, ₹20, ₹50, ₹100 / ನಾಣ್ಯಗಳು: ₹1, ₹2, ₹5, ₹10; ನೋಟುಗಳು: ₹10, ₹20, ₹50, ₹100",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_12_009",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. ನಾವು ಎಷ್ಟು ಖರ್ಚು ಮಾಡುತ್ತೇವೆ? - ಹಣ (How Much Can We Spend?)",
+  "type": "vsa_1m",
+  "q": "One ball costs ₹20. Answer the following / ಒಂದು ಚೆಂಡಿನ ಬೆಲೆ ₹20. ಉತ್ತರಿಸಿ\n1. Riya gives ____ coins of ₹5 for the ball / ರಿಯಾ ಚೆಂಡಿಗೆ ₹5 ರ ____ ನಾಣ್ಯಗಳನ್ನು ನೀಡುತ್ತಾಳೆ ?\n2. Sahil gives ____ notes of ₹10 for the ball / ಸಾಹಿಲ್ ಚೆಂಡಿಗೆ ₹10 ರ ____ ನೋಟುಗಳನ್ನು ನೀಡುತ್ತಾನೆ ?\n3. With ₹40 you can buy ____ balls / ₹40 ಕ್ಕೆ ____ ಚೆಂಡುಗಳನ್ನು ಕೊಳ್ಳಬಹುದು ?",
+  "ans": "1. 4\n2. 2\n3. 2",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_12_010",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. ನಾವು ಎಷ್ಟು ಖರ್ಚು ಮಾಡುತ್ತೇವೆ? - ಹಣ (How Much Can We Spend?)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. A toy car costs ₹14. Riya has ₹10. How much more money does she need? / ಆಟಿಕೆ ಕಾರಿನ ಬೆಲೆ ₹14. ರಿಯಾಳ ಬಳಿ ₹10 ಇದೆ. ಆಕೆಗೆ ಇನ್ನೂ ಎಷ್ಟು ಹಣ ಬೇಕು?\n2. Riya and Sahil together have ₹30. Write the notes and coins that make ₹30 / ರಿಯಾ ಮತ್ತು ಸಾಹಿಲ್ ಬಳಿ ಒಟ್ಟಿಗೆ ₹30 ಇದೆ. ₹30 ಆಗುವ ನೋಟು ಮತ್ತು ನಾಣ್ಯಗಳನ್ನು ಬರೆಯಿರಿ",
+  "ans": "1. ₹4 (14 − 10 = 4)\n2. ₹10 + ₹10 + ₹5 + ₹5 (or) ₹20 + ₹10",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_12_011",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. ನಾವು ಎಷ್ಟು ಖರ್ಚು ಮಾಡುತ್ತೇವೆ? - ಹಣ (How Much Can We Spend?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Find the total amount and tick the correct number / ಒಟ್ಟು ಮೊತ್ತ ಕಂಡುಹಿಡಿದು ಸರಿಯಾದ ಸಂಖ್ಯೆಗೆ ಗುರುತು ಹಾಕಿ",
+  "items": [
+   {
+    "img": "images/m1_r090_150_598_530_662.jpg",
+    "ans": "7"
+   },
+   {
+    "img": "images/m1_r090_150_664_530_726.jpg",
+    "ans": "13"
+   }
+  ],
+  "ans": "1. 7\n2. 13",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_12_012",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. ನಾವು ಎಷ್ಟು ಖರ್ಚು ಮಾಡುತ್ತೇವೆ? - ಹಣ (How Much Can We Spend?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Find the total amount and tick the correct number / ಒಟ್ಟು ಮೊತ್ತ ಕಂಡುಹಿಡಿದು ಸರಿಯಾದ ಸಂಖ್ಯೆಗೆ ಗುರುತು ಹಾಕಿ",
+  "items": [
+   {
+    "img": "images/m1_r090_150_728_530_792.jpg",
+    "ans": "17"
+   }
+  ],
+  "ans": "17",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_13_001",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. ಎಷ್ಟೊಂದು ಆಟಿಕೆಗಳು - ದತ್ತಾಂಶ ನಿರ್ವಹಣೆ (How Many Toys?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count the toys in the shop and write the numbers in the boxes / ಅಂಗಡಿಯಲ್ಲಿರುವ ಆಟಿಕೆಗಳನ್ನು ಎಣಿಸಿ ಬಾಕ್ಸ್‌ನಲ್ಲಿ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r092_52_242_625_500.jpg",
+    "ans": "Balls 6, Teddy bears 3, Tiger 1, Rabbits 5, Drums 3, Trains 2 / ಚೆಂಡು 6, ಕರಡಿ 3, ಹುಲಿ 1, ಮೊಲ 5, ಡೋಲು 3, ರೈಲು 2"
+   }
+  ],
+  "ans": "Balls 6, Teddy bears 3, Tiger 1, Rabbits 5, Drums 3, Trains 2 / ಚೆಂಡು 6, ಕರಡಿ 3, ಹುಲಿ 1, ಮೊಲ 5, ಡೋಲು 3, ರೈಲು 2",
+  "marks": 3,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_13_002",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. ಎಷ್ಟೊಂದು ಆಟಿಕೆಗಳು - ದತ್ತಾಂಶ ನಿರ್ವಹಣೆ (How Many Toys?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write the least and the most number / ಕನಿಷ್ಠ ಮತ್ತು ಗರಿಷ್ಠ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r093_180_96_526_137.jpg",
+    "ans": "Least 2, Most 8 / ಕನಿಷ್ಠ 2, ಗರಿಷ್ಠ 8"
+   }
+  ],
+  "ans": "Least 2, Most 8 / ಕನಿಷ್ಠ 2, ಗರಿಷ್ಠ 8",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_13_003",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. ಎಷ್ಟೊಂದು ಆಟಿಕೆಗಳು - ದತ್ತಾಂಶ ನಿರ್ವಹಣೆ (How Many Toys?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write the least and the most number / ಕನಿಷ್ಠ ಮತ್ತು ಗರಿಷ್ಠ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r093_180_178_526_220.jpg",
+    "ans": "Least 1, Most 9 / ಕನಿಷ್ಠ 1, ಗರಿಷ್ಠ 9"
+   }
+  ],
+  "ans": "Least 1, Most 9 / ಕನಿಷ್ಠ 1, ಗರಿಷ್ಠ 9",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_13_004",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. ಎಷ್ಟೊಂದು ಆಟಿಕೆಗಳು - ದತ್ತಾಂಶ ನಿರ್ವಹಣೆ (How Many Toys?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write the least and the most number / ಕನಿಷ್ಠ ಮತ್ತು ಗರಿಷ್ಠ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r093_180_260_526_302.jpg",
+    "ans": "Least 3, Most 7 / ಕನಿಷ್ಠ 3, ಗರಿಷ್ಠ 7"
+   }
+  ],
+  "ans": "Least 3, Most 7 / ಕನಿಷ್ಠ 3, ಗರಿಷ್ಠ 7",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_13_005",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. ಎಷ್ಟೊಂದು ಆಟಿಕೆಗಳು - ದತ್ತಾಂಶ ನಿರ್ವಹಣೆ (How Many Toys?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write the least and the most number / ಕನಿಷ್ಠ ಮತ್ತು ಗರಿಷ್ಠ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r093_180_343_526_387.jpg",
+    "ans": "Least 4, Most 12 / ಕನಿಷ್ಠ 4, ಗರಿಷ್ಠ 12"
+   }
+  ],
+  "ans": "Least 4, Most 12 / ಕನಿಷ್ಠ 4, ಗರಿಷ್ಠ 12",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_13_006",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. ಎಷ್ಟೊಂದು ಆಟಿಕೆಗಳು - ದತ್ತಾಂಶ ನಿರ್ವಹಣೆ (How Many Toys?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count the toys in the cupboard: Dolls ___, Balls ___, Cars ___, Teddy bears ___, Cats ___ / ಕಪಾಟಿನ ಆಟಿಕೆ ಎಣಿಸಿ: ಗೊಂಬೆ ___, ಚೆಂಡು ___, ಕಾರು ___, ಟೆಡ್ಡಿ ___, ಬೆಕ್ಕು ___",
+  "items": [
+   {
+    "img": "images/m1_r093_150_498_537_790.jpg",
+    "ans": "Dolls 6, Balls 4, Cars 2, Teddy bears 1, Cats 2 / ಗೊಂಬೆ 6, ಚೆಂಡು 4, ಕಾರು 2, ಟೆಡ್ಡಿ 1, ಬೆಕ್ಕು 2"
+   }
+  ],
+  "ans": "Dolls 6, Balls 4, Cars 2, Teddy bears 1, Cats 2 / ಗೊಂಬೆ 6, ಚೆಂಡು 4, ಕಾರು 2, ಟೆಡ್ಡಿ 1, ಬೆಕ್ಕು 2",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_13_007",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. ಎಷ್ಟೊಂದು ಆಟಿಕೆಗಳು - ದತ್ತಾಂಶ ನಿರ್ವಹಣೆ (How Many Toys?)",
+  "type": "vsa_1m",
+  "q": "Use the cupboard picture above. Write more / less / equal to / ಮೇಲಿನ ಕಪಾಟಿನ ಚಿತ್ರ ನೋಡಿ ಹೆಚ್ಚು / ಕಡಿಮೆ / ಸಮ ಬರೆಯಿರಿ\n1. Number of balls is ____ than cars / ಚೆಂಡುಗಳ ಸಂಖ್ಯೆ ಕಾರುಗಳಿಗಿಂತ ____ (Missing word? / ಬಿಟ್ಟ ಪದ ಯಾವುದು?)\n2. Number of balls is ____ than dolls / ಚೆಂಡುಗಳ ಸಂಖ್ಯೆ ಗೊಂಬೆಗಳಿಗಿಂತ ____ (Missing word? / ಬಿಟ್ಟ ಪದ ಯಾವುದು?)\n3. Number of cars is ____ the number of cats / ಕಾರುಗಳ ಸಂಖ್ಯೆ ಬೆಕ್ಕುಗಳ ಸಂಖ್ಯೆಗೆ ____ (Missing word? / ಬಿಟ್ಟ ಪದ ಯಾವುದು?)\n4. Number of teddy bears is ____ than dolls / ಟೆಡ್ಡಿಗಳ ಸಂಖ್ಯೆ ಗೊಂಬೆಗಳಿಗಿಂತ ____ (Missing word? / ಬಿಟ್ಟ ಪದ ಯಾವುದು?)\n5. Number of cats is ____ than dolls / ಬೆಕ್ಕುಗಳ ಸಂಖ್ಯೆ ಗೊಂಬೆಗಳಿಗಿಂತ ____ (Missing word? / ಬಿಟ್ಟ ಪದ ಯಾವುದು?)",
+  "ans": "1. more / ಹೆಚ್ಚು\n2. less / ಕಡಿಮೆ\n3. equal to / ಸಮ\n4. less / ಕಡಿಮೆ\n5. less / ಕಡಿಮೆ",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ }
+]
