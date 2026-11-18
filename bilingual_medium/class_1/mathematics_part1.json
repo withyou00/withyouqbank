@@ -1,0 +1,1866 @@
+[
+ {
+  "id": "q_1_matbi_01_001",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ತುಪ್ಪಳದ ಬೆಕ್ಕನ್ನು ಹುಡುಕುವುದು (Finding the Furry Cat)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Tick the things which are inside / ಒಳಗೆ ಇರುವ ಚಿತ್ರಕ್ಕೆ ಸರಿ ಗುರುತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r016_122_215_210_295.jpg",
+     "images/m1_r016_400_232_525_294.jpg"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "images/m1_r016_100_322_235_402.jpg",
+     "images/m1_r016_397_318_490_402.jpg"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. A\n2. B",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_01_002",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ತುಪ್ಪಳದ ಬೆಕ್ಕನ್ನು ಹುಡುಕುವುದು (Finding the Furry Cat)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Tick the things which are outside / ಹೊರಗೆ ಇರುವ ಚಿತ್ರಕ್ಕೆ ಸರಿ ಗುರುತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r016_117_490_235_562.jpg",
+     "images/m1_r016_402_465_470_557.jpg"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "images/m1_r016_117_578_238_652.jpg",
+     "images/m1_r016_402_582_525_652.jpg"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. A\n2. B",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_01_003",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ತುಪ್ಪಳದ ಬೆಕ್ಕನ್ನು ಹುಡುಕುವುದು (Finding the Furry Cat)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "The flower pot is ____ the stool. (on / under) / ಹೂ ಕುಂಡವು ಸ್ಟೂಲ್‌ನ ____ ಇದೆ. (ಮೇಲೆ / ಕೆಳಗೆ)",
+  "items": [
+   {
+    "img": "images/m1_r016_45_712_98_802.jpg",
+    "ans": "on / ಮೇಲೆ"
+   }
+  ],
+  "ans": "on / ಮೇಲೆ",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_01_004",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ತುಪ್ಪಳದ ಬೆಕ್ಕನ್ನು ಹುಡುಕುವುದು (Finding the Furry Cat)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "The cat is ____ the table. (on / under) / ಬೆಕ್ಕು ಮೇಜಿನ ____ ಇದೆ. (ಮೇಲೆ / ಕೆಳಗೆ)",
+  "items": [
+   {
+    "img": "images/m1_r016_357_715_430_782.jpg",
+    "ans": "under / ಕೆಳಗೆ"
+   }
+  ],
+  "ans": "under / ಕೆಳಗೆ",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_01_005",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ತುಪ್ಪಳದ ಬೆಕ್ಕನ್ನು ಹುಡುಕುವುದು (Finding the Furry Cat)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "The aeroplane is ____ the cloud. (above / below) / ವಿಮಾನವು ಮೋಡಕ್ಕಿಂತ ____ ಇದೆ. (ಮೇಲೆ / ಕೆಳಗೆ)",
+  "items": [
+   {
+    "img": "images/m1_r017_70_522_162_585.jpg",
+    "ans": "above / ಮೇಲೆ"
+   },
+   {
+    "img": "images/m1_r017_128_748_205_792.jpg",
+    "ans": "below / ಕೆಳಗೆ"
+   }
+  ],
+  "ans": "1. above / ಮೇಲೆ\n2. below / ಕೆಳಗೆ",
+  "marks": 2,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_01_006",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ತುಪ್ಪಳದ ಬೆಕ್ಕನ್ನು ಹುಡುಕುವುದು (Finding the Furry Cat)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Look at the national flag and choose the correct answer / ರಾಷ್ಟ್ರಧ್ವಜ ಗಮನಿಸಿ ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "The colour at the top / ಮೇಲಿರುವ ಬಣ್ಣ",
+    "options": [
+     "White / ಬಿಳಿ",
+     "Saffron / ಕೇಸರಿ",
+     "Green / ಹಸಿರು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The colour below the white colour / ಬಿಳಿ ಬಣ್ಣದ ಕೆಳಗಿರುವ ಬಣ್ಣ",
+    "options": [
+     "Red / ಕೆಂಪು",
+     "Saffron / ಕೇಸರಿ",
+     "Green / ಹಸಿರು"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "The colour above the green colour / ಹಸಿರು ಬಣ್ಣದ ಮೇಲಿರುವ ಬಣ್ಣ",
+    "options": [
+     "White / ಬಿಳಿ",
+     "Saffron / ಕೇಸರಿ",
+     "Yellow / ಹಳದಿ"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The Ashoka chakra is placed / ಅಶೋಕ ಚಕ್ರವು",
+    "options": [
+     "on a corner / ಮೂಲೆಯಲ್ಲಿದೆ",
+     "in the middle / ಮಧ್ಯದಲ್ಲಿದೆ",
+     "on a side / ಬದಿಯಲ್ಲಿದೆ"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Saffron / ಕೇಸರಿ\n2. Green / ಹಸಿರು\n3. White / ಬಿಳಿ\n4. in the middle / ಮಧ್ಯದಲ್ಲಿದೆ",
+  "marks": 4,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_01_007",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ತುಪ್ಪಳದ ಬೆಕ್ಕನ್ನು ಹುಡುಕುವುದು (Finding the Furry Cat)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Look at the train (blue engine, yellow, green, orange, violet bogies) and choose the answer / ರೈಲು ಗಮನಿಸಿ (ನೀಲಿ ಎಂಜಿನ್, ಹಳದಿ, ಹಸಿರು, ಕಿತ್ತಳೆ, ನೇರಳೆ ಬೋಗಿಗಳು) ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "The colour of the bogie before the green bogie / ಹಸಿರು ಬೋಗಿಯ ಮೊದಲಿರುವ ಬೋಗಿಯ ಬಣ್ಣ",
+    "options": [
+     "Blue / ನೀಲಿ",
+     "Orange / ಕಿತ್ತಳೆ",
+     "Yellow / ಹಳದಿ"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "The colour of the bogie after the orange bogie / ಕಿತ್ತಳೆ ಬೋಗಿಯ ನಂತರದ ಬೋಗಿಯ ಬಣ್ಣ",
+    "options": [
+     "Violet / ನೇರಳೆ",
+     "Yellow / ಹಳದಿ",
+     "Green / ಹಸಿರು"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The colour of the bogie after the engine / ಎಂಜಿನ್ ನಂತರದ ಬೋಗಿಯ ಬಣ್ಣ",
+    "options": [
+     "Blue / ನೀಲಿ",
+     "Yellow / ಹಳದಿ",
+     "Green / ಹಸಿರು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The colour of the bogie before the violet bogie / ನೇರಳೆ ಬೋಗಿಯ ಮೊದಲಿರುವ ಬೋಗಿಯ ಬಣ್ಣ",
+    "options": [
+     "Orange / ಕಿತ್ತಳೆ",
+     "Yellow / ಹಳದಿ",
+     "Green / ಹಸಿರು"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Yellow / ಹಳದಿ\n2. Violet / ನೇರಳೆ\n3. Yellow / ಹಳದಿ\n4. Orange / ಕಿತ್ತಳೆ",
+  "marks": 4,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_01_008",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ತುಪ್ಪಳದ ಬೆಕ್ಕನ್ನು ಹುಡುಕುವುದು (Finding the Furry Cat)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the picture in which the apple is outside / ಬುಟ್ಟಿಯ ಹೊರಗೆ ಸೇಬು ಇರುವ ಚಿತ್ರಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r019_278_712_326_762.jpg",
+     "images/m1_r019_338_712_398_762.jpg"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. B",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_01_009",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ತುಪ್ಪಳದ ಬೆಕ್ಕನ್ನು ಹುಡುಕುವುದು (Finding the Furry Cat)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the picture in which the ant is inside the box / ಇರುವೆ ಪೆಟ್ಟಿಗೆಯ ಒಳಗೆ ಇರುವ ಚಿತ್ರಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r020_267_38_328_92.jpg",
+     "images/m1_r020_333_38_410_92.jpg"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. A",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_01_010",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ತುಪ್ಪಳದ ಬೆಕ್ಕನ್ನು ಹುಡುಕುವುದು (Finding the Furry Cat)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Look at the picture: Inside or Outside? / ಚಿತ್ರ ನೋಡಿ: ಒಳಗೆ ಅಥವಾ ಹೊರಗೆ?",
+  "items": [
+   {
+    "img": "images/m1_r020_219_158_335_250.jpg",
+    "ans": "Inside / ಒಳಗೆ"
+   },
+   {
+    "img": "images/m1_r020_347_158_463_250.jpg",
+    "ans": "Inside / ಒಳಗೆ"
+   },
+   {
+    "img": "images/m1_r020_219_254_335_347.jpg",
+    "ans": "Outside / ಹೊರಗೆ"
+   },
+   {
+    "img": "images/m1_r020_347_254_463_347.jpg",
+    "ans": "Outside / ಹೊರಗೆ"
+   }
+  ],
+  "ans": "1. Inside / ಒಳಗೆ\n2. Inside / ಒಳಗೆ\n3. Outside / ಹೊರಗೆ\n4. Outside / ಹೊರಗೆ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_01_011",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ತುಪ್ಪಳದ ಬೆಕ್ಕನ್ನು ಹುಡುಕುವುದು (Finding the Furry Cat)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "The red ball is ____ the bed. (above / under / on) / ಕೆಂಪು ಚೆಂಡು ಹಾಸಿಗೆಯ ____ ಇದೆ. (ಮೇಲ್ಭಾಗದಲ್ಲಿ / ಕೆಳಗೆ / ಮೇಲೆ)",
+  "items": [
+   {
+    "img": "images/m1_r020_205_465_470_614.jpg",
+    "ans": "under / ಕೆಳಗೆ"
+   }
+  ],
+  "ans": "under / ಕೆಳಗೆ",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_01_012",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ತುಪ್ಪಳದ ಬೆಕ್ಕನ್ನು ಹುಡುಕುವುದು (Finding the Furry Cat)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "The cat is ____ the car. (inside / above / on) / ಬೆಕ್ಕು ಕಾರಿನ ____ ಇದೆ. (ಒಳಗೆ / ಹೊರಗೆ / ಮೇಲೆ)",
+  "items": [
+   {
+    "img": "images/m1_r020_205_695_470_808.jpg",
+    "ans": "on / ಮೇಲೆ"
+   }
+  ],
+  "ans": "on / ಮೇಲೆ",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_01_013",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ತುಪ್ಪಳದ ಬೆಕ್ಕನ್ನು ಹುಡುಕುವುದು (Finding the Furry Cat)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "The man is lying ____ the tree. (under / inside / on) / ಒಬ್ಬ ಮನುಷ್ಯ ಮರದ ____ ಇದ್ದಾನೆ. (ಕೆಳಗೆ / ಒಳಗೆ / ಮೇಲೆ)",
+  "items": [
+   {
+    "img": "images/m1_r021_236_115_442_268.jpg",
+    "ans": "under / ಕೆಳಗೆ"
+   }
+  ],
+  "ans": "under / ಕೆಳಗೆ",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_01_014",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ತುಪ್ಪಳದ ಬೆಕ್ಕನ್ನು ಹುಡುಕುವುದು (Finding the Furry Cat)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "The cow is ____ the house. (inside / top of / outside) / ಹಸು ಮನೆಯ ____ ಇದೆ. (ಒಳಗೆ / ಮೇಲೆ / ಹೊರಗೆ)",
+  "items": [
+   {
+    "img": "images/m1_r021_212_350_467_550.jpg",
+    "ans": "outside / ಹೊರಗೆ"
+   }
+  ],
+  "ans": "outside / ಹೊರಗೆ",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_01_015",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ತುಪ್ಪಳದ ಬೆಕ್ಕನ್ನು ಹುಡುಕುವುದು (Finding the Furry Cat)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "A boy is sitting ____ the tree. (on / under) / ಬಾಲಕ ಮರದ ____ ಕುಳಿತಿದ್ದಾನೆ. (ಮೇಲೆ / ಕೆಳಗೆ)",
+  "items": [
+   {
+    "img": "images/m1_r022_212_210_460_485.jpg",
+    "ans": "under / ಕೆಳಗೆ"
+   }
+  ],
+  "ans": "under / ಕೆಳಗೆ",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_01_016",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ತುಪ್ಪಳದ ಬೆಕ್ಕನ್ನು ಹುಡುಕುವುದು (Finding the Furry Cat)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Birds are ____ the tree. (on / under) / ಹಕ್ಕಿಗಳು ಮರದ ____ ಇವೆ. (ಮೇಲೆ / ಕೆಳಗೆ)",
+  "items": [
+   {
+    "img": "images/m1_r022_212_210_460_485.jpg",
+    "ans": "on / ಮೇಲೆ"
+   }
+  ],
+  "ans": "on / ಮೇಲೆ",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_01_017",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ತುಪ್ಪಳದ ಬೆಕ್ಕನ್ನು ಹುಡುಕುವುದು (Finding the Furry Cat)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many bogies are there after the engine? / ಇಂಜಿನ್ ನಂತರ ಎಷ್ಟು ಬೋಗಿಗಳಿವೆ?",
+  "items": [
+   {
+    "img": "images/m1_r023_205_92_447_258.jpg",
+    "ans": "5"
+   }
+  ],
+  "ans": "5",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_02_001",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ಯಾವುದು ಉದ್ದ? ಯಾವುದು ದುಂಡು? (What is Long? What is Round?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write the shape of the object (cylinder, cube, cone, circle, cuboid, square) / ವಸ್ತುವಿನ ಆಕಾರ ಬರೆಯಿರಿ (ಸಿಲಿಂಡರ್, ಘನ, ಶಂಕು, ವೃತ್ತ, ಆಯತಘನ, ಚೌಕ)",
+  "items": [
+   {
+    "img": "images/m1_r025_375_238_430_281.jpg",
+    "ans": "Circle / ವೃತ್ತ"
+   },
+   {
+    "img": "images/m1_r025_375_288_440_332.jpg",
+    "ans": "Cuboid / ಆಯತಘನ"
+   },
+   {
+    "img": "images/m1_r025_383_333_425_384.jpg",
+    "ans": "Cylinder / ಸಿಲಿಂಡರ್"
+   }
+  ],
+  "ans": "1. Circle / ವೃತ್ತ\n2. Cuboid / ಆಯತಘನ\n3. Cylinder / ಸಿಲಿಂಡರ್",
+  "marks": 3,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_02_002",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ಯಾವುದು ಉದ್ದ? ಯಾವುದು ದುಂಡು? (What is Long? What is Round?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write the shape of the object (cylinder, cube, cone, circle, cuboid, square) / ವಸ್ತುವಿನ ಆಕಾರ ಬರೆಯಿರಿ (ಸಿಲಿಂಡರ್, ಘನ, ಶಂಕು, ವೃತ್ತ, ಆಯತಘನ, ಚೌಕ)",
+  "items": [
+   {
+    "img": "images/m1_r025_375_384_442_440.jpg",
+    "ans": "Square / ಚೌಕ"
+   },
+   {
+    "img": "images/m1_r025_382_437_438_487.jpg",
+    "ans": "Cube / ಘನ"
+   },
+   {
+    "img": "images/m1_r025_393_487_430_542.jpg",
+    "ans": "Cone / ಶಂಕು"
+   }
+  ],
+  "ans": "1. Square / ಚೌಕ\n2. Cube / ಘನ\n3. Cone / ಶಂಕು",
+  "marks": 3,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_02_003",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ಯಾವುದು ಉದ್ದ? ಯಾವುದು ದುಂಡು? (What is Long? What is Round?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the object which is round (circle shape) / ವೃತ್ತಾಕಾರದ ವಸ್ತುವಿಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r025_48_603_152_676.jpg",
+     "images/m1_r025_182_603_243_676.jpg",
+     "images/m1_r025_262_603_372_676.jpg"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "images/m1_r025_382_603_462_676.jpg",
+     "images/m1_r025_487_603_557_676.jpg",
+     "images/m1_r025_577_603_642_676.jpg"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Ball\n2. Wheel",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_02_004",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ಯಾವುದು ಉದ್ದ? ಯಾವುದು ದುಂಡು? (What is Long? What is Round?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the object which is triangle shaped / ತ್ರಿಭುಜಾಕಾರದ ವಸ್ತುವಿಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r026_50_38_127_112.jpg",
+     "images/m1_r026_163_38_231_112.jpg"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "images/m1_r026_270_38_349_112.jpg",
+     "images/m1_r026_365_38_434_112.jpg"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "images/m1_r026_460_38_524_112.jpg",
+     "images/m1_r026_550_38_624_112.jpg"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Sign\n2. Triangle\n3. Pizza",
+  "marks": 3,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_02_005",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ಯಾವುದು ಉದ್ದ? ಯಾವುದು ದುಂಡು? (What is Long? What is Round?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the object which can slide / ಜಾರುವ ವಸ್ತುವಿಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r026_200_275_249_308.jpg",
+     "images/m1_r026_285_260_346_342.jpg",
+     "images/m1_r026_400_252_440_320.jpg"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Cube",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_02_006",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ಯಾವುದು ಉದ್ದ? ಯಾವುದು ದುಂಡು? (What is Long? What is Round?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the object which can roll / ಉರುಳುವ ವಸ್ತುವಿಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r026_160_467_214_532.jpg",
+     "images/m1_r026_285_432_372_532.jpg"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Ball",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_02_007",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ಯಾವುದು ಉದ್ದ? ಯಾವುದು ದುಂಡು? (What is Long? What is Round?)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the objects which are similar in shape / ಆಕಾರದಲ್ಲಿ ಒಂದೇ ರೀತಿಯ ವಸ್ತುಗಳನ್ನು ಹೊಂದಿಸಿ",
+  "pairs": [
+   {
+    "img": "images/m1_r027_158_103_222_157.jpg",
+    "word": "Candle / ಮೇಣದಬತ್ತಿ"
+   },
+   {
+    "img": "images/m1_r027_170_158_202_187.jpg",
+    "word": "Ball / ಚೆಂಡು"
+   },
+   {
+    "img": "images/m1_r027_158_188_222_242.jpg",
+    "word": "Gift box / ಉಡುಗೊರೆ ಪೆಟ್ಟಿಗೆ"
+   },
+   {
+    "img": "images/m1_r027_163_252_212_282.jpg",
+    "word": "Saucer / ತಟ್ಟೆ"
+   },
+   {
+    "img": "images/m1_r027_163_283_202_332.jpg",
+    "word": "Paper cone / ಕಾಗದದ ಶಂಕು"
+   }
+  ],
+  "ans": "(1) → Candle / ಮೇಣದಬತ್ತಿ | (2) → Ball / ಚೆಂಡು | (3) → Gift box / ಉಡುಗೊರೆ ಪೆಟ್ಟಿಗೆ | (4) → Saucer / ತಟ್ಟೆ | (5) → Paper cone / ಕಾಗದದ ಶಂಕು",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_02_008",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ಯಾವುದು ಉದ್ದ? ಯಾವುದು ದುಂಡು? (What is Long? What is Round?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the shape which is similar to the ball / ಚೆಂಡಿಗೆ ಸಮರೂಪವಾಗಿರುವ ಆಕೃತಿಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r027_252_597_302_645.jpg",
+     "images/m1_r027_328_588_360_645.jpg",
+     "images/m1_r027_383_603_437_645.jpg",
+     "images/m1_r027_458_598_492_645.jpg"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Watermelon",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_02_009",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ಯಾವುದು ಉದ್ದ? ಯಾವುದು ದುಂಡು? (What is Long? What is Round?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the shape which is similar to a glass / ಲೋಟಕ್ಕೆ ಸಮರೂಪವಾಗಿರುವ ಆಕೃತಿಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r027_248_762_272_792.jpg",
+     "images/m1_r027_303_752_327_789.jpg",
+     "images/m1_r027_348_752_392_789.jpg",
+     "images/m1_r027_403_752_447_789.jpg"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Bottle",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_02_010",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ಯಾವುದು ಉದ್ದ? ಯಾವುದು ದುಂಡು? (What is Long? What is Round?)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the shape which is similar to a matchbox / ಬೆಂಕಿಪೆಟ್ಟಿಗೆಗೆ ಸಮರೂಪವಾಗಿರುವ ಆಕೃತಿಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r028_245_103_279_134.jpg",
+     "images/m1_r028_300_103_329_134.jpg",
+     "images/m1_r028_345_103_384_134.jpg",
+     "images/m1_r028_400_103_419_134.jpg"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. Box",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_03_001",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಮಾವಿನ ಹಬ್ಬ - ಸಂಖ್ಯೆ 1 ರಿಂದ 9 (Mango Treat)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count the fingers and write the number / ಬೆರಳುಗಳನ್ನು ಎಣಿಸಿ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r030_130_255_190_308.jpg",
+    "ans": "5"
+   },
+   {
+    "img": "images/m1_r030_137_318_182_368.jpg",
+    "ans": "3"
+   },
+   {
+    "img": "images/m1_r030_140_382_188_435.jpg",
+    "ans": "4"
+   },
+   {
+    "img": "images/m1_r030_122_438_225_500.jpg",
+    "ans": "6"
+   }
+  ],
+  "ans": "1. 5\n2. 3\n3. 4\n4. 6",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_03_002",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಮಾವಿನ ಹಬ್ಬ - ಸಂಖ್ಯೆ 1 ರಿಂದ 9 (Mango Treat)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the group which has more than 5 / 5 ಕ್ಕಿಂತ ಹೆಚ್ಚು ಇರುವ ಗುಂಪಿಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r030_150_607_240_672.jpg",
+     "images/m1_r030_405_612_490_672.jpg"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "images/m1_r030_160_717_260_778.jpg",
+     "images/m1_r030_400_720_495_782.jpg"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Shirts / ಅಂಗಿಗಳು\n2. Balls / ಚೆಂಡುಗಳು",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_03_003",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಮಾವಿನ ಹಬ್ಬ - ಸಂಖ್ಯೆ 1 ರಿಂದ 9 (Mango Treat)",
+  "type": "vsa_1m",
+  "q": "Write the missing numbers / ಬಿಟ್ಟು ಹೋದ ಸಂಖ್ಯೆಗಳನ್ನು ಬರೆಯಿರಿ\n1. 6, ____, 8, ____, ____ ?\n2. ____, 5, ____, ____, 8 ?\n3. 1, 2, ____, 4, ____, 6, ____, 8, ____ ?",
+  "ans": "1. 7, 9, 10\n2. 4, 6, 7\n3. 3, 5, 7, 9",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_03_004",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಮಾವಿನ ಹಬ್ಬ - ಸಂಖ್ಯೆ 1 ರಿಂದ 9 (Mango Treat)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count and write the number / ಎಣಿಸಿ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r031_158_588_322_627.jpg",
+    "ans": "6"
+   },
+   {
+    "img": "images/m1_r031_455_588_595_627.jpg",
+    "ans": "5"
+   }
+  ],
+  "ans": "1. 6\n2. 5",
+  "marks": 2,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_03_005",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಮಾವಿನ ಹಬ್ಬ - ಸಂಖ್ಯೆ 1 ರಿಂದ 9 (Mango Treat)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count and write the number / ಎಣಿಸಿ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r033_156_566_332_610.jpg",
+    "ans": "7"
+   },
+   {
+    "img": "images/m1_r033_156_612_332_656.jpg",
+    "ans": "5"
+   }
+  ],
+  "ans": "1. 7\n2. 5",
+  "marks": 2,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_03_006",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಮಾವಿನ ಹಬ್ಬ - ಸಂಖ್ಯೆ 1 ರಿಂದ 9 (Mango Treat)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count and write the number / ಎಣಿಸಿ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r033_156_657_332_706.jpg",
+    "ans": "3"
+   }
+  ],
+  "ans": "3",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_03_007",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಮಾವಿನ ಹಬ್ಬ - ಸಂಖ್ಯೆ 1 ರಿಂದ 9 (Mango Treat)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Which two groups together have 8 fruits? (apples, bananas, guavas) / ಯಾವ ಎರಡು ಗುಂಪಿನ ಹಣ್ಣುಗಳನ್ನು ಸೇರಿಸಿದರೆ 8 ಆಗುತ್ತವೆ? (ಸೇಬು, ಬಾಳೆಹಣ್ಣು, ಸೀಬೆ)",
+  "items": [
+   {
+    "img": "images/m1_r032_85_262_490_335.jpg",
+    "ans": "Bananas and guavas (3 + 5 = 8) / ಬಾಳೆಹಣ್ಣು ಮತ್ತು ಸೀಬೆ (3 + 5 = 8)"
+   }
+  ],
+  "ans": "Bananas and guavas (3 + 5 = 8) / ಬಾಳೆಹಣ್ಣು ಮತ್ತು ಸೀಬೆ (3 + 5 = 8)",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_03_008",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಮಾವಿನ ಹಬ್ಬ - ಸಂಖ್ಯೆ 1 ರಿಂದ 9 (Mango Treat)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Which two groups together have 7 umbrellas? / ಯಾವ ಎರಡು ಗುಂಪಿನ ಕೊಡೆಗಳನ್ನು ಸೇರಿಸಿದರೆ 7 ಆಗುತ್ತವೆ?",
+  "items": [
+   {
+    "img": "images/m1_r032_100_405_525_478.jpg",
+    "ans": "First and second groups (3 + 4 = 7) / ಮೊದಲ ಮತ್ತು ಎರಡನೇ ಗುಂಪು (3 + 4 = 7)"
+   }
+  ],
+  "ans": "First and second groups (3 + 4 = 7) / ಮೊದಲ ಮತ್ತು ಎರಡನೇ ಗುಂಪು (3 + 4 = 7)",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_03_009",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಮಾವಿನ ಹಬ್ಬ - ಸಂಖ್ಯೆ 1 ರಿಂದ 9 (Mango Treat)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the one which is less in number / ಸಂಖ್ಯೆಯಲ್ಲಿ ಕಡಿಮೆ ಇರುವುದಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m1_r033_252_280_328_345.jpg",
+     "images/m1_r033_362_280_450_345.jpg"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "images/m1_r033_262_402_333_470.jpg",
+     "images/m1_r033_372_402_432_470.jpg"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Idlis / ಇಡ್ಲಿಗಳು\n2. Children / ಮಕ್ಕಳು",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_04_001",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. 10 ನ್ನು ಮಾಡುವುದು - ಸಂಖ್ಯೆ 10 ರಿಂದ 20 (Making 10)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count and write the number of dots on the bug / ಕೀಟದ ಮೇಲಿರುವ ಚುಕ್ಕಿಗಳನ್ನು ಎಣಿಸಿ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r037_70_235_140_310.jpg",
+    "ans": "4"
+   },
+   {
+    "img": "images/m1_r037_215_238_280_310.jpg",
+    "ans": "3"
+   },
+   {
+    "img": "images/m1_r037_365_233_415_305.jpg",
+    "ans": "6"
+   },
+   {
+    "img": "images/m1_r037_515_238_578_310.jpg",
+    "ans": "5"
+   }
+  ],
+  "ans": "1. 4\n2. 3\n3. 6\n4. 5",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_04_002",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. 10 ನ್ನು ಮಾಡುವುದು - ಸಂಖ್ಯೆ 10 ರಿಂದ 20 (Making 10)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count and write / ಎಣಿಸಿ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r038_115_140_255_222.jpg",
+    "ans": "13"
+   },
+   {
+    "img": "images/m1_r038_370_140_512_222.jpg",
+    "ans": "18"
+   }
+  ],
+  "ans": "1. 13\n2. 18",
+  "marks": 2,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_04_003",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. 10 ನ್ನು ಮಾಡುವುದು - ಸಂಖ್ಯೆ 10 ರಿಂದ 20 (Making 10)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the smallest number / ಕನಿಷ್ಠ ಸಂಖ್ಯೆಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "8",
+     "12",
+     "6"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "",
+    "options": [
+     "14",
+     "11",
+     "19"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. 6\n2. 11",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_04_004",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. 10 ನ್ನು ಮಾಡುವುದು - ಸಂಖ್ಯೆ 10 ರಿಂದ 20 (Making 10)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the biggest number / ಗರಿಷ್ಠ ಸಂಖ್ಯೆಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "16",
+     "19",
+     "11"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "11",
+     "17",
+     "9"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. 19\n2. 17",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_04_005",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. 10 ನ್ನು ಮಾಡುವುದು - ಸಂಖ್ಯೆ 10 ರಿಂದ 20 (Making 10)",
+  "type": "vsa_1m",
+  "q": "Write the numbers from the biggest to the smallest / ದೊಡ್ಡ ಸಂಖ್ಯೆಯಿಂದ ಚಿಕ್ಕ ಸಂಖ್ಯೆಯವರೆಗೆ ಬರೆಯಿರಿ\n1. 11, 3, 16, 20, 13, 9",
+  "ans": "20, 16, 13, 11, 9, 3",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_04_006",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. 10 ನ್ನು ಮಾಡುವುದು - ಸಂಖ್ಯೆ 10 ರಿಂದ 20 (Making 10)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count and write the number of cubes / ಘನಗಳನ್ನು ಎಣಿಸಿ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r040_105_112_210_175.jpg",
+    "ans": "11"
+   }
+  ],
+  "ans": "11",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_04_007",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. 10 ನ್ನು ಮಾಡುವುದು - ಸಂಖ್ಯೆ 10 ರಿಂದ 20 (Making 10)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count and write the number of white dots on the kite / ಗಾಳಿಪಟದ ಮೇಲಿನ ಬಿಳಿ ಚುಕ್ಕಿಗಳನ್ನು ಎಣಿಸಿ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r040_105_255_220_365.jpg",
+    "ans": "13"
+   }
+  ],
+  "ans": "13",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_04_008",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. 10 ನ್ನು ಮಾಡುವುದು - ಸಂಖ್ಯೆ 10 ರಿಂದ 20 (Making 10)",
+  "type": "vsa_1m",
+  "q": "Fill in the number pairs that make 10 / 10 ಆಗುವ ಸಂಖ್ಯಾ ಜೋಡಿ ಪೂರ್ಣಗೊಳಿಸಿ\n1. 1 + ____ = 10\n2. 2 + ____ = 10\n3. 3 + ____ = 10\n4. 4 + ____ = 10\n5. 5 + ____ = 10",
+  "ans": "1. 9\n2. 8\n3. 7\n4. 6\n5. 5",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_04_009",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. 10 ನ್ನು ಮಾಡುವುದು - ಸಂಖ್ಯೆ 10 ರಿಂದ 20 (Making 10)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks / ಖಾಲಿ ಜಾಗ ತುಂಬಿರಿ\n1. 10 and 4 is ____ / 10 ಮತ್ತು 4 ಸೇರಿ ____ ?\n2. 10 and 5 is ____ / 10 ಮತ್ತು 5 ಸೇರಿ ____ ?\n3. 10 and 8 is ____ / 10 ಮತ್ತು 8 ಸೇರಿ ____ ?\n4. 10 and 9 is ____ / 10 ಮತ್ತು 9 ಸೇರಿ ____ ?\n5. 10 and 10 is ____ / 10 ಮತ್ತು 10 ಸೇರಿ ____ ?",
+  "ans": "1. 14 (Fourteen) / 14 (ಹದಿನಾಲ್ಕು)\n2. 15 (Fifteen) / 15 (ಹದಿನೈದು)\n3. 18 (Eighteen) / 18 (ಹದಿನೆಂಟು)\n4. 19 (Nineteen) / 19 (ಹತ್ತೊಂಬತ್ತು)\n5. 20 (Twenty) / 20 (ಇಪ್ಪತ್ತು)",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_04_010",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. 10 ನ್ನು ಮಾಡುವುದು - ಸಂಖ್ಯೆ 10 ರಿಂದ 20 (Making 10)",
+  "type": "vsa_1m",
+  "q": "Find the numbers hidden under the paws / ಪಂಜದ ಕೆಳಗೆ ಅಡಗಿರುವ ಸಂಖ್ಯೆಗಳನ್ನು ಬರೆಯಿರಿ\n1. ____, 15, 16, ____, 18\n2. ____, 12, ____, 14, 15\n3. 15, ____, ____, ____, 19\n4. 13, ____, 15, ____, ____",
+  "ans": "1. 14, 17\n2. 11, 13\n3. 16, 17, 18\n4. 14, 16, 17",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_04_011",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. 10 ನ್ನು ಮಾಡುವುದು - ಸಂಖ್ಯೆ 10 ರಿಂದ 20 (Making 10)",
+  "type": "vsa_1m",
+  "q": "Write the missing numbers / ಬಿಟ್ಟುಹೋದ ಸಂಖ್ಯೆಗಳನ್ನು ಬರೆಯಿರಿ\n1. 1, 2, 3, ____, 5, 6, 7, 8, 9, ____, 11, 12, 13, ____, 15, 16, 17, 18, 19, ____ ?",
+  "ans": "4, 10, 14, 20",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_04_012",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. 10 ನ್ನು ಮಾಡುವುದು - ಸಂಖ್ಯೆ 10 ರಿಂದ 20 (Making 10)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Look at the towers. Which tower is the tallest? / ಗೋಪುರಗಳನ್ನು ನೋಡಿ. ಅತಿ ಎತ್ತರದ ಗೋಪುರ ಯಾವುದು?",
+  "items": [
+   {
+    "img": "images/m1_r042_180_640_552_780.jpg",
+    "ans": "2nd tower (9 blocks) / 2ನೇ ಗೋಪುರ (9 ಅಚ್ಚುಗಳು)"
+   }
+  ],
+  "ans": "2nd tower (9 blocks) / 2ನೇ ಗೋಪುರ (9 ಅಚ್ಚುಗಳು)",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_04_013",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. 10 ನ್ನು ಮಾಡುವುದು - ಸಂಖ್ಯೆ 10 ರಿಂದ 20 (Making 10)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Which tower used the least number of blocks? How many? / ಯಾವ ಗೋಪುರ ಅತಿ ಕಡಿಮೆ ಅಚ್ಚುಗಳನ್ನು ಬಳಸಿದೆ? ಎಷ್ಟು?",
+  "items": [
+   {
+    "img": "images/m1_r042_180_640_552_780.jpg",
+    "ans": "3rd tower, 4 blocks / 3ನೇ ಗೋಪುರ, 4 ಅಚ್ಚುಗಳು"
+   }
+  ],
+  "ans": "3rd tower, 4 blocks / 3ನೇ ಗೋಪುರ, 4 ಅಚ್ಚುಗಳು",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_05_001",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the sum with the answer / ಮೊತ್ತವನ್ನು ಉತ್ತರದೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+  "pairs": [
+   {
+    "a": "3 + 4",
+    "word": "7"
+   },
+   {
+    "a": "4 + 2",
+    "word": "6"
+   },
+   {
+    "a": "2 + 7",
+    "word": "9"
+   },
+   {
+    "a": "7 + 3",
+    "word": "10"
+   }
+  ],
+  "ans": "(1) → 7 | (2) → 6 | (3) → 9 | (4) → 10",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_05_002",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "vsa_1m",
+  "q": "Add and write / ಕೂಡಿ ಬರೆಯಿರಿ\n1. 5 + 4 = ____\n2. 2 + 5 = ____\n3. 7 + 1 = ____\n4. 0 + 6 = ____",
+  "ans": "1. 9\n2. 7\n3. 8\n4. 6",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_05_003",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "vsa_1m",
+  "q": "Subtract and write / ಕಳೆದು ಬರೆಯಿರಿ\n1. 8 − 6 = ____\n2. 6 − 5 = ____\n3. 7 − 2 = ____",
+  "ans": "1. 2\n2. 1\n3. 5",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_05_004",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "vsa_1m",
+  "q": "Subtract and write / ಕಳೆದು ಬರೆಯಿರಿ\n1. 4 − 1 = ____\n2. 8 − 2 = ____\n3. 9 − 5 = ____",
+  "ans": "1. 3\n2. 6\n3. 4",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_05_005",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "4 pencils and 3 pencils altogether make ____ pencils. (4 + 3 = ?) / 4 ಪೆನ್ಸಿಲ್‌ಗಳು ಮತ್ತು 3 ಪೆನ್ಸಿಲ್‌ಗಳು ಸೇರಿ ____ ಪೆನ್ಸಿಲ್‌ಗಳು. (4 + 3 = ?)",
+  "items": [
+   {
+    "img": "images/m1_r046_160_95_500_150.jpg",
+    "ans": "7"
+   }
+  ],
+  "ans": "7",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_05_006",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "7 balloons, 2 balloons flew away. ____ left. (7 − 2 = ?) / 7 ಬಲೂನ್‌ಗಳಲ್ಲಿ 2 ಹಾರಿ ಹೋದರೆ ____ ಉಳಿಯುತ್ತವೆ. (7 − 2 = ?)",
+  "items": [
+   {
+    "img": "images/m1_r046_155_238_470_305.jpg",
+    "ans": "5"
+   }
+  ],
+  "ans": "5",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_05_007",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "4 children and 2 children altogether make ____ children. (4 + 2 = ?) / 4 ಮಕ್ಕಳು ಮತ್ತು 2 ಮಕ್ಕಳು ಸೇರಿ ____ ಮಕ್ಕಳು. (4 + 2 = ?)",
+  "items": [
+   {
+    "img": "images/m1_r047_210_700_465_752.jpg",
+    "ans": "6"
+   }
+  ],
+  "ans": "6",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_05_008",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "3 tops and 1 top altogether make ____ tops. (3 + 1 = ?) / 3 ಬುಗರಿ ಮತ್ತು 1 ಬುಗರಿ ಸೇರಿ ____ ಬುಗರಿಗಳು. (3 + 1 = ?)",
+  "items": [
+   {
+    "img": "images/m1_r048_200_102_485_160.jpg",
+    "ans": "4"
+   }
+  ],
+  "ans": "4",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_05_009",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "3 ants and 2 ants altogether make ____ ants. (3 + 2 = ?) / 3 ಇರುವೆಗಳು ಮತ್ತು 2 ಇರುವೆಗಳು ಸೇರಿ ____ ಇರುವೆಗಳು. (3 + 2 = ?)",
+  "items": [
+   {
+    "img": "images/m1_r048_225_268_495_308.jpg",
+    "ans": "5"
+   }
+  ],
+  "ans": "5",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_05_010",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "4 pencils and 2 pencils altogether make ____ pencils. (4 + 2 = ?) / 4 ಪೆನ್ಸಿಲ್‌ಗಳು ಮತ್ತು 2 ಪೆನ್ಸಿಲ್‌ಗಳು ಸೇರಿ ____ ಪೆನ್ಸಿಲ್‌ಗಳು. (4 + 2 = ?)",
+  "items": [
+   {
+    "img": "images/m1_r048_228_425_490_478.jpg",
+    "ans": "6"
+   }
+  ],
+  "ans": "6",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_05_011",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "6 balls and 2 balls altogether make ____ balls. (6 + 2 = ?) / 6 ಚೆಂಡುಗಳು ಮತ್ತು 2 ಚೆಂಡುಗಳು ಸೇರಿ ____ ಚೆಂಡುಗಳು. (6 + 2 = ?)",
+  "items": [
+   {
+    "img": "images/m1_r048_228_620_365_668.jpg",
+    "ans": "8"
+   }
+  ],
+  "ans": "8",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_05_012",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count the fingers and add / ಬೆರಳುಗಳನ್ನು ಎಣಿಸಿ ಕೂಡಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r047_40_290_160_335.jpg",
+    "ans": "4 + 3 = 7"
+   },
+   {
+    "img": "images/m1_r047_245_290_385_335.jpg",
+    "ans": "1 + 5 = 6"
+   },
+   {
+    "img": "images/m1_r047_455_290_575_335.jpg",
+    "ans": "1 + 2 = 3"
+   }
+  ],
+  "ans": "1. 4 + 3 = 7\n2. 1 + 5 = 6\n3. 1 + 2 = 3",
+  "marks": 3,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_05_013",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "vsa_1m",
+  "q": "Add and write / ಕೂಡಿ ಬರೆಯಿರಿ\n1. 4 + 3 = ____\n2. 3 + 2 = ____\n3. 5 + 3 = ____\n4. 4 + 0 = ____\n5. 4 + 4 = ____",
+  "ans": "1. 7\n2. 5\n3. 8\n4. 4\n5. 8",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_05_014",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "vsa_1m",
+  "q": "Add and write / ಕೂಡಿ ಬರೆಯಿರಿ\n1. 5 + 4 = ____\n2. 2 + 7 = ____\n3. 7 + 3 = ____\n4. 6 + 3 = ____\n5. 6 + 2 = ____",
+  "ans": "1. 9\n2. 9\n3. 10\n4. 9\n5. 8",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_05_015",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Add and match the sums with the same answer / ಕೂಡಿ, ಒಂದೇ ಉತ್ತರ ಬರುವವುಗಳನ್ನು ಹೊಂದಿಸಿ",
+  "pairs": [
+   {
+    "a": "1 + 4",
+    "word": "3 + 2"
+   },
+   {
+    "a": "6 + 3",
+    "word": "5 + 4"
+   },
+   {
+    "a": "5 + 2",
+    "word": "3 + 4"
+   },
+   {
+    "a": "0 + 6",
+    "word": "4 + 2"
+   }
+  ],
+  "ans": "(1) → 3 + 2 | (2) → 5 + 4 | (3) → 3 + 4 | (4) → 4 + 2",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_05_016",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "vsa_1m",
+  "q": "Solve the problem / ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಿ\n1. Raghav has 4 shells and Sarita has 5 shells. How many shells do they have altogether? / ರಾಘವನ ಬಳಿ 4 ಚಿಪ್ಪುಗಳು, ಸರಿತಾಳ ಬಳಿ 5 ಚಿಪ್ಪುಗಳಿವೆ. ಒಟ್ಟು ಎಷ್ಟು ಚಿಪ್ಪುಗಳು?\n2. Ranjith has 9 bananas. He gives 6 bananas to his sister. How many bananas are left? / ರಂಜಿತ್ ಬಳಿ 9 ಬಾಳೆಹಣ್ಣುಗಳಿವೆ. ತಂಗಿಗೆ 6 ನೀಡಿದರೆ ಎಷ್ಟು ಉಳಿಯುತ್ತವೆ?\n3. There are 3 coconuts in one bag and 4 coconuts in another bag. How many coconuts are there in all? / ಒಂದು ಚೀಲದಲ್ಲಿ 3, ಇನ್ನೊಂದರಲ್ಲಿ 4 ತೆಂಗಿನಕಾಯಿಗಳಿವೆ. ಒಟ್ಟು ಎಷ್ಟು?\n4. Manisha has 9 bananas. She ate 3 bananas. How many bananas are left? / ಮನಿಷಾ ಬಳಿ 9 ಬಾಳೆಹಣ್ಣುಗಳಿವೆ. 3 ತಿಂದಳು. ಎಷ್ಟು ಉಳಿದಿವೆ?\n5. There are 8 butterflies on the flower. 5 butterflies flew away. How many are left? / ಹೂವಿನ ಮೇಲೆ 8 ಚಿಟ್ಟೆಗಳಿವೆ. 5 ಹಾರಿ ಹೋದವು. ಎಷ್ಟು ಉಳಿದಿವೆ?",
+  "ans": "1. 4 + 5 = 9 shells / 4 + 5 = 9 ಚಿಪ್ಪುಗಳು\n2. 9 − 6 = 3 bananas / 9 − 6 = 3 ಬಾಳೆಹಣ್ಣುಗಳು\n3. 3 + 4 = 7 coconuts / 3 + 4 = 7 ತೆಂಗಿನಕಾಯಿಗಳು\n4. 9 − 3 = 6 bananas / 9 − 3 = 6 ಬಾಳೆಹಣ್ಣುಗಳು\n5. 8 − 5 = 3 butterflies / 8 − 5 = 3 ಚಿಟ್ಟೆಗಳು",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_05_017",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "vsa_1m",
+  "q": "Subtract and write / ಕಳೆದು ಬರೆಯಿರಿ\n1. 6 frogs, 2 jumped away. ____ left / 6 ಕಪ್ಪೆಗಳು, 2 ಜಿಗಿದು ಹೋದವು. ____ ಉಳಿದಿವೆ ?\n2. 9 bananas, 6 eaten. ____ left / 9 ಬಾಳೆಹಣ್ಣು, 6 ತಿಂದಾಯಿತು. ____ ಉಳಿದಿವೆ ?\n3. 3 pots, 1 pot broke. ____ left / 3 ಕುಂಡಗಳು, 1 ಒಡೆಯಿತು. ____ ಉಳಿದಿವೆ ?\n4. 7 laddoos, 4 eaten. ____ left / 7 ಲಡ್ಡುಗಳು, 4 ತಿಂದಾಯಿತು. ____ ಉಳಿದಿವೆ ?",
+  "ans": "1. 6 − 2 = 4\n2. 9 − 6 = 3\n3. 3 − 1 = 2\n4. 7 − 4 = 3",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_05_018",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಎಷ್ಟು? - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (How Many?)",
+  "type": "vsa_1m",
+  "q": "Hop backward on the number strip / ಸಂಖ್ಯಾಪಟ್ಟಿಯಲ್ಲಿ ಹಿಂದಕ್ಕೆ ಜಿಗಿಯಿರಿ\n1. Jump 3 steps back from 9 / 9 ರಿಂದ 3 ಹೆಜ್ಜೆ ಹಿಂದಕ್ಕೆ ?\n2. Jump 4 steps back from 7 / 7 ರಿಂದ 4 ಹೆಜ್ಜೆ ಹಿಂದಕ್ಕೆ ?",
+  "ans": "1. 9 − 3 = 6\n2. 7 − 4 = 3",
+  "marks": 2,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_06_001",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ತರಕಾರಿ ತೋಟ - 20 ರ ವರೆಗೆ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Vegetable Farm)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Add and match with the answer / ಕೂಡಿ ಉತ್ತರದೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+  "pairs": [
+   {
+    "a": "8 + 7",
+    "word": "15"
+   },
+   {
+    "a": "9 + 9",
+    "word": "18"
+   },
+   {
+    "a": "10 + 2",
+    "word": "12"
+   },
+   {
+    "a": "16 + 1",
+    "word": "17"
+   },
+   {
+    "a": "11 + 3",
+    "word": "14"
+   }
+  ],
+  "ans": "(1) → 15 | (2) → 18 | (3) → 12 | (4) → 17 | (5) → 14",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_06_002",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ತರಕಾರಿ ತೋಟ - 20 ರ ವರೆಗೆ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Vegetable Farm)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Subtract and match with the answer / ಕಳೆದು ಉತ್ತರದೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+  "pairs": [
+   {
+    "a": "15 − 3",
+    "word": "12"
+   },
+   {
+    "a": "18 − 1",
+    "word": "17"
+   },
+   {
+    "a": "17 − 2",
+    "word": "15"
+   },
+   {
+    "a": "18 − 0",
+    "word": "18"
+   },
+   {
+    "a": "16 − 2",
+    "word": "14"
+   }
+  ],
+  "ans": "(1) → 12 | (2) → 17 | (3) → 15 | (4) → 18 | (5) → 14",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_06_003",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ತರಕಾರಿ ತೋಟ - 20 ರ ವರೆಗೆ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Vegetable Farm)",
+  "type": "vsa_1m",
+  "q": "Subtract the following / ವ್ಯವಕಲನ ಮಾಡಿರಿ\n1. 16 − 4 = ____\n2. 12 − 5 = ____\n3. 14 − 7 = ____\n4. 16 − 6 = ____\n5. 15 − 9 = ____",
+  "ans": "1. 12\n2. 7\n3. 7\n4. 10\n5. 6",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_06_004",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ತರಕಾರಿ ತೋಟ - 20 ರ ವರೆಗೆ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Vegetable Farm)",
+  "type": "vsa_1m",
+  "q": "Solve the problem / ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಿ\n1. There are 18 seats in a bus. 9 children are already sitting. How many more children can sit? / ಬಸ್ಸಿನಲ್ಲಿ 18 ಸೀಟುಗಳಿವೆ. 9 ರಲ್ಲಿ ಮಕ್ಕಳು ಕುಳಿತಿದ್ದಾರೆ. ಇನ್ನೂ ಎಷ್ಟು ಮಕ್ಕಳು ಕುಳಿತುಕೊಳ್ಳಬಹುದು?\n2. Raman had 12 bananas and ate a few. He is left with 5. How many did he eat? / ರಮಣನ ಬಳಿ 12 ಬಾಳೆಹಣ್ಣುಗಳಿದ್ದವು. ಕೆಲವು ತಿಂದ ನಂತರ 5 ಉಳಿದಿವೆ. ಎಷ್ಟು ತಿಂದನು?\n3. A potter had 9 diyas. He sold 5. Then he made 7 more. How many diyas does he have now? / ಕುಂಬಾರನ ಬಳಿ 9 ದೀಪಗಳಿದ್ದವು. 5 ಮಾರಿದನು. ಪುನಃ 7 ಮಾಡಿದನು. ಈಗ ಎಷ್ಟು ದೀಪಗಳಿವೆ?\n4. Aman has 8 laddoos and Charanjeet brought 6 laddoos. How many laddoos are there in all? / ಅಮನ್ ಬಳಿ 8, ಚರಣ್‌ಜೀತ್ ಬಳಿ 6 ಲಡ್ಡುಗಳಿವೆ. ಒಟ್ಟು ಎಷ್ಟು?",
+  "ans": "1. 18 − 9 = 9\n2. 12 − 5 = 7\n3. 9 − 5 = 4, 4 + 7 = 11\n4. 8 + 6 = 14",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_06_005",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ತರಕಾರಿ ತೋಟ - 20 ರ ವರೆಗೆ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Vegetable Farm)",
+  "type": "vsa_1m",
+  "q": "Solve the problem / ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಿ\n1. Sheena has 12 bangles. She got 6 more from her sister. How many bangles does she have now? / ಶೀನಾಳ ಬಳಿ 12 ಬಳೆಗಳಿವೆ. ಸಹೋದರಿ 6 ಕೊಟ್ಟರೆ ಒಟ್ಟು ಎಷ್ಟು?\n2. Sapna has 12 coloured pencils and Gowri has 6. How many pencils do they have in all? / ಸಪ್ನಾಳ ಬಳಿ 12, ಗೌರಿಯ ಬಳಿ 6 ಬಣ್ಣದ ಪೆನ್ಸಿಲ್‌ಗಳಿವೆ. ಒಟ್ಟು ಎಷ್ಟು?\n3. 6 children sit in the bus at the first stop. 8 more get in at the second stop. 7 get down at the third stop. How many are in the bus now? / ಮೊದಲ ನಿಲ್ದಾಣದಲ್ಲಿ 6 ಮಕ್ಕಳು, ಎರಡನೆಯದರಲ್ಲಿ 8 ಮಕ್ಕಳು ಹತ್ತಿದರು. ಮೂರನೆಯದರಲ್ಲಿ 7 ಇಳಿದರು. ಈಗ ಎಷ್ಟು?\n4. Kuljeet had 14 toffees. She shared some with friends and was left with 6. How many did she share? / ಕುಲಜೀತ್ ಬಳಿ 14 ಟಾಫಿಗಳಿದ್ದವು. ಕೆಲವು ಹಂಚಿದ ನಂತರ 6 ಉಳಿದವು. ಎಷ್ಟು ಹಂಚಿದಳು?",
+  "ans": "1. 12 + 6 = 18\n2. 12 + 6 = 18\n3. 6 + 8 = 14, 14 − 7 = 7\n4. 14 − 6 = 8",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_06_006",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ತರಕಾರಿ ತೋಟ - 20 ರ ವರೆಗೆ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Vegetable Farm)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "9 carrots + 4 carrots = ____ / 9 ಕ್ಯಾರೆಟ್ + 4 ಕ್ಯಾರೆಟ್ = ____",
+  "items": [
+   {
+    "img": "images/m1_r056_120_698_380_760.jpg",
+    "ans": "13"
+   }
+  ],
+  "ans": "13",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_06_007",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ತರಕಾರಿ ತೋಟ - 20 ರ ವರೆಗೆ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Vegetable Farm)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "8 radishes + 8 radishes = ____ / 8 ಮೂಲಂಗಿ + 8 ಮೂಲಂಗಿ = ____",
+  "items": [
+   {
+    "img": "images/m1_r057_112_70_340_140.jpg",
+    "ans": "16"
+   }
+  ],
+  "ans": "16",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_1_matbi_06_008",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ತರಕಾರಿ ತೋಟ - 20 ರ ವರೆಗೆ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Vegetable Farm)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Add the objects and write the answer (13, 11, 8, 7) / ವಸ್ತುಗಳನ್ನು ಕೂಡಿ ಉತ್ತರ ಬರೆಯಿರಿ (13, 11, 8, 7)",
+  "items": [
+   {
+    "img": "images/m1_r057_280_495_418_545.jpg",
+    "ans": "11"
+   },
+   {
+    "img": "images/m1_r057_280_548_418_600.jpg",
+    "ans": "7"
+   },
+   {
+    "img": "images/m1_r057_280_600_418_652.jpg",
+    "ans": "8"
+   },
+   {
+    "img": "images/m1_r057_280_652_418_700.jpg",
+    "ans": "13"
+   }
+  ],
+  "ans": "1. 11\n2. 7\n3. 8\n4. 13",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_1_matbi_06_009",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ತರಕಾರಿ ತೋಟ - 20 ರ ವರೆಗೆ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Vegetable Farm)",
+  "type": "vsa_1m",
+  "q": "Add the following / ಸಂಕಲನ ಮಾಡಿರಿ\n1. 14 + 5 = ____\n2. 6 + 8 = ____\n3. 5 + 7 = ____",
+  "ans": "1. 19\n2. 14\n3. 12",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_1_matbi_06_010",
+  "grade": "1",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ತರಕಾರಿ ತೋಟ - 20 ರ ವರೆಗೆ ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Vegetable Farm)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Subtract the following / ವ್ಯವಕಲನ ಮಾಡಿರಿ",
+  "items": [
+   {
+    "img": "images/m1_r058_85_85_330_130.jpg",
+    "ans": "7 − 6 = 1"
+   },
+   {
+    "img": "images/m1_r058_112_185_330_230.jpg",
+    "ans": "10 − 5 = 5"
+   }
+  ],
+  "ans": "1. 7 − 6 = 1\n2. 10 − 5 = 5",
+  "marks": 2,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ }
+]
