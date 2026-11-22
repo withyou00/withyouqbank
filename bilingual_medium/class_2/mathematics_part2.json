@@ -1,0 +1,1156 @@
+[
+ {
+  "id": "q_2_matbi_07_001",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ರಾಣಿಯ ಉಡುಗೊರೆ - ಅಳತೆ (Rani's Gift)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many blocks tall is the giraffe? / ಜಿರಾಫೆ ಎಷ್ಟು ಬ್ಲಾಕ್ ಎತ್ತರವಿದೆ?",
+  "items": [
+   {
+    "img": "images/m2_r039_395_622_615_772.jpg",
+    "ans": "9"
+   }
+  ],
+  "ans": "9",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_07_002",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ರಾಣಿಯ ಉಡುಗೊರೆ - ಅಳತೆ (Rani's Gift)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many blocks tall is the monkey? / ಕೋತಿ ಎಷ್ಟು ಬ್ಲಾಕ್ ಎತ್ತರವಿದೆ?",
+  "items": [
+   {
+    "img": "images/m2_r039_395_622_615_772.jpg",
+    "ans": "2"
+   }
+  ],
+  "ans": "2",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_07_003",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ರಾಣಿಯ ಉಡುಗೊರೆ - ಅಳತೆ (Rani's Gift)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many blocks tall is the elephant? / ಆನೆ ಎಷ್ಟು ಬ್ಲಾಕ್ ಎತ್ತರವಿದೆ?",
+  "items": [
+   {
+    "img": "images/m2_r039_395_622_615_772.jpg",
+    "ans": "7"
+   }
+  ],
+  "ans": "7",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_07_004",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ರಾಣಿಯ ಉಡುಗೊರೆ - ಅಳತೆ (Rani's Gift)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Which is the shortest animal in the picture? / ಚಿತ್ರದಲ್ಲಿ ಅತಿ ಕಡಿಮೆ ಎತ್ತರದ ಪ್ರಾಣಿ ಯಾವುದು?",
+  "items": [
+   {
+    "img": "images/m2_r039_395_622_615_772.jpg",
+    "ans": "Monkey / ಕೋತಿ"
+   }
+  ],
+  "ans": "Monkey / ಕೋತಿ",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_07_005",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ರಾಣಿಯ ಉಡುಗೊರೆ - ಅಳತೆ (Rani's Gift)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the heaviest one / ಅತ್ಯಂತ ಭಾರವಾದ ವಸ್ತುವಿಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m2_r040_158_86_188_164.jpg",
+     "images/m2_r040_203_86_246_164.jpg",
+     "images/m2_r040_258_86_312_164.jpg"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "",
+    "options": [
+     "images/m2_r040_130_180_176_228.jpg",
+     "images/m2_r040_195_180_251_228.jpg",
+     "images/m2_r040_270_180_318_228.jpg"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. C\n2. B",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_07_006",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ರಾಣಿಯ ಉಡುಗೊರೆ - ಅಳತೆ (Rani's Gift)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the lightest one / ಅತ್ಯಂತ ಹಗುರವಾದ ವಸ್ತುವಿಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m2_r040_145_316_179_370.jpg",
+     "images/m2_r040_193_316_233_370.jpg",
+     "images/m2_r040_247_316_273_370.jpg"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "",
+    "options": [
+     "images/m2_r040_140_370_176_418.jpg",
+     "images/m2_r040_203_370_236_418.jpg",
+     "images/m2_r040_255_370_296_418.jpg"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. C\n2. C",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_07_007",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ರಾಣಿಯ ಉಡುಗೊರೆ - ಅಳತೆ (Rani's Gift)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Which is heavier? / ಯಾವುದು ಹೆಚ್ಚು ಭಾರ?",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Orange / ಕಿತ್ತಳೆ",
+     "Watermelon / ಕಲ್ಲಂಗಡಿ"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "Coconut / ತೆಂಗಿನಕಾಯಿ",
+     "Mango / ಮಾವಿನಹಣ್ಣು"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "Apple / ಸೇಬು",
+     "Green chilli / ಹಸಿಮೆಣಸಿನಕಾಯಿ"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Watermelon / ಕಲ್ಲಂಗಡಿ\n2. Coconut / ತೆಂಗಿನಕಾಯಿ\n3. Apple / ಸೇಬು",
+  "marks": 3,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_07_008",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ರಾಣಿಯ ಉಡುಗೊರೆ - ಅಳತೆ (Rani's Gift)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many mangoes will balance the watermelon? / ಒಂದು ಕಲ್ಲಂಗಡಿ ಹಣ್ಣು ಎಷ್ಟು ಮಾವಿನಹಣ್ಣುಗಳಿಗೆ ಸಮ?",
+  "items": [
+   {
+    "img": "images/m2_r041_220_370_458_458.jpg",
+    "ans": "6 mangoes / 6 ಮಾವಿನಹಣ್ಣುಗಳು"
+   }
+  ],
+  "ans": "6 mangoes / 6 ಮಾವಿನಹಣ್ಣುಗಳು",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_07_009",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ರಾಣಿಯ ಉಡುಗೊರೆ - ಅಳತೆ (Rani's Gift)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Which pencil is long and which is short? / ಯಾವ ಪೆನ್ಸಿಲ್ ಉದ್ದ, ಯಾವುದು ಚಿಕ್ಕದು?",
+  "items": [
+   {
+    "img": "images/m2_r041_138_512_232_594.jpg",
+    "ans": "First pencil is long, second is short / ಮೊದಲನೆಯದು ಉದ್ದ, ಎರಡನೆಯದು ಚಿಕ್ಕದು"
+   }
+  ],
+  "ans": "First pencil is long, second is short / ಮೊದಲನೆಯದು ಉದ್ದ, ಎರಡನೆಯದು ಚಿಕ್ಕದು",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_07_010",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ರಾಣಿಯ ಉಡುಗೊರೆ - ಅಳತೆ (Rani's Gift)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Two paper bags of the same size: one with sand, one with dry leaves. Which is heavier? Why? / ಒಂದೇ ಅಳತೆಯ ಎರಡು ಚೀಲ: ಒಂದರಲ್ಲಿ ಮರಳು, ಇನ್ನೊಂದರಲ್ಲಿ ಒಣ ಎಲೆ. ಯಾವುದು ಭಾರ? ಏಕೆ?",
+  "items": [
+   {
+    "img": "images/m2_r041_192_738_312_812.jpg",
+    "ans": "The sand bag is heavier, because sand is heavy and dry leaves are light. / ಮರಳಿನ ಚೀಲ ಭಾರ, ಏಕೆಂದರೆ ಮರಳು ಭಾರ, ಒಣ ಎಲೆಗಳು ಹಗುರ."
+   }
+  ],
+  "ans": "The sand bag is heavier, because sand is heavy and dry leaves are light. / ಮರಳಿನ ಚೀಲ ಭಾರ, ಏಕೆಂದರೆ ಮರಳು ಭಾರ, ಒಣ ಎಲೆಗಳು ಹಗುರ.",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_08_001",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಗುಂಪು ಮಾಡುವುದು ಮತ್ತು ಹಂಚುವುದು (Grouping and Sharing)",
+  "type": "vsa_1m",
+  "q": "Fill in the blank by choosing the correct answer / ಸೂಕ್ತ ಉತ್ತರ ಆರಿಸಿ ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. 2 + 2 + 2 + 2 is equal to ____ times 2 (1, 4, 5) / 2 + 2 + 2 + 2 = ____ ಸಲ 2 (1, 4, 5) ?\n2. 3 times 2 is equal to ____ (3, 2, 6) / 2 ರ 3 ಪಟ್ಟು = ____ (3, 2, 6) ?\n3. 2 × 5 = ____ (3, 10, 13) ?",
+  "ans": "1. 4\n2. 6\n3. 10",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_08_002",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಗುಂಪು ಮಾಡುವುದು ಮತ್ತು ಹಂಚುವುದು (Grouping and Sharing)",
+  "type": "vsa_1m",
+  "q": "Fill in the blank by choosing the correct answer / ಸೂಕ್ತ ಉತ್ತರ ಆರಿಸಿ ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. ____ times 5 is 5 (1, 2, 3) / ____ ಸಲ 5 = 5 (1, 2, 3) ?\n2. Soldiers standing in 4 rows of 10 = ____ (40, 20, 60) / 10 ರಂತೆ 4 ಸಾಲಿನಲ್ಲಿರುವ ಸೈನಿಕರು = ____ (40, 20, 60) ?\n3. A vase holds 5 roses. Vases needed for 25 roses = ____ (5, 10, 15) / ಒಂದು ಹೂದಾನಿಯಲ್ಲಿ 5 ಗುಲಾಬಿ. 25 ಗುಲಾಬಿಗೆ ____ ಹೂದಾನಿ (5, 10, 15) ?",
+  "ans": "1. 1\n2. 40\n3. 5",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_08_003",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಗುಂಪು ಮಾಡುವುದು ಮತ್ತು ಹಂಚುವುದು (Grouping and Sharing)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Group the ice creams into 2 each. How many groups can be made? (6, 3, 2) / ಐಸ್‌ಕ್ರೀಮ್‌ಗಳನ್ನು 2 ರಂತೆ ಗುಂಪು ಮಾಡಿದರೆ ಎಷ್ಟು ಗುಂಪು? (6, 3, 2)",
+  "items": [
+   {
+    "img": "images/m2_r043_116_58_204_86.jpg",
+    "ans": "3"
+   }
+  ],
+  "ans": "3",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_08_004",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಗುಂಪು ಮಾಡುವುದು ಮತ್ತು ಹಂಚುವುದು (Grouping and Sharing)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following / ಹೊಂದಿಸಿ ಬರೆಯಿರಿ",
+  "pairs": [
+   {
+    "a": "5+5+5+5+5+5+5",
+    "word": "7 fives = 35 / 7 ಐದುಗಳು = 35"
+   },
+   {
+    "a": "3+3+3+3+3",
+    "word": "5 times 3 = 15 / 5 ಸಲ 3 = 15"
+   },
+   {
+    "a": "10+10+10+10",
+    "word": "4 groups of 10 = 40 / 10 ರ 4 ಗುಂಪು = 40"
+   },
+   {
+    "a": "8+8+8",
+    "word": "3 × 8 = 24"
+   },
+   {
+    "a": "7+7",
+    "word": "2 sevens = 14 / 2 ಏಳುಗಳು = 14"
+   }
+  ],
+  "ans": "(1) → 7 fives = 35 / 7 ಐದುಗಳು = 35 | (2) → 5 times 3 = 15 / 5 ಸಲ 3 = 15 | (3) → 4 groups of 10 = 40 / 10 ರ 4 ಗುಂಪು = 40 | (4) → 3 × 8 = 24 | (5) → 2 sevens = 14 / 2 ಏಳುಗಳು = 14",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_08_005",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಗುಂಪು ಮಾಡುವುದು ಮತ್ತು ಹಂಚುವುದು (Grouping and Sharing)",
+  "type": "vsa_1m",
+  "q": "Write as times and find the answer / ಸಲ (ಪಟ್ಟು) ರೂಪದಲ್ಲಿ ಬರೆದು ಉತ್ತರ ಕಂಡುಹಿಡಿಯಿರಿ\n1. 5 + 5 + 5 = ____ × 5 = ____ ?\n2. 3 + 3 + 3 + 3 + 3 + 3 = ____ × 3 = ____ ?\n3. 4 + 4 + 4 + 4 = ____ × 4 = ____ ?\n4. 5 + 5 = ____ × 5 = ____ ?",
+  "ans": "1. 3 × 5 = 15\n2. 6 × 3 = 18\n3. 4 × 4 = 16\n4. 2 × 5 = 10",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_08_006",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಗುಂಪು ಮಾಡುವುದು ಮತ್ತು ಹಂಚುವುದು (Grouping and Sharing)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Complete the table of 8 by adding the tables of 2 and 6 / 2 ಮತ್ತು 6 ರ ಮಗ್ಗಿ ಕೂಡಿಸಿ 8 ರ ಮಗ್ಗಿ ಪೂರ್ಣಗೊಳಿಸಿ",
+  "items": [
+   {
+    "img": "images/m2_r044_100_112_562_222.jpg",
+    "ans": "8, 16, 24, 32, 40, 48, 56, 64, 72, 80"
+   }
+  ],
+  "ans": "8, 16, 24, 32, 40, 48, 56, 64, 72, 80",
+  "marks": 3,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_08_007",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಗುಂಪು ಮಾಡುವುದು ಮತ್ತು ಹಂಚುವುದು (Grouping and Sharing)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Complete the table of 9 / 9 ರ ಮಗ್ಗಿ ಪೂರ್ಣಗೊಳಿಸಿ",
+  "items": [
+   {
+    "img": "images/m2_r044_154_322_508_478.jpg",
+    "ans": "9, 18, 27, 36, 45, 54, 63, 72, 81, 90"
+   }
+  ],
+  "ans": "9, 18, 27, 36, 45, 54, 63, 72, 81, 90",
+  "marks": 3,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_08_008",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಗುಂಪು ಮಾಡುವುದು ಮತ್ತು ಹಂಚುವುದು (Grouping and Sharing)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Rita bought 6 pencils for ₹4 each. How much money did she give? / ರೀಟಾ ತಲಾ ₹4 ರಂತೆ 6 ಪೆನ್ಸಿಲ್ ಕೊಂಡಳು. ಎಷ್ಟು ಹಣ ನೀಡಿದಳು?\n2. There are 8 packets of bindis with 5 bindis in each. How many bindis in all? / ಬಿಂದಿಯ 8 ಪ್ಯಾಕೆಟ್‌ಗಳಿವೆ, ಪ್ರತಿಯೊಂದರಲ್ಲಿ 5. ಒಟ್ಟು ಎಷ್ಟು ಬಿಂದಿ?\n3. Five people can sit in a car. How many people can sit in 9 such cars? / ಒಂದು ಕಾರಿನಲ್ಲಿ 5 ಜನ ಕೂರಬಹುದು. 9 ಕಾರುಗಳಲ್ಲಿ ಎಷ್ಟು ಜನ?",
+  "ans": "1. 6 × 4 = ₹24\n2. 8 × 5 = 40\n3. 9 × 5 = 45",
+  "marks": 6,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_08_009",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ಗುಂಪು ಮಾಡುವುದು ಮತ್ತು ಹಂಚುವುದು (Grouping and Sharing)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Put 27 candles equally in 3 boxes. How many candles in each box? / 27 ಮೇಣದಬತ್ತಿಗಳನ್ನು 3 ಪೆಟ್ಟಿಗೆಗಳಲ್ಲಿ ಸಮನಾಗಿ ಇರಿಸಿ. ಪ್ರತಿಯೊಂದರಲ್ಲಿ ಎಷ್ಟು?\n2. Share 24 bananas equally among 3 monkeys. How many does each get? / 24 ಬಾಳೆಹಣ್ಣುಗಳನ್ನು 3 ಕೋತಿಗಳಿಗೆ ಸಮನಾಗಿ ಹಂಚಿ. ಪ್ರತಿಯೊಂದಕ್ಕೆ ಎಷ್ಟು?\n3. A tailor puts 6 buttons on one shirt. How many shirts for 30 buttons? / ದರ್ಜಿ ಒಂದು ಅಂಗಿಗೆ 6 ಗುಂಡಿ ಹಾಕುತ್ತಾನೆ. 30 ಗುಂಡಿಗಳಿಗೆ ಎಷ್ಟು ಅಂಗಿ?",
+  "ans": "1. 27 ÷ 3 = 9\n2. 24 ÷ 3 = 8\n3. 30 ÷ 6 = 5",
+  "marks": 6,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_09_001",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಇದು ಯಾವ ಋತು? - ಸಮಯ (Which Season is it?)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks / ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. Number of days in April is ____ / ಏಪ್ರಿಲ್ ತಿಂಗಳ ದಿನಗಳ ಸಂಖ್ಯೆ ____ ?\n2. Number of days in February is ____ / ಫೆಬ್ರವರಿ ತಿಂಗಳ ದಿನಗಳ ಸಂಖ್ಯೆ ____ ?\n3. Number of days in a week is ____ / ಒಂದು ವಾರದ ದಿನಗಳ ಸಂಖ್ಯೆ ____ ?\n4. The summer vacation months are ____ and ____ / ಬೇಸಿಗೆ ರಜೆಯ ತಿಂಗಳುಗಳು ____ ಮತ್ತು ____ ?\n5. Independence Day is celebrated in the month of ____ / ಸ್ವಾತಂತ್ರ್ಯ ದಿನವನ್ನು ____ ತಿಂಗಳಲ್ಲಿ ಆಚರಿಸುತ್ತೇವೆ ?",
+  "ans": "1. 30\n2. 28 or 29 / 28 ಅಥವಾ 29\n3. 7\n4. April and May / ಏಪ್ರಿಲ್ ಮತ್ತು ಮೇ\n5. August / ಆಗಸ್ಟ್",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_09_002",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಇದು ಯಾವ ಋತು? - ಸಮಯ (Which Season is it?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "What is the day on 6th November? / ನವೆಂಬರ್ 6 ರ ದಿನ ಯಾವುದು?",
+  "items": [
+   {
+    "img": "images/m2_r047_192_455_484_640.jpg",
+    "ans": "Monday / ಸೋಮವಾರ"
+   }
+  ],
+  "ans": "Monday / ಸೋಮವಾರ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_09_003",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಇದು ಯಾವ ಋತು? - ಸಮಯ (Which Season is it?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write all the dates of Fridays in November. / ನವೆಂಬರ್‌ನ ಎಲ್ಲಾ ಶುಕ್ರವಾರಗಳ ದಿನಾಂಕ ಬರೆಯಿರಿ.",
+  "items": [
+   {
+    "img": "images/m2_r047_192_455_484_640.jpg",
+    "ans": "3, 10, 17, 24"
+   }
+  ],
+  "ans": "3, 10, 17, 24",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_09_004",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಇದು ಯಾವ ಋತು? - ಸಮಯ (Which Season is it?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many days are there in November? / ನವೆಂಬರ್‌ನಲ್ಲಿ ಎಷ್ಟು ದಿನಗಳಿವೆ?",
+  "items": [
+   {
+    "img": "images/m2_r047_192_455_484_640.jpg",
+    "ans": "30"
+   }
+  ],
+  "ans": "30",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_09_005",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಇದು ಯಾವ ಋತು? - ಸಮಯ (Which Season is it?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many Sundays are there in November? / ನವೆಂಬರ್‌ನಲ್ಲಿ ಎಷ್ಟು ಭಾನುವಾರಗಳಿವೆ?",
+  "items": [
+   {
+    "img": "images/m2_r047_192_455_484_640.jpg",
+    "ans": "4"
+   }
+  ],
+  "ans": "4",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_09_006",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಇದು ಯಾವ ಋತು? - ಸಮಯ (Which Season is it?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "The first day of November is Wednesday. What is the last day of the month? / ನವೆಂಬರ್ ಮೊದಲ ದಿನ ಬುಧವಾರ. ತಿಂಗಳ ಕೊನೆಯ ದಿನ ಯಾವುದು?",
+  "items": [
+   {
+    "img": "images/m2_r047_192_455_484_640.jpg",
+    "ans": "Thursday / ಗುರುವಾರ"
+   }
+  ],
+  "ans": "Thursday / ಗುರುವಾರ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_09_007",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಇದು ಯಾವ ಋತು? - ಸಮಯ (Which Season is it?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Read the time on the clock / ಗಡಿಯಾರದ ಸಮಯ ಓದಿ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m2_r048_123_218_218_304.jpg",
+    "ans": "6 o'clock / 6 ಗಂಟೆ"
+   },
+   {
+    "img": "images/m2_r048_326_218_420_304.jpg",
+    "ans": "9 o'clock / 9 ಗಂಟೆ"
+   },
+   {
+    "img": "images/m2_r048_491_218_592_304.jpg",
+    "ans": "2 o'clock / 2 ಗಂಟೆ"
+   }
+  ],
+  "ans": "1. 6 o'clock / 6 ಗಂಟೆ\n2. 9 o'clock / 9 ಗಂಟೆ\n3. 2 o'clock / 2 ಗಂಟೆ",
+  "marks": 3,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_09_008",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಇದು ಯಾವ ಋತು? - ಸಮಯ (Which Season is it?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Draw the hour hand and minute hand to show 11 o'clock / ಗಡಿಯಾರದಲ್ಲಿ 11 ಗಂಟೆ ತೋರಿಸಲು ಮುಳ್ಳುಗಳನ್ನು ಬಿಡಿಸಿ",
+  "items": [
+   {
+    "img": "images/m2_r048_126_498_255_625.jpg",
+    "ans": "Hour hand at 11, minute hand at 12 / ಗಂಟೆ ಮುಳ್ಳು 11 ಕ್ಕೆ, ನಿಮಿಷದ ಮುಳ್ಳು 12 ಕ್ಕೆ"
+   }
+  ],
+  "ans": "Hour hand at 11, minute hand at 12 / ಗಂಟೆ ಮುಳ್ಳು 11 ಕ್ಕೆ, ನಿಮಿಷದ ಮುಳ್ಳು 12 ಕ್ಕೆ",
+  "marks": 2,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_09_009",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಇದು ಯಾವ ಋತು? - ಸಮಯ (Which Season is it?)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Draw the hour hand and minute hand to show 4 o'clock / ಗಡಿಯಾರದಲ್ಲಿ 4 ಗಂಟೆ ತೋರಿಸಲು ಮುಳ್ಳುಗಳನ್ನು ಬಿಡಿಸಿ",
+  "items": [
+   {
+    "img": "images/m2_r048_404_498_522_612.jpg",
+    "ans": "Hour hand at 4, minute hand at 12 / ಗಂಟೆ ಮುಳ್ಳು 4 ಕ್ಕೆ, ನಿಮಿಷದ ಮುಳ್ಳು 12 ಕ್ಕೆ"
+   }
+  ],
+  "ans": "Hour hand at 4, minute hand at 12 / ಗಂಟೆ ಮುಳ್ಳು 4 ಕ್ಕೆ, ನಿಮಿಷದ ಮುಳ್ಳು 12 ಕ್ಕೆ",
+  "marks": 2,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_09_010",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ಇದು ಯಾವ ಋತು? - ಸಮಯ (Which Season is it?)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. In which season do you go on vacation? / ನೀವು ಯಾವ ಋತುವಿನಲ್ಲಿ ರಜೆ ಪಡೆಯುವಿರಿ?\n2. Name the four directions. / ನಾಲ್ಕು ದಿಕ್ಕುಗಳನ್ನು ಹೆಸರಿಸಿ.\n3. In which season can we see frogs jumping? / ಕಪ್ಪೆ ಜಿಗಿತಗಳನ್ನು ಯಾವ ಋತುವಿನಲ್ಲಿ ಕಾಣಬಹುದು?\n4. In which direction does the sun rise? / ಸೂರ್ಯ ಉದಯಿಸುವ ದಿಕ್ಕು ಯಾವುದು?",
+  "ans": "1. Summer / ಬೇಸಿಗೆ\n2. North, South, East, West / ಉತ್ತರ, ದಕ್ಷಿಣ, ಪೂರ್ವ, ಪಶ್ಚಿಮ\n3. Rainy season (monsoon) / ಮಳೆಗಾಲ\n4. East / ಪೂರ್ವ",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_10_001",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಜಾತ್ರೆಯಲ್ಲಿ ಮೋಜು - ಹಣ (Fun at the Fair)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Train ride costs ₹20 per ticket. How much for 2 tickets? / ರೈಲು ಸವಾರಿ ಟಿಕೆಟ್‌ಗೆ ₹20. 2 ಟಿಕೆಟ್‌ಗೆ ಎಷ್ಟು?",
+  "items": [
+   {
+    "img": "images/m2_r050_138_425_425_607.jpg",
+    "ans": "₹40"
+   }
+  ],
+  "ans": "₹40",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_10_002",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಜಾತ್ರೆಯಲ್ಲಿ ಮೋಜು - ಹಣ (Fun at the Fair)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Merry-go-round costs ₹10 per ticket. How many tickets for ₹30? / ತಿರುಗಣೆ ಟಿಕೆಟ್‌ಗೆ ₹10. ₹30 ಕ್ಕೆ ಎಷ್ಟು ಟಿಕೆಟ್?",
+  "items": [
+   {
+    "img": "images/m2_r050_138_425_425_607.jpg",
+    "ans": "3"
+   }
+  ],
+  "ans": "3",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_10_003",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಜಾತ್ರೆಯಲ್ಲಿ ಮೋಜು - ಹಣ (Fun at the Fair)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Giant wheel costs ₹15 per ticket. How much for 2 tickets? / ದೈತ್ಯ ಚಕ್ರ ಟಿಕೆಟ್‌ಗೆ ₹15. 2 ಟಿಕೆಟ್‌ಗೆ ಎಷ್ಟು?",
+  "items": [
+   {
+    "img": "images/m2_r050_138_425_425_607.jpg",
+    "ans": "₹30"
+   }
+  ],
+  "ans": "₹30",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_10_004",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಜಾತ್ರೆಯಲ್ಲಿ ಮೋಜು - ಹಣ (Fun at the Fair)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the coin with its value / ನಾಣ್ಯವನ್ನು ಅದರ ಬೆಲೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+  "pairs": [
+   {
+    "img": "images/m2_r050_184_705_252_748.jpg",
+    "word": "50 paise / 50 ಪೈಸೆ"
+   },
+   {
+    "img": "images/m2_r050_189_757_248_800.jpg",
+    "word": "20 paise / 20 ಪೈಸೆ"
+   },
+   {
+    "img": "images/m2_r050_193_810_245_848.jpg",
+    "word": "25 paise / 25 ಪೈಸೆ"
+   },
+   {
+    "img": "images/m2_r051_190_44_245_88.jpg",
+    "word": "10 paise / 10 ಪೈಸೆ"
+   },
+   {
+    "img": "images/m2_r051_193_122_250_170.jpg",
+    "word": "5 paise / 5 ಪೈಸೆ"
+   }
+  ],
+  "ans": "(1) → 50 paise / 50 ಪೈಸೆ | (2) → 20 paise / 20 ಪೈಸೆ | (3) → 25 paise / 25 ಪೈಸೆ | (4) → 10 paise / 10 ಪೈಸೆ | (5) → 5 paise / 5 ಪೈಸೆ",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_10_005",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಜಾತ್ರೆಯಲ್ಲಿ ಮೋಜು - ಹಣ (Fun at the Fair)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write the value of the note / ನೋಟಿನ ಬೆಲೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m2_r051_158_270_340_328.jpg",
+    "ans": "₹10"
+   },
+   {
+    "img": "images/m2_r051_153_340_344_400.jpg",
+    "ans": "₹50"
+   },
+   {
+    "img": "images/m2_r051_153_418_344_490.jpg",
+    "ans": "₹100"
+   }
+  ],
+  "ans": "1. ₹10\n2. ₹50\n3. ₹100",
+  "marks": 3,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_10_006",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಜಾತ್ರೆಯಲ್ಲಿ ಮೋಜು - ಹಣ (Fun at the Fair)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write the value of the note / ನೋಟಿನ ಬೆಲೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m2_r051_150_518_339_590.jpg",
+    "ans": "₹200"
+   },
+   {
+    "img": "images/m2_r051_153_618_349_692.jpg",
+    "ans": "₹500"
+   }
+  ],
+  "ans": "1. ₹200\n2. ₹500",
+  "marks": 2,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_10_007",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಜಾತ್ರೆಯಲ್ಲಿ ಮೋಜು - ಹಣ (Fun at the Fair)",
+  "type": "vsa_1m",
+  "q": "Add / ಕೂಡಿಸಿ\n1. ₹18 + ₹32 = ____\n2. ₹15 + ₹27 = ____\n3. ₹47 + ₹60 = ____\n4. ₹33 + ₹35 = ____\n5. ₹39 + ₹27 = ____",
+  "ans": "1. ₹50\n2. ₹42\n3. ₹107\n4. ₹68\n5. ₹66",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_10_008",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಜಾತ್ರೆಯಲ್ಲಿ ಮೋಜು - ಹಣ (Fun at the Fair)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. How many 25 paise coins make ₹1? / ₹1 ಆಗಲು ಎಷ್ಟು 25 ಪೈಸೆ ನಾಣ್ಯಗಳು ಬೇಕು?\n2. Jayant spent ₹25 on pens and ₹40 on notebooks. How much did he spend in all? / ಜಯಂತ್ ಪೆನ್ನುಗಳಿಗೆ ₹25, ನೋಟ್‌ಬುಕ್‌ಗಳಿಗೆ ₹40 ಖರ್ಚು ಮಾಡಿದನು. ಒಟ್ಟು ಎಷ್ಟು?\n3. Ajay has ₹58. He spent ₹48 in the market. How much is left? / ಅಜಯ್ ಬಳಿ ₹58 ಇದೆ. ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ₹48 ಖರ್ಚು ಮಾಡಿದನು. ಎಷ್ಟು ಉಳಿಯಿತು?\n4. Bread costs ₹30 and a chocolate costs ₹60. How much does Vivek need for both? / ಬ್ರೆಡ್ ₹30, ಚಾಕೊಲೇಟ್ ₹60. ವಿವೇಕ್‌ಗೆ ಎರಡಕ್ಕೂ ಎಷ್ಟು ಹಣ ಬೇಕು?",
+  "ans": "1. 4\n2. 25 + 40 = ₹65\n3. 58 − 48 = ₹10\n4. 30 + 60 = ₹90",
+  "marks": 7,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_10_009",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಜಾತ್ರೆಯಲ್ಲಿ ಮೋಜು - ಹಣ (Fun at the Fair)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count the coins and write the total amount / ನಾಣ್ಯಗಳನ್ನು ಎಣಿಸಿ ಒಟ್ಟು ಮೊತ್ತ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m2_r053_143_56_277_114.jpg",
+    "ans": "50 + 50 paise = ₹1 / 50 + 50 ಪೈಸೆ = ₹1"
+   },
+   {
+    "img": "images/m2_r053_158_150_464_214.jpg",
+    "ans": "4 × 50 paise = ₹2 / 4 × 50 ಪೈಸೆ = ₹2"
+   }
+  ],
+  "ans": "1. 50 + 50 paise = ₹1 / 50 + 50 ಪೈಸೆ = ₹1\n2. 4 × 50 paise = ₹2 / 4 × 50 ಪೈಸೆ = ₹2",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_11_001",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ (Data Handling)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many children are there in the picture? / ಚಿತ್ರದಲ್ಲಿರುವ ಮಕ್ಕಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
+  "items": [
+   {
+    "img": "images/m2_r054_146_410_532_792.jpg",
+    "ans": "13"
+   }
+  ],
+  "ans": "13",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_11_002",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ (Data Handling)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many children like apples? / ಸೇಬು ಇಷ್ಟಪಡುವ ಮಕ್ಕಳೆಷ್ಟು?",
+  "items": [
+   {
+    "img": "images/m2_r054_146_410_532_792.jpg",
+    "ans": "2"
+   }
+  ],
+  "ans": "2",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_11_003",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ (Data Handling)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many children like guava? / ಪೇರಳೆ ಇಷ್ಟಪಡುವ ಮಕ್ಕಳೆಷ್ಟು?",
+  "items": [
+   {
+    "img": "images/m2_r054_146_410_532_792.jpg",
+    "ans": "3"
+   }
+  ],
+  "ans": "3",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_11_004",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ (Data Handling)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Which fruit is liked the least? / ಅತಿ ಕಡಿಮೆ ಇಷ್ಟಪಡುವ ಹಣ್ಣು ಯಾವುದು?",
+  "items": [
+   {
+    "img": "images/m2_r054_146_410_532_792.jpg",
+    "ans": "Chikoo / ಸಪೋಟ"
+   }
+  ],
+  "ans": "Chikoo / ಸಪೋಟ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_11_005",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ (Data Handling)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many children like oranges? / ಕಿತ್ತಳೆ ಇಷ್ಟಪಡುವ ಮಕ್ಕಳೆಷ್ಟು?",
+  "items": [
+   {
+    "img": "images/m2_r054_146_410_532_792.jpg",
+    "ans": "2"
+   }
+  ],
+  "ans": "2",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_11_006",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ (Data Handling)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count the dress colours: Red ___, Blue ___, Green ___, Yellow ___ / ಉಡುಪಿನ ಬಣ್ಣ ಎಣಿಸಿ: ಕೆಂಪು ___, ನೀಲಿ ___, ಹಸಿರು ___, ಹಳದಿ ___",
+  "items": [
+   {
+    "img": "images/m2_r055_228_308_449_417.jpg",
+    "ans": "Red 1, Blue 4, Green 3, Yellow 2 / ಕೆಂಪು 1, ನೀಲಿ 4, ಹಸಿರು 3, ಹಳದಿ 2"
+   }
+  ],
+  "ans": "Red 1, Blue 4, Green 3, Yellow 2 / ಕೆಂಪು 1, ನೀಲಿ 4, ಹಸಿರು 3, ಹಳದಿ 2",
+  "marks": 4,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_11_007",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ (Data Handling)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Which vegetable is liked the most? / ಅತಿ ಹೆಚ್ಚು ಇಷ್ಟಪಟ್ಟ ತರಕಾರಿ ಯಾವುದು?",
+  "items": [
+   {
+    "img": "images/m2_r057_92_584_373_720.jpg",
+    "ans": "Cauliflower / cabbage (30) / ಹೂಕೋಸು / ಎಲೆಕೋಸು (30)"
+   }
+  ],
+  "ans": "Cauliflower / cabbage (30) / ಹೂಕೋಸು / ಎಲೆಕೋಸು (30)",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_11_008",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ (Data Handling)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Which vegetable is liked the least? / ಅತಿ ಕಡಿಮೆ ಇಷ್ಟಪಟ್ಟ ತರಕಾರಿ ಯಾವುದು?",
+  "items": [
+   {
+    "img": "images/m2_r057_92_584_373_720.jpg",
+    "ans": "Tomato (10) / ಟೊಮೆಟೊ (10)"
+   }
+  ],
+  "ans": "Tomato (10) / ಟೊಮೆಟೊ (10)",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_11_009",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ (Data Handling)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many students like carrot? / ಕ್ಯಾರೆಟ್ ಇಷ್ಟಪಟ್ಟ ವಿದ್ಯಾರ್ಥಿಗಳೆಷ್ಟು?",
+  "items": [
+   {
+    "img": "images/m2_r057_92_584_373_720.jpg",
+    "ans": "15"
+   }
+  ],
+  "ans": "15",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_11_010",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ (Data Handling)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many balls are there in Rohan's toy box? / ರೋಹನ್‌ನ ಆಟಿಕೆ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಎಷ್ಟು ಚೆಂಡುಗಳಿವೆ?",
+  "items": [
+   {
+    "img": "images/m2_r058_130_368_425_528.jpg",
+    "ans": "7"
+   }
+  ],
+  "ans": "7",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_11_011",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ (Data Handling)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Which toy does Rohan have the most? / ರೋಹನ್ ಬಳಿ ಹೆಚ್ಚು ಇರುವ ಆಟಿಕೆ ಯಾವುದು?",
+  "items": [
+   {
+    "img": "images/m2_r058_130_368_425_528.jpg",
+    "ans": "Balls / ಚೆಂಡುಗಳು"
+   }
+  ],
+  "ans": "Balls / ಚೆಂಡುಗಳು",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_11_012",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ (Data Handling)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Which toy does Rohan have the least? / ರೋಹನ್ ಬಳಿ ಕಡಿಮೆ ಇರುವ ಆಟಿಕೆ ಯಾವುದು?",
+  "items": [
+   {
+    "img": "images/m2_r058_130_368_425_528.jpg",
+    "ans": "Dolls / ಗೊಂಬೆಗಳು"
+   }
+  ],
+  "ans": "Dolls / ಗೊಂಬೆಗಳು",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_11_013",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ (Data Handling)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many toy cars does Rohan have? / ರೋಹನ್ ಬಳಿ ಎಷ್ಟು ಆಟಿಕೆ ಕಾರುಗಳಿವೆ?",
+  "items": [
+   {
+    "img": "images/m2_r058_130_368_425_528.jpg",
+    "ans": "5"
+   }
+  ],
+  "ans": "5",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_11_014",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ (Data Handling)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many blocks are there? / ಎಷ್ಟು ಬ್ಲಾಕ್‌ಗಳಿವೆ?",
+  "items": [
+   {
+    "img": "images/m2_r058_130_368_425_528.jpg",
+    "ans": "6"
+   }
+  ],
+  "ans": "6",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_11_015",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ (Data Handling)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many toys do two stars show? / ಎರಡು ನಕ್ಷತ್ರಗಳು ಎಷ್ಟು ಆಟಿಕೆಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ?",
+  "items": [
+   {
+    "img": "images/m2_r058_130_368_425_528.jpg",
+    "ans": "2"
+   }
+  ],
+  "ans": "2",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ }
+]
