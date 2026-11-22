@@ -1,0 +1,4088 @@
+[
+ {
+  "id": "q_2_engbi_08_001",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. L __ e\n2. B __ ck\n3. B __ g\n4. S __ y",
+  "ans": "1. Lie\n2. Back\n3. Big\n4. Sky",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_08_002",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. W __ ite\n2. B __ ar\n3. D __ wn\n4. S __ ip",
+  "ans": "1. White\n2. Bear\n3. Down\n4. Shlhip",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_08_003",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. Tr __ nk\n2. F __ n\n3. S __ e",
+  "ans": "1. Trunk\n2. Fun\n3. See",
+  "marks": 3,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_08_004",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "Where is the child looking while lying on their back?",
+    "options": [
+     "Down at the grass",
+     "Up at the sky",
+     "Inside a book",
+     "At the sea"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What is the first thing the child sees in the sky?",
+    "options": [
+     "A ship",
+     "An elephant",
+     "A big white bear",
+     "A bird"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "What is the ship sailing on in the poem?",
+    "options": [
+     "Blue water",
+     "A white sea",
+     "A river",
+     "A lake"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What animal is waving its trunk at the child?",
+    "options": [
+     "A bear",
+     "A monkey",
+     "A lion",
+     "An elephant"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "How does the child feel about watching the shapes in the sky?",
+    "options": [
+     "Bored",
+     "Scared",
+     "It’s fun",
+     "Sad"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. Up at the sky\n2. A big white bear\n3. A white sea\n4. An elephant\n5. It’s fun",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_08_005",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "Where does the child lie?",
+    "options": [
+     "On my back",
+     "On a chair",
+     "On a bed",
+     "On a table"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Where does the child look?",
+    "options": [
+     "At the ground",
+     "At the sky",
+     "At the river",
+     "At the road"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What does the child first see in the clouds?",
+    "options": [
+     "A lion",
+     "A bird",
+     "A big white bear",
+     "A dog"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "What is sailing on a white sea?",
+    "options": [
+     "A bus",
+     "A train",
+     "A ship",
+     "A car"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Which animal is waving its trunk?",
+    "options": [
+     "A tiger",
+     "An elephant",
+     "A monkey",
+     "A rabbit"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. On my back\n2. At the sky\n3. A big white bear\n4. A ship\n5. An elephant",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_08_006",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "What colour is the bear?",
+    "options": [
+     "Black",
+     "Brown",
+     "White",
+     "Grey"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Looking at the clouds is ________.",
+    "options": [
+     "Boring",
+     "Fun",
+     "Difficult",
+     "Scary"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What can the child see in the clouds?",
+    "options": [
+     "Whatever he wants to see",
+     "Only birds",
+     "Only trees",
+     "Only stars"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The lesson is about ________.",
+    "options": [
+     "Flowers",
+     "Clouds",
+     "Birds",
+     "Rain"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What is the title of the poem?",
+    "options": [
+     "My Bicycle",
+     "The Blue Sky",
+     "A Show of Clouds",
+     "My School"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. White\n2. Fun\n3. Whatever he wants to see\n4. Clouds\n5. A Show of Clouds",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_08_007",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "The child lies on his back.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The child looks up at the sky.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The child sees a big white bear in the clouds.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The child sees a train on a white sea.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The child sees an elephant waving its trunk.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True\n2. True\n3. True\n4. False\n5. True",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_08_008",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "The child is afraid of the clouds.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The child thinks it is fun to look at the clouds.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The child can imagine different shapes in the clouds.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The poem is called \"A Show of Clouds.\"",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The child looks down at the ground all the time.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. False\n2. True\n3. True\n4. True\n5. False",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_08_009",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the correctly spelled word",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "BACK",
+     "BCAK"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "BREA",
+     "BEAR"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "WHITE",
+     "WHTIE"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "SEA",
+     "SAE"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "SHPI",
+     "SHIP"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. BACK\n2. BEAR\n3. WHITE\n4. SEA\n5. SHIP",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_08_010",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the correctly spelled word",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "ELEPHANT",
+     "ELPEAHNT"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "TRUNK",
+     "TURNK"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "LOOK",
+     "LKOO"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "WANT",
+     "WNAT"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "LFIE",
+     "LIFE"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. ELEPHANT\n2. TRUNK\n3. LOOK\n4. WANT\n5. LIFE",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_08_011",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What float in the sky?\n2. What colour are the clouds when they look like soft cotton?\n3. What is the colour of the sky behind the clouds?\n4. What shape does a fluffy white cloud often look like in the sky?\n5. What do dark clouds bring with them?",
+  "ans": "1. Clouds\n2. White\n3. Blue\n4. Sheep\n5. Rain",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_08_012",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What sound comes during a thunderstorm along with lightning?\n2. What bright flash of light is seen in the sky before thunder?\n3. What appears in the sky after it rains and the sun shines?\n4. How many colours are there in a rainbow?\n5. What season brings many dark clouds and rain?",
+  "ans": "1. Thunder\n2. Lightning\n3. Rainbow\n4. Seven\n5. Monsoon",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_08_013",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What gives us light during the day when clouds move away?\n2. What gentle breeze moves the clouds across the sky?\n3. What falls from the dark clouds onto the earth?\n4. What do children like to sail in puddles during rain?\n5. Which animal likes to dance when it rains?",
+  "ans": "1. Sun\n2. Wind\n3. Water\n4. Paper boats\n5. Peacock",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_08_014",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What item do we hold above our heads to protect us from rain?\n2. What do clouds look like when they gather together in big shapes?\n3. Where do clouds float?\n4. What colour do heavy rain clouds usually look?\n5. What feeling do children get when they watch the clouds make shapes?",
+  "ans": "1. Umbrella\n2. Monsters\n3. Sky\n4. Grey\n5. Joy",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_08_015",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw the sky with clouds and write two sentences describing the cloud shapes you see.",
+  "height": 28,
+  "ans": "The clouds are white and fluffy. I can see an elephant and a ship in the clouds.",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_08_016",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write two rhyming words for sky and bear.",
+  "height": 28,
+  "ans": "Sky: high, fly Bear: care, share",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_08_017",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short 3-line poem about watching beautiful clouds in the sky.",
+  "height": 28,
+  "ans": "White clouds float so high. They make beautiful shapes. I smile and watch the sky.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_08_018",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short two-line dialogue between you and your friend about the shapes you see in the clouds.",
+  "height": 28,
+  "ans": "Me: Look! I can see an elephant in the cloud. Friend: I can see a big ship!",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_08_019",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short paragraph (4–5 lines) about lying on the grass and watching clouds with your family or friends.",
+  "height": 28,
+  "ans": "I lay on the green grass with my friends. We looked at the blue sky. The clouds looked like animals and ships. We laughed and enjoyed watching them. It was a happy day.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_08_020",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Create a short 5-word nature slogan encouraging children to enjoy and protect nature.",
+  "height": 28,
+  "ans": "Love Nature, Enjoy Beautiful Clouds",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_08_021",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why does the child enjoy looking at the clouds?",
+  "height": 28,
+  "ans": "The child enjoys looking at the clouds because they look like different shapes.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_08_022",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Is it fun to imagine different shapes in the clouds? Write Yes or No.",
+  "height": 28,
+  "ans": "Yes.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_08_023",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why is it good to spend some time enjoying nature and the sky?",
+  "height": 28,
+  "ans": "It makes us feel happy, calm, and close to nature.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_08_024",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "What message does the poem give about using our imagination?",
+  "height": 28,
+  "ans": "The poem teaches us to use our imagination and enjoy nature.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_08_025",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why should we keep the environment clean so we can enjoy the beauty of nature?",
+  "height": 28,
+  "ans": "A clean environment helps us enjoy fresh air and beautiful skies.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_08_026",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "How does watching clouds help us feel happy and relaxed?",
+  "height": 28,
+  "ans": "Watching clouds makes us feel peaceful, happy, and relaxed. UNIT 4: LIFE AROUND US CHAPTER 2: MY NAME",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_08_027",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. A Show of Clouds",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following",
+  "pairs": [
+   {
+    "a": "Lie",
+    "word": "To rest on the ground or bed"
+   },
+   {
+    "a": "Sky",
+    "word": "The space above the earth"
+   },
+   {
+    "a": "Bear",
+    "word": "A large wild animals"
+   },
+   {
+    "a": "Sailing",
+    "word": "Moving on water in a boat or ship."
+   },
+   {
+    "a": "Trunk",
+    "word": "The long nose of an elephant"
+   }
+  ],
+  "ans": "(1) → To rest on the ground or bed | (2) → The space above the earth | (3) → A large wild animals | (4) → Moving on water in a boat or ship. | (5) → The long nose of an elephant",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_09_001",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. n a m __ \n2. a __ t\n3. c r __ w\n4. l e __ f\n5. d e __ r",
+  "ans": "1. name\n2. ant\n3. crow\n4. leaf\n5. dear",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_09_002",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. r e m e m b __ r\n2. s h __ d e\n3. c __ w\n4. s l e __ p",
+  "ans": "1. remember\n2. shade\n3. cow\n4. sleep",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_09_003",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "Who forgot his name?",
+    "options": [
+     "An ant",
+     "A fly",
+     "A cow",
+     "A bee"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Whom did the fly ask first?",
+    "options": [
+     "The tree",
+     "The cow",
+     "An ant",
+     "The leaf"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "What does the ant do?",
+    "options": [
+     "Flies in the sky",
+     "Climbs the tree",
+     "Eats grass",
+     "Crawls on the ground"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "Who was sleeping in the shade of the tree?",
+    "options": [
+     "The ant",
+     "The cow",
+     "The fly",
+     "The bird"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Whom did the tree ask the fly to meet?",
+    "options": [
+     "The cow",
+     "The grass",
+     "The leaf",
+     "The ant"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. A fly\n2. An ant\n3. Crawls on the ground\n4. The cow\n5. The cow",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_09_004",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "What does the cow eat?",
+    "options": [
+     "Fruits",
+     "Leaves",
+     "Grass",
+     "Flowers"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Where were the leaves fallen?",
+    "options": [
+     "On the tree",
+     "On the grass",
+     "In the water",
+     "On the road"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What was about to answer the fly?",
+    "options": [
+     "The leaf",
+     "The wind",
+     "The tree",
+     "The cow"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "What blew when the leaf was about to answer?",
+    "options": [
+     "The rain",
+     "The wind",
+     "The water",
+     "The sun"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What happened to the leaf when the wind blew?",
+    "options": [
+     "It slept",
+     "It began to fly",
+     "It fell down",
+     "It became green"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Grass\n2. On the grass\n3. The leaf\n4. The wind\n5. It began to fly",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_09_005",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "Seeing the leaf fly, what did the fly remember?",
+    "options": [
+     "His food",
+     "His home",
+     "His name",
+     "His friend"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "What was the name of the little insect?",
+    "options": [
+     "Ant",
+     "Fly",
+     "Bee",
+     "Butterfly"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "How did the fly feel after remembering his name?",
+    "options": [
+     "Sad",
+     "Angry",
+     "Happy",
+     "Tired"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Complete the sight word from the lesson: \"do ___\"",
+    "options": [
+     "we",
+     "you",
+     "me",
+     "it"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Which of these is a \"New Word\" given at the end of the lesson?",
+    "options": [
+     "Remembered",
+     "Flower",
+     "Sky",
+     "River"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. His name\n2. Fly\n3. Happy\n4. you\n5. Remembered",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_09_006",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "The little fly forgot his name.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The fly first asked the cow for his name.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The ant told the fly to ask the tree.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The cow was sleeping in the shade of the tree.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The tree asked the fly to meet the grass.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. True\n2. False\n3. True\n4. True\n5. False",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_09_007",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "The cow said that it eats grass.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The grass told the fly to ask the leaves fallen on it.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The rain blew when the leaf was about to answer.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Seeing the leaf fly, the fly remembered his name.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The fly was sad after remembering his name.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. True\n2. True\n3. False\n4. True\n5. False",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_09_008",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the odd one out",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Ant",
+     "Fly",
+     "Cow",
+     "Car"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Tree",
+     "Grass",
+     "Leaf",
+     "Table"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Wind",
+     "Shade",
+     "Grass",
+     "Book"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Fly",
+     "Ant",
+     "Bee",
+     "Chair"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Cow",
+     "Goat",
+     "Tree",
+     "Dog"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. Car\n2. Table\n3. Book\n4. Chair\n5. Tree",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_09_009",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the odd one out",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Remembered",
+     "Forgot",
+     "Knew",
+     "Pencil"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Tree",
+     "Leaf",
+     "Flower",
+     "Bus"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Grass",
+     "Leaf",
+     "Cow",
+     "Ball"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Happy",
+     "Sad",
+     "Angry",
+     "Tree"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Wind",
+     "Rain",
+     "Sun",
+     "Fly"
+    ],
+    "ans": 4
+   }
+  ],
+  "ans": "1. Pencil\n2. Bus\n3. Ball\n4. Tree\n5. Fly",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_09_010",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. Why was the fly sad?\n2. What would you do if you forgot your name?\n3. Why did the fly ask the ant?\n4. Why did the ant send the fly to the tree?\n5. Was the tree helpful? Why?",
+  "ans": "1. He forgot his name.\n2. I would ask my parents or teacher.\n3. He thought the ant might know.\n4. The ant did not know his name.\n5. Yes, it guided the fly.",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_09_011",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. Why did the tree send the fly to the cow?\n2. Why did the cow send the fly to the grass?\n3. Why did the grass send the fly to the leaf?\n4. What helped the fly remember his name?\n5. Why was the fly happy at the end?",
+  "ans": "1. It thought the cow might know.\n2. It thought the grass might know.\n3. It thought the leaf might know.\n4. The flying leaf reminded him.\n5. He remembered his name.",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_09_012",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What can we learn from the fly?\n2. Should we ask for help? Why?\n3. Why should we not give up?\n4. Who helped the fly the most?\n5. Which character did you like most? Why?",
+  "ans": "1. Never give up.\n2. Yes, because others can help us.\n3. We may find the answer if we keep trying.\n4. The leaf and the wind.\n5. Any suitable answer.",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_09_013",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. If you were the ant, what would you do?\n2. If you were the tree, what would you say?\n3. If you were the cow, how would you help?\n4. What would happen if there was no wind?\n5. Why did the fly keep asking others?",
+  "ans": "1. I would help the fly.\n2. I would guide the fly kindly.\n3. I would try to help him.\n4. The fly might not remember.\n5. He wanted to find his name.",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_09_014",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What would you tell the fly?\n2. Why is your name important?\n3. How do you feel when someone helps you?\n4. How should we thank someone who helps us?\n5. Why should we help our friends?",
+  "ans": "1. Keep trying.\n2. It tells who I am.\n3. I feel happy.\n4. We should say \"Thank you.\"\n5. Helping is kind.",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_09_015",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What would you do if your friend forgot something?\n2. Why is it good to be patient?\n3. What made the story interesting?\n4. Which part of the story did you like best? Why?\n5. What would you name this story?",
+  "ans": "1. I would help my friend.\n2. It helps us solve problems.\n3. The fly's search for his name.\n4. Any suitable answer.\n5. The Fly Finds His Name.",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_09_016",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What did the fly learn?\n2. Why should we listen carefully?\n3. Why is it good to think before giving up?\n4. What would happen if the fly stopped asking?\n5. Was the fly brave? Why?",
+  "ans": "1. To keep trying.\n2. It helps us learn.\n3. We can solve problems.\n4. He would not remember his name.\n5. Yes, he did not give up.",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_09_017",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. Why did every character try to help?\n2. What does kindness mean?\n3. Who was the kindest in the story?\n4. Why should we speak politely?\n5. What would you do after remembering your name?",
+  "ans": "1. They were kind.\n2. Helping others.\n3. Any suitable answer.\n4. It shows respect.\n5. I would smile happily.",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_09_018",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. How did the wind help the fly?\n2. Why do people sometimes forget things?\n3. What should we do when we forget something?\n4. What makes a good friend?\n5. How can we remember important things?",
+  "ans": "1. It made the leaf fly.\n2. We sometimes forget.\n3. Stay calm and think.\n4. A good friend helps others.\n5. Repeat or write them down.",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_09_019",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What would you ask the fly?\n2. What lesson will you remember from this story?\n3. Why should we never laugh at others?\n4. How can you help someone who is worried?\n5. What is the main message of the story?",
+  "ans": "1. \"Are you happy now?\"\n2. Never give up.\n3. Everyone can forget.\n4. I would comfort and help them.\n5. Keep trying, ask for help, and be kind to others.",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_09_020",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw the little fly and write two sentences describing it.",
+  "height": 28,
+  "ans": "The fly is little and grey. It has two wings and six legs.",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_09_021",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write two rhyming words for fly and two rhyming words for tree.",
+  "height": 28,
+  "ans": "Fly – sky, dry Tree – bee, see",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_09_022",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short 3-line poem about the little fly looking for its name.",
+  "height": 28,
+  "ans": "Little fly looked everywhere. Friends helped with love and care. At last, Fly found his name.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_09_023",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short two-line dialogue between the fly and the ant.",
+  "height": 28,
+  "ans": "Fly: Ant, do you know my name? Ant: No, ask the tree.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_09_024",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short paragraph (4–5 lines) about how the fly found its name.",
+  "height": 28,
+  "ans": "A little fly forgot his name. He asked the ant, tree, cow, grass, and leaf for help. When the wind blew, the leaf started flying. Seeing the leaf fly, the little fly remembered his name. He became very happy.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_09_025",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Create a 5-word poster slogan encouraging children to help others kindly.",
+  "height": 28,
+  "ans": "\"Help Others With A Smile.\"",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_09_026",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why do you think the fly felt happy at the end of the story?",
+  "height": 28,
+  "ans": "The fly felt happy because it remembered its name.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_09_027",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Is it good to ask others for help when we have a problem? Write Yes or No.",
+  "height": 28,
+  "ans": "Yes.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_09_028",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why did the fly keep asking different friends for help?",
+  "height": 28,
+  "ans": "The fly wanted to find its name, so it asked everyone for help.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_09_029",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "What important message does this story teach us?",
+  "height": 28,
+  "ans": "We should never give up and should ask for help when needed.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_09_030",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why should we be kind and help others when they need help?",
+  "height": 28,
+  "ans": "Helping others makes them happy and shows kindness.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_09_031",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "How did the ant, tree, cow, grass, and leaf help the fly? What does this tell us about helping others?",
+  "height": 28,
+  "ans": "Each one guided the fly to another friend. This teaches us that everyone can help in different ways. UNIT 4: LIFE AROUND US CHAPTER 3: THE CROW",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_09_032",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. My Name",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following",
+  "pairs": [
+   {
+    "a": "Little",
+    "word": "Small"
+   },
+   {
+    "a": "Shade",
+    "word": "A cool place away from sun"
+   },
+   {
+    "a": "Grass",
+    "word": "Green plants that grow on the ground"
+   },
+   {
+    "a": "Wind",
+    "word": "Moving air"
+   },
+   {
+    "a": "Remembered",
+    "word": "Recalled something that was forgotten"
+   }
+  ],
+  "ans": "(1) → Small | (2) → A cool place away from sun | (3) → Green plants that grow on the ground | (4) → Moving air | (5) → Recalled something that was forgotten",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_10_001",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. C __ O W\n2. B __ A C K\n3. K N __ W\n4. B E A U __ I F U L\n5. W A N __ E D",
+  "ans": "1. CrOW\n2. BlACK\n3. KNoW\n4. BEAUtIFUL\n5. WANtED",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_10_002",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. C O L O U __ F U L\n2. F E A T H __ R S\n3. G __ O W\n4. F O __ N D\n5. P E A C __ C K",
+  "ans": "1. COLOUrFUL\n2. FEATHeRS\n3. GrOW\n4. FOuND\n5. PEACoCK",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_10_003",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. S T __ C K\n2. T A __ L\n3. A N O T H __ R\n4. P I C K __ D\n5. F A __ L",
+  "ans": "1. STuCK\n2. TAiL\n3. ANOTHeR\n4. PICKeD\n5. FAiL",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_10_004",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. W I __ G S\n2. D A N C __ D\n3. L A U G H __ D\n4. F __ O L\n5. L O __ E",
+  "ans": "1. WInGS\n2. DANCeD\n3. LAUGHeD\n4. FoOL\n5. LOvE",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_10_005",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "What colour was the crow originally?",
+    "options": [
+     "White",
+     "Black",
+     "Blue",
+     "Green"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What did the crow want to grow?",
+    "options": [
+     "Long wings",
+     "Colourful feathers",
+     "Sharp claws",
+     "A long tail"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Whose feather did the crow find first?",
+    "options": [
+     "Parrot",
+     "Eagle",
+     "Peacock",
+     "Pigeon"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Where did the crow stick the first peacock feather?",
+    "options": [
+     "On his head",
+     "In his wings",
+     "In his tail",
+     "On his beak"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Where did he put one of the feathers later?",
+    "options": [
+     "On his head",
+     "On his legs",
+     "Under his beak",
+     "In his nest"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Black\n2. Colourful feathers\n3. Peacock\n4. In his tail\n5. On his head",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_10_006",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "What did the crow do when he thought he was beautiful?",
+    "options": [
+     "Slept",
+     "Flew away",
+     "Danced and said he was beautiful",
+     "Cried"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "How did the other crows react when they saw him?",
+    "options": [
+     "They cried",
+     "They laughed at him",
+     "They danced with him",
+     "They ran away"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What did the other crows call him?",
+    "options": [
+     "A king",
+     "A fool",
+     "A hero",
+     "A peacock"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "According to the other crows, in what colour is he beautiful?",
+    "options": [
+     "Red",
+     "Green",
+     "Black",
+     "Yellow"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "What message do the other crows give at the end?",
+    "options": [
+     "\"Change your colour\"",
+     "\"We love you for what you are\"",
+     "\"Fly away\"",
+     "\"Find more feathers\""
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Danced and said he was beautiful\n2. They laughed at him\n3. A fool\n4. Black\n5. \"We love you for what you are\"",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_10_007",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "The crow wanted to become beautiful.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The crow found peacock feathers on the ground.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The crow threw the peacock feathers away.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The crow stuck the feathers in his tail.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The crow put one feather on his head.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True\n2. True\n3. False\n4. True\n5. True",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_10_008",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "The crow said, \"I am now beautiful.\"",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The other crows praised the crow for wearing peacock feathers.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The other crows laughed at the crow.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The other crows said the crow was beautiful in black.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The poem teaches us to be happy with who we are.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True\n2. False\n3. True\n4. True\n5. True",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_10_009",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the odd one out",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Crow",
+     "Peacock",
+     "Sparrow",
+     "Tree"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Feather",
+     "Wing",
+     "Tail",
+     "Stone"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Crow",
+     "Black",
+     "Beautiful",
+     "Table"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Dance",
+     "Laugh",
+     "Pick",
+     "Pencil"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Peacock feather",
+     "Wing",
+     "Tail",
+     "Grass"
+    ],
+    "ans": 4
+   }
+  ],
+  "ans": "1. Tree\n2. Stone\n3. Table\n4. Pencil\n5. Grass",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_10_010",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the odd one out",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Crow",
+     "Peacock",
+     "Feather",
+     "Book"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Tree",
+     "Branch",
+     "Flower",
+     "Crow"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Beautiful",
+     "Black",
+     "Colourful",
+     "Chair"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Head",
+     "Tail",
+     "Wing",
+     "Leaf"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Crow",
+     "Feather",
+     "Tail",
+     "School"
+    ],
+    "ans": 4
+   }
+  ],
+  "ans": "1. Book\n2. Crow\n3. Chair\n4. Leaf\n5. School",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_10_011",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What colour was the crow?\n2. What did the crow want to grow?\n3. Which bird's feather did the crow find?\n4. Where did the crow stick the first feather?\n5. Where did the crow stick the feathers next?",
+  "ans": "1. Black\n2. Colourful feathers\n3. Peacock\n4. In his tail\n5. In his wings",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_10_012",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. Where did he put one of the feathers?\n2. What did the crow do after putting on the feathers?\n3. How did the other crows react when they saw him?\n4. What did the other crows call him?\n5. Why do the other crows love him?",
+  "ans": "1. On his head\n2. He danced and said he was beautiful.\n3. They laughed at him.\n4. A fool\n5. For what he is.",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_10_013",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw a crow and write two sentences describing its colour and feathers.",
+  "height": 28,
+  "ans": "The crow is black. It has black wings and a long tail.",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_10_014",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write two rhyming words for crow and two for tail.",
+  "height": 28,
+  "ans": "Crow – bow, snow Tail – mail, sail",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_10_015",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short 3-line poem about a happy crow. .",
+  "height": 28,
+  "ans": "Black crow flies high. It sings happily every day. Be proud of yourself.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_10_016",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short two-line dialogue between the crow and the other crows after they speak to him.",
+  "height": 28,
+  "ans": "Crow: I am happy to be myself. Other Crows: We love you just as you are.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_10_017",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short paragraph (4–5 lines) about what you would do if you found colourful feathers.",
+  "height": 28,
+  "ans": "I would collect the feathers carefully. I would admire their beautiful colours. I would not pretend to be another bird. I would be happy with who I am.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_10_018",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Create a 5-word value poster slogan encouraging children to be happy with themselves.",
+  "height": 28,
+  "ans": "\"Be Yourself, Always Stay Proud.\"",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_10_019",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why did the crow want to become beautiful?",
+  "height": 28,
+  "ans": "The crow wanted to become beautiful like a peacock.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_10_020",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Is it good to be happy with who we are? Write Yes or No. .",
+  "height": 28,
+  "ans": "Yes.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_10_021",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why did the other crows laugh at the crow?",
+  "height": 28,
+  "ans": "They laughed because the crow wore peacock feathers and tried to look like another bird.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_10_022",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "What important message does the poem teach us?",
+  "height": 28,
+  "ans": "The poem teaches us to be happy and proud of who we are.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_10_023",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why should we not copy others just to look beautiful?",
+  "height": 28,
+  "ans": "Because everyone is special in their own way.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_10_024",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "How does being proud of yourself make you a good person?",
+  "height": 28,
+  "ans": "It helps us feel confident, honest, and happy with ourselves. UNIT 4: LIFE AROUND US CHAPTER 4: THE SMART MONKEY",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_10_025",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. The Crow",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following",
+  "pairs": [
+   {
+    "a": "Crow",
+    "word": "A black bird"
+   },
+   {
+    "a": "Beautiful",
+    "word": "Pretty or nice to look at"
+   },
+   {
+    "a": "Feather",
+    "word": "One of the soft parts that covers bird’s body"
+   },
+   {
+    "a": "Stuck",
+    "word": "Fixed or attached"
+   },
+   {
+    "a": "Laughed",
+    "word": "Smiled and made a happy sound"
+   }
+  ],
+  "ans": "(1) → A black bird | (2) → Pretty or nice to look at | (3) → One of the soft parts that covers bird’s body | (4) → Fixed or attached | (5) → Smiled and made a happy sound",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_11_001",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. M __ R K E T\n2. B __ T T L E\n3. P __ C K E T\n4. G R O U __ D N U T S\n5. J __ I C E",
+  "ans": "1. MaRKET\n2. BoTTLE\n3. PaCKET\n4. GROUnDNUTS\n5. JuICE",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_11_002",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. T __ R E D\n2. B __ N C H\n3. M O __ K E Y\n4. B R __ N C H\n5. P __ E L E D",
+  "ans": "1. TiRED\n2. BeNCH\n3. MOnKEY\n4. BRaNCH\n5. PeELED",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_11_003",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. D __ S T B I N\n2. C L __ M B E D\n3. A S H __ M E D\n4. E __ P T Y\n5. S H __ P P I N G",
+  "ans": "1. DuSTBIN\n2. CLiMBED\n3. ASHaMED\n4. EmPTY\n5. SHoPPING",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_11_004",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. T H R __ W\n2. N __ A R B Y\n3. B O U __ H T\n4. U N __ E R",
+  "ans": "1. THReW\n2. NeARBY\n3. BOUgHT\n4. UNdER",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_11_005",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "Where did Anju and Farida go one day?",
+    "options": [
+     "To the park",
+     "To the market",
+     "To school",
+     "To the zoo"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What did Anju buy first at the market?",
+    "options": [
+     "A water bottle",
+     "A packet of groundnuts",
+     "A bag",
+     "A bottle of juice"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "What did Farida buy first?",
+    "options": [
+     "A water bottle",
+     "A bag",
+     "Juice",
+     "Bananas"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "What packet did they buy from the shop later?",
+    "options": [
+     "Chips",
+     "Biscuits",
+     "Groundnuts",
+     "Sweets"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "What liquid drink did they buy at the shop?",
+    "options": [
+     "Milk",
+     "Water",
+     "Tea",
+     "Juice"
+    ],
+    "ans": 4
+   }
+  ],
+  "ans": "1. To the market\n2. A bag\n3. A water bottle\n4. Groundnuts\n5. Juice",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_11_006",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "Why did they sit on a bench?",
+    "options": [
+     "They felt sleepy",
+     "They felt tired",
+     "They felt hungry",
+     "They felt sick"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Where was the bench situated?",
+    "options": [
+     "Near a house",
+     "Inside a shop",
+     "Under a tree",
+     "On the road"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Where was the monkey sitting?",
+    "options": [
+     "On the bench",
+     "On the branch of the tree",
+     "On top of the dustbin",
+     "On the ground"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What food item did the monkey have with him?",
+    "options": [
+     "An apple",
+     "An orange",
+     "A banana",
+     "Groundnuts"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "What did the monkey do before eating his banana?",
+    "options": [
+     "Washed it",
+     "Peeled it",
+     "Cut it",
+     "Threw it"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. They felt tired\n2. Under a tree\n3. On the branch of the tree\n4. A banana\n5. Peeled it",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_11_007",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "What did Anju and Farida eat while sitting under the tree?",
+    "options": [
+     "Apples",
+     "Groundnuts",
+     "Sandwiches",
+     "Bananas"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Where did the girls throw the empty groundnut packet?",
+    "options": [
+     "In the dustbin",
+     "Down on the ground",
+     "In their bag",
+     "Under the bench"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Where did the girls throw the juice bottle after drinking it?",
+    "options": [
+     "Down on the ground",
+     "Into the dustbin",
+     "Under the tree branch",
+     "Inside their bag"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Where did the monkey climb down to?",
+    "options": [
+     "To steal their bag",
+     "To play with them",
+     "With the banana peel",
+     "To get more food"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "What did the monkey do with the banana peel?",
+    "options": [
+     "Threw it at the girls",
+     "Ate it",
+     "Threw it into the dustbin",
+     "Dropped it on the bench"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. Groundnuts\n2. Down on the ground\n3. Down on the ground\n4. With the banana peel\n5. Threw it into the dustbin",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_11_008",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "How did Farida and Anju feel when they saw the monkey use the dustbin?",
+    "options": [
+     "Happy",
+     "Angry",
+     "Ashamed",
+     "Excited"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "What did the girls pick up after watching the monkey?",
+    "options": [
+     "Their bags",
+     "The empty packet and bottle",
+     "The banana peel",
+     "Leaves from the ground"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Where did the girls throw their trash at the end?",
+    "options": [
+     "Into the dustbin",
+     "Under the bench",
+     "On the road",
+     "Near the shop"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "What is another word for groundnuts mentioned in the lesson?",
+    "options": [
+     "Walnuts",
+     "Almonds",
+     "Peanuts",
+     "Cashews"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Why was the monkey called \"smart\"?",
+    "options": [
+     "He could talk to people",
+     "He threw his trash into the dustbin",
+     "He bought juice from the shop",
+     "He climbed trees fast"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Ashamed\n2. The empty packet and bottle\n3. Into the dustbin\n4. Peanuts\n5. He threw his trash into the dustbin",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_11_009",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. MRAKTE\n2. PCATKE\n3. GORUNDNTUS\n4. JUCIE\n5. TIERD",
+  "ans": "1. Market\n2. Packet\n3. Groundnuts\n4. Juice\n5. Tired",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_11_010",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. BNECH\n2. MNOEKY\n3. BARNCH\n4. BNANAA\n5. DSUTIBN",
+  "ans": "1. Bench\n2. Monkey\n3. Branch\n4. Banana\n5. Dustbin",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_11_011",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. CILMBED\n2. AHSAMED\n3. EPMTY\n4. SOHPNIGP\n5. TRHWE",
+  "ans": "1. Climbed\n2. Ashamed\n3. Empty\n4. Shopping\n5. Threw",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_11_012",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. NREABY\n2. BUOHGT\n3. NUEDR",
+  "ans": "1. Nearby\n2. Bought\n3. Under",
+  "marks": 3,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_11_013",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw a monkey and write two sentences describing its colour and actions.",
+  "height": 28,
+  "ans": "The monkey is brown. It is smart and keeps the park clean.",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_11_014",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write two rhyming words for tree and two for bin.",
+  "height": 28,
+  "ans": "Tree – bee, free; Bin – pin, tin",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_11_015",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short 3-line poem about a smart monkey keeping the park clean.",
+  "height": 28,
+  "ans": "Smart monkey is kind. It throws waste in the bin. Let us keep our park clean.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_11_016",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Create a 5-word cleanliness poster slogan encouraging children to use a dustbin.",
+  "height": 28,
+  "ans": "Please throw waste in the dustbin.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_11_017",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why did Anju and Farida sit under the tree?",
+  "height": 28,
+  "ans": "They sat under the tree because they were tired and wanted to rest.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_11_018",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Is it good to throw waste into a dustbin? Write Yes or No.",
+  "height": 28,
+  "ans": "Yes.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_11_019",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why did the monkey throw the banana peel into the dustbin?",
+  "height": 28,
+  "ans": "The monkey wanted to keep the place clean.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_11_020",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "What did Anju and Farida learn from the monkey?",
+  "height": 28,
+  "ans": "They learned to throw waste into the dustbin and keep the surroundings clean.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_11_021",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why should we keep parks and public places clean?",
+  "height": 28,
+  "ans": "Clean parks are healthy, safe, and beautiful for everyone.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_11_022",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "How does using a dustbin show that we are responsible citizens?",
+  "height": 28,
+  "ans": "It shows that we care for the environment and respect public places LESSON 5: HARMONY CHAPTER 1: LITTLE DROPS OF WATER",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_11_023",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "11. The Smart Monkey",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following",
+  "pairs": [
+   {
+    "a": "Groundnuts",
+    "word": "Peanuts that grow under the ground"
+   },
+   {
+    "a": "Branch",
+    "word": "A part of a tree that grows from the trunk"
+   },
+   {
+    "a": "Peel",
+    "word": "The outer skin of a fruit"
+   },
+   {
+    "a": "Dustbin",
+    "word": "A container used to throw waste"
+   },
+   {
+    "a": "Ashamed",
+    "word": "Feeling sorry"
+   }
+  ],
+  "ans": "(1) → Peanuts that grow under the ground | (2) → A part of a tree that grows from the trunk | (3) → The outer skin of a fruit | (4) → A container used to throw waste | (5) → Feeling sorry",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_12_001",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. W A __ E R\n2. O C E __ N\n3. L A __ D\n4. K I N D N __ S S\n5. D E __ D S",
+  "ans": "1. WAtER\n2. OCEaN\n3. LAnD\n4. KINDNeSS\n5. DEeDS",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_12_002",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. S M I __ E S\n2. H A P P I N __ S S\n3. N A U G H __ Y\n4. P L E A S __ N T\n5. G R A __ N S",
+  "ans": "1. SMIlES\n2. HAPPINeSS\n3. NAUGHtY\n4. PLEASaNT\n5. GRAiNS",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_12_003",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "What do little drops of water make?",
+    "options": [
+     "A river",
+     "The mighty ocean",
+     "A lake",
+     "Raindrops"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What do little grains of sand make?",
+    "options": [
+     "The pleasant land",
+     "A mountain",
+     "A house",
+     "The ocean"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "What do little deeds of warmth spread?",
+    "options": [
+     "Flowers",
+     "Tears",
+     "Smiles and happiness",
+     "Sadness"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Little acts of __ spread happiness.",
+    "options": [
+     "anger",
+     "kindness",
+     "mischief",
+     "play"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "We use \"drops of\" for which item?",
+    "options": [
+     "Bread",
+     "Juice",
+     "Rice",
+     "Salt"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. The mighty ocean\n2. The pleasant land\n3. Smiles and happiness\n4. kindness\n5. Juice",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_12_004",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "Complete the phrase: A __ of toothpaste.",
+    "options": [
+     "cup",
+     "tube",
+     "bag",
+     "slice"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Complete the phrase: A __ of bread.",
+    "options": [
+     "slice",
+     "box",
+     "tube",
+     "cup"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Complete the phrase: A __ of milk.",
+    "options": [
+     "box",
+     "bag",
+     "cup",
+     "tube"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Complete the phrase: A __ of pencils.",
+    "options": [
+     "box",
+     "cup",
+     "slice",
+     "tube"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Complete the phrase: A __ of clothes.",
+    "options": [
+     "box",
+     "slice",
+     "bag",
+     "tube"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. tube\n2. slice\n3. cup\n4. box\n5. bag",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_12_005",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. w t e a r\n2. s n d a\n3. o a e c n\n4. l d n a\n5. l v o e",
+  "ans": "1. Water\n2. Sand\n3. Ocean\n4. Land\n5. Love",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_12_006",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. s e l i m s\n2. w h m r t a\n3. d d e e s\n4. g s i a r n\n5. d p o r s",
+  "ans": "1. Smiles\n2. Warmth\n3. Deeds\n4. Grains\n5. Drops",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_12_007",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "vsa_1m",
+  "q": "Rearrange the Words to Form Proper Sentences\n1. Raghav book took his\n2. went Ramona school to\n3. they wearing are black both shoes\n4. very these beautiful are butterflies\n5. Moti go for a walk to likes",
+  "ans": "1. Raghav took his book\n2. Ramona went to school\n3. They are both wearing black shoes\n4. These butterflies are very beautiful\n5. Moti likes to go for a walk",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_12_008",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "vsa_1m",
+  "q": "Rearrange the Words to Form Proper Sentences\n1. monkey the took the naughty away banana\n2. make ocean the mighty drops water of\n3. land grains sand make the pleasant of\n4. spread smiles deeds warmth of",
+  "ans": "1. The naughty monkey took away the banana\n2. Drops of water make the mighty ocean\n3. Grains of sand make the pleasant land\n4. Deeds of warmth spread smiles",
+  "marks": 4,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_12_009",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What kind of drops make the mighty ocean?\n2. What kind of grains make the pleasant land?\n3. What size are the words of love mentioned in the poem?\n4. What kind of acts spread happiness along with deeds of warmth?\n5. What do little deeds of warmth spread along with happiness?",
+  "ans": "1. Little\n2. Sand\n3. Little\n4. Kindness\n5. Smiles",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_12_010",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. Which large body of water is made by little drops?\n2. What is made by little grains of sand?\n3. What kind of words are spoken to show affection?\n4. What feelings are spread by little deeds of warmth?\n5. What feeling is spread alongside smiles in the poem?",
+  "ans": "1. Ocean\n2. Land\n3. Love\n4. Happiness\n5. Happiness",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_12_011",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Imagine a gentle raindrop falling from a cloud onto a leaf. Write 3 short, simple sentences about where the raindrop goes and what it sees on its journey.",
+  "height": 28,
+  "ans": "I am a little raindrop falling from a big cloud. I land softly on a bright green leaf in the garden. I slip down to feed the roots of a tiny flower.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_12_012",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "The poem mentions \"little acts of kindness.\" Write a 3-line story about how you helped someone at home or at school today.",
+  "height": 28,
+  "ans": "My friend dropped their crayons on the floor. I helped them pick up all the colours quickly. They smiled and said \"thank you\" to me.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_12_013",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write your own 4-line mini-poem about water using simple rhyming words (such as rain/train, blue/you, or sea/me).",
+  "height": 28,
+  "ans": "Splash goes the fresh rain, Washing clean the windowpane. Water makes the flowers grow, Sparkling in a bright rainbow.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_12_014",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw or describe in 3 simple sentences how you can show \"little deeds of warmth\" to a pet or a neighbourhood animal.",
+  "height": 28,
+  "ans": "I can keep a bowl of clean water outside for birds. I can speak softly to a friendly dog so it feels safe. I can give a gentle pat to my cat when it sits near me.",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_12_015",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Imagine you are having a conversation with a grain of sand on a sandy beach. Write a short",
+  "height": 28,
+  "ans": "Me: Hello tiny grain of sand, how do you help make the huge beach? Sand: Millions of us stay together to give you a soft place to play!",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_12_016",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "The poem says that tiny drops of water come together to make a \"mighty ocean.\" What does this teach us about the power of small things?",
+  "height": 28,
+  "ans": "It teaches us that even tiny, small efforts add up to make something big and wonderful when they all come together.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_12_017",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Which line in the poem is your favourite, and why does it make you feel happy or peaceful?",
+  "height": 28,
+  "ans": "My favourite line is \"Spread smiles and happiness\" because it reminds me how easy it is to make someone feel good.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_12_018",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "How do \"little words of love\" and \"little acts of kindness\" help make our classroom or home a wonderful place to be?",
+  "height": 28,
+  "ans": "Kind words and helpful actions prevent arguments, make everyone feel loved, and fill the room with bright smiles.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_12_019",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "The poet connects things in nature (like water drops and sand) with human feelings (like love and kindness). Why do you think both are important for our world?",
+  "height": 28,
+  "ans": "Both are important because nature gives us a beautiful earth to live on, while love and kindness fill our lives with peace and joy.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_12_020",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "12. Little Drops of Water",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "How does reading this poem make you feel about the small, helpful things you do every single day?",
+  "height": 28,
+  "ans": "It makes me feel proud because it shows that even my smallest good deeds can make a big, positive difference to people around me. UNIT 5: HARMONY CHAPTER 2: WE ARE ALL INDIANS",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_13_001",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. T __ m __ l N __ d u\n2. G __ r b __ \n3. R __ j __ s t h __ n\n4. P __ p p __ t\n5. C __ m __ l",
+  "ans": "1. TamilNadu\n2. Garba\n3. Rajasthan\n4. Puppet\n5. Camel",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_13_002",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. B __ n g __ l\n2. P __ i n t __ n g\n3. S __ n t __ n i k __ t __ n\n4. M __ h __ r __ s h t r __ \n5. E __ l __ r __ ",
+  "ans": "1. Bengal\n2. Painting\n3. Santiniketan\n4. Maharashtra\n5. Ellora",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_13_003",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. A __ a n t __ \n2. P __ n j __ b\n3. B __ a n g r __ \n4. U __ t __ r P __ a d __ s h\n5. T __ j M __ h __ l",
+  "ans": "1. Ajanta\n2. Punjab\n3. Bhangra\n4. UttarPradesh\n5. TajMahal",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_13_004",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. M __ n i p __ r\n2. K __ r n __ t __ k __ ",
+  "ans": "1. Manipur\n2. Karnataka",
+  "marks": 2,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_13_005",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "Meenakshi's favourite festival is:",
+    "options": [
+     "Diwali",
+     "Pongal",
+     "Onam"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Ramu likes to dance the:",
+    "options": [
+     "Garba",
+     "Bhangra",
+     "Kathak"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Gulabo likes wearing __________ clothes.",
+    "options": [
+     "Plain",
+     "Colourful",
+     "Dark"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Badal comes from:",
+    "options": [
+     "Bengal",
+     "Punjab",
+     "Kerala"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Vibha speaks:",
+    "options": [
+     "Gujarati",
+     "Marathi",
+     "Tamil"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Pongal\n2. Garba\n3. Colourful\n4. Bengal\n5. Marathi",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_13_006",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "Surinder comes from:",
+    "options": [
+     "Odisha",
+     "Punjab",
+     "Manipur"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Neerja comes from:",
+    "options": [
+     "Uttar Pradesh",
+     "Karnataka",
+     "Gujarat"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Nonglik speaks:",
+    "options": [
+     "Manipuri",
+     "Kannada",
+     "Telugu"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Kamala comes from:",
+    "options": [
+     "Tamil Nadu",
+     "Karnataka",
+     "Kerala"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Bharti speaks:",
+    "options": [
+     "Oriya",
+     "Telugu",
+     "Marathi"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Punjab\n2. Uttar Pradesh\n3. Manipuri\n4. Karnataka\n5. Telugu",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_13_007",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "Bharti stays with her friends Salma and:",
+    "options": [
+     "Ramu",
+     "Suresh",
+     "Badal"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The two sisters speak:",
+    "options": [
+     "Oriya",
+     "Hindi",
+     "Tamil"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Unni's favourite tree is the:",
+    "options": [
+     "Mango tree",
+     "Coconut tree",
+     "Banyan tree"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Gulabo enjoys seeing __________ shows.",
+    "options": [
+     "Puppet",
+     "Movie",
+     "Magic"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Badal likes painting and:",
+    "options": [
+     "Dancing",
+     "Music",
+     "Singing"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Suresh\n2. Oriya\n3. Coconut tree\n4. Puppet\n5. Music",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_13_008",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "Mallika is Surinder's:",
+    "options": [
+     "Sister",
+     "Neighbour",
+     "Friend"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The Taj Mahal is located in:",
+    "options": [
+     "Uttar Pradesh",
+     "Rajasthan",
+     "Maharashtra"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Ellora and Ajanta are famous:",
+    "options": [
+     "Monuments",
+     "Caves",
+     "Rivers"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Each of us is:",
+    "options": [
+     "Same",
+     "Unique",
+     "Similar"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Chapter 2 is titled \"We are all __________\".",
+    "options": [
+     "Friends",
+     "Children",
+     "Indians"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. Neighbour\n2. Uttar Pradesh\n3. Caves\n4. Unique\n5. Indians",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_13_009",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. m t a i l\n2. a m n e\n3. s e f t i v a l\n4. e v e s n\n5. a d n c e",
+  "ans": "1. Tamil\n2. Name\n3. Festival\n4. Seven\n5. Dance",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_13_010",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. o l o u r f u l C\n2. a t r e v l\n3. s u m i c\n4. c a v e s\n5. g h b o u r n e i",
+  "ans": "1. Colourful\n2. Travel\n3. Music\n4. Caves\n5. Neighbour",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_13_011",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. m o n u m e n t\n2. s p e a k\n3. r d e c o a t e\n4. r e f i n g p r i n t s\n5. u n i q u e",
+  "ans": "1. Monument\n2. Speak\n3. Decorate\n4. Fingerprints\n5. Unique",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_13_012",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. h o l i d a y s\n2. I n d i a n s",
+  "ans": "1. Holidays\n2. Indians",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_13_013",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the correctly spelled word",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Pupaet",
+     "Puppet",
+     "Pupet"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "Travel",
+     "Travle",
+     "Traavel"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "Painting",
+     "Painteng",
+     "Paenting"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "Neighbur",
+     "Neighbour",
+     "Naighbour"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "Fingerprints",
+     "Fingerprents",
+     "Fingarprints"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Puppet\n2. Travel\n3. Painting\n4. Neighbour\n5. Fingerprints",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_13_014",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the correctly spelled word",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Monumant",
+     "Monument",
+     "Monumint"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "Uniqe",
+     "Unique",
+     "Uneque"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "Coconat",
+     "Coconutt",
+     "Coconut"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "",
+    "options": [
+     "Favurite",
+     "Favourite",
+     "Favorit"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "Language",
+     "Langwage",
+     "Lenguage"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Monument\n2. Unique\n3. Coconut\n4. Favourite\n5. Language",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_13_015",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the correctly spelled word",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Instrumeent",
+     "Instrument",
+     "Instrumint"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "Hollidays",
+     "Holidays",
+     "Holidais"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "Decrate",
+     "Decorate",
+     "Decorait"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "Gujarat",
+     "Gujrat",
+     "Goojarat"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "Mahrashtra",
+     "Maharashtra",
+     "Maharastra"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Instrument\n2. Holidays\n3. Decorate\n4. Gujarat\n5. Maharashtra",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_13_016",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the correctly spelled word",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Karnataca",
+     "Karnataka",
+     "Karnatika"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "Mridang",
+     "Mredang",
+     "Mridangh"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "Indiuns",
+     "Indians",
+     "Indeans"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Karnataka\n2. Mridang\n3. Indians",
+  "marks": 3,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_13_017",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. Where does Meenakshi come from?\n2. What language does Ramu speak?\n3. How old is Ramu?\n4. What animal does Gulabo travel by?\n5. Where does Badal study?",
+  "ans": "1. Tamil Nadu\n2. Gujarati\n3. Seven years old\n4. Camel\n5. Santiniketan",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_13_018",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. Which caves did Vibha visit along with Ellora?\n2. What dance does Mallika like to do?\n3. Which famous monument has Neerja seen?\n4. Where does Nonglik come from?\n5. What musical instrument does Kamala play?",
+  "ans": "1. Ajanta\n2. Bhangra\n3. Taj Mahal\n4. Manipur\n5. Mridang",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_13_019",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What language is spoken in Andhra Pradesh?\n2. Which place does Bharti visit during summer holidays?\n3. Which state do the two sisters belong to?\n4. What do the two sisters decorate?\n5. Which state is Unni from?",
+  "ans": "1. Telugu\n2. Kashmir\n3. Odisha\n4. Walls and floors\n5. Kerala",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_13_020",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What language is spoken in Kerala?\n2. What is Unni's favourite tree?\n3. What show does Gulabo enjoy seeing?\n4. What activity does Badal like besides music?\n5. What are we all, according to the chapter?",
+  "ans": "1. Malayalam\n2. Coconut tree\n3. Puppet shows\n4. Painting\n5. Indians",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_13_021",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Imagine you are introduced in this lesson alongside Meenakshi, Ramu, and Gulabo. Write 3 to 4 sentences about yourself following the style of the textbook (Include your name, state/city, language you speak, and favourite activity).",
+  "height": 28,
+  "ans": "My name is Aarav. I come from Maharashtra. I speak Hindi and English. My favourite activity is playing football.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_13_022",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Gulabo travels by camel in Rajasthan, and Bharti visits Kashmir during summer holidays. Write a short diary entry (2–3 sentences) describing a fun trip you went on or would love to go on with your family.",
+  "height": 28,
+  "ans": "Dear Diary, Today I went to the beach with my family. We made sandcastles and enjoyed eating ice cream by the sea!",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_13_023",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw or describe in 3 simple sentences a festival you celebrate with your family, just like Meenakshi celebrates Pongal in Tamil Nadu.",
+  "height": 28,
+  "ans": "I celebrate Diwali with my family. We light small clay lamps (diyas) around our home. We also share delicious sweets with our neighbours.",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_13_024",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "The two sisters from Odisha like to decorate their house walls. Write 3 creative ways you can decorate your own room or classroom for a celebration.",
+  "height": 28,
+  "ans": "1. Hanging colourful paper flags along the wall.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_13_025",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Imagine you are visiting Kerala to see Unni. Write a short 2-line conversation (dialogue) between you and Unni when you meet him near the coconut trees.",
+  "height": 28,
+  "ans": "Me: Hello Unni! Your state is so green and beautiful! Unni: Welcome! Let's go drink fresh coconut water together! SECTIN VI",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_13_026",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "In the story, children from different states speak different languages (like Tamil, Gujarati, Bengali, and Malayalam) but are all part of one big country. What do you appreciate most about having friends from different states?",
+  "height": 28,
+  "ans": "I appreciate that having friends from different states helps us learn new languages, taste different kinds of food, and celebrate many exciting festivals together.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_13_027",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Ramu loves dancing Garba and Surinder’s neighbour loves Bhangra. Why do you think music and dance bring people together and make us happy?",
+  "height": 28,
+  "ans": "Music and dance bring people together because they make everyone feel happy, energetic, and connected, even if they speak different languages.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_13_028",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Look at the artwork/illustrations in the lesson showing puppets in Rajasthan, houseboats in Kashmir, and green palm trees in Kerala. Which picture did you find the most beautiful, and why?",
+  "height": 28,
+  "ans": "I liked the picture of Kerala the most because of the calm blue water, the wooden boat, and the tall, green coconut trees.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_13_029",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Badal from Bengal loves painting and music, while Kamala from Karnataka plays the Mridang. How do creative hobbies like painting and playing instruments make our lives special?",
+  "height": 28,
+  "ans": "Creative hobbies help us express our feelings, relax our mind, and share happiness with others through art and music.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_13_030",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "13. We are all Indians",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "The title of the chapter is \"We are all Indians\". Explain in 2 simple sentences why this is a beautiful title for this lesson.",
+  "height": 28,
+  "ans": "It is a beautiful title because even though we live in different places and speak different languages, we are all united as one family in India.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ }
+]
