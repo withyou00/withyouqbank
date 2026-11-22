@@ -1,0 +1,1175 @@
+[
+ {
+  "id": "q_2_matbi_01_001",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ಸಮುದ್ರ ತೀರದಲ್ಲಿ ಒಂದು ದಿನ (A Day at the Beach)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Look at the picture. How many boats are there? / ಚಿತ್ರ ನೋಡಿ. ಎಷ್ಟು ದೋಣಿಗಳಿವೆ?",
+  "items": [
+   {
+    "img": "images/m2_r014_41_88_493_595.jpg",
+    "ans": "12"
+   }
+  ],
+  "ans": "12",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_01_002",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ಸಮುದ್ರ ತೀರದಲ್ಲಿ ಒಂದು ದಿನ (A Day at the Beach)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Look at the picture. How many children are there? / ಚಿತ್ರ ನೋಡಿ. ಎಷ್ಟು ಮಕ್ಕಳಿದ್ದಾರೆ?",
+  "items": [
+   {
+    "img": "images/m2_r014_41_88_493_595.jpg",
+    "ans": "6"
+   }
+  ],
+  "ans": "6",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_01_003",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ಸಮುದ್ರ ತೀರದಲ್ಲಿ ಒಂದು ದಿನ (A Day at the Beach)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Look at the picture. How many jackfruits are there? / ಚಿತ್ರ ನೋಡಿ. ಎಷ್ಟು ಹಲಸಿನ ಹಣ್ಣುಗಳಿವೆ?",
+  "items": [
+   {
+    "img": "images/m2_r014_41_88_493_595.jpg",
+    "ans": "2"
+   }
+  ],
+  "ans": "2",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_01_004",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ಸಮುದ್ರ ತೀರದಲ್ಲಿ ಒಂದು ದಿನ (A Day at the Beach)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Count the chikoos and match with the number / ಸಪೋಟಗಳನ್ನು ಎಣಿಸಿ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+  "pairs": [
+   {
+    "img": "images/m2_r015_258_98_538_132.jpg",
+    "word": "56"
+   },
+   {
+    "img": "images/m2_r015_258_142_415_173.jpg",
+    "word": "28"
+   },
+   {
+    "img": "images/m2_r015_258_182_573_216.jpg",
+    "word": "80"
+   },
+   {
+    "img": "images/m2_r015_258_226_555_260.jpg",
+    "word": "72"
+   }
+  ],
+  "ans": "(1) → 56 | (2) → 28 | (3) → 80 | (4) → 72",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_01_005",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ಸಮುದ್ರ ತೀರದಲ್ಲಿ ಒಂದು ದಿನ (A Day at the Beach)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks with the answer given in brackets / ಆವರಣದಲ್ಲಿ ನೀಡಿರುವ ಉತ್ತರದಿಂದ ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. 67 chikoos are ____ than 76 chikoos (more / less) / 67 ಸಪೋಟಗಳು 76 ಸಪೋಟಗಳಿಗಿಂತ ____ (ಹೆಚ್ಚು / ಕಡಿಮೆ) ?\n2. 50 oranges are ____ than 20 oranges (more / less) / 50 ಕಿತ್ತಳೆಗಳು 20 ಕಿತ್ತಳೆಗಳಿಗಿಂತ ____ (ಹೆಚ್ಚು / ಕಡಿಮೆ) ?\n3. The number just before 76 is ____ / 76 ರ ಹಿಂದಿನ ಸಂಖ್ಯೆ ____ ?",
+  "ans": "1. less / ಕಡಿಮೆ\n2. more / ಹೆಚ್ಚು\n3. 75",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_01_006",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ಸಮುದ್ರ ತೀರದಲ್ಲಿ ಒಂದು ದಿನ (A Day at the Beach)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks with the answer given in brackets / ಆವರಣದಲ್ಲಿ ನೀಡಿರುವ ಉತ್ತರದಿಂದ ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. ____ is less than 2 (1 / 3) / ____ ಸಂಖ್ಯೆ 2 ಕ್ಕಿಂತ ಚಿಕ್ಕದು (1 / 3) ?\n2. The smallest two-digit number is ____ (01 / 10) / ಎರಡಂಕಿಯ ಅತಿ ಚಿಕ್ಕ ಸಂಖ್ಯೆ ____ (01 / 10) ?\n3. 1 ten strip = ____ units (1 / 10) / ಹತ್ತರ 1 ಪಟ್ಟಿ = ____ ಬಿಡಿಗಳು (1 / 10) ?",
+  "ans": "1. 1\n2. 10\n3. 10",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_01_007",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ಸಮುದ್ರ ತೀರದಲ್ಲಿ ಒಂದು ದಿನ (A Day at the Beach)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count and write: tens strips ___, unit strips ___, total units ___ / ಎಣಿಸಿ ಬರೆ: ಹತ್ತರ ಪಟ್ಟಿಗಳು ___, ಬಿಡಿಗಳು ___, ಒಟ್ಟು ___",
+  "items": [
+   {
+    "img": "images/m2_r015_122_712_265_828.jpg",
+    "ans": "4 tens, 6 units, total 46 / 4 ಹತ್ತುಗಳು, 6 ಬಿಡಿಗಳು, ಒಟ್ಟು 46"
+   }
+  ],
+  "ans": "4 tens, 6 units, total 46 / 4 ಹತ್ತುಗಳು, 6 ಬಿಡಿಗಳು, ಒಟ್ಟು 46",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_01_008",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ಸಮುದ್ರ ತೀರದಲ್ಲಿ ಒಂದು ದಿನ (A Day at the Beach)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count the pictures (triangle = ten, circle = one) and write the number / ಚಿತ್ರ ಎಣಿಸಿ (ತ್ರಿಭುಜ = ಹತ್ತು, ವೃತ್ತ = ಬಿಡಿ) ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m2_r016_93_115_225_205.jpg",
+    "ans": "3 tens + 2 ones = 32 / 3 ಹತ್ತು + 2 ಬಿಡಿ = 32"
+   }
+  ],
+  "ans": "3 tens + 2 ones = 32 / 3 ಹತ್ತು + 2 ಬಿಡಿ = 32",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_01_009",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ಸಮುದ್ರ ತೀರದಲ್ಲಿ ಒಂದು ದಿನ (A Day at the Beach)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks (tens and units) / ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ (ಹತ್ತುಗಳು ಮತ್ತು ಬಿಡಿಗಳು)\n1. 23 has ____ tens and ____ units / 23 ರಲ್ಲಿ ____ ಹತ್ತುಗಳು ಮತ್ತು ____ ಬಿಡಿಗಳು ?\n2. 98 has ____ tens and ____ units / 98 ರಲ್ಲಿ ____ ಹತ್ತುಗಳು ಮತ್ತು ____ ಬಿಡಿಗಳು ?",
+  "ans": "1. 2 tens, 3 units / 2 ಹತ್ತು, 3 ಬಿಡಿ\n2. 9 tens, 8 units / 9 ಹತ್ತು, 8 ಬಿಡಿ",
+  "marks": 2,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_01_010",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ಸಮುದ್ರ ತೀರದಲ್ಲಿ ಒಂದು ದಿನ (A Day at the Beach)",
+  "type": "vsa_1m",
+  "q": "Write the missing numbers / ಬಿಟ್ಟು ಹೋದ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ\n1. 41, ____, ____, ____, 45, ____, ____, ____, ____, 50 ?",
+  "ans": "42, 43, 44, 46, 47, 48, 49",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_01_011",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ಸಮುದ್ರ ತೀರದಲ್ಲಿ ಒಂದು ದಿನ (A Day at the Beach)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "On which date and day is Onam this month? / ಈ ತಿಂಗಳು ಓಣಂ ಯಾವ ದಿನಾಂಕ, ಯಾವ ವಾರ?",
+  "items": [
+   {
+    "img": "images/m2_r016_73_630_440_775.jpg",
+    "ans": "29th, Tuesday / 29, ಮಂಗಳವಾರ"
+   }
+  ],
+  "ans": "29th, Tuesday / 29, ಮಂಗಳವಾರ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_01_012",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ಸಮುದ್ರ ತೀರದಲ್ಲಿ ಒಂದು ದಿನ (A Day at the Beach)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "On which date is Independence Day? / ಸ್ವಾತಂತ್ರ್ಯ ದಿನ ಯಾವ ದಿನಾಂಕ?",
+  "items": [
+   {
+    "img": "images/m2_r016_73_630_440_775.jpg",
+    "ans": "15th / 15"
+   }
+  ],
+  "ans": "15th / 15",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_01_013",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ಸಮುದ್ರ ತೀರದಲ್ಲಿ ಒಂದು ದಿನ (A Day at the Beach)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "On which date is Raksha Bandhan this month? / ಈ ತಿಂಗಳು ರಕ್ಷಾಬಂಧನ ಯಾವ ದಿನಾಂಕ?",
+  "items": [
+   {
+    "img": "images/m2_r016_73_630_440_775.jpg",
+    "ans": "30th (Wednesday) / 30 (ಬುಧವಾರ)"
+   }
+  ],
+  "ans": "30th (Wednesday) / 30 (ಬುಧವಾರ)",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_01_014",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ಸಮುದ್ರ ತೀರದಲ್ಲಿ ಒಂದು ದಿನ (A Day at the Beach)",
+  "type": "vsa_1m",
+  "q": "Solve the riddle / ಒಗಟು ಬಿಡಿಸಿ\n1. I am the largest two-digit number. Who am I? / ನಾನು ಎರಡಂಕಿಯ ಅತಿ ದೊಡ್ಡ ಸಂಖ್ಯೆ. ನಾನಾರು?\n2. I am the largest two-digit number with no digit repeated. Who am I? / ಅಂಕಿ ಪುನರಾವರ್ತನೆಯಾಗದ ಎರಡಂಕಿಯ ಅತಿ ದೊಡ್ಡ ಸಂಖ್ಯೆ ನಾನು. ನಾನಾರು?\n3. I am the smallest two-digit number. Who am I? / ನಾನು ಎರಡಂಕಿಯ ಅತಿ ಚಿಕ್ಕ ಸಂಖ್ಯೆ. ನಾನಾರು?",
+  "ans": "1. 99\n2. 98\n3. 10",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_02_001",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಲಿನ ಆಕಾರಗಳು (Shapes Around Us)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "What is the shape of the given figure? / ಚಿತ್ರದಲ್ಲಿರುವ ಆಕೃತಿ ಯಾವುದು?",
+  "items": [
+   {
+    "img": "images/m2_r018_361_446_405_490.jpg",
+    "ans": "Cone / ಶಂಕು"
+   }
+  ],
+  "ans": "Cone / ಶಂಕು",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_02_002",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಲಿನ ಆಕಾರಗಳು (Shapes Around Us)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks / ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. A solid shape with no corners is ____ / ಮೂಲೆಗಳಿಲ್ಲದ ಘನಾಕೃತಿ ____ ?\n2. The shape of a pencil is ____ / ಪೆನ್ಸಿಲ್ ____ ಆಕೃತಿಯಲ್ಲಿದೆ ?\n3. A cube has ____ faces / ಘನಕ್ಕೆ ____ ಮುಖಗಳಿವೆ ?\n4. A cube has ____ edges / ಘನಕ್ಕೆ ____ ಅಂಚುಗಳಿವೆ ?\n5. A cuboid has ____ faces / ಆಯತ ಘನಕ್ಕೆ ____ ಮುಖಗಳಿವೆ ?",
+  "ans": "1. Sphere / ಗೋಳ\n2. Cylinder / ಸಿಲಿಂಡರ್\n3. 6\n4. 12\n5. 6",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_02_003",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಲಿನ ಆಕಾರಗಳು (Shapes Around Us)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the odd one out / ಗುಂಪಿಗೆ ಸೇರದ ಚಿತ್ರಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/m2_r018_109_795_153_858.jpg",
+     "images/m2_r018_204_795_288_858.jpg",
+     "images/m2_r018_342_795_380_858.jpg",
+     "images/m2_r018_429_795_487_858.jpg"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "images/m2_r019_135_100_225_165.jpg",
+     "images/m2_r019_245_100_325_165.jpg",
+     "images/m2_r019_343_100_405_165.jpg",
+     "images/m2_r019_428_100_487_165.jpg"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "",
+    "options": [
+     "images/m2_r019_133_168_165_240.jpg",
+     "images/m2_r019_203_168_268_240.jpg",
+     "images/m2_r019_303_168_357_240.jpg",
+     "images/m2_r019_388_168_442_240.jpg"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. B\n2. C\n3. B",
+  "marks": 3,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_02_004",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಲಿನ ಆಕಾರಗಳು (Shapes Around Us)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the shape with the object / ಆಕೃತಿಯನ್ನು ವಸ್ತುವಿನೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+  "pairs": [
+   {
+    "img": "images/m2_r019_158_443_217_517.jpg",
+    "word": "Bottle / ಬಾಟಲಿ"
+   },
+   {
+    "img": "images/m2_r019_145_523_230_592.jpg",
+    "word": "Ice cube / ಮಂಜುಗಡ್ಡೆ"
+   },
+   {
+    "img": "images/m2_r019_152_596_224_665.jpg",
+    "word": "Ice cream cone / ಐಸ್‌ಕ್ರೀಮ್ ಕೋನ್"
+   },
+   {
+    "img": "images/m2_r019_148_670_228_744.jpg",
+    "word": "CD / ಸಿಡಿ"
+   },
+   {
+    "img": "images/m2_r019_138_746_242_804.jpg",
+    "word": "First aid box / ಪ್ರಥಮ ಚಿಕಿತ್ಸಾ ಪೆಟ್ಟಿಗೆ"
+   }
+  ],
+  "ans": "(1) → Bottle / ಬಾಟಲಿ | (2) → Ice cube / ಮಂಜುಗಡ್ಡೆ | (3) → Ice cream cone / ಐಸ್‌ಕ್ರೀಮ್ ಕೋನ್ | (4) → CD / ಸಿಡಿ | (5) → First aid box / ಪ್ರಥಮ ಚಿಕಿತ್ಸಾ ಪೆಟ್ಟಿಗೆ",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_02_005",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಲಿನ ಆಕಾರಗಳು (Shapes Around Us)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write the solid shape of the object / ವಸ್ತುವಿನ ಘನಾಕೃತಿಯ ಹೆಸರು ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m2_r021_150_160_222_195.jpg",
+    "ans": "Cylinder / ಸಿಲಿಂಡರ್"
+   },
+   {
+    "img": "images/m2_r021_135_203_238_247.jpg",
+    "ans": "Cuboid / ಆಯತ ಘನ"
+   },
+   {
+    "img": "images/m2_r021_150_310_222_346.jpg",
+    "ans": "Cube / ಘನ"
+   },
+   {
+    "img": "images/m2_r021_147_350_226_400.jpg",
+    "ans": "Sphere / ಗೋಳ"
+   }
+  ],
+  "ans": "1. Cylinder / ಸಿಲಿಂಡರ್\n2. Cuboid / ಆಯತ ಘನ\n3. Cube / ಘನ\n4. Sphere / ಗೋಳ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_02_006",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಲಿನ ಆಕಾರಗಳು (Shapes Around Us)",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw a cuboid / ಆಯತ ಘನ ರಚಿಸಿ",
+  "height": 28,
+  "ans": "Child draws a cuboid / ಆಯತ ಘನದ ಚಿತ್ರ",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_02_007",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಲಿನ ಆಕಾರಗಳು (Shapes Around Us)",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw a cone / ಶಂಕು ರಚಿಸಿ",
+  "height": 28,
+  "ans": "Child draws a cone / ಶಂಕುವಿನ ಚಿತ್ರ",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_02_008",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಲಿನ ಆಕಾರಗಳು (Shapes Around Us)",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw a cylinder / ಸಿಲಿಂಡರ್ ರಚಿಸಿ",
+  "height": 28,
+  "ans": "Child draws a cylinder / ಸಿಲಿಂಡರ್ ಚಿತ್ರ",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_03_001",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ವಿನೋದ (Fun with Numbers)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks / ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. The number before 31 is ____ / 31 ರ ಹಿಂದಿನ ಸಂಖ್ಯೆ ____ ?\n2. The number of tens in 78 is ____ / 78 ರಲ್ಲಿ ಇರುವ ಹತ್ತುಗಳು ____ ?\n3. The number after 13 is ____ / 13 ರ ನಂತರದ ಸಂಖ್ಯೆ ____ ?\n4. 2, 4, 6, 8, ____ / 2, 4, 6, 8, ____ ?\n5. The number between 86 and 88 is ____ / 86 ಮತ್ತು 88 ರ ಮಧ್ಯದ ಸಂಖ್ಯೆ ____ ?",
+  "ans": "1. 30\n2. 7\n3. 14\n4. 10\n5. 87",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_03_002",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ವಿನೋದ (Fun with Numbers)",
+  "type": "vsa_1m",
+  "q": "Write the missing number / ಬಿಟ್ಟಿರುವ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ\n1. 52, ____, 54\n2. ____, 63, 64\n3. 43, ____, 45\n4. 90, ____, 92\n5. ____, 13, 14",
+  "ans": "1. 53\n2. 62\n3. 44\n4. 91\n5. 12",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_03_003",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ವಿನೋದ (Fun with Numbers)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the number name with the number / ಸಂಖ್ಯೆಯ ಹೆಸರನ್ನು ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+  "pairs": [
+   {
+    "a": "Fifty six / ಐವತ್ತಾರು",
+    "word": "56"
+   },
+   {
+    "a": "Eighty one / ಎಂಭತ್ತೊಂದು",
+    "word": "81"
+   },
+   {
+    "a": "Ninety nine / ತೊಂಭತ್ತೊಂಭತ್ತು",
+    "word": "99"
+   },
+   {
+    "a": "Seventy five / ಎಪ್ಪತ್ತೈದು",
+    "word": "75"
+   },
+   {
+    "a": "Eleven / ಹನ್ನೊಂದು",
+    "word": "11"
+   }
+  ],
+  "ans": "(1) → 56 | (2) → 81 | (3) → 99 | (4) → 75 | (5) → 11",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_03_004",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ವಿನೋದ (Fun with Numbers)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Complete the pattern: 40, 45, 50, ___, ___, ___, ___ / ವಿನ್ಯಾಸ ಪೂರ್ಣಗೊಳಿಸಿ: 40, 45, 50, ___, ___, ___, ___",
+  "items": [
+   {
+    "img": "images/m2_r024_100_105_485_180.jpg",
+    "ans": "55, 60, 65, 70"
+   }
+  ],
+  "ans": "55, 60, 65, 70",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_03_005",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ವಿನೋದ (Fun with Numbers)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Complete the pattern: 100, 90, ___, ___, ___ / ವಿನ್ಯಾಸ ಪೂರ್ಣಗೊಳಿಸಿ: 100, 90, ___, ___, ___",
+  "items": [
+   {
+    "img": "images/m2_r024_105_205_385_230.jpg",
+    "ans": "80, 70, 60"
+   }
+  ],
+  "ans": "80, 70, 60",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_03_006",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ವಿನೋದ (Fun with Numbers)",
+  "type": "vsa_1m",
+  "q": "Write in words / ಅಕ್ಷರದಲ್ಲಿ ಬರೆಯಿರಿ\n1. 38 and 67 / 38 ಮತ್ತು 67",
+  "ans": "Thirty eight, Sixty seven / ಮೂವತ್ತೆಂಟು, ಅರವತ್ತೇಳು",
+  "marks": 2,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_03_007",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ವಿನೋದ (Fun with Numbers)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Write the biggest and smallest numbers using the digits 5 and 1 / 5 ಮತ್ತು 1 ಅಂಕಿಗಳನ್ನು ಬಳಸಿ ದೊಡ್ಡ ಮತ್ತು ಚಿಕ್ಕ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ ?",
+  "ans": "Biggest 51, Smallest 15 / ದೊಡ್ಡದು 51, ಚಿಕ್ಕದು 15",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_03_008",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ವಿನೋದ (Fun with Numbers)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Observe the number window (1-100 chart) and fill in the numbers / ಸಂಖ್ಯಾ ಕಿಟಕಿ (1-100 ಪಟ್ಟಿ) ನೋಡಿ ಸಂಖ್ಯೆಗಳನ್ನು ತುಂಬಿರಿ",
+  "items": [
+   {
+    "img": "images/m2_r025_100_62_212_175.jpg",
+    "ans": "Top 43, Left 52, Right 54, Bottom 63"
+   },
+   {
+    "img": "images/m2_r025_272_52_384_166.jpg",
+    "ans": "9, 17, 18, 28"
+   },
+   {
+    "img": "images/m2_r025_479_52_591_166.jpg",
+    "ans": "68, 70, 79, 89"
+   }
+  ],
+  "ans": "1. Top 43, Left 52, Right 54, Bottom 63\n2. 9, 17, 18, 28\n3. 68, 70, 79, 89",
+  "marks": 6,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_03_009",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಸಂಖ್ಯೆಗಳೊಂದಿಗೆ ವಿನೋದ (Fun with Numbers)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Observe the number window (1-100 chart) and fill in the numbers / ಸಂಖ್ಯಾ ಕಿಟಕಿ (1-100 ಪಟ್ಟಿ) ನೋಡಿ ಸಂಖ್ಯೆಗಳನ್ನು ತುಂಬಿರಿ",
+  "items": [
+   {
+    "img": "images/m2_r025_104_233_194_346.jpg",
+    "ans": "26, 27, 36, 37"
+   },
+   {
+    "img": "images/m2_r025_338_242_440_346.jpg",
+    "ans": "64, 75, 85, 86"
+   }
+  ],
+  "ans": "1. 26, 27, 36, 37\n2. 64, 75, 85, 86",
+  "marks": 4,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_04_001",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. ನೆರಳಿನ ಕಥೆ - ತೊಗಲು (Shadow Story)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the solid shape with its shadow / ಘನಾಕೃತಿಯನ್ನು ಅದರ ನೆರಳಿನೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+  "pairs": [
+   {
+    "img": "images/m2_r026_125_628_210_680.jpg",
+    "word": "Circle / ವೃತ್ತ"
+   },
+   {
+    "img": "images/m2_r026_125_688_210_740.jpg",
+    "word": "Triangle / ತ್ರಿಭುಜ"
+   },
+   {
+    "img": "images/m2_r026_120_758_212_792.jpg",
+    "word": "Rectangle / ಆಯತ"
+   },
+   {
+    "img": "images/m2_r026_115_815_212_872.jpg",
+    "word": "Square / ಚೌಕ"
+   }
+  ],
+  "ans": "(1) → Circle / ವೃತ್ತ | (2) → Triangle / ತ್ರಿಭುಜ | (3) → Rectangle / ಆಯತ | (4) → Square / ಚೌಕ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_04_002",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. ನೆರಳಿನ ಕಥೆ - ತೊಗಲು (Shadow Story)",
+  "type": "vsa_1m",
+  "q": "Fill in the blank with the answer given in brackets / ಆವರಣದಲ್ಲಿರುವ ಉತ್ತರದಿಂದ ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. A circle can hide in a ____ (shoe box, clock, pen) / ವೃತ್ತವು ____ ನಲ್ಲಿ ಅಡಗಿದೆ (ಶೂಬಾಕ್ಸ್, ಗಡಿಯಾರ, ಪೆನ್) ?\n2. A rectangle can hide in a ____ (photo frame, ball, star) / ಆಯತವು ____ ನಲ್ಲಿ ಅಡಗಿದೆ (ಫೋಟೋ ಫ್ರೇಮ್, ಚೆಂಡು, ನಕ್ಷತ್ರ) ?\n3. A triangle can hide in a ____ (pen, ball, traffic sign) / ತ್ರಿಭುಜವು ____ ನಲ್ಲಿ ಅಡಗಿದೆ (ಪೆನ್, ಚೆಂಡು, ಟ್ರಾಫಿಕ್ ಚಿಹ್ನೆ) ?\n4. A square can hide in a ____ (gift box, bangle, chalk piece) / ಚೌಕವು ____ ನಲ್ಲಿ ಅಡಗಿದೆ (ಉಡುಗೊರೆ ಪೆಟ್ಟಿಗೆ, ಬಳೆ, ಸೀಮೆಸುಣ್ಣ) ?",
+  "ans": "1. Clock / ಗಡಿಯಾರ\n2. Photo frame / ಫೋಟೋ ಫ್ರೇಮ್\n3. Traffic sign / ಟ್ರಾಫಿಕ್ ಚಿಹ್ನೆ\n4. Gift box / ಉಡುಗೊರೆ ಪೆಟ್ಟಿಗೆ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_04_003",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. ನೆರಳಿನ ಕಥೆ - ತೊಗಲು (Shadow Story)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. When do we see a shadow? / ನಾವು ನೆರಳನ್ನು ಯಾವಾಗ ನೋಡುತ್ತೇವೆ?\n2. When does a shadow vanish? / ನೆರಳು ಯಾವಾಗ ಮಾಯವಾಗುತ್ತದೆ?\n3. Will the size of the shadow change if we change the position of the torch? / ಟಾರ್ಚ್ ಸ್ಥಾನ ಬದಲಾಯಿಸಿದಾಗ ನೆರಳಿನ ಗಾತ್ರ ಬದಲಾಗುತ್ತದೆಯೇ?\n4. At what time of the day is your shadow longest? / ದಿನದ ಯಾವ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ ನೆರಳು ಅತಿ ಉದ್ದ?\n5. At what time of the day is your shadow shortest? / ದಿನದ ಯಾವ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ ನೆರಳು ಅತಿ ಚಿಕ್ಕದು?",
+  "ans": "1. When there is light (in the daytime) / ಬೆಳಕು ಇದ್ದಾಗ (ಹಗಲಿನಲ್ಲಿ)\n2. When there is no light (at night / in darkness) / ಬೆಳಕು ಇಲ್ಲದಾಗ (ರಾತ್ರಿ / ಕತ್ತಲೆಯಲ್ಲಿ)\n3. Yes, it changes / ಹೌದು, ಬದಲಾಗುತ್ತದೆ\n4. Morning and evening / ಬೆಳಿಗ್ಗೆ ಮತ್ತು ಸಂಜೆ\n5. At noon (12 o'clock) / ಮಧ್ಯಾಹ್ನ 12 ಗಂಟೆಗೆ",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_04_004",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. ನೆರಳಿನ ಕಥೆ - ತೊಗಲು (Shadow Story)",
+  "type": "vsa_1m",
+  "q": "Extend the pattern / ವಿನ್ಯಾಸವನ್ನು ವಿಸ್ತರಿಸಿ\n1. 15, 25, 35, ____, ____\n2. AB, BC, CD, ____, ____\n3. 1, 7, 13, ____, ____\n4. 1, 11, 111, ____, ____\n5. 15, 14, 13, ____, ____",
+  "ans": "1. 45, 55\n2. DE, EF\n3. 19, 25\n4. 1111, 11111\n5. 12, 11",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_04_005",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. ನೆರಳಿನ ಕಥೆ - ತೊಗಲು (Shadow Story)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Extend the figure pattern (draw the next figures) / ಚಿತ್ರ ವಿನ್ಯಾಸ ವಿಸ್ತರಿಸಿ (ಮುಂದಿನ ಚಿತ್ರ ಬಿಡಿಸಿ)",
+  "items": [
+   {
+    "img": "images/m2_r028_123_278_420_312.jpg",
+    "ans": "Up arrow, down arrow, up arrow, down arrow / ಮೇಲ್ಮುಖ ಬಾಣ, ಕೆಳಮುಖ ಬಾಣ, ಮೇಲ್ಮುಖ ಬಾಣ, ಕೆಳಮುಖ ಬಾಣ"
+   }
+  ],
+  "ans": "Up arrow, down arrow, up arrow, down arrow / ಮೇಲ್ಮುಖ ಬಾಣ, ಕೆಳಮುಖ ಬಾಣ, ಮೇಲ್ಮುಖ ಬಾಣ, ಕೆಳಮುಖ ಬಾಣ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_04_006",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. ನೆರಳಿನ ಕಥೆ - ತೊಗಲು (Shadow Story)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Extend the figure pattern (draw the next figures) / ಚಿತ್ರ ವಿನ್ಯಾಸ ವಿಸ್ತರಿಸಿ (ಮುಂದಿನ ಚಿತ್ರ ಬಿಡಿಸಿ)",
+  "items": [
+   {
+    "img": "images/m2_r028_120_338_370_358.jpg",
+    "ans": "Square, oval, square, oval / ಚೌಕ, ಅಂಡಾಕಾರ, ಚೌಕ, ಅಂಡಾಕಾರ"
+   }
+  ],
+  "ans": "Square, oval, square, oval / ಚೌಕ, ಅಂಡಾಕಾರ, ಚೌಕ, ಅಂಡಾಕಾರ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_04_007",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. ನೆರಳಿನ ಕಥೆ - ತೊಗಲು (Shadow Story)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Extend the figure pattern (draw the next figures) / ಚಿತ್ರ ವಿನ್ಯಾಸ ವಿಸ್ತರಿಸಿ (ಮುಂದಿನ ಚಿತ್ರ ಬಿಡಿಸಿ)",
+  "items": [
+   {
+    "img": "images/m2_r028_120_432_465_470.jpg",
+    "ans": "Repeat the same 4 coloured squares / ಅದೇ 4 ಬಣ್ಣದ ಚೌಕಗಳನ್ನು ಪುನರಾವರ್ತಿಸಿ"
+   }
+  ],
+  "ans": "Repeat the same 4 coloured squares / ಅದೇ 4 ಬಣ್ಣದ ಚೌಕಗಳನ್ನು ಪುನರಾವರ್ತಿಸಿ",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_05_001",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಗೆರೆಗಳೊಂದಿಗೆ ಆಟ (Playing with Lines)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the line with its name / ಗೆರೆಯನ್ನು ಅದರ ಹೆಸರಿನೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+  "pairs": [
+   {
+    "img": "images/m2_r029_258_568_300_627.jpg",
+    "word": "Slant line / ಓರೆ ರೇಖೆ"
+   },
+   {
+    "img": "images/m2_r029_252_652_322_674.jpg",
+    "word": "Sleeping line / ಸಮತಲ ರೇಖೆ"
+   },
+   {
+    "img": "images/m2_r029_252_702_322_738.jpg",
+    "word": "Curved line / ವಕ್ರ ರೇಖೆ"
+   },
+   {
+    "img": "images/m2_r029_262_740_284_808.jpg",
+    "word": "Standing (straight) line / ಲಂಬ (ಸರಳ) ರೇಖೆ"
+   }
+  ],
+  "ans": "(1) → Slant line / ಓರೆ ರೇಖೆ | (2) → Sleeping line / ಸಮತಲ ರೇಖೆ | (3) → Curved line / ವಕ್ರ ರೇಖೆ | (4) → Standing (straight) line / ಲಂಬ (ಸರಳ) ರೇಖೆ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_05_002",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಗೆರೆಗಳೊಂದಿಗೆ ಆಟ (Playing with Lines)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks / ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. The number of straight lines in the letter N is ____ / N ಅಕ್ಷರದಲ್ಲಿರುವ ಸರಳರೇಖೆಗಳ ಸಂಖ್ಯೆ ____ ?\n2. The number of horizontal lines in the letter A is ____ / A ಅಕ್ಷರದಲ್ಲಿರುವ ಸಮತಲ ರೇಖೆಗಳ ಸಂಖ್ಯೆ ____ ?\n3. Snake movement is an example of a ____ line / ಹಾವಿನ ಚಲನೆ ____ ರೇಖೆಗೆ ಉದಾಹರಣೆ ?",
+  "ans": "1. 3\n2. 1\n3. Curved / ವಕ್ರ",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_05_003",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಗೆರೆಗಳೊಂದಿಗೆ ಆಟ (Playing with Lines)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many curved lines are there in the figure? / ಚಿತ್ರದಲ್ಲಿ ಎಷ್ಟು ವಕ್ರರೇಖೆಗಳಿವೆ?",
+  "items": [
+   {
+    "img": "images/m2_r030_266_180_382_228.jpg",
+    "ans": "2"
+   }
+  ],
+  "ans": "2",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_05_004",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಗೆರೆಗಳೊಂದಿಗೆ ಆಟ (Playing with Lines)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "How many slant lines are there in the triangle? / ತ್ರಿಭುಜದಲ್ಲಿ ಎಷ್ಟು ಓರೆ ರೇಖೆಗಳಿವೆ?",
+  "items": [
+   {
+    "img": "images/m2_r030_325_403_396_467.jpg",
+    "ans": "2"
+   }
+  ],
+  "ans": "2",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_05_005",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಗೆರೆಗಳೊಂದಿಗೆ ಆಟ (Playing with Lines)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write the number of straight lines and curved lines in the figure / ಚಿತ್ರದಲ್ಲಿರುವ ಸರಳರೇಖೆ ಮತ್ತು ವಕ್ರರೇಖೆಗಳ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m2_r031_165_42_268_108.jpg",
+    "ans": "Straight lines 2, curved lines 4 / ಸರಳರೇಖೆ 2, ವಕ್ರರೇಖೆ 4"
+   }
+  ],
+  "ans": "Straight lines 2, curved lines 4 / ಸರಳರೇಖೆ 2, ವಕ್ರರೇಖೆ 4",
+  "marks": 2,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_05_006",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಗೆರೆಗಳೊಂದಿಗೆ ಆಟ (Playing with Lines)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write the number of horizontal, vertical and slant lines in the figure / ಚಿತ್ರದಲ್ಲಿರುವ ಸಮತಲ, ಲಂಬ ಮತ್ತು ಓರೆ ರೇಖೆಗಳ ಸಂಖ್ಯೆ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/m2_r032_118_603_457_726.jpg",
+    "ans": "Horizontal 2, vertical 2, slant 2 / ಸಮತಲ 2, ಲಂಬ 2, ಓರೆ 2"
+   }
+  ],
+  "ans": "Horizontal 2, vertical 2, slant 2 / ಸಮತಲ 2, ಲಂಬ 2, ಓರೆ 2",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_05_007",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಗೆರೆಗಳೊಂದಿಗೆ ಆಟ (Playing with Lines)",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Join two dots with a straight line using a scale / ಅಳತೆಪಟ್ಟಿ ಬಳಸಿ ಎರಡು ಚುಕ್ಕೆಗಳನ್ನು ಸರಳರೇಖೆಯಿಂದ ಸೇರಿಸಿ",
+  "height": 28,
+  "ans": "Child draws a straight line with a scale / ಅಳತೆಪಟ್ಟಿಯಿಂದ ಸರಳರೇಖೆ ಎಳೆಯುವುದು",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_05_008",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ಗೆರೆಗಳೊಂದಿಗೆ ಆಟ (Playing with Lines)",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw a figure using curved lines and straight lines / ವಕ್ರರೇಖೆ ಮತ್ತು ಸರಳರೇಖೆಗಳನ್ನು ಬಳಸಿ ಚಿತ್ರ ರಚಿಸಿ",
+  "height": 28,
+  "ans": "Child draws any figure / ಮಗು ಯಾವುದೇ ಚಿತ್ರ ರಚಿಸುವುದು",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_06_001",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ಹಬ್ಬಕ್ಕಾಗಿ ಅಲಂಕಾರ - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Decoration for Festival)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks / ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. 10 + 3 = ____ ?\n2. The number of tens in 45 is ____ / 45 ರಲ್ಲಿ ಹತ್ತುಗಳ ಸಂಖ್ಯೆ ____ ?\n3. 39 − 0 = ____ ?",
+  "ans": "1. 13\n2. 4\n3. 39",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_06_002",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ಹಬ್ಬಕ್ಕಾಗಿ ಅಲಂಕಾರ - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Decoration for Festival)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count the apples / ಸೇಬುಗಳನ್ನು ಎಣಿಸಿ",
+  "items": [
+   {
+    "img": "images/m2_r035_105_285_242_335.jpg",
+    "ans": "6"
+   }
+  ],
+  "ans": "6",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_06_003",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ಹಬ್ಬಕ್ಕಾಗಿ ಅಲಂಕಾರ - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Decoration for Festival)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Count and write: tens ____, ones ____ / ಎಣಿಸಿ ಬರೆಯಿರಿ: ಹತ್ತುಗಳು ____, ಬಿಡಿಗಳು ____",
+  "items": [
+   {
+    "img": "images/m2_r035_108_366_186_458.jpg",
+    "ans": "2 tens, 3 ones / 2 ಹತ್ತು, 3 ಬಿಡಿ"
+   }
+  ],
+  "ans": "2 tens, 3 ones / 2 ಹತ್ತು, 3 ಬಿಡಿ",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_matbi_06_004",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ಹಬ್ಬಕ್ಕಾಗಿ ಅಲಂಕಾರ - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Decoration for Festival)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following / ಹೊಂದಿಸಿ ಬರೆಯಿರಿ",
+  "pairs": [
+   {
+    "a": "7 + 8",
+    "word": "15"
+   },
+   {
+    "a": "13 + 4",
+    "word": "17"
+   },
+   {
+    "a": "10 + 10",
+    "word": "20"
+   },
+   {
+    "a": "12 − 9",
+    "word": "3"
+   },
+   {
+    "a": "6 − 5",
+    "word": "1"
+   }
+  ],
+  "ans": "(1) → 15 | (2) → 17 | (3) → 20 | (4) → 3 | (5) → 1",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_06_005",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ಹಬ್ಬಕ್ಕಾಗಿ ಅಲಂಕಾರ - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Decoration for Festival)",
+  "type": "vsa_1m",
+  "q": "Solve / ಬಿಡಿಸಿ\n1. 46 + 39 = ____\n2. 36 + 8 = ____\n3. 45 − 18 = ____",
+  "ans": "1. 85\n2. 44\n3. 27",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_06_006",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ಹಬ್ಬಕ್ಕಾಗಿ ಅಲಂಕಾರ - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Decoration for Festival)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Use the number line: 18 + ____ = ____ / ಸಂಖ್ಯಾರೇಖೆ ನೋಡಿ: 18 + ____ = ____",
+  "items": [
+   {
+    "img": "images/m2_r036_98_212_610_298.jpg",
+    "ans": "18 + 13 = 31"
+   }
+  ],
+  "ans": "18 + 13 = 31",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_06_007",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ಹಬ್ಬಕ್ಕಾಗಿ ಅಲಂಕಾರ - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Decoration for Festival)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Use the number line: 39 − 28 = ____ / ಸಂಖ್ಯಾರೇಖೆ ನೋಡಿ: 39 − 28 = ____",
+  "items": [
+   {
+    "img": "images/m2_r036_110_326_585_400.jpg",
+    "ans": "11"
+   }
+  ],
+  "ans": "11",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_matbi_06_008",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ಹಬ್ಬಕ್ಕಾಗಿ ಅಲಂಕಾರ - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Decoration for Festival)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Sarika spent ₹56 at the fair and Manish spent ₹35. How much did they spend in all? / ಸಾರಿಕಾ ಜಾತ್ರೆಯಲ್ಲಿ ₹56, ಮನೀಷ್ ₹35 ಖರ್ಚು ಮಾಡಿದರು. ಇಬ್ಬರೂ ಸೇರಿ ಎಷ್ಟು ಖರ್ಚು ಮಾಡಿದರು?\n2. Rahim made 43 runs in one match and 58 runs in another. How many runs did he make in all? / ರಹೀಮ್ ಒಂದು ಪಂದ್ಯದಲ್ಲಿ 43, ಇನ್ನೊಂದರಲ್ಲಿ 58 ರನ್ ಗಳಿಸಿದನು. ಒಟ್ಟು ಎಷ್ಟು ರನ್?\n3. There are 36 men and 47 women in a bus. How many people are there in the bus? / ಬಸ್ಸಿನಲ್ಲಿ 36 ಗಂಡಸರು ಮತ್ತು 47 ಹೆಂಗಸರು ಇದ್ದಾರೆ. ಒಟ್ಟು ಎಷ್ಟು ಜನ?\n4. There were 40 balloons. 13 balloons burst. How many are left? / 40 ಬಲೂನುಗಳಲ್ಲಿ 13 ಒಡೆದುಹೋದವು. ಎಷ್ಟು ಉಳಿದಿವೆ?",
+  "ans": "1. 56 + 35 = ₹91\n2. 43 + 58 = 101\n3. 36 + 47 = 83\n4. 40 − 13 = 27",
+  "marks": 8,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_06_009",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ಹಬ್ಬಕ್ಕಾಗಿ ಅಲಂಕಾರ - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Decoration for Festival)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Ruby has ₹60. She bought a notebook for ₹20. How much money is left? / ರೂಬಿ ಬಳಿ ₹60 ಇದೆ. ₹20 ಕ್ಕೆ ನೋಟ್ ಪುಸ್ತಕ ಕೊಂಡಳು. ಎಷ್ಟು ಹಣ ಉಳಿಯಿತು?\n2. Aman skipped 14 times. How many more skips does he need to complete 20? / ಅಮನ್ 14 ಸಲ ಜಿಗಿದನು. 20 ಪೂರ್ಣಗೊಳಿಸಲು ಇನ್ನೂ ಎಷ್ಟು ಜಿಗಿಯಬೇಕು?\n3. There is ₹78 in the purse. A gift wrapper costs ₹24 and ribbons cost ₹37. (a) How much did they spend? (b) How much is left? / ಪರ್ಸ್‌ನಲ್ಲಿ ₹78 ಇದೆ. ಬಣ್ಣದ ಕಾಗದ ₹24, ರಿಬ್ಬನ್ ₹37. (ಅ) ಎಷ್ಟು ಖರ್ಚಾಯಿತು? (ಆ) ಎಷ್ಟು ಉಳಿಯಿತು?",
+  "ans": "1. 60 − 20 = ₹40\n2. 20 − 14 = 6\n3. (a) 24 + 37 = ₹61  (b) 78 − 61 = ₹17",
+  "marks": 6,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_06_010",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ಹಬ್ಬಕ್ಕಾಗಿ ಅಲಂಕಾರ - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Decoration for Festival)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Complete the number pyramid (add the two numbers below) / ಸಂಖ್ಯಾ ಪಿರಮಿಡ್ ಪೂರ್ಣಗೊಳಿಸಿ (ಕೆಳಗಿನ ಎರಡು ಸಂಖ್ಯೆ ಕೂಡಿಸಿ)",
+  "items": [
+   {
+    "img": "images/m2_r037_98_526_320_630.jpg",
+    "ans": "8, 9, 14; 17, 23; 40"
+   }
+  ],
+  "ans": "8, 9, 14; 17, 23; 40",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_matbi_06_011",
+  "grade": "2",
+  "subject": "ಗಣಿತ (Mathematics)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. ಹಬ್ಬಕ್ಕಾಗಿ ಅಲಂಕಾರ - ಸಂಕಲನ ಮತ್ತು ವ್ಯವಕಲನ (Decoration for Festival)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks / ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. 20 + 30 = ____\n2. 30 + ____ = 50\n3. ____ − 20 = 30",
+  "ans": "1. 50\n2. 20\n3. 50",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ }
+]
