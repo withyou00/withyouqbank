@@ -1,0 +1,5138 @@
+[
+ {
+  "id": "q_2_engbi_01_001",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. b i c __ c l e\n2. r __ d\n3. b __ l l\n4. t y __ e",
+  "ans": "1. bicycle\n2. red\n3. bell\n4. tyre",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_01_002",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. p e d __ l\n2. f a __ t\n3. b __ t\n4. b a __ l",
+  "ans": "1. pedal\n2. fast\n3. bat\n4. ball",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_01_003",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. r a __ s\n2. c o u r t y __ r d\n3. s t r __ n g\n4. c a t c __ ",
+  "ans": "1. rags\n2. courtyard\n3. string\n4. catch",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_01_004",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. s k __ p\n2. g a t h __ r\n3. s k __ \n4. f r i __ n d",
+  "ans": "1. skip\n2. gather\n3. sky\n4. friend",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_01_005",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "What colour is the child's bicycle in the poem \"My Bicycle\"?",
+    "options": [
+     "Blue",
+     "Red",
+     "Yellow",
+     "Green"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What makes a ringing sound on the bicycle to alert people?",
+    "options": [
+     "Horn",
+     "Bell",
+     "Pedal",
+     "Wheel"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "How many black tyres does the bicycle have in the poem?",
+    "options": [
+     "One",
+     "Two",
+     "Three",
+     "Four"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What sound does the bicycle bell make in the poem?",
+    "options": [
+     "Beep... beep... beep...",
+     "Trin... trin... trin...",
+     "Ring... ring... ring...",
+     "Honk... honk... honk..."
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Which part of the bicycle is black along with the tyres?",
+    "options": [
+     "Bell",
+     "Frame",
+     "Pedals",
+     "Seat"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. Red\n2. Bell\n3. Two\n4. Trin... trin... trin...\n5. Pedals",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_01_006",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "What does the child keep clean on the bicycle?",
+    "options": [
+     "The entire bicycle",
+     "Only the wheels",
+     "Only the seat",
+     "Only the helmet"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "What speed does the bicycle go when pedalled fast?",
+    "options": [
+     "Slow",
+     "Fast",
+     "Stop",
+     "Backward"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What moves when you push the pedals with your feet?",
+    "options": [
+     "The helmet",
+     "The wheels/bicycle",
+     "The bell",
+     "The sky"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Which parts of the bicycle in the poem are specified as black in colour?",
+    "options": [
+     "Bell and Seat",
+     "Tyres and Pedals",
+     "Frame and Handle",
+     "Helmet and Chain"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What needs to be filled inside the tyres to keep the bicycle moving smoothly?",
+    "options": [
+     "Water",
+     "Air",
+     "Sand",
+     "Oil"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. The entire bicycle\n2. Fast\n3. The wheels/bicycle\n4. Tyres and Pedals\n5. Air",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_01_007",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "How does the child ride the bicycle according to the poem?",
+    "options": [
+     "Sadly",
+     "Fearfully",
+     "Happily",
+     "Angrily"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "What does the child wear before riding bicycle?",
+    "options": [
+     "A cap",
+     "A helmet",
+     "A raincoat",
+     "Glasses"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What safety gear must you wear on your head while riding a bicycle?",
+    "options": [
+     "Cap",
+     "Hat",
+     "Helmet",
+     "Band"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Which device on a bicycle helps alert people walking on the road?",
+    "options": [
+     "Pedals",
+     "Bell",
+     "Tyres",
+     "Chain"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Which part of the bicycle do you push with your feet to move forward?",
+    "options": [
+     "Handle",
+     "Seat",
+     "Pedals",
+     "Bell"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. Happily\n2. A helmet\n3. Helmet\n4. Bell\n5. Pedals",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_01_008",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "What do people or friends do when they hear \"Trin... trin... trin...\"?",
+    "options": [
+     "They stop and stare",
+     "They move aside / make way",
+     "They run away",
+     "They shout"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What is the opposite of the word FAST used in the poem?",
+    "options": [
+     "Quick",
+     "Slow",
+     "Big",
+     "High"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What is the plural form of the word BICYCLE?",
+    "options": [
+     "Bicycles",
+     "Bicycley",
+     "Bicycling",
+     "Bicyclo"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Which rhyming pair appears in the poem \"My Bicycle\"?",
+    "options": [
+     "Red – Bed",
+     "Track – Black",
+     "Sun – Fun",
+     "Play – Day"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What is the action word in \"The bell rings clearly\"?",
+    "options": [
+     "Bell",
+     "Rings",
+     "Clearly",
+     "The"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. They move aside / make way\n2. Slow\n3. Bicycles\n4. Track – Black\n5. Rings",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_01_009",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "The bicycle in the poem is green.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The child in the poem keeps the bicycle clean.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The bicycle bell makes a \"Trin... trin... trin...\" sound.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The child wears a cap on the head while riding the bicycle.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The pedals and tyres of the bicycle are black in colour.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. False\n2. True\n3. True\n4. False\n5. True",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_01_010",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "The bicycle moves backward when you push the pedals.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Air is needed inside the tyres to make the bicycle go.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The child feels sad while riding the bicycle.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The bicycle is described as always being \"on track\".",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Ringing the bicycle bell alerts people on the path to move aside.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. False\n2. True\n3. False\n4. True\n5. True",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_01_011",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "Riding a bicycle is a fun outdoor activity for children.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Wearing a helmet helps protect your head from injury.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "You should ride your bicycle recklessly without looking at the road.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The poet encourages children to put on a helmet and ride happily everywhere.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True\n2. True\n3. False\n4. True",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_01_012",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the odd one out",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Red",
+     "Bed",
+     "Fed",
+     "Cat"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Ring",
+     "Sing",
+     "Wing",
+     "Hop"
+    ],
+    "ans": 4
+   }
+  ],
+  "ans": "1. Cat\n2. Hop",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_01_013",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "q": "Identify the action word.\n1. The boy rides his bicycle.\n2. Jeet hit the ball hard.",
+  "ans": "1. rides\n2. hit",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_01_014",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "q": "Write the opposite of.\n1. open: ________\n2. fat: ________\n3. hot: ________",
+  "ans": "1. close\n2. thin\n3. cold",
+  "marks": 3,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_01_015",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "q": "Join using 'and'.\n1. Suresh went to school. Gopal went to school?\n2. I like to eat mangoes. I like to eat grapes?\n3. The cat sat on the mat. The dog sat on the mat?",
+  "ans": "1. Suresh and Gopal went to school.\n2. I like to eat mangoes and grapes.\n3. The cat and the dog sat on the mat.",
+  "marks": 3,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_01_016",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "q": "Identify the naming word (noun)\n1. The red bicycle is fast.",
+  "ans": "bicycle",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_01_017",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "q": "Identify the describing word (adjective).\n1. Babli made a soft ball.",
+  "ans": "soft",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_01_018",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "q": "Write the opposite of.\n1. in: ________\n2. big: ________",
+  "ans": "1. out\n2. small",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_01_019",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What colour is the bicycle in the poem \"My Bicycle\"?\n2. What sound does the bicycle bell make?\n3. Name two parts of the bicycle that are black.\n4. What safety gear should you wear while riding a bike?\n5. What colour is the seat of the bicycle in the poem?",
+  "ans": "1. Red\n2. \"Trin... trin... trin...\"\n3. Tyres and pedals\n4. Helmet\n5. Black",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_01_020",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What do friends do when they hear the \"Trin... trin... trin...\" sound of the bell?\n2. What is needed inside the tyres to keep the bicycle moving?\n3. Mention the two speed words used to describe how the bicycle moves.\n4. What does the speaker mean by the phrase \"my bicycle is always on track\"?\n5. List all four colours mentioned or shown in the poem along with their corresponding bike parts.",
+  "ans": "1. They move aside to let the bicycle pass.\n2. Air\n3. Fast and slow\n4. It means the bicycle moves smoothly on its path without falling or getting off course.\n5. Red (body/frame), Black (tyres and pedals), Silver (bell/handlebars), Yellow/Blue (helmet/clothes)",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_01_021",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw your bicycle and write two sentences describing its colour and parts.",
+  "height": 28,
+  "ans": "(Student Drawing) 1. My bicycle is blue with shiny handlebars. 2. It has two black tyres and a loud bell.",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_01_022",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write two rhyming words for \"ride\" and two for \"track\".",
+  "height": 28,
+  "ans": "Ride: Hide, Side | Track: Back, Pack",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_01_023",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short 3-line poem about riding your bicycle in a sunny park.",
+  "height": 28,
+  "ans": "Riding my bike in the bright sun, / Pedaling fast and having fun, / Wind in my hair till the day is done!",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_01_024",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short two-line dialogue where you thank your bicycle for taking you to school.",
+  "height": 28,
+  "ans": "Child: \"Thank you, my red bike, for taking me to school safely!\" Bicycle: \"You are welcome! Let's ride back home after class!\"",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_01_025",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short paragraph (4–5 lines) about an exciting bicycle journey you went on with your friends.",
+  "height": 28,
+  "ans": "Last Sunday, my friends and I rode our bicycles to the park. We wore our helmets and pedalled together down the path. The cool wind blew on our faces as we rang our bells happily. It was the best ride ever!",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_01_026",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Create a short 5-word safety poster slogan encouraging children to wear a helmet while cycling.",
+  "height": 28,
+  "ans": "\"Wear A Helmet, Ride Safe!\"",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_01_027",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why do you think the child feels happy while riding the bicycle in the poem?",
+  "height": 28,
+  "ans": "Because riding outdoors gives freedom, speed, and fun.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_01_028",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Is cycling good for keeping us healthy and fit? Write Yes or No.",
+  "height": 28,
+  "ans": "Yes",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_01_029",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why is it polite and safe to ring your bell when people are walking ahead of you?",
+  "height": 28,
+  "ans": "It warns people so they can safely step out of the way.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_01_030",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "What important message about safety does the poet share in the last stanza?",
+  "height": 28,
+  "ans": "Always wear a helmet to stay safe while riding.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_01_031",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why is riding a bicycle better for the environment than riding a motor car or scooter?",
+  "height": 28,
+  "ans": "It does not burn fuel or produce smoke, so it causes no air pollution.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_01_032",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "How does putting on a helmet show that a child is responsible and cares for their safety?",
+  "height": 28,
+  "ans": "It shows they follow safety rules and act to protect their head from injury. UNIT 1: FUN WITH FRIENDS CHAPTER 2: PICTURE READING",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_01_033",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following",
+  "pairs": [
+   {
+    "a": "Bell",
+    "word": "Rings to warn people"
+   },
+   {
+    "a": "Pedals",
+    "word": "Push with feet"
+   },
+   {
+    "a": "Tyres",
+    "word": "Used to stop or slow down"
+   },
+   {
+    "a": "Helmet",
+    "word": "Keeps head safe"
+   },
+   {
+    "a": "Brakes",
+    "word": "Made of black rubber"
+   }
+  ],
+  "ans": "(1) → Rings to warn people | (2) → Push with feet | (3) → Used to stop or slow down | (4) → Keeps head safe | (5) → Made of black rubber",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_01_034",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. My Bicycle",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following",
+  "pairs": [
+   {
+    "a": "Open",
+    "word": "Close"
+   },
+   {
+    "a": "Up",
+    "word": "Down"
+   },
+   {
+    "a": "Rags",
+    "word": "Old pieces of cloth"
+   },
+   {
+    "a": "Threw",
+    "word": "Past form of throw"
+   },
+   {
+    "a": "Gather",
+    "word": "Bring or come together"
+   }
+  ],
+  "ans": "(1) → Close | (2) → Down | (3) → Old pieces of cloth | (4) → Past form of throw | (5) → Bring or come together",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_02_001",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "Who were playing in the holiday?",
+    "options": [
+     "Mohit and Ravi",
+     "Jeet and Babli",
+     "Rani and Sita",
+     "Amit and Mohan"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Which game did Jeet and Babli play first?",
+    "options": [
+     "Cricket",
+     "Football",
+     "Skipping rope",
+     "Kabaddi"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Where did the ball fall?",
+    "options": [
+     "Playground",
+     "Mohit's garden",
+     "Pond",
+     "School"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Jeet and Babli\n2. Skipping rope\n3. Mohit's garden",
+  "marks": 3,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_02_002",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "Why did the game stop?",
+    "options": [
+     "It became dark.",
+     "They lost the bat.",
+     "They could not find the ball.",
+     "They went home."
+    ],
+    "ans": 3
+   },
+   {
+    "q": "What did Babli make?",
+    "options": [
+     "Kite",
+     "Doll",
+     "Ball",
+     "Cap"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "What did Babli use to make the ball?",
+    "options": [
+     "Cloth, paper, wool and string",
+     "Wood and leaves",
+     "Plastic",
+     "Sand"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. They could not find the ball.\n2. Ball\n3. Cloth, paper, wool and string",
+  "marks": 3,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_02_003",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "Jeet and Babli played on a holiday.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "They played only cricket.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The ball fell into Mohit's garden.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Mohit's house was locked.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Babli knew how to make a ball.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True\n2. False\n3. True\n4. True\n5. True",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_02_004",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "They used rags, paper and wool.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Jeet threw the ball first.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Babli hit the ball.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The new ball broke again.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Babli shouted \"OUT! OUT!\"",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True\n2. True\n3. True\n4. False\n5. True",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_02_005",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the odd one out",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Throw",
+     "grow",
+     "crow",
+     "book"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Hit",
+     "sit",
+     "fit",
+     "bag"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Game",
+     "Fame",
+     "Tame",
+     "Soon"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Sad",
+     "root",
+     "Bad",
+     "Mad"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. book\n2. bag\n3. Soon\n4. root",
+  "marks": 4,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_02_006",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "vsa_1m",
+  "q": "Write the opposite of .\n1. In ; ____\n2. Up:____",
+  "ans": "1. out\n2. down",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_02_007",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "vsa_1m",
+  "q": "Join using “or”\n1. Jeet will play skipping. Jeet will play hide and seek?\n2. Babli will make a ball. Babli will make a doll?",
+  "ans": "1. Jeet will play skipping or hide and seek.\n2. Babli will make a ball or a doll",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_02_008",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. Who were playing?\n2. Which games did they play?\n3. Where did the ball fall?\n4. Why did the game stop?",
+  "ans": "1. Jeet and Babli were playing on a holiday.\n2. They played skipping rope, hide and seek, and bat and ball.\n3. The ball fell into Mohit's garden.\n4. The game stopped because they could not find the ball.",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_02_009",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What did Babli use to make the ball?\n2. What happened to the new ball?\n3. Who shouted \"OUT! OUT!\"?\n4. Why did Babli make another ball?",
+  "ans": "1. Babli used rags, paper, wool and string to make the ball.\n2. They started playing again with the new ball.\n3. Babli shouted, \"OUT! OUT!\"\n4. Babli made another ball so they could continue playing.",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_02_010",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw Jeet and Babli playing.",
+  "height": 28,
+  "ans": "Draw Jeet and Babli playing. (Student's own drawing.)",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_02_011",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write two sentences about your favourite game.",
+  "height": 28,
+  "ans": "Two sentences about your favourite game. My favourite game is cricket. I play it with my friends every evening.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_02_012",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write two rhyming words for ball and play.",
+  "height": 28,
+  "ans": "Rhyming Words: Ball: call, wall Play: day, say",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_02_013",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short dialogue between Jeet and Babli.",
+  "height": 28,
+  "ans": "Dialogue Jeet: Thank you for making the ball. Babli: You are welcome. Let's play again!",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_02_014",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write 4–5 lines about a game you like.",
+  "height": 28,
+  "ans": "I like playing with my friends. We play every evening. Playing games is fun. It keeps us healthy and happy.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_02_015",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Make a five-word slogan about playing safely.",
+  "height": 28,
+  "ans": "Safety Slogan \"Play Safe, Stay Happy Always.\"",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_02_016",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why did Babli make a new ball?",
+  "height": 28,
+  "ans": "Because she wanted to continue playing with her friend.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_02_017",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Is it good to share games with friends?",
+  "height": 28,
+  "ans": "Yes. Sharing games makes everyone happy.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_02_018",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why should we not give up when something is lost?",
+  "height": 28,
+  "ans": "We should keep trying and find another solution.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_02_019",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "What does the story teach us?",
+  "height": 28,
+  "ans": "The story teaches us to be creative, helpful and never give up.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_02_020",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "How did Jeet and Babli solve their problem?",
+  "height": 28,
+  "ans": "They solved the problem by making a new ball from old materials.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_02_021",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why is teamwork important?",
+  "height": 28,
+  "ans": "Teamwork helps us solve problems easily and work happily together. UNIT 2: WELCOME TO MY WORLD CHAPTER 1: IT IS FUN",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_02_022",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following",
+  "pairs": [
+   {
+    "a": "Jeet",
+    "word": "Threw the ball"
+   },
+   {
+    "a": "Babli",
+    "word": "Made a new ball"
+   },
+   {
+    "a": "Mohit’s garden",
+    "word": "Ball fell there"
+   },
+   {
+    "a": "String",
+    "word": "Tied the ball"
+   },
+   {
+    "a": "Holiday",
+    "word": "They played games"
+   }
+  ],
+  "ans": "(1) → Threw the ball | (2) → Made a new ball | (3) → Ball fell there | (4) → Tied the ball | (5) → They played games",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_02_023",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. Picture Reading",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following",
+  "pairs": [
+   {
+    "a": "Gather",
+    "word": "Collect"
+   },
+   {
+    "a": "Rags",
+    "word": "Old pieces of cloth"
+   },
+   {
+    "a": "Threw",
+    "word": "Past tense of throw"
+   },
+   {
+    "a": "Picked",
+    "word": "Took"
+   },
+   {
+    "a": "Courtyard",
+    "word": "Open area near a house"
+   }
+  ],
+  "ans": "(1) → Collect | (2) → Old pieces of cloth | (3) → Past tense of throw | (4) → Took | (5) → Open area near a house",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_03_001",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. f __ n\n2. w e l c __ m e\n3. l __ a p\n4. c l __ m b\n5. l __ m b",
+  "ans": "1. fun\n2. welcome\n3. leap\n4. climb\n5. lamb",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_03_002",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. c __ t\n2. s __ i m\n3. t r __ t\n4. f __ y\n5. b __ r d",
+  "ans": "1. cat\n2. swim\n3. trot\n4. fly\n5. bird",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_03_003",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. h o __ s e\n2. f i __ h\n3. l __ k e\n4. m __ ",
+  "ans": "1. horse\n2. fish\n3. like\n4. my",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_03_004",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "The boy likes to fly like a .",
+    "options": [
+     "Cat",
+     "Fish",
+     "Bird"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "The boy likes to leap like a",
+    "options": [
+     "Lamb",
+     "Horse",
+     "Frog"
+    ],
+    "ans": 1
+   },
+   {
+    "q": ". lives in water.",
+    "options": [
+     "Fish",
+     "Cat",
+     "Bird"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "____ lives on trees.",
+    "options": [
+     "Bird",
+     "Fish",
+     "Frog"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "What does the child like to leap like?",
+    "options": [
+     "Tiger",
+     "Lamb",
+     "Dog",
+     "Cow"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Bird\n2. Lamb\n3. Fish\n4. Bird\n5. Lamb",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_03_005",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "What does the child like to climb like?",
+    "options": [
+     "Monkey",
+     "Cat",
+     "Rabbit",
+     "Goat"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Which animal does the child hop like?",
+    "options": [
+     "Fish",
+     "Horse",
+     "Frog",
+     "Bird"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "What does the child swim like?",
+    "options": [
+     "Fish",
+     "Duck",
+     "Frog",
+     "Turtle"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Which animal does the child trot like?",
+    "options": [
+     "Cow",
+     "Horse",
+     "Dog",
+     "Goat"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What does the child fly like?",
+    "options": [
+     "Butterfly",
+     "Eagle",
+     "Bird",
+     "Bee"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. Cat\n2. Frog\n3. Fish\n4. Horse\n5. Bird",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_03_006",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "The poem says, \"I can act __.\"",
+    "options": [
+     "like a tiger",
+     "like them all",
+     "like my friend",
+     "like my teacher"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The poem begins with:",
+    "options": [
+     "It is rainy.",
+     "It's fun to be this.",
+     "I like to play.",
+     "I can sing."
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Which animal is NOT mentioned in the poem?",
+    "options": [
+     "Lamb",
+     "Cat",
+     "Elephant",
+     "Frog"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "The poem is mainly about:",
+    "options": [
+     "Going to school",
+     "Having fun by acting like animals",
+     "Playing cricket",
+     "Reading books"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. like them all\n2. It's fun to be this.\n3. Elephant\n4. Having fun by acting like animals",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_03_007",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "The child is sad in the poem.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The poem \"It Is Fun\" talks about playing outside",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The child in the poem like sitting quietly all day",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The child likes to leap like a lamb.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The child likes to climb like a dog.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. False\n2. False\n3. False\n4. True\n5. False",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_03_008",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "The child hops like a frog.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The child swims like a fish.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The child trots like a horse.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The child flies like a bird.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The child says, \"I can act just like them all.\"",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True\n2. True\n3. True\n4. True\n5. True",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_03_009",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "The poem says it is boring to be this and that.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The child likes to read books in the poem.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The poem is about having fun by acting like different animal",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. False\n2. False\n3. True",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_03_010",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the odd one out",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Lamb",
+     "Jam",
+     "Ham",
+     "Frog"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Cat",
+     "Hat",
+     "Mat",
+     "Fish"
+    ],
+    "ans": 4
+   }
+  ],
+  "ans": "1. Frog\n2. Fish",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_03_011",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "q": "Identify the action word.\n1. The child hops like a frog.\n2. The bird flies in the sky.",
+  "ans": "1. hops\n2. flies",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_03_012",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "q": "Write the opposite of.\n1. up : ____\n2. big : ____\n3. fast : ____",
+  "ans": "1. down\n2. small\n3. slow",
+  "marks": 3,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_03_013",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "q": "Join using 'and'.\n1. I like to hop like a frog. I like to swim like a fish?\n2. The bird flies in the sky. The fish swims in the water ?\n3. The lamb leaps on the grass. The cat climbs on the tree?",
+  "ans": "1. I like to hop and swim.\n2. The bird flies and the fish swims.\n3. The lamb leaps and the cat climbs.",
+  "marks": 3,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_03_014",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "q": "Identify the naming word (Noun).\n1. The bird flies in the sky.",
+  "ans": "bird",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_03_015",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "q": "Identify the describing word (Adjective).\n1. The little lamb is white.",
+  "ans": "little",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_03_016",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "q": "Write the opposite of.\n1. this : ____\n2. in : ____",
+  "ans": "1. that\n2. out",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_03_017",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What does the child leap like?\n2. What does the child climb like?\n3. Which animal does the child hop like?\n4. Which animal does the child swim like?\n5. Which animal does the child trot like?",
+  "ans": "1. The child leaps like a lamb.\n2. The child climbs like a cat.\n3. The child hops like a frog.\n4. The child swims like a fish.\n5. The child trots like a horse.",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_03_018",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. Which animal does the child fly like?\n2. What does the child say he/she can do like all the animals?\n3. Name any four animals mentioned in the poem.\n4. Why does the child enjoy acting like animals?\n5. Which animals move on land and which move in water or air? Write one example for each.",
+  "ans": "1. The child flies like a bird.\n2. The child says he/she can act like all the animals.\n3. Lamb, Cat, Frog, Fish.\n4. The child enjoys acting like animals because it is fun.\n5. Land: Lamb, Cat, Horse Water: Fish Air: Bird",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_03_019",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw your favourite animal from the poem and write two sentences about it.",
+  "height": 28,
+  "ans": "My favourite animal is a bird. It can fly high in the sky.",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_03_020",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write two rhyming words for cat and two rhyming words for frog.",
+  "height": 28,
+  "ans": "Rhyming words Ride – side, slide Frog – log, dog",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_03_021",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short 3-line poem about your favourite animal.",
+  "height": 28,
+  "ans": "Three-line poem I hop like a frog. I fly like a bird. Playing is fun!",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_03_022",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short two-line conversation between you and a bird.",
+  "height": 28,
+  "ans": "Dialogue Me: Hello, bird! Bird: Hello! Let's fly and play.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_03_023",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short paragraph (4–5 lines) about how you like to play like different animals.",
+  "height": 28,
+  "ans": "I like to play like different animals. I hop like a frog and climb like a cat. I fly like a bird in my imagination. It is fun to play with my friends.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_03_024",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a five-word slogan about loving and caring for animals.",
+  "height": 28,
+  "ans": "Safety slogan Love Animals, Be Kind Always.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_03_025",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why does the child enjoy pretending to be different animals?",
+  "height": 28,
+  "ans": "The child feels happy because pretending to be different animals is fun.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_03_026",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Is it good to play outdoors and be active like the animals? Write Yes or No.",
+  "height": 28,
+  "ans": "Yes.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_03_027",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "What can we learn from birds and animals while playing?",
+  "height": 28,
+  "ans": "We learn to be active, playful, and enjoy nature.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_03_028",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why should we be kind to animals?",
+  "height": 28,
+  "ans": "We should be kind to animals because they are living beings and our friends.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_03_029",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Which animal from the poem do you like the most? Give one reason.",
+  "height": 28,
+  "ans": "Bird – because it can fly high in the sky. (Sample answer)",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_03_030",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "How does this poem encourage children to stay active and enjoy nature?",
+  "height": 28,
+  "ans": "The poem encourages children to stay active, use their imagination, and enjoy nature by acting like different animals. UNIT 2: WELCOME TO MY WORLD CHAPTER 2: SEEING WITHOUT SEEING",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_03_031",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following",
+  "pairs": [
+   {
+    "a": "The horse",
+    "word": "Trots"
+   },
+   {
+    "a": "The fish",
+    "word": "Swims"
+   },
+   {
+    "a": "The frog",
+    "word": "Hops"
+   },
+   {
+    "a": "The lamb",
+    "word": "Leaps"
+   },
+   {
+    "a": "The bird",
+    "word": "Flies"
+   }
+  ],
+  "ans": "(1) → Trots | (2) → Swims | (3) → Hops | (4) → Leaps | (5) → Flies",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_03_032",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. It is Fun",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following",
+  "pairs": [
+   {
+    "a": "Leap",
+    "word": "To jump high or far"
+   },
+   {
+    "a": "Climb",
+    "word": "To go up something"
+   },
+   {
+    "a": "Hop",
+    "word": "To jump on one foot or with both feet together"
+   },
+   {
+    "a": "Trot",
+    "word": "To run with short, quick steps"
+   },
+   {
+    "a": "Act",
+    "word": "To do or behave like something"
+   }
+  ],
+  "ans": "(1) → To jump high or far | (2) → To go up something | (3) → To jump on one foot or with both feet together | (4) → To run with short, quick steps | (5) → To do or behave like something",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_04_001",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. o __ s h a n g l a\n2. s c h o __ l\n3. m i __ k\n4. g l a __ s\n5. j __ y",
+  "ans": "1. onshangla\n2. school\n3. milk\n4. glass\n5. joy",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_04_002",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. c h i __ d\n2. A v __ \n3. s c a r __ \n4. g __ r l\n5. o v e __ ",
+  "ans": "1. child\n2. Ava\n3. scarf\n4. girl\n5. over",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_04_003",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "What is the name of the little girl?",
+    "options": [
+     "Anu",
+     "Onshangla",
+     "Meena",
+     "Tara"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What did Amma ask Onshangla to do?",
+    "options": [
+     "Read a book",
+     "Play a game",
+     "Sing a song",
+     "Draw a picture"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What did Amma cover?",
+    "options": [
+     "Her hands",
+     "Her eyes",
+     "Her ears",
+     "Her feet"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What did Amma give Onshangla first?",
+    "options": [
+     "A flower",
+     "A toy",
+     "A fruit",
+     "A book"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "What did Onshangla identify by touch?",
+    "options": [
+     "A flower",
+     "A ball",
+     "A doll",
+     "A leaf"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Onshangla\n2. Play a game\n3. Her eyes\n4. A flower\n5. A flower",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_04_004",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "What did Amma ask Onshangla to smell?",
+    "options": [
+     "A rose",
+     "A jasmine flower",
+     "A mango",
+     "A banana"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Which sense helped Onshangla know the flower?",
+    "options": [
+     "Sight",
+     "Smell",
+     "Hearing",
+     "Taste"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What did Amma want Onshangla to understand?",
+    "options": [
+     "To read well",
+     "To help friends with disabilities",
+     "To play games",
+     "To write neatly"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Which body part helped Onshangla feel objects?",
+    "options": [
+     "Eyes",
+     "Nose",
+     "Fingers",
+     "Legs"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Onshangla felt the bell with her __.",
+    "options": [
+     "Feet",
+     "Ears",
+     "Hair",
+     "Mouth"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. A jasmine flower\n2. Smell\n3. To help friends with disabilities\n4. Fingers\n5. Ears",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_04_005",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "What was the lesson mainly about?",
+    "options": [
+     "Good food",
+     "Kindness and understanding",
+     "Festivals",
+     "School games"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Which sense organ helps us hear?",
+    "options": [
+     "Eyes",
+     "Nose",
+     "Ears",
+     "Hands"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Amma hugged Onshangla at the end because she was __.",
+    "options": [
+     "Angry",
+     "Happy",
+     "Sleepy",
+     "Afraid"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The story teaches us to be __.",
+    "options": [
+     "Lazy",
+     "Kind",
+     "Noisy",
+     "Rude"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Kindness and understanding\n2. Ears\n3. Happy\n4. Kind",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_04_006",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "Onshangla was a little girl",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Amma covered Onshangla's eyes.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Onshangla could see while playing the game.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "She identified a flower by touching it.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "She smelled the flower.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True\n2. True\n3. False\n4. True\n5. True",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_04_007",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "Amma wanted her to understand how blind people live.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Blind people can never identify anything.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "We should be kind to people with disabilities.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Fingers help us feel objects.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The story teaches empathy and kindness.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True\n2. False\n3. True\n4. True\n5. True",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_04_008",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. TSRFI\n2. DCOENS\n3. RODO\n4. ELBAT\n5. GAB",
+  "ans": "1. First\n2. Second\n3. Door\n4. Table\n5. Bag",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_04_009",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. SSALC\n2. LKIM\n3. KSDE\n4. CALKB\n5. EMAG",
+  "ans": "1. Class\n2. Milk\n3. Desk\n4. Black\n5. Game",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_04_010",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. DNHA\n2. ESOR\n3. FLOWRE\n4. DUOSN\n5. REGNIF",
+  "ans": "1. Hand\n2. Rose\n3. Flower\n4. Sound\n5. Finger",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_04_011",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. RETAW\n2. EUJIC\n3. DOOG\n4. RTONF\n5. WEN",
+  "ans": "1. Water\n2. Juice\n3. Good\n4. Front\n5. New",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_04_012",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks with the plural form.\n1. door -\n2. table -\n3. class -\n4. desk -\n5. glass-",
+  "ans": "1. doors\n2. tables\n3. classes\n4. desks\n5. glasses",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_04_013",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks with the plural form.\n1. hand-\n2. rose -\n3. flower -\n4. bell-\n5. child -",
+  "ans": "1. hands\n2. roses\n3. flowers\n4. bells\n5. children",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_04_014",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What is the title of the lesson?\n2. How many senses do we have?\n3. Which organ helps us to see?\n4. Which organ helps us to hear?\n5. Which organ helps us to smell?",
+  "ans": "1. Seeing without Seeing\n2. We have five senses.\n3. Eyes\n4. Ears\n5. Nose",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_04_015",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. Which organ helps us to taste?\n2. Which organ helps us to feel?\n3. Can we communicate without talking?\n4. What do we use to talk to deaf people?\n5. What do blind people use to read?",
+  "ans": "1. Tongue\n2. Skin (Hands/Fingers)\n3. Yes, we can.\n4. Sign language\n5. Braille",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_04_016",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. How do we say \"hello\" without words?\n2. How do we say \"stop\" with our body?\n3. What does a smile show?\n4. What do tears show?\n5. How do birds talk?",
+  "ans": "1. By waving our hand or smiling.\n2. By raising our hand.\n3. A smile shows happiness.\n4. Tears show sadness.\n5. Birds talk by chirping.",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_04_017",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. How do dogs talk?\n2. What do traffic lights show without speaking?\n3. Why are our senses important?\n4. How do we show \"come here\" with our hands?\n5. How can we help others understand us without speaking?",
+  "ans": "1. Dogs talk by barking.\n2. Traffic lights show when to stop, wait, or go.\n3. Our senses help us learn about the world around us.\n4. By moving our hand towards ourselves.\n5. By using signs, gestures, facial expressions, and body language.",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_04_018",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What is the name of the girl in the story?",
+  "ans": "Onashangla.",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_04_019",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw a flower and write two sentences describing its colour and smell.",
+  "height": 28,
+  "ans": "The flower is pink. It smells sweet.",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_04_020",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write two words that describe a flower and two words that describe a bell.",
+  "height": 28,
+  "ans": "Flower – Beautiful, Fragrant Bell – Round, Ringing",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_04_021",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short 3-line poem about using your eyes, ears, and hands to learn about the world.",
+  "height": 28,
+  "ans": "I see the bright blue sky. I hear the birds sing. I touch and learn new things.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_04_022",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short two-line dialogue between Onshangla and Amma after the game.",
+  "height": 28,
+  "ans": "Onshangla: Thank you, Amma. I learnt a new lesson today. Amma: I am happy you understand how blind people feel.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_04_023",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short paragraph (4–5 lines) about how you would help a friend who cannot see.",
+  "height": 28,
+  "ans": "I will hold my friend's hand and help them walk safely. I will describe the things around us. I will speak kindly and play with them. I will always be a caring friend.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_04_024",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Create a 5-word kindness poster slogan to encourage children to help people with disabilities.",
+  "height": 28,
+  "ans": "Help Everyone With Love Always.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_04_025",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why did Amma cover Onshangla's eyes?",
+  "height": 28,
+  "ans": "To help her understand how a blind person feels.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_04_026",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Should we be kind and helpful to people with disabilities? Write Yes or No.",
+  "height": 28,
+  "ans": "Yes",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_04_027",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "How did Onshangla identify the flower without seeing it?",
+  "height": 28,
+  "ans": "She touched and smelled the flower.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_04_028",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "What important lesson did Onshangla learn from the game?",
+  "height": 28,
+  "ans": "She learnt to understand, respect, and help people with disabilities.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_04_029",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why should we respect and include children with disabilities in games and school activities?",
+  "height": 28,
+  "ans": "Because everyone deserves love, respect, and equal opportunities.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_04_030",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "How can using kind words and helping others make our school a happy place for everyone?",
+  "height": 28,
+  "ans": "Kind words and helpful actions make everyone feel safe, happy, and included. UNIT 3: GOING PLACES CHAPTER 1: COME BACK SOON",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_04_031",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following",
+  "pairs": [
+   {
+    "a": "Onshangla",
+    "word": "Little girl"
+   },
+   {
+    "a": "Amma",
+    "word": "Covered Onshangla eyes"
+   },
+   {
+    "a": "Flowers",
+    "word": "Smelled sweet"
+   },
+   {
+    "a": "Fingers",
+    "word": "Helped to feel objects"
+   },
+   {
+    "a": "Blind people",
+    "word": "Could not see"
+   }
+  ],
+  "ans": "(1) → Little girl | (2) → Covered Onshangla eyes | (3) → Smelled sweet | (4) → Helped to feel objects | (5) → Could not see",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_04_032",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. Seeing without Seeing",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following",
+  "pairs": [
+   {
+    "a": "Blind",
+    "word": "Unable to see"
+   },
+   {
+    "a": "Touch",
+    "word": "To feel with your fingers"
+   },
+   {
+    "a": "Smell",
+    "word": "To know by using your nose"
+   },
+   {
+    "a": "Wonderful",
+    "word": "Very nice or amazing"
+   },
+   {
+    "a": "Disability",
+    "word": "A condition that makes some activities difficult"
+   }
+  ],
+  "ans": "(1) → Unable to see | (2) → To feel with your fingers | (3) → To know by using your nose | (4) → Very nice or amazing | (5) → A condition that makes some activities difficult",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_05_001",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. b __ s\n2. t r __ i n\n3. b __ a t\n4. p l __ n e\n5. t __ x i",
+  "ans": "1. bus\n2. train\n3. boat\n4. plane\n5. taxi",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_05_002",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. c __ r\n2. r __ c k e t\n3. m __ o n\n4. n __ a r\n5. f __ r",
+  "ans": "1. car\n2. rocket\n3. moon\n4. near\n5. far",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_05_003",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. t __ k e\n2. c __ m e\n3. w __ n d o w\n4. t r __ v e l\n5. b __ c y c l e",
+  "ans": "1. take\n2. come\n3. window\n4. travel\n5. bicycle",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_05_004",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "We can travel by ______.",
+    "options": [
+     "bus",
+     "chair",
+     "bed",
+     "table"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Which vehicle runs on railway tracks?",
+    "options": [
+     "Train",
+     "Boat",
+     "Taxi",
+     "Bicycle"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Which vehicle flies in the sky?",
+    "options": [
+     "Plane",
+     "Bus",
+     "Car",
+     "Boat"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Which vehicle moves on water?",
+    "options": [
+     "Boat",
+     "Train",
+     "Taxi D)A Car"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Which vehicle can go to the moon?",
+    "options": [
+     "Rocket",
+     "Bus",
+     "Train",
+     "Boat"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. bus\n2. Train\n3. Plane\n4. Boat\n5. Rocket",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_05_005",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "\"Take a bus\" means travel by ______.",
+    "options": [
+     "bus",
+     "horse",
+     "bicycle",
+     "cart"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The poem says we can go ______ or far.",
+    "options": [
+     "near",
+     "home",
+     "school",
+     "village"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "A taxi is a type of ______.",
+    "options": [
+     "road vehicle",
+     "bird",
+     "animal",
+     "fruit"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The rocket goes to the ______.",
+    "options": [
+     "moon",
+     "river",
+     "school",
+     "park"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "We should come back ______.",
+    "options": [
+     "soon",
+     "never",
+     "tomorrow only",
+     "late"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. bus\n2. near\n3. road vehicle\n4. moon\n5. soon",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_05_006",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "Which word is a new word in the lesson?",
+    "options": [
+     "Rocket",
+     "Mango",
+     "Apple",
+     "School"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Which vehicle has wings?",
+    "options": [
+     "Plane",
+     "Boat",
+     "Car",
+     "Taxi"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Which vehicle usually travels on roads?",
+    "options": [
+     "Car",
+     "Boat",
+     "Rocket",
+     "Train"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The title of the poem is ______.",
+    "options": [
+     "Come Back Soon",
+     "My Bicycle",
+     "My School",
+     "The Crow"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The poem is about ______.",
+    "options": [
+     "different ways of travelling",
+     "animals",
+     "fruits",
+     "flowers"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Rocket\n2. Plane\n3. Car\n4. Come Back Soon\n5. different ways of travelling",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_05_007",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "A boat travels on water.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "A train flies in the sky.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "A plane can fly.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "A rocket can go to the moon.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "A bus travels on railway tracks.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. True\n2. False\n3. True\n4. True\n5. False",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_05_008",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "The poem says, \"Come back soon.\"",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "A taxi is a water vehicle.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "We can travel near or far.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "A car is a road vehicle.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "A rocket travels on water.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. True\n2. False\n3. True\n4. True\n5. False",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_05_009",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. UBREMALL\n2. RCKUT\n3. GJU\n4. SBU\n5. RNIAT",
+  "ans": "1. Umbrella\n2. Truck\n3. Jug\n4. Bus\n5. Train",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_05_010",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. ANELP\n2. OTAB\n3. IXTA\n4. RCA\n5. ONMO",
+  "ans": "1. Plane\n2. Boat\n3. Taxi\n4. Car\n5. Moon",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_05_011",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the odd one out",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Aeroplane",
+     "helicopter",
+     "Rocket",
+     "Bus"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Car",
+     "Bus",
+     "Ship",
+     "Lorry"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "",
+    "options": [
+     "Ship",
+     "Boat",
+     "Scooter",
+     "yacht"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "",
+    "options": [
+     "Sun",
+     "Moon",
+     "Star",
+     "Road"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Wheel",
+     "Seat",
+     "Engine",
+     "Rose"
+    ],
+    "ans": 4
+   }
+  ],
+  "ans": "1. Bus\n2. Ship\n3. Scooter\n4. Road\n5. Rose",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_05_012",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. How many wheels does a car have?\n2. When do you see the moon?\n3. Where can you see the moon?\n4. Can a train move on road?",
+  "ans": "1. A car has four wheels.\n2. At night\n3. In the sky\n4. No",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_05_013",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. Where does the train move?\n2. How many people can sit in a car?\n3. How many people can sit in a cycle?\n4. How many people can sit in a bike?",
+  "ans": "1. On railway tracks\n2. Four or five people\n3. One\n4. Two",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_05_014",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What is the colour of the moon?\n2. Where can you see the plane flying?\n3. Do you like to sit in the window seat of a car, why?",
+  "ans": "1. White\n2. In the sky\n3. Yes, Because I can see the beautiful scenery outside",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_05_015",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw your favourite vehicle (bus, train, boat, plane, or rocket) and write two sentences about it.",
+  "height": 28,
+  "ans": "My favourite vehicle is a bus. It is yellow and has six wheels.",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_05_016",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write two rhyming words for \"moon\" and two rhyming words for \"train\".",
+  "height": 28,
+  "ans": "Moon: soon, noon Train: rain, brain",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_05_017",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short 3-line poem about travelling in a bus or train.",
+  "height": 28,
+  "ans": "I travel in a happy train. It goes through sun and rain. I smile all the way again.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_05_018",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short two-line dialogue between you and your mother while travelling in a train.",
+  "height": 28,
+  "ans": "Mother: Are you enjoying the train journey? Me: Yes, I am. It is fun!",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_05_019",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short paragraph (4–5 lines) about a happy journey you made with your family by bus, train, or car.",
+  "height": 28,
+  "ans": "Last Sunday, I travelled with my family by train. We enjoyed looking through the window. The journey was safe and fun. We reached our destination happily.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_05_020",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Create a short 5-word safety poster slogan about safe travelling.",
+  "height": 28,
+  "ans": "Always travel safely, follow traffic rules.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_05_021",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Create a poem of four lines on the topic \" The MOON\"",
+  "height": 28,
+  "ans": "The moon shines bright up in the sky, A silver ball so round and high. It glows all night with gentle light, And makes the dark world soft and bright.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_05_022",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why do you think travelling to different places is enjoyable?",
+  "height": 28,
+  "ans": ". Travelling is enjoyable because we can visit new places and have fun.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_05_023",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Is it important to travel safely?",
+  "height": 28,
+  "ans": "Yes.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_05_024",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why should we follow safety rules while travelling by bus or train?",
+  "height": 28,
+  "ans": "We should follow safety rules to stay safe and avoid accidents.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_05_025",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "What message does the poem \"Come Back Soon\" give us?",
+  "height": 28,
+  "ans": "The poem teaches us to travel happily and come back home safely.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_05_026",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why should we keep buses, trains, and other public transport clean?",
+  "height": 28,
+  "ans": "We should keep public transport clean so everyone can travel comfortably.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_05_027",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "How does following travel rules show that you are a responsible child?",
+  "height": 28,
+  "ans": "Following travel rules shows that I am a responsible and careful child. UNIT 3: GOING PLACES CHAPTER 2: BETWEEN HOME AND SCHOOL",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_05_028",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following",
+  "pairs": [
+   {
+    "a": "Bus",
+    "word": "Road transport"
+   },
+   {
+    "a": "Train",
+    "word": "Runs on railway tracks"
+   },
+   {
+    "a": "Boat",
+    "word": "Travels on water"
+   },
+   {
+    "a": "Plane",
+    "word": "Flies in the sky"
+   },
+   {
+    "a": "Rocket",
+    "word": "Goes to the moon"
+   }
+  ],
+  "ans": "(1) → Road transport | (2) → Runs on railway tracks | (3) → Travels on water | (4) → Flies in the sky | (5) → Goes to the moon",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_05_029",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. Come Back Soon",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following",
+  "pairs": [
+   {
+    "a": "Near",
+    "word": "Close"
+   },
+   {
+    "a": "Far",
+    "word": "A long distance away"
+   },
+   {
+    "a": "Taxi",
+    "word": "A vehicle for hire"
+   },
+   {
+    "a": "Rocket",
+    "word": "A vehicle that travels into space"
+   },
+   {
+    "a": "Plane",
+    "word": "An aircraft that flies in the sky"
+   }
+  ],
+  "ans": "(1) → Close | (2) → A long distance away | (3) → A vehicle for hire | (4) → A vehicle that travels into space | (5) → An aircraft that flies in the sky",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_06_001",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. c l a __ s\n2. f r i __ n d\n3. m __ n g o\n4. s c h __ o l\n5. f __ n",
+  "ans": "1. class\n2. friend\n3. mango\n4. school\n5. fun",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_06_002",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. r __ a d\n2. r __ v i\n3. f o __ t\n4. d __ y\n5. p __ d d y",
+  "ans": "1. road\n2. ravi\n3. foot\n4. day\n5. paddy",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_06_003",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "What is the name of the boy in the lesson?",
+    "options": [
+     "Ravi",
+     "Raju",
+     "Mohan",
+     "Rahul"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Which class does Ravi study in?",
+    "options": [
+     "Class 1",
+     "Class 2",
+     "Class 3",
+     "Class 4"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "How does Ravi go to school?",
+    "options": [
+     "By bus",
+     "By bicycle",
+     "On foot",
+     "By car"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Through which fields do Ravi and his friend pass?",
+    "options": [
+     "Flower fields",
+     "Paddy fields",
+     "Tea fields",
+     "Cotton fields"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What do they pass after the paddy fields?",
+    "options": [
+     "Mango grove",
+     "Park",
+     "Playground",
+     "River"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Ravi\n2. Class 2\n3. On foot\n4. Paddy fields\n5. Mango grove",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_06_004",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "Which road do they reach?",
+    "options": [
+     "Village road",
+     "Main road",
+     "Highway",
+     "Mud road"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What do the children jump over?",
+    "options": [
+     "Stones",
+     "Canals",
+     "Walls",
+     "Benches"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "What do the children climb?",
+    "options": [
+     "Hills",
+     "Trees",
+     "Buildings",
+     "Fences"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "From where do the children swing?",
+    "options": [
+     "Rope",
+     "Branches",
+     "Gate",
+     "Pole"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Which animals do the children watch?",
+    "options": [
+     "Birds",
+     "Rabbits",
+     "Garden lizards",
+     "Butterflies"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. Main road\n2. Canals\n3. Trees\n4. Branches\n5. Garden lizards",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_06_005",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "Ravi studies in Class 2.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Ravi goes to school by bus.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Ravi and his friend walk to school.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "They pass through paddy fields.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "They pass through a mango grove.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True\n2. False\n3. True\n4. True\n5. True",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_06_006",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "They jump over canals on the way to school.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "They climb trees on the way to school.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "They watch garden lizards.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "They reach school late every day.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The children have fun on their way to school.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True\n2. True\n3. True\n4. False\n5. True",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_06_007",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks with “CH” words.\n1. We sit on a __ . ?\n2. Pizza tastes good with___. ?\n3. We eat curry and rice for l__. ?\n4. We play on the b__ on Sunday. ?\n5. Our t____r teaches us in class. ?",
+  "ans": "1. Bench\n2. Cheese\n3. Lunch\n4. Beach\n5. Teacher",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_06_008",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks with “CH” words.\n1. We sit on a b__ in the park.\n2. The teacher writes on the board with __.\n3. Christians pray in a__ .\n4. I love to eat __ .",
+  "ans": "1. Bench\n2. Chalk\n3. Church\n4. Chips",
+  "marks": 4,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_06_009",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the correctly spelled word",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "School",
+     "Schloo"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "Paddy",
+     "Pdaay"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "Mango",
+     "Maogn"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "Road",
+     "Rdoa"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "Class",
+     "Clssa"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. School\n2. Paddy\n3. Mango\n4. Road\n5. Class",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_06_010",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the correctly spelled word",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Friend",
+     "Freidn"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "Grove",
+     "Gorve"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "Day",
+     "Yad"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "Foot",
+     "Tfoo"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "",
+    "options": [
+     "Ravi",
+     "viRa"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Friend\n2. Grove\n3. Day\n4. Foot\n5. Ravi",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_06_011",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What is your name?\n2. What is the name of your school?\n3. How do you go to school everyday?\n4. Which class are you studying?\n5. With whom do you go to school?",
+  "ans": "1. My name is\n2. Our school name is\n3. I go to school every day by\n4. I am studying in second standard.\n5. I go to school with my",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_06_012",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. Do you like to go to school?\n2. What do you see while going to school?\n3. What time do you go to school?\n4. What time does the school let's off?\n5. Is your school near or far?",
+  "ans": "1. Yes\n2. Trees, Vehicles, Shops\n3. I go to school at 9.30\n4. At 4.30\n5. Near",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_06_013",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What do Ravi and his friend see while going to school?\n2. Do you go to school everyday?\n3. Why should we go to school everyday?\n4. Who is your best friend in your school?\n5. Sum of the interesting things you see everyday between your home and your school?",
+  "ans": "1. Paddy field\n2. Yes\n3. To learn\n4. My best friend is\n5. I see interesting things like",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_06_014",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What do you do after coming home from school?\n2. Which is your favourite subject?\n3. Do you reach to school on time?\n4. Do you eat lunch at your school?",
+  "ans": "1. Play\n2. My favourite subject is\n3. Yes\n4. Yes",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_06_015",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw the route from your home to school and write two sentences about the places you see on the way.",
+  "height": 28,
+  "ans": "I walk to school with my friend. I see green trees and beautiful fields on the way.",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_06_016",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write two rhyming words for \"school\" and two rhyming words for \"tree\".",
+  "height": 28,
+  "ans": "School: Cool, Pool Tree: Bee, See",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_06_017",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short 3-line poem about walking happily to school with your friend.",
+  "height": 28,
+  "ans": "We walk to school every day. Birds sing and trees sway. We smile all the way.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_06_018",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short two-line dialogue between Ravi and his friend while they are walking to school.",
+  "height": 28,
+  "ans": "Ravi: Let's walk to school together. Friend: Yes, it will be fun!",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_06_019",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short paragraph (4–5 lines) about an exciting journey from your home to school. Mention any trees, fields, birds, or animals you see.",
+  "height": 28,
+  "ans": "Every morning I walk to school with my friend. We pass green fields and tall trees. We hear birds singing on the way. We enjoy the fresh air and reach school happily.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_06_020",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Create a short 5-word safety poster slogan to encourage children to walk safely on the road while going to school.",
+  "height": 28,
+  "ans": "Walk Safely, Reach School Happily Always.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_06_021",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why do you think Ravi and his friend enjoy walking to school every day?",
+  "height": 28,
+  "ans": "They enjoy walking because they have fun and enjoy nature on the way.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_06_022",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Is walking to school good for our health? Write Yes or No.",
+  "height": 28,
+  "ans": "Yes.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_06_023",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why should children walk carefully while crossing canals and roads?",
+  "height": 28,
+  "ans": "Children should walk carefully to stay safe and avoid accidents.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_06_024",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "What good habit do Ravi and his friend show by reaching school on time?",
+  "height": 28,
+  "ans": "They show the good habit of being punctual and responsible.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_06_025",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why is walking to school better for the environment than using a car or bike?",
+  "height": 28,
+  "ans": "Walking does not cause pollution and helps keep the environment clean.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_06_026",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "How does walking with a friend safely show responsibility and care for each other?",
+  "height": 28,
+  "ans": "Walking safely with a friend shows that they care for each other and help each other stay safe. UNIT 3: GOING PLACES CHAPTER 3: THIS IS MY TOWN",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_06_027",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "6. Between Home and School",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following",
+  "pairs": [
+   {
+    "a": "Paddy",
+    "word": "Rice growing field"
+   },
+   {
+    "a": "Grove",
+    "word": "A place with many trees"
+   },
+   {
+    "a": "Canal",
+    "word": "A small water channel"
+   },
+   {
+    "a": "Branches",
+    "word": "Parts of a tree"
+   },
+   {
+    "a": "Route",
+    "word": "Path or way"
+   }
+  ],
+  "ans": "(1) → Rice growing field | (2) → A place with many trees | (3) → A small water channel | (4) → Parts of a tree | (5) → Path or way",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_07_001",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. t o __ n\n2. h o u __ e\n3. r o __ m\n4. b __ d\n5. s t r e __ t",
+  "ans": "1. town\n2. house\n3. room\n4. bed\n5. street",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_07_002",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "vsa_1m",
+  "q": "Fill in the missing letter and write the word\n1. f l o w __ r\n2. b a s k __ t\n3. m __ \n4. a r __ \n5. t r e __ ",
+  "ans": "1. flower\n2. basket\n3. my\n4. are\n5. tree",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_07_003",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "This is my ____.",
+    "options": [
+     "village",
+     "town",
+     "school",
+     "park"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "In my town, there are ____.",
+    "options": [
+     "rivers",
+     "streets",
+     "mountains",
+     "forests"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "In my street, there are ____.",
+    "options": [
+     "houses",
+     "buses",
+     "shops",
+     "trees"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "In my house, there are ____.",
+    "options": [
+     "gardens",
+     "rooms",
+     "roads",
+     "lakes"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "In my room, there is a ____.",
+    "options": [
+     "table",
+     "chair",
+     "bed",
+     "fan"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. town\n2. streets\n3. houses\n4. rooms\n5. bed",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_07_004",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer",
+  "rows": [
+   {
+    "q": "On the bed, there is a ____.",
+    "options": [
+     "basket",
+     "pillow",
+     "toy",
+     "book"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "In the basket, there are some ____.",
+    "options": [
+     "fruits",
+     "flowers",
+     "vegetables",
+     "toys"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Which comes first in the poem?",
+    "options": [
+     "House",
+     "Street",
+     "Town",
+     "Room"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Which comes after the house?",
+    "options": [
+     "Town",
+     "Room",
+     "Street",
+     "Basket"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The poem is mainly about ____.",
+    "options": [
+     "a zoo",
+     "a town and its places",
+     "a forest",
+     "a playground"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. basket\n2. flowers\n3. Town\n4. Room\n5. a town and its places",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_07_005",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "This is my town.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "In my town, there are streets.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "In my street, there are shops.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "In my house, there are rooms.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "In my room, there is a bed.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True\n2. True\n3. False\n4. True\n5. True",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_07_006",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False",
+  "rows": [
+   {
+    "q": "On the bed, there is a basket.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "In the basket, there are some flowers.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The basket is under the bed.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The room is in the house.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The street is in the town.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True\n2. True\n3. False\n4. True\n5. True",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_engbi_07_007",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. Twon\n2. Sretets\n3. Huoess\n4. Rmoos\n5. Bde",
+  "ans": "1. Town\n2. Streets\n3. Houses\n4. Rooms\n5. Bed",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_07_008",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "vsa_1m",
+  "q": "Rearrange the jumbled letters to make a word\n1. Bsaket\n2. Folwres\n3. Tihs\n4. Trhee\n5. Smoe",
+  "ans": "1. Basket\n2. Flowers\n3. This\n4. There\n5. Some",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_07_009",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "vsa_1m",
+  "q": "CONSTRUCT YOUR OWN SENTENCES USING THE WORDS\n1. BED\n2. FLOWERS\n3. HOUSE\n4. BASKET\n5. ROOM",
+  "ans": "1. I sleep on bed\n2. I like flowers\n3. My house is beautiful\n4. I have a basket\n5. My room is big",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_07_010",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "vsa_1m",
+  "q": "CONSTRUCT YOUR OWN SENTENCES USING THE WORDS\n1. STREET\n2. TOWN\n3. MY\n4. THIS\n5. THERE",
+  "ans": "1. Our street has more trees\n2. This is my town\n3. She is my friend\n4. This is a ball\n5. There is a bird on the nest.",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_07_011",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What is on the bed?\n2. What are in the basket?\n3. What is inside the room?\n4. Where are the houses located?",
+  "ans": "1. A basket of flowers.\n2. Flowers.\n3. A bed.\n4. In the town.",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_07_012",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What is inside the house?\n2. What is inside the town?\n3. Where are the flowers kept?\n4. Where is the bed placed?",
+  "ans": "1. A room.\n2. Streets.\n3. In the basket.\n4. In the room.",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_07_013",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. Where is the house located?\n2. What is inside the street?\n3. What is inside the basket?\n4. Where is the room?",
+  "ans": "1. On a street in the town.\n2. A house.\n3. Flowers.\n4. In the house.",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_07_014",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "vsa_1m",
+  "q": "Answer the following questions\n1. What is the poem about\n2. Where is the street?\n3. What is kept inside the room?\n4. What is on top of the bed?",
+  "ans": "1. A kingdom leading step-by-step down to a basket of flowers on a bed.\n2. In the town.\n3. A bed.\n4. A basket of flowers.",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_07_015",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw your town and write two sentences describing the places you see.",
+  "height": 28,
+  "ans": "My town has many houses and clean streets. I like my town because it is beautiful.",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_engbi_07_016",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write two rhyming words for town and two for bed.",
+  "height": 28,
+  "ans": "Town: gown, clown Bed: red, fed",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_07_017",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short 3-line poem about your beautiful town.",
+  "height": 28,
+  "ans": "My town is clean and bright. Flowers bloom everywhere. I love my little town.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_07_018",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short two-line dialogue between you and your friend about your favourite place in your town.",
+  "height": 28,
+  "ans": "Me: I like my town very much. Friend: Me too! It is clean and beautiful.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_07_019",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write a short paragraph (4–5 lines) describing your house and your room.",
+  "height": 28,
+  "ans": "My house is neat and clean. It has many rooms. My room has a bed and a basket. I keep my room tidy. I love my home.",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_07_020",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Create a short 5-word slogan to keep your town clean and beautiful.",
+  "height": 28,
+  "ans": "Keep Our Town Clean Always",
+  "marks": 2,
+  "obj": "ಅಭಿವ್ಯಕ್ತಿ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_07_021",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why do you think the child is proud of their town?",
+  "height": 28,
+  "ans": "The child is proud because the town is beautiful and clean.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_07_022",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Is it good to keep our house and surroundings clean? Write Yes or No.",
+  "height": 28,
+  "ans": "Yes.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_07_023",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why should we take care of the flowers in our garden or basket?",
+  "height": 28,
+  "ans": "We should take care of flowers because they make our surroundings beautiful.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_07_024",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "What does the lesson teach us about our home and town?",
+  "height": 28,
+  "ans": "The lesson teaches us to love and care for our home and town.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_07_025",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Why should we keep our streets and public places clean?",
+  "height": 28,
+  "ans": "We should keep our streets clean to make our town healthy and beautiful.",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_07_026",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "How can you help make your town a better place to live? Write any two ways",
+  "height": 28,
+  "ans": "Do not throw garbage on the streets. Plant trees and take care of trees and flowers. UNIT 4: LIFE AROUND US CHAPTER 1: A SHOW OF CLOUDS",
+  "marks": 2,
+  "obj": "ಮೌಲ್ಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_engbi_07_027",
+  "grade": "2",
+  "subject": "English",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "7. This is My Town",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following",
+  "pairs": [
+   {
+    "a": "Town",
+    "word": "A place where people live"
+   },
+   {
+    "a": "Street",
+    "word": "A road with houses and buildings on both sides"
+   },
+   {
+    "a": "House",
+    "word": "A building where people live"
+   },
+   {
+    "a": "Room",
+    "word": "A part of a house"
+   },
+   {
+    "a": "Bed",
+    "word": "A piece of furniture used for sleeping"
+   }
+  ],
+  "ans": "(1) → A place where people live | (2) → A road with houses and buildings on both sides | (3) → A building where people live | (4) → A part of a house | (5) → A piece of furniture used for sleeping",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ }
+]
