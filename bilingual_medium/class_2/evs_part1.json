@@ -1,0 +1,1045 @@
+[
+ {
+  "id": "q_2_evsbi_01_001",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ನನ್ನ ಸಂತೋಷದ ಕುಟುಂಬ (My Happy Family)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following / ಹೊಂದಿಸಿ ಬರೆಯಿರಿ",
+  "pairs": [
+   {
+    "a": "Father's mother / ಅಪ್ಪನ ಅಮ್ಮ",
+    "word": "Grandmother / ಅಜ್ಜಿ"
+   },
+   {
+    "a": "Independence Day celebration / ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+    "word": "A festival celebrated at school / ಶಾಲೆಯಲ್ಲಿ ಆಚರಿಸುವ ಹಬ್ಬ"
+   },
+   {
+    "a": "Ugadi / ಯುಗಾದಿ",
+    "word": "A festival celebrated at home / ಮನೆಯಲ್ಲಿ ಆಚರಿಸುವ ಹಬ್ಬ"
+   },
+   {
+    "a": "Doctor / ವೈದ್ಯರು",
+    "word": "Patient / ರೋಗಿ"
+   },
+   {
+    "a": "Diwali / ದೀಪಾವಳಿ",
+    "word": "Festival of Lights / ಬೆಳಕಿನ ಹಬ್ಬ"
+   }
+  ],
+  "ans": "(1) → Grandmother / ಅಜ್ಜಿ | (2) → A festival celebrated at school / ಶಾಲೆಯಲ್ಲಿ ಆಚರಿಸುವ ಹಬ್ಬ | (3) → A festival celebrated at home / ಮನೆಯಲ್ಲಿ ಆಚರಿಸುವ ಹಬ್ಬ | (4) → Patient / ರೋಗಿ | (5) → Festival of Lights / ಬೆಳಕಿನ ಹಬ್ಬ",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_01_002",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ನನ್ನ ಸಂತೋಷದ ಕುಟುಂಬ (My Happy Family)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks / ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. Father's father is ____ / ಅಪ್ಪನ ಅಪ್ಪ ____ ?\n2. The ceremony of naming a child is called ____ / ಮಗುವಿಗೆ ಹೆಸರಿಡುವ ಶಾಸ್ತ್ರವನ್ನು ____ ಎಂದು ಕರೆಯುವರು ?\n3. Gandhi Jayanti is a festival celebrated ____ / ಗಾಂಧಿ ಜಯಂತಿಯು ____ ಆಚರಿಸಲಾಗುವ ಹಬ್ಬ ?",
+  "ans": "1. Grandfather / ಅಜ್ಜ\n2. Naming ceremony / ನಾಮಕರಣ\n3. at school / ಶಾಲೆಯಲ್ಲಿ",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_01_003",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ನನ್ನ ಸಂತೋಷದ ಕುಟುಂಬ (My Happy Family)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks / ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. A festival celebrated at home is ____ / ಮನೆಯಲ್ಲಿ ಆಚರಿಸುವ ಒಂದು ಹಬ್ಬ ____ ?\n2. Independence Day is celebrated on ____ / ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯನ್ನು ____ ರಂದು ಆಚರಿಸುವರು ?\n3. The Bahubali statue is located at ____ / ಬಾಹುಬಲಿ ಪ್ರತಿಮೆ ____ ನಲ್ಲಿದೆ ?",
+  "ans": "1. Ugadi / ಯುಗಾದಿ\n2. 15th August / ಆಗಸ್ಟ್ 15\n3. Shravanabelagola / ಶ್ರವಣಬೆಳಗೊಳ",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_01_004",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ನನ್ನ ಸಂತೋಷದ ಕುಟುಂಬ (My Happy Family)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Name the festivals celebrated in your home. / ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಆಚರಿಸುವ ಹಬ್ಬಗಳನ್ನು ಹೆಸರಿಸಿ.\n2. Name the festivals celebrated in school. / ಶಾಲೆಯಲ್ಲಿ ಆಚರಿಸುವ ಹಬ್ಬಗಳನ್ನು ಹೆಸರಿಸಿ.\n3. Who lives in your home? / ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಯಾರು ಯಾರು ವಾಸವಾಗಿದ್ದೀರಿ?\n4. Who helps you at home every day and in what way? / ಪ್ರತಿದಿನ ನಿನಗೆ ಮನೆಯಲ್ಲಿ ಯಾರು ಯಾವ ರೀತಿ ಸಹಾಯ ಮಾಡುತ್ತಾರೆ?",
+  "ans": "1. Ugadi, Diwali, Shivaratri, Sankranti etc. / ಯುಗಾದಿ, ದೀಪಾವಳಿ, ಶಿವರಾತ್ರಿ, ಸಂಕ್ರಾಂತಿ ಇತ್ಯಾದಿ\n2. Independence Day, Gandhi Jayanti, Republic Day etc. / ಸ್ವಾತಂತ್ರ್ಯ ದಿನ, ಗಾಂಧಿ ಜಯಂತಿ, ಗಣರಾಜ್ಯೋತ್ಸವ ಇತ್ಯಾದಿ\n3. Father, mother, brother, sister and grandparents live with me. / ತಂದೆ, ತಾಯಿ, ಅಣ್ಣ, ಅಕ್ಕ, ಅಜ್ಜ-ಅಜ್ಜಿ ನನ್ನೊಂದಿಗೆ ವಾಸವಾಗಿದ್ದಾರೆ.\n4. Mother gives food and gets me ready for school; father brings things I need; brother helps with homework. / ಅಮ್ಮ ಊಟ ಕೊಟ್ಟು ಶಾಲೆಗೆ ಸಿದ್ಧಪಡಿಸುತ್ತಾರೆ; ಅಪ್ಪ ಬೇಕಾದ ವಸ್ತು ತರುತ್ತಾರೆ; ಅಣ್ಣ ಮನೆಗೆಲಸಕ್ಕೆ ಸಹಾಯ ಮಾಡುತ್ತಾನೆ.",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_01_005",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ನನ್ನ ಸಂತೋಷದ ಕುಟುಂಬ (My Happy Family)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Who treats the patients in a clinic? / ಚಿಕಿತ್ಸಾಲಯದಲ್ಲಿ ರೋಗಿಗಳಿಗೆ ಚಿಕಿತ್ಸೆ ನೀಡುವವರು ಯಾರು?\n2. How many colours are there in the Indian National Flag? / ಭಾರತದ ರಾಷ್ಟ್ರಧ್ವಜದಲ್ಲಿ ಎಷ್ಟು ಬಣ್ಣಗಳಿವೆ?\n3. Where do we go to learn? / ನಾವು ಕಲಿಯಲು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತೇವೆ?\n4. Name any five fruits you like. / ನಿಮಗಿಷ್ಟವಾದ ಯಾವುದಾದರೂ ಐದು ಹಣ್ಣುಗಳನ್ನು ಹೆಸರಿಸಿ.",
+  "ans": "1. Doctor / ವೈದ್ಯರು\n2. Three / ಮೂರು\n3. School / ಶಾಲೆ\n4. Mango, banana, orange, apple, jackfruit / ಮಾವು, ಬಾಳೆ, ಕಿತ್ತಳೆ, ಸೇಬು, ಹಲಸು",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_01_006",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ನನ್ನ ಸಂತೋಷದ ಕುಟುಂಬ (My Happy Family)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Look at the picture and name the festival / ಚಿತ್ರ ನೋಡಿ ಹಬ್ಬದ ಹೆಸರು ಹೇಳಿ",
+  "items": [
+   {
+    "img": "images/e2_r010_80_108_193_205.jpg",
+    "ans": "Ganesha Chaturthi / ಗಣೇಶ ಚತುರ್ಥಿ"
+   },
+   {
+    "img": "images/e2_r010_211_108_325_205.jpg",
+    "ans": "Ramzan / ರಂಜಾನ್"
+   },
+   {
+    "img": "images/e2_r010_343_108_453_205.jpg",
+    "ans": "Dasara / ದಸರಾ"
+   },
+   {
+    "img": "images/e2_r010_469_108_579_205.jpg",
+    "ans": "Guru Nanak Jayanti / ಗುರುನಾನಕ್ ಜಯಂತಿ"
+   }
+  ],
+  "ans": "1. Ganesha Chaturthi / ಗಣೇಶ ಚತುರ್ಥಿ\n2. Ramzan / ರಂಜಾನ್\n3. Dasara / ದಸರಾ\n4. Guru Nanak Jayanti / ಗುರುನಾನಕ್ ಜಯಂತಿ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_01_007",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ನನ್ನ ಸಂತೋಷದ ಕುಟುಂಬ (My Happy Family)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Look at the picture and name the festival / ಚಿತ್ರ ನೋಡಿ ಹಬ್ಬದ ಹೆಸರು ಹೇಳಿ",
+  "items": [
+   {
+    "img": "images/e2_r010_80_253_193_355.jpg",
+    "ans": "Christmas / ಕ್ರಿಸ್‌ಮಸ್"
+   },
+   {
+    "img": "images/e2_r010_211_253_325_355.jpg",
+    "ans": "Nagara Panchami / ನಾಗರ ಪಂಚಮಿ"
+   },
+   {
+    "img": "images/e2_r010_343_253_453_355.jpg",
+    "ans": "Buddha Poornima / ಬುದ್ಧ ಪೂರ್ಣಿಮೆ"
+   },
+   {
+    "img": "images/e2_r010_469_253_579_355.jpg",
+    "ans": "Mahamastakabhisheka / ಮಹಾಮಸ್ತಕಾಭಿಷೇಕ"
+   }
+  ],
+  "ans": "1. Christmas / ಕ್ರಿಸ್‌ಮಸ್\n2. Nagara Panchami / ನಾಗರ ಪಂಚಮಿ\n3. Buddha Poornima / ಬುದ್ಧ ಪೂರ್ಣಿಮೆ\n4. Mahamastakabhisheka / ಮಹಾಮಸ್ತಕಾಭಿಷೇಕ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_01_008",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ನನ್ನ ಸಂತೋಷದ ಕುಟುಂಬ (My Happy Family)",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw the picture of any festival you like and colour it / ನಿಮಗೆ ಇಷ್ಟವಾದ ಯಾವುದಾದರೂ ಹಬ್ಬದ ಚಿತ್ರ ಬಿಡಿಸಿ ಬಣ್ಣ ತುಂಬಿ",
+  "height": 28,
+  "ans": "Child draws a festival picture / ಮಗು ಹಬ್ಬದ ಚಿತ್ರ ಬಿಡಿಸುವುದು",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_01_009",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "1. ನನ್ನ ಸಂತೋಷದ ಕುಟುಂಬ (My Happy Family)",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write five or six sentences about Independence Day. / ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಬಗ್ಗೆ ಐದು ಆರು ವಾಕ್ಯ ಬರೆಯಿರಿ.",
+  "height": 28,
+  "ans": "Independence Day is a national festival celebrated on 15th August every year. India got freedom on this day in 1947. People hoist the flag and sing the National Anthem. We remember our freedom fighters. / ಸ್ವಾತಂತ್ರ್ಯ ದಿನವು ಪ್ರತಿವರ್ಷ ಆಗಸ್ಟ್ 15 ರಂದು ಆಚರಿಸುವ ರಾಷ್ಟ್ರೀಯ ಹಬ್ಬ. 1947 ರಲ್ಲಿ ಈ ದಿನ ಭಾರತಕ್ಕೆ ಸ್ವಾತಂತ್ರ್ಯ ಸಿಕ್ಕಿತು. ಧ್ವಜಾರೋಹಣ ಮಾಡಿ ರಾಷ್ಟ್ರಗೀತೆ ಹಾಡುತ್ತೇವೆ. ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರನ್ನು ನೆನೆಯುತ್ತೇವೆ.",
+  "marks": 2,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_02_001",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರಾಣಿಗಳು (Animals Around Us)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer / ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "The food eaten by a lion is / ಸಿಂಹ ತಿನ್ನುವ ಆಹಾರ",
+    "options": [
+     "Grass / ಹುಲ್ಲು",
+     "Meat / ಮಾಂಸ",
+     "Banana / ಬಾಳೆಹಣ್ಣು",
+     "Vegetables / ತರಕಾರಿ"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The movement of a snake is called / ಹಾವಿನ ಚಲನೆಯನ್ನು ಹೀಗೆನ್ನುವರು",
+    "options": [
+     "Running / ಓಡುವುದು",
+     "Jumping / ನೆಗೆಯುವುದು",
+     "Crawling / ತೆವಳುವುದು",
+     "Walking / ನಡೆಯುವುದು"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. Meat / ಮಾಂಸ\n2. Crawling / ತೆವಳುವುದು",
+  "marks": 2,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_02_002",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರಾಣಿಗಳು (Animals Around Us)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the animal with its food / ಪ್ರಾಣಿಯನ್ನು ಅದರ ಆಹಾರದೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+  "pairs": [
+   {
+    "a": "Cow / ಹಸು",
+    "word": "Grass / ಹುಲ್ಲು"
+   },
+   {
+    "a": "Lion / ಸಿಂಹ",
+    "word": "Meat / ಮಾಂಸ"
+   },
+   {
+    "a": "Snake / ಹಾವು",
+    "word": "Egg / ಮೊಟ್ಟೆ"
+   },
+   {
+    "a": "Frog / ಕಪ್ಪೆ",
+    "word": "Worms / ಹುಳು-ಕೀಟಗಳು"
+   },
+   {
+    "a": "Birds / ಪಕ್ಷಿಗಳು",
+    "word": "Fruits and grains / ಹಣ್ಣು ಮತ್ತು ಕಾಳು"
+   }
+  ],
+  "ans": "(1) → Grass / ಹುಲ್ಲು | (2) → Meat / ಮಾಂಸ | (3) → Egg / ಮೊಟ್ಟೆ | (4) → Worms / ಹುಳು-ಕೀಟಗಳು | (5) → Fruits and grains / ಹಣ್ಣು ಮತ್ತು ಕಾಳು",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_02_003",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರಾಣಿಗಳು (Animals Around Us)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write the name of the animal / ಈ ಪ್ರಾಣಿಯ ಹೆಸರು ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/e2_r014_67_540_166_625.jpg",
+    "ans": "Horse / ಕುದುರೆ"
+   },
+   {
+    "img": "images/e2_r014_216_540_298_628.jpg",
+    "ans": "Camel / ಒಂಟೆ"
+   },
+   {
+    "img": "images/e2_r014_343_528_443_615.jpg",
+    "ans": "Dog / ನಾಯಿ"
+   },
+   {
+    "img": "images/e2_r014_488_540_590_620.jpg",
+    "ans": "Cow / ಹಸು"
+   }
+  ],
+  "ans": "1. Horse / ಕುದುರೆ\n2. Camel / ಒಂಟೆ\n3. Dog / ನಾಯಿ\n4. Cow / ಹಸು",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_02_004",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರಾಣಿಗಳು (Animals Around Us)",
+  "type": "vsa_1m",
+  "q": "Re-arrange the letters to get the name of the animal / ಅಕ್ಷರಗಳನ್ನು ಜೋಡಿಸಿ ಪ್ರಾಣಿಯ ಹೆಸರು ಬರೆಯಿರಿ\n1. gdo\n2. nilo\n3. ehetlanp\n4. rgeit",
+  "ans": "1. Dog / ನಾಯಿ\n2. Lion / ಸಿಂಹ\n3. Elephant / ಆನೆ\n4. Tiger / ಹುಲಿ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_02_005",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರಾಣಿಗಳು (Animals Around Us)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the word which does not belong to the group / ಗುಂಪಿಗೆ ಸೇರದ ಪದಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Cow / ಹಸು",
+     "Rabbit / ಮೊಲ",
+     "Deer / ಜಿಂಕೆ",
+     "Tiger / ಹುಲಿ"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Dog / ನಾಯಿ",
+     "Sheep / ಕುರಿ",
+     "Cat / ಬೆಕ್ಕು",
+     "Elephant / ಆನೆ"
+    ],
+    "ans": 4
+   }
+  ],
+  "ans": "1. Tiger / ಹುಲಿ\n2. Elephant / ಆನೆ",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_02_006",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರಾಣಿಗಳು (Animals Around Us)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the animals with their movements / ಪ್ರಾಣಿಗಳನ್ನು ಅವುಗಳ ಚಲನೆಯೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+  "pairs": [
+   {
+    "img": "images/e2_r015_82_390_321_518.jpg",
+    "word": "Walk / ನಡೆಯುವುದು"
+   },
+   {
+    "img": "images/e2_r015_82_553_323_680.jpg",
+    "word": "Hop / ಜಿಗಿಯುವುದು"
+   },
+   {
+    "img": "images/e2_r015_80_715_321_832.jpg",
+    "word": "Slither / ಸರಸರನೆ ಜಾರುವುದು"
+   },
+   {
+    "img": "images/e2_r016_82_40_323_158.jpg",
+    "word": "Fly / ಹಾರಾಡುವುದು"
+   },
+   {
+    "img": "images/e2_r016_82_193_323_313.jpg",
+    "word": "Run / ಓಡುವುದು"
+   }
+  ],
+  "ans": "(1) → Walk / ನಡೆಯುವುದು | (2) → Hop / ಜಿಗಿಯುವುದು | (3) → Slither / ಸರಸರನೆ ಜಾರುವುದು | (4) → Fly / ಹಾರಾಡುವುದು | (5) → Run / ಓಡುವುದು",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_02_007",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರಾಣಿಗಳು (Animals Around Us)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Make a list of animals and the food they eat. / ಪ್ರಾಣಿಗಳು ಮತ್ತು ಅವು ತಿನ್ನುವ ಆಹಾರದ ಪಟ್ಟಿ ಮಾಡಿ?",
+  "ans": "Lion - meat, Cow - grass, Elephant - bamboo, jackfruit, Deer - grass, Snake - egg / ಸಿಂಹ - ಮಾಂಸ, ಹಸು - ಹುಲ್ಲು, ಆನೆ - ಬಿದಿರು, ಹಲಸು, ಜಿಂಕೆ - ಹುಲ್ಲು, ಹಾವು - ಮೊಟ್ಟೆ",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_02_008",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರಾಣಿಗಳು (Animals Around Us)",
+  "type": "vsa_1m",
+  "q": "How does it call? Write / ಹೇಗೆ ಕೂಗುತ್ತದೆ? ಬರೆಯಿರಿ\n1. Dog / ನಾಯಿ\n2. Crow / ಕಾಗೆ\n3. Duck / ಬಾತುಕೋಳಿ\n4. Cat / ಬೆಕ್ಕು\n5. Frog / ಕಪ್ಪೆ",
+  "ans": "1. Bow-bow / ಬೌ ಬೌ\n2. Caw-caw / ಕಾ ಕಾ\n3. Quack-quack / ಕ್ವಾಕ್ ಕ್ವಾಕ್\n4. Meow-meow / ಮಿಯಾಂವ್ ಮಿಯಾಂವ್\n5. Croak-croak / ವಟರ್ ವಟರ್",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_02_009",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರಾಣಿಗಳು (Animals Around Us)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Name the wild animals. / ಕಾಡು ಪ್ರಾಣಿಗಳನ್ನು ಹೆಸರಿಸಿ?\n2. Name the domestic animals. / ಸಾಕು ಪ್ರಾಣಿಗಳನ್ನು ಹೆಸರಿಸಿ?\n3. Name the water animals. / ಜಲಚರ ಪ್ರಾಣಿಗಳನ್ನು ಹೆಸರಿಸಿ?",
+  "ans": "1. Tiger, lion, elephant, deer, bear, cheetah / ಹುಲಿ, ಸಿಂಹ, ಆನೆ, ಜಿಂಕೆ, ಕರಡಿ, ಚಿರತೆ\n2. Cow, dog, cat, sheep, goat / ಹಸು, ನಾಯಿ, ಬೆಕ್ಕು, ಕುರಿ, ಮೇಕೆ\n3. Fish, frog, tortoise, whale, crab / ಮೀನು, ಕಪ್ಪೆ, ಆಮೆ, ತಿಮಿಂಗಿಲ, ಏಡಿ",
+  "marks": 3,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_02_010",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "2. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರಾಣಿಗಳು (Animals Around Us)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Name the land animals. / ಭೂಚರ ಪ್ರಾಣಿಗಳನ್ನು ಹೆಸರಿಸಿ?\n2. Name the flesh-eating (carnivorous) animals. / ಮಾಂಸಾಹಾರಿ ಪ್ರಾಣಿಗಳನ್ನು ಹೆಸರಿಸಿ?\n3. Name the plant-eating (herbivorous) animals. / ಸಸ್ಯಾಹಾರಿ ಪ್ರಾಣಿಗಳನ್ನು ಹೆಸರಿಸಿ?",
+  "ans": "1. Elephant, dog, lion, tiger / ಆನೆ, ನಾಯಿ, ಸಿಂಹ, ಹುಲಿ\n2. Lion, tiger, cheetah, hyena / ಸಿಂಹ, ಹುಲಿ, ಚಿರತೆ, ಕತ್ತೆಕಿರುಬ\n3. Elephant, deer, cow, rabbit / ಆನೆ, ಜಿಂಕೆ, ಹಸು, ಮೊಲ",
+  "marks": 3,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_03_001",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಸಸ್ಯಗಳು - ನಮ್ಮ ಜೀವನ (Plants - Our Life)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False / ಸರಿ ಅಥವಾ ತಪ್ಪು ಗುರುತಿಸಿ",
+  "rows": [
+   {
+    "q": "Carrots can be eaten as a snack / ಕ್ಯಾರೆಟ್‌ಗಳನ್ನು ಲಘು ಆಹಾರವಾಗಿ ತಿನ್ನಬಹುದು",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Basil (Tulasi) is not good for health / ತುಳಸಿ ಆರೋಗ್ಯಕ್ಕೆ ಒಳ್ಳೆಯದಲ್ಲ",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Plants should be watered every day / ಗಿಡಗಳಿಗೆ ಪ್ರತಿದಿನ ನೀರು ಹಾಕಬೇಕು",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Plants / trees do not give us shade / ಗಿಡ / ಮರಗಳು ನಮಗೆ ನೆರಳು ನೀಡುವುದಿಲ್ಲ",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Trees should be cut down / ಮರಗಳನ್ನು ಕಡಿಯಬೇಕು",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. True / ಸರಿ\n2. False / ತಪ್ಪು\n3. True / ಸರಿ\n4. False / ತಪ್ಪು\n5. False / ತಪ್ಪು",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_03_002",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಸಸ್ಯಗಳು - ನಮ್ಮ ಜೀವನ (Plants - Our Life)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False / ಸರಿ ಅಥವಾ ತಪ್ಪು ಗುರುತಿಸಿ",
+  "rows": [
+   {
+    "q": "Cucumber is eaten raw / ಸೌತೆಕಾಯಿಯನ್ನು ಹಸಿಯಾಗಿ ತಿನ್ನುತ್ತೇವೆ",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Tulasi is not good for cough / ತುಳಸಿ ಕೆಮ್ಮಿಗೆ ಒಳ್ಳೆಯದಲ್ಲ",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "We can pluck flowers from the park / ಉದ್ಯಾನವನದಲ್ಲಿ ಹೂಗಳನ್ನು ಕೀಳಬಹುದು",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Cut down trees to build houses / ಮನೆ ಕಟ್ಟಲು ಮರಗಳನ್ನು ಕಡಿಯಬೇಕು",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Trees give us shade / ಮರಗಳು ನಮಗೆ ನೆರಳು ನೀಡುತ್ತವೆ",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True / ಸರಿ\n2. False / ತಪ್ಪು\n3. False / ತಪ್ಪು\n4. False / ತಪ್ಪು\n5. True / ಸರಿ",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_03_003",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಸಸ್ಯಗಳು - ನಮ್ಮ ಜೀವನ (Plants - Our Life)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Look at the picture and write the parts of the plant (6, 7, 8, 9) / ಚಿತ್ರ ನೋಡಿ ಸಸ್ಯದ ಭಾಗಗಳನ್ನು ಬರೆಯಿರಿ (6, 7, 8, 9)",
+  "items": [
+   {
+    "img": "images/e2_r019_78_25_585_342.jpg",
+    "ans": "6 - Flower, 7 - Leaf, 8 - Stem, 9 - Root / 6 - ಹೂವು, 7 - ಎಲೆ, 8 - ಕಾಂಡ, 9 - ಬೇರು"
+   }
+  ],
+  "ans": "6 - Flower, 7 - Leaf, 8 - Stem, 9 - Root / 6 - ಹೂವು, 7 - ಎಲೆ, 8 - ಕಾಂಡ, 9 - ಬೇರು",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_03_004",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಸಸ್ಯಗಳು - ನಮ್ಮ ಜೀವನ (Plants - Our Life)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write the uses of the tree in this picture / ಈ ಚಿತ್ರದಲ್ಲಿರುವ ಮರದ ಉಪಯೋಗಗಳನ್ನು ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/e2_r019_160_488_495_812.jpg",
+    "ans": "It gives coconuts and coconut water; oil is made from coconut; leaves are used for roofs and brooms. / ತೆಂಗಿನಕಾಯಿ, ಎಳನೀರು ಕೊಡುತ್ತದೆ; ಕೊಬ್ಬರಿಯಿಂದ ಎಣ್ಣೆ ಮಾಡುತ್ತಾರೆ; ಗರಿಗಳು ಚಾವಣಿ ಮತ್ತು ಪೊರಕೆಗೆ ಬಳಕೆ."
+   }
+  ],
+  "ans": "It gives coconuts and coconut water; oil is made from coconut; leaves are used for roofs and brooms. / ತೆಂಗಿನಕಾಯಿ, ಎಳನೀರು ಕೊಡುತ್ತದೆ; ಕೊಬ್ಬರಿಯಿಂದ ಎಣ್ಣೆ ಮಾಡುತ್ತಾರೆ; ಗರಿಗಳು ಚಾವಣಿ ಮತ್ತು ಪೊರಕೆಗೆ ಬಳಕೆ.",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_03_005",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಸಸ್ಯಗಳು - ನಮ್ಮ ಜೀವನ (Plants - Our Life)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Write the names of the flowers you know. / ನಿನಗೆ ತಿಳಿದಿರುವ ಹೂಗಳ ಹೆಸರುಗಳನ್ನು ಬರೆಯಿರಿ?",
+  "ans": "Hibiscus, rose, jasmine, chrysanthemum, marigold / ದಾಸವಾಳ, ಗುಲಾಬಿ, ಮಲ್ಲಿಗೆ, ಸೇವಂತಿಗೆ, ಚೆಂಡು ಹೂವು",
+  "marks": 1,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_03_006",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಸಸ್ಯಗಳು - ನಮ್ಮ ಜೀವನ (Plants - Our Life)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Look at the picture and write the name of the plant / ಚಿತ್ರ ನೋಡಿ ಸಸ್ಯದ ಹೆಸರು ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/e2_r020_80_575_200_695.jpg",
+    "ans": "Banana plant / ಬಾಳೆ ಗಿಡ"
+   },
+   {
+    "img": "images/e2_r020_260_573_385_697.jpg",
+    "ans": "Brinjal plant / ಬದನೆ ಗಿಡ"
+   },
+   {
+    "img": "images/e2_r020_456_573_577_697.jpg",
+    "ans": "Watermelon plant / ಕಲ್ಲಂಗಡಿ ಬಳ್ಳಿ"
+   }
+  ],
+  "ans": "1. Banana plant / ಬಾಳೆ ಗಿಡ\n2. Brinjal plant / ಬದನೆ ಗಿಡ\n3. Watermelon plant / ಕಲ್ಲಂಗಡಿ ಬಳ್ಳಿ",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_03_007",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಸಸ್ಯಗಳು - ನಮ್ಮ ಜೀವನ (Plants - Our Life)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following / ಹೊಂದಿಸಿ ಬರೆಯಿರಿ",
+  "pairs": [
+   {
+    "a": "Tulasi / ತುಳಸಿ",
+    "word": "Medicine plant / ಔಷಧೀಯ ಸಸ್ಯ"
+   },
+   {
+    "a": "Fish / ಮೀನು",
+    "word": "Meat / ಮಾಂಸ"
+   },
+   {
+    "a": "Orange / ಕಿತ್ತಳೆ",
+    "word": "Fruit / ಹಣ್ಣು"
+   },
+   {
+    "a": "Radish / ಮೂಲಂಗಿ",
+    "word": "Vegetable / ತರಕಾರಿ"
+   }
+  ],
+  "ans": "(1) → Medicine plant / ಔಷಧೀಯ ಸಸ್ಯ | (2) → Meat / ಮಾಂಸ | (3) → Fruit / ಹಣ್ಣು | (4) → Vegetable / ತರಕಾರಿ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_03_008",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "3. ಸಸ್ಯಗಳು - ನಮ್ಮ ಜೀವನ (Plants - Our Life)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Name some vegetable plants. / ತರಕಾರಿ ಸಸ್ಯಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡಿ?\n2. Name some fruit plants. / ಹಣ್ಣಿನ ಸಸ್ಯಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡಿ?\n3. Name some medicine plants. / ಔಷಧೀಯ ಸಸ್ಯಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡಿ?\n4. Name some flower plants. / ಹೂವಿನ ಸಸ್ಯಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡಿ?",
+  "ans": "1. Potato, tomato, carrot, radish, beetroot / ಆಲೂಗಡ್ಡೆ, ಟೊಮೆಟೊ, ಕ್ಯಾರೆಟ್, ಮೂಲಂಗಿ, ಬೀಟ್‌ರೂಟ್\n2. Papaya, banana, lemon, guava, mango / ಪರಂಗಿ, ಬಾಳೆ, ನಿಂಬೆ, ಸೀಬೆ, ಮಾವು\n3. Tulasi, aloe vera, ginger, garlic / ತುಳಸಿ, ಲೋಳೆಸರ, ಶುಂಠಿ, ಬೆಳ್ಳುಳ್ಳಿ\n4. Rose, sunflower, jasmine, marigold, hibiscus, lotus / ಗುಲಾಬಿ, ಸೂರ್ಯಕಾಂತಿ, ಮಲ್ಲಿಗೆ, ಚೆಂಡು ಹೂವು, ದಾಸವಾಳ, ಕಮಲ",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_04_001",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. ಆಟದ ಸಮಯ (Play Time)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks / ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. A game played with a rope is ____ / ಹಗ್ಗದಿಂದ ಆಡುವ ಆಟ ____ ?\n2. A game played on a table is ____ / ಟೇಬಲ್ ಬಳಸುವ ಆಟ ____ ?\n3. A game of piling stones is ____ / ಕಲ್ಲುಗಳನ್ನು ರಾಶಿ ಮಾಡುವ ಆಟ ____ ?\n4. A game played with a net is ____ / ನೆಟ್ ಜೊತೆಗೆ ಆಡುವ ಆಟ ____ ?",
+  "ans": "1. Tug-of-war / ಹಗ್ಗ ಜಗ್ಗಾಟ\n2. Table tennis / ಟೇಬಲ್ ಟೆನ್ನಿಸ್\n3. Lagori / ಲಗೋರಿ\n4. Volleyball / ವಾಲಿಬಾಲ್",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_04_002",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. ಆಟದ ಸಮಯ (Play Time)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose: indoor or outdoor game? / ಒಳಾಂಗಣ ಅಥವಾ ಹೊರಾಂಗಣ ಆಟ? ಆಯ್ಕೆ ಮಾಡಿ",
+  "rows": [
+   {
+    "q": "Chess / ಚದುರಂಗ",
+    "options": [
+     "Indoor / ಒಳಾಂಗಣ",
+     "Outdoor / ಹೊರಾಂಗಣ"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Cricket / ಕ್ರಿಕೆಟ್",
+    "options": [
+     "Indoor / ಒಳಾಂಗಣ",
+     "Outdoor / ಹೊರಾಂಗಣ"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Carrom / ಕೇರಂ",
+    "options": [
+     "Indoor / ಒಳಾಂಗಣ",
+     "Outdoor / ಹೊರಾಂಗಣ"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Kabaddi / ಕಬಡ್ಡಿ",
+    "options": [
+     "Indoor / ಒಳಾಂಗಣ",
+     "Outdoor / ಹೊರಾಂಗಣ"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Indoor / ಒಳಾಂಗಣ\n2. Outdoor / ಹೊರಾಂಗಣ\n3. Indoor / ಒಳಾಂಗಣ\n4. Outdoor / ಹೊರಾಂಗಣ",
+  "marks": 4,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_04_003",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. ಆಟದ ಸಮಯ (Play Time)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Look at the picture and name the game / ಚಿತ್ರ ನೋಡಿ ಆಟದ ಹೆಸರು ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/e2_r025_68_387_279_521.jpg",
+    "ans": "Hockey / ಹಾಕಿ"
+   },
+   {
+    "img": "images/e2_r025_68_542_279_676.jpg",
+    "ans": "Kabaddi / ಕಬಡ್ಡಿ"
+   },
+   {
+    "img": "images/e2_r025_68_703_279_848.jpg",
+    "ans": "Volleyball / ವಾಲಿಬಾಲ್"
+   }
+  ],
+  "ans": "1. Hockey / ಹಾಕಿ\n2. Kabaddi / ಕಬಡ್ಡಿ\n3. Volleyball / ವಾಲಿಬಾಲ್",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_04_004",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. ಆಟದ ಸಮಯ (Play Time)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Name two indoor games and two outdoor games. / ಎರಡು ಒಳಾಂಗಣ ಮತ್ತು ಎರಡು ಹೊರಾಂಗಣ ಆಟಗಳನ್ನು ಹೆಸರಿಸಿ?",
+  "ans": "Indoor: chess, chowkabara, alaguli mane; Outdoor: cricket, kabaddi, volleyball / ಒಳಾಂಗಣ: ಚದುರಂಗ, ಚೌಕಾಬಾರ, ಅಳಗುಳಿಮನೆ; ಹೊರಾಂಗಣ: ಕ್ರಿಕೆಟ್, ಕಬಡ್ಡಿ, ವಾಲಿಬಾಲ್",
+  "marks": 2,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_04_005",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. ಆಟದ ಸಮಯ (Play Time)",
+  "type": "vsa_1m",
+  "q": "Rearrange the letters to find the name of the game / ಅಕ್ಷರಗಳನ್ನು ಜೋಡಿಸಿ ಆಟದ ಹೆಸರು ಬರೆಯಿರಿ\n1. Fbotolal\n2. Sikpipgn\n3. Cehss\n4. Carmor\n5. Cirkcte",
+  "ans": "1. Football / ಫುಟ್‌ಬಾಲ್\n2. Skipping / ಸ್ಕಿಪ್ಪಿಂಗ್ (ಹಗ್ಗದಾಟ)\n3. Chess / ಚೆಸ್ (ಚದುರಂಗ)\n4. Carrom / ಕೇರಂ\n5. Cricket / ಕ್ರಿಕೆಟ್",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_04_006",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "4. ಆಟದ ಸಮಯ (Play Time)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Name any five games you like. / ನಿಮಗೆ ಇಷ್ಟವಾದ ಯಾವುದಾದರೂ ಐದು ಆಟಗಳನ್ನು ಹೆಸರಿಸಿ.\n2. Do you enjoy playing games? Why? / ನೀವು ಆಟ ಆಡುವುದನ್ನು ಆನಂದಿಸುತ್ತೀರಾ? ಏಕೆ?\n3. How many players are there in a cricket team? / ಕ್ರಿಕೆಟ್ ತಂಡದಲ್ಲಿ ಎಷ್ಟು ಆಟಗಾರರಿರುತ್ತಾರೆ?",
+  "ans": "1. Cricket, football, kabaddi, kho-kho, running race / ಕ್ರಿಕೆಟ್, ಫುಟ್‌ಬಾಲ್, ಕಬಡ್ಡಿ, ಖೋ-ಖೋ, ಓಟ\n2. Yes. Games are fun, keep us healthy and help us relax. / ಹೌದು. ಆಟಗಳು ಖುಷಿ ಕೊಡುತ್ತವೆ, ಆರೋಗ್ಯವಾಗಿಡುತ್ತವೆ, ಮನಸ್ಸಿಗೆ ವಿಶ್ರಾಂತಿ ನೀಡುತ್ತವೆ.\n3. 11 players / 11 ಆಟಗಾರರು",
+  "marks": 3,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_05_001",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ನಾನು ಸುರಕ್ಷಿತ (I Am Safe)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the body part with its work / ದೇಹದ ಭಾಗವನ್ನು ಅದರ ಕೆಲಸದೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+  "pairs": [
+   {
+    "a": "Tongue / ನಾಲಿಗೆ",
+    "word": "Tasting / ರುಚಿ ನೋಡುವುದು"
+   },
+   {
+    "a": "Ear / ಕಿವಿ",
+    "word": "Hearing / ಕೇಳುವುದು"
+   },
+   {
+    "a": "Foot / ಪಾದ",
+    "word": "Walking / ನಡೆಯುವುದು"
+   },
+   {
+    "a": "Eye / ಕಣ್ಣು",
+    "word": "Seeing / ನೋಡುವುದು"
+   },
+   {
+    "a": "Nose / ಮೂಗು",
+    "word": "Smelling / ವಾಸನೆ ಗ್ರಹಿಸುವುದು"
+   }
+  ],
+  "ans": "(1) → Tasting / ರುಚಿ ನೋಡುವುದು | (2) → Hearing / ಕೇಳುವುದು | (3) → Walking / ನಡೆಯುವುದು | (4) → Seeing / ನೋಡುವುದು | (5) → Smelling / ವಾಸನೆ ಗ್ರಹಿಸುವುದು",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_05_002",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ನಾನು ಸುರಕ್ಷಿತ (I Am Safe)",
+  "type": "vsa_1m",
+  "q": "Riddle / ಒಗಟು\n1. I am a part of the body. You need me to talk and eat. You can't laugh without me. Who am I? / ನಾನು ದೇಹದ ಭಾಗ. ಮಾತನಾಡಲು, ಊಟ ಮಾಡಲು ನಾನು ಬೇಕು. ನಾನಿಲ್ಲದೆ ನಗಲು ಸಾಧ್ಯವಿಲ್ಲ. ನಾನಾರು?",
+  "ans": "Mouth / ಬಾಯಿ",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_05_003",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ನಾನು ಸುರಕ್ಷಿತ (I Am Safe)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False / ಸರಿ ಅಥವಾ ತಪ್ಪು ಗುರುತಿಸಿ",
+  "rows": [
+   {
+    "q": "One should take bath daily / ಪ್ರತಿನಿತ್ಯ ಸ್ನಾನ ಮಾಡಬೇಕು",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "One should not wash hands before eating / ಊಟದ ಮೊದಲು ಕೈ ತೊಳೆಯಬಾರದು",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "One should use a clean bowl / ಸ್ವಚ್ಛವಾದ ಬಟ್ಟಲು ಬಳಸಬೇಕು",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "One should use clean water / ಶುದ್ಧವಾದ ನೀರನ್ನು ಬಳಸಬೇಕು",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True / ಸರಿ\n2. False / ತಪ್ಪು\n3. True / ಸರಿ\n4. True / ಸರಿ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_05_004",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ನಾನು ಸುರಕ್ಷಿತ (I Am Safe)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Name the parts of your body. / ನಿನ್ನ ದೇಹದ ಭಾಗಗಳನ್ನು ಹೆಸರಿಸು?\n2. List good healthy habits. / ಉತ್ತಮ ಆರೋಗ್ಯಕರ ಅಭ್ಯಾಸಗಳನ್ನು ಪಟ್ಟಿಮಾಡಿ?\n3. Name some wet waste and dry waste. / ಕೆಲವು ಹಸಿ ಕಸ ಮತ್ತು ಒಣ ಕಸಗಳನ್ನು ಹೆಸರಿಸಿ?",
+  "ans": "1. Head, eyes, ears, nose, mouth, hands, legs / ತಲೆ, ಕಣ್ಣು, ಕಿವಿ, ಮೂಗು, ಬಾಯಿ, ಕೈ, ಕಾಲು\n2. Bathe every day, cut nails every week, wash hands before eating, wear clean clothes. / ಪ್ರತಿದಿನ ಸ್ನಾನ, ವಾರಕ್ಕೊಮ್ಮೆ ಉಗುರು ಕತ್ತರಿಸುವುದು, ಊಟಕ್ಕೆ ಮುನ್ನ ಕೈ ತೊಳೆಯುವುದು, ಸ್ವಚ್ಛ ಬಟ್ಟೆ ಧರಿಸುವುದು.\n3. Wet waste: vegetable peels, leftover food, leaves. Dry waste: paper, plastic, bottles. / ಹಸಿ ಕಸ: ತರಕಾರಿ ಸಿಪ್ಪೆ, ಉಳಿದ ಆಹಾರ, ಎಲೆಗಳು. ಒಣ ಕಸ: ಕಾಗದ, ಪ್ಲಾಸ್ಟಿಕ್, ಬಾಟಲಿಗಳು.",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_05_005",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ನಾನು ಸುರಕ್ಷಿತ (I Am Safe)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Which part of the body do we use for this activity? / ಈ ಚಟುವಟಿಕೆಗೆ ದೇಹದ ಯಾವ ಭಾಗ ಬಳಸುತ್ತೇವೆ?",
+  "items": [
+   {
+    "img": "images/e2_r030_76_383_150_442.jpg",
+    "ans": "Legs and hands / ಕಾಲು ಮತ್ತು ಕೈ"
+   },
+   {
+    "img": "images/e2_r030_90_473_140_527.jpg",
+    "ans": "Nose / ಮೂಗು"
+   },
+   {
+    "img": "images/e2_r030_70_560_140_634.jpg",
+    "ans": "Mouth / ಬಾಯಿ"
+   }
+  ],
+  "ans": "1. Legs and hands / ಕಾಲು ಮತ್ತು ಕೈ\n2. Nose / ಮೂಗು\n3. Mouth / ಬಾಯಿ",
+  "marks": 3,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_05_006",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ನಾನು ಸುರಕ್ಷಿತ (I Am Safe)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Which part of the body do we use for this activity? / ಈ ಚಟುವಟಿಕೆಗೆ ದೇಹದ ಯಾವ ಭಾಗ ಬಳಸುತ್ತೇವೆ?",
+  "items": [
+   {
+    "img": "images/e2_r030_70_660_160_734.jpg",
+    "ans": "Legs / ಕಾಲು"
+   },
+   {
+    "img": "images/e2_r030_86_746_173_842.jpg",
+    "ans": "Eyes / ಕಣ್ಣು"
+   }
+  ],
+  "ans": "1. Legs / ಕಾಲು\n2. Eyes / ಕಣ್ಣು",
+  "marks": 2,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_05_007",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ನಾನು ಸುರಕ್ಷಿತ (I Am Safe)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Identify and write the body parts / ದೇಹದ ಭಾಗಗಳನ್ನು ಗುರುತಿಸಿ ಬರೆಯಿರಿ",
+  "items": [
+   {
+    "img": "images/e2_r031_98_92_568_415.jpg",
+    "ans": "Left: head, throat, hand, knee, foot; Right: ear, chest, stomach, thigh, leg / ಎಡ: ತಲೆ, ಗಂಟಲು, ಕೈ, ಮಂಡಿ, ಪಾದ; ಬಲ: ಕಿವಿ, ಎದೆ, ಹೊಟ್ಟೆ, ತೊಡೆ, ಕಾಲು"
+   }
+  ],
+  "ans": "Left: head, throat, hand, knee, foot; Right: ear, chest, stomach, thigh, leg / ಎಡ: ತಲೆ, ಗಂಟಲು, ಕೈ, ಮಂಡಿ, ಪಾದ; ಬಲ: ಕಿವಿ, ಎದೆ, ಹೊಟ್ಟೆ, ತೊಡೆ, ಕಾಲು",
+  "marks": 2,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_05_008",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ನಾನು ಸುರಕ್ಷಿತ (I Am Safe)",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write five sentences about dry waste. / ಒಣ ತ್ಯಾಜ್ಯದ ಬಗ್ಗೆ ಐದು ವಾಕ್ಯ ಬರೆಯಿರಿ.",
+  "height": 28,
+  "ans": "Dry waste does not rot easily. It includes plastic bottles, paper, glass and metal. It should be kept in a separate (blue) bin. Much of it can be recycled. Burning it pollutes the air. / ಒಣ ಕಸ ಸುಲಭವಾಗಿ ಕೊಳೆಯುವುದಿಲ್ಲ. ಪ್ಲಾಸ್ಟಿಕ್ ಬಾಟಲಿ, ಕಾಗದ, ಗಾಜು, ಲೋಹ ಇದರಲ್ಲಿ ಸೇರಿವೆ. ಇದನ್ನು ಪ್ರತ್ಯೇಕ (ನೀಲಿ) ಡಬ್ಬದಲ್ಲಿ ಹಾಕಬೇಕು. ಇದನ್ನು ಮರುಬಳಕೆ ಮಾಡಬಹುದು. ಸುಡುವುದರಿಂದ ವಾಯು ಮಾಲಿನ್ಯ ಆಗುತ್ತದೆ.",
+  "marks": 2,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_05_009",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 1",
+  "chapter": "5. ನಾನು ಸುರಕ್ಷಿತ (I Am Safe)",
+  "type": "sa_2m",
+  "activity": "draw",
+  "q": "Write five sentences about wet waste. / ಹಸಿ ತ್ಯಾಜ್ಯದ ಬಗ್ಗೆ ಐದು ವಾಕ್ಯ ಬರೆಯಿರಿ.",
+  "height": 28,
+  "ans": "Wet waste rots easily. It includes leftover food, vegetable peels and leaves. It should be kept in a separate (green) bin. It can be made into manure (compost). If left open it smells and spreads disease. / ಹಸಿ ಕಸ ಬೇಗ ಕೊಳೆಯುತ್ತದೆ. ಉಳಿದ ಆಹಾರ, ತರಕಾರಿ ಸಿಪ್ಪೆ, ಎಲೆಗಳು ಇದರಲ್ಲಿ ಸೇರಿವೆ. ಇದನ್ನು ಪ್ರತ್ಯೇಕ (ಹಸಿರು) ಡಬ್ಬದಲ್ಲಿ ಹಾಕಬೇಕು. ಇದರಿಂದ ಗೊಬ್ಬರ ತಯಾರಿಸಬಹುದು. ತೆರೆದಿಟ್ಟರೆ ದುರ್ವಾಸನೆ ಬಂದು ರೋಗ ಹರಡುತ್ತದೆ.",
+  "marks": 2,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ }
+]
