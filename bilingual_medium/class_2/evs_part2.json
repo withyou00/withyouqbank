@@ -1,0 +1,1292 @@
+[
+ {
+  "id": "q_2_evsbi_06_001",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "6. ನಮ್ಮ ಆಹಾರ (Our Food)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer / ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "Which among the following is a vegetable? / ಇವುಗಳಲ್ಲಿ ಯಾವುದು ತರಕಾರಿ?",
+    "options": [
+     "Rice / ಅಕ್ಕಿ",
+     "Apple / ಸೇಬು",
+     "Beetroot / ಬೀಟ್‌ರೂಟ್",
+     "Fish / ಮೀನು"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Which among the following is a fruit? / ಇವುಗಳಲ್ಲಿ ಯಾವುದು ಹಣ್ಣು?",
+    "options": [
+     "Dal / ಬೇಳೆ",
+     "Mango / ಮಾವು",
+     "Cabbage / ಎಲೆಕೋಸು",
+     "Jowar / ಜೋಳ"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Which food do we get from animals? / ಪ್ರಾಣಿಗಳಿಂದ ಸಿಗುವ ಆಹಾರ ಯಾವುದು?",
+    "options": [
+     "Meat / ಮಾಂಸ",
+     "Cucumber / ಸೌತೆಕಾಯಿ",
+     "Maize / ಮೆಕ್ಕೆಜೋಳ",
+     "Radish / ಮೂಲಂಗಿ"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Which food do we get from plants? / ಸಸ್ಯಗಳಿಂದ ಸಿಗುವ ಆಹಾರ ಯಾವುದು?",
+    "options": [
+     "Eggs / ಮೊಟ್ಟೆ",
+     "Milk / ಹಾಲು",
+     "Bitter gourd / ಹಾಗಲಕಾಯಿ",
+     "Fish / ಮೀನು"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. Beetroot / ಬೀಟ್‌ರೂಟ್\n2. Mango / ಮಾವು\n3. Meat / ಮಾಂಸ\n4. Bitter gourd / ಹಾಗಲಕಾಯಿ",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_06_002",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "6. ನಮ್ಮ ಆಹಾರ (Our Food)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer / ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "Curd is prepared from / ಮೊಸರನ್ನು ಇದರಿಂದ ತಯಾರಿಸುತ್ತಾರೆ",
+    "options": [
+     "Chilli / ಮೆಣಸಿನಕಾಯಿ",
+     "Ragi / ರಾಗಿ",
+     "Pea / ಬಟಾಣಿ",
+     "Milk / ಹಾಲು"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "Which is a grain? / ಧಾನ್ಯ ಯಾವುದು?",
+    "options": [
+     "Jowar / ಜೋಳ",
+     "Fish / ಮೀನು",
+     "Milk / ಹಾಲು",
+     "Spinach / ಸೊಪ್ಪು"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "We get milk from / ನಾವು ಹಾಲನ್ನು ಇದರಿಂದ ಪಡೆಯುತ್ತೇವೆ",
+    "options": [
+     "Cow / ಹಸು",
+     "Hen / ಕೋಳಿ",
+     "Cat / ಬೆಕ್ಕು",
+     "Fish / ಮೀನು"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Milk / ಹಾಲು\n2. Jowar / ಜೋಳ\n3. Cow / ಹಸು",
+  "marks": 3,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_06_003",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "6. ನಮ್ಮ ಆಹಾರ (Our Food)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Which food item is NOT in the picture: banana, fish, apple or egg? / ಚಿತ್ರದಲ್ಲಿ ಇಲ್ಲದ ಆಹಾರ ಯಾವುದು: ಬಾಳೆಹಣ್ಣು, ಮೀನು, ಸೇಬು, ಮೊಟ್ಟೆ?",
+  "items": [
+   {
+    "img": "images/e2_r033_155_313_500_623.jpg",
+    "ans": "Fish / ಮೀನು"
+   }
+  ],
+  "ans": "Fish / ಮೀನು",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_06_004",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "6. ನಮ್ಮ ಆಹಾರ (Our Food)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "What is mother doing in the picture? / ಚಿತ್ರದಲ್ಲಿ ತಾಯಿ ಏನು ಮಾಡುತ್ತಿದ್ದಾರೆ?",
+  "items": [
+   {
+    "img": "images/e2_r034_126_385_526_578.jpg",
+    "ans": "Cooking / ಅಡುಗೆ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+   }
+  ],
+  "ans": "Cooking / ಅಡುಗೆ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_06_005",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "6. ನಮ್ಮ ಆಹಾರ (Our Food)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the food grain / ಆಹಾರ ಧಾನ್ಯಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/e2_r033_84_682_190_788.jpg",
+     "images/e2_r033_204_682_308_788.jpg",
+     "images/e2_r033_324_682_428_788.jpg",
+     "images/e2_r033_444_682_570_788.jpg"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. C",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_06_006",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "6. ನಮ್ಮ ಆಹಾರ (Our Food)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the vessel used for frying / ಹುರಿಯಲು ಬಳಸುವ ಪಾತ್ರೆಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/e2_r034_80_125_166_210.jpg",
+     "images/e2_r034_200_138_325_207.jpg",
+     "images/e2_r034_360_112_448_210.jpg",
+     "images/e2_r034_480_138_560_210.jpg"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. B",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_06_007",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "6. ನಮ್ಮ ಆಹಾರ (Our Food)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following / ಹೊಂದಿಸಿ ಬರೆಯಿರಿ",
+  "pairs": [
+   {
+    "a": "Milk / ಹಾಲು",
+    "word": "Animal-based food / ಪ್ರಾಣಿಜನ್ಯ ಆಹಾರ"
+   },
+   {
+    "a": "Mango / ಮಾವು",
+    "word": "Fruit / ಹಣ್ಣು"
+   },
+   {
+    "a": "Rice / ಅಕ್ಕಿ",
+    "word": "Grain / ಧಾನ್ಯ"
+   },
+   {
+    "a": "Cucumber / ಸೌತೆಕಾಯಿ",
+    "word": "Vegetable / ತರಕಾರಿ"
+   }
+  ],
+  "ans": "(1) → Animal-based food / ಪ್ರಾಣಿಜನ್ಯ ಆಹಾರ | (2) → Fruit / ಹಣ್ಣು | (3) → Grain / ಧಾನ್ಯ | (4) → Vegetable / ತರಕಾರಿ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_06_008",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "6. ನಮ್ಮ ಆಹಾರ (Our Food)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the odd one out / ಗುಂಪಿಗೆ ಸೇರದ್ದಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Rice / ಅಕ್ಕಿ",
+     "Jowar / ಜೋಳ",
+     "Maize / ಮೆಕ್ಕೆಜೋಳ",
+     "Fish / ಮೀನು"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Mango / ಮಾವು",
+     "Apple / ಸೇಬು",
+     "Cucumber / ಸೌತೆಕಾಯಿ",
+     "Jackfruit / ಹಲಸು"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "",
+    "options": [
+     "Milk / ಹಾಲು",
+     "Curd / ಮೊಸರು",
+     "Egg / ಮೊಟ್ಟೆ",
+     "Brinjal / ಬದನೆಕಾಯಿ"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Fish / ಮೀನು",
+     "Meat / ಮಾಂಸ",
+     "Milk / ಹಾಲು",
+     "Ragi / ರಾಗಿ"
+    ],
+    "ans": 4
+   }
+  ],
+  "ans": "1. Fish / ಮೀನು\n2. Cucumber / ಸೌತೆಕಾಯಿ\n3. Brinjal / ಬದನೆಕಾಯಿ\n4. Ragi / ರಾಗಿ",
+  "marks": 4,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_06_009",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "6. ನಮ್ಮ ಆಹಾರ (Our Food)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks with the correct word given in brackets / ಆವರಣದಲ್ಲಿರುವ ಸರಿಯಾದ ಪದದಿಂದ ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. We get ____ from cows. (Milk / Egg) / ಹಸುಗಳಿಂದ ____ ಪಡೆಯುತ್ತೇವೆ. (ಹಾಲು / ಮೊಟ್ಟೆ) ?\n2. Rice is a ____ (Grain / Fruit) / ಅಕ್ಕಿ ಒಂದು ____ (ಧಾನ್ಯ / ಹಣ್ಣು) ?\n3. Beetroot is a ____ (Vegetable / Animal) / ಬೀಟ್‌ರೂಟ್ ಒಂದು ____ (ತರಕಾರಿ / ಪ್ರಾಣಿ) ?\n4. Sweet potato is a ____ (Fruit / Vegetable) / ಸಿಹಿ ಗೆಣಸು ಒಂದು ____ (ಹಣ್ಣು / ತರಕಾರಿ) ?",
+  "ans": "1. Milk / ಹಾಲು\n2. Grain / ಧಾನ್ಯ\n3. Vegetable / ತರಕಾರಿ\n4. Vegetable / ತರಕಾರಿ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_06_010",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "6. ನಮ್ಮ ಆಹಾರ (Our Food)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Name any 2 food items that need to be cooked before eating. / ತಿನ್ನುವ ಮೊದಲು ಬೇಯಿಸಬೇಕಾದ 2 ಆಹಾರ ಪದಾರ್ಥಗಳನ್ನು ಹೆಸರಿಸಿ?\n2. Name any 3 vessels used for cooking. / ಅಡುಗೆಗೆ ಬಳಸುವ 3 ಪಾತ್ರೆಗಳನ್ನು ಹೆಸರಿಸಿ?",
+  "ans": "1. Rice, dal (fish, meat) / ಅಕ್ಕಿ, ಬೇಳೆ (ಮೀನು, ಮಾಂಸ)\n2. Cooker, pan, kadai / ಕುಕ್ಕರ್, ಬಾಣಲೆ, ಕಡಾಯಿ",
+  "marks": 2,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_07_001",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಜೀವಕ್ಕೆ ನೀರು (Water for Life)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the water source with the picture / ನೀರಿನ ಮೂಲವನ್ನು ಚಿತ್ರದೊಂದಿಗೆ ಹೊಂದಿಸಿ",
+  "pairs": [
+   {
+    "img": "images/e2_r037_410_612_525_692.jpg",
+    "word": "Tap water / ನಲ್ಲಿ ನೀರು"
+   },
+   {
+    "img": "images/e2_r037_412_706_520_782.jpg",
+    "word": "Well / ಬಾವಿ"
+   },
+   {
+    "img": "images/e2_r037_410_795_522_878.jpg",
+    "word": "River / ನದಿ"
+   },
+   {
+    "img": "images/e2_r037_407_513_525_595.jpg",
+    "word": "Bore well / ಬೋರ್‌ವೆಲ್"
+   }
+  ],
+  "ans": "(1) → Tap water / ನಲ್ಲಿ ನೀರು | (2) → Well / ಬಾವಿ | (3) → River / ನದಿ | (4) → Bore well / ಬೋರ್‌ವೆಲ್",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_07_002",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಜೀವಕ್ಕೆ ನೀರು (Water for Life)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer / ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "Which of the following is not a source of water? / ಇವುಗಳಲ್ಲಿ ಯಾವುದು ನೀರಿನ ಮೂಲವಲ್ಲ?",
+    "options": [
+     "Pond / ಕೊಳ",
+     "River / ನದಿ",
+     "Stone / ಕಲ್ಲು",
+     "Rain / ಮಳೆ"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "We need water for / ನಮಗೆ ನೀರು ಇದಕ್ಕಾಗಿ ಬೇಕು",
+    "options": [
+     "Sleeping / ನಿದ್ರೆ",
+     "Dancing / ನೃತ್ಯ",
+     "Writing / ಬರೆಯಲು",
+     "Drinking / ಕುಡಿಯಲು"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "We use the most water for / ನಾವು ಹೆಚ್ಚಿನ ನೀರನ್ನು ಇದಕ್ಕೆ ಬಳಸುತ್ತೇವೆ",
+    "options": [
+     "Drinking / ಕುಡಿಯಲು",
+     "Brushing / ಹಲ್ಲುಜ್ಜಲು",
+     "Watering plants / ಗಿಡಗಳಿಗೆ",
+     "Bathing / ಸ್ನಾನಕ್ಕೆ"
+    ],
+    "ans": 4
+   }
+  ],
+  "ans": "1. Stone / ಕಲ್ಲು\n2. Drinking / ಕುಡಿಯಲು\n3. Bathing / ಸ್ನಾನಕ್ಕೆ",
+  "marks": 3,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_07_003",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಜೀವಕ್ಕೆ ನೀರು (Water for Life)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Write any 4 uses of water. / ನೀರಿನ ಯಾವುದೇ 4 ಉಪಯೋಗಗಳನ್ನು ಬರೆಯಿರಿ.\n2. Write any 4 sources of water. / ನೀರಿನ ಯಾವುದೇ 4 ಮೂಲಗಳನ್ನು ಬರೆಯಿರಿ.\n3. What should we do if water is running from an open tap? / ತೆರೆದ ನಲ್ಲಿಯಿಂದ ನೀರು ಹರಿಯುತ್ತಿದ್ದರೆ ನಾವು ಏನು ಮಾಡಬೇಕು?",
+  "ans": "1. Drinking, bathing, cooking, watering plants / ಕುಡಿಯಲು, ಸ್ನಾನಕ್ಕೆ, ಅಡುಗೆಗೆ, ಗಿಡಗಳಿಗೆ ನೀರುಣಿಸಲು\n2. River, pond, lake, well / ನದಿ, ಕೊಳ, ಸರೋವರ, ಬಾವಿ\n3. We should close the tap. / ನಲ್ಲಿಯನ್ನು ಮುಚ್ಚಬೇಕು.",
+  "marks": 3,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_07_004",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಜೀವಕ್ಕೆ ನೀರು (Water for Life)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Observe the picture and write what they are doing. / ಚಿತ್ರ ಗಮನಿಸಿ ಅವರು ಏನು ಮಾಡುತ್ತಿದ್ದಾರೆ ಬರೆಯಿರಿ.",
+  "items": [
+   {
+    "img": "images/e2_r038_140_738_458_903.jpg",
+    "ans": "They are cleaning the dirty pond. / ಅವರು ಕೊಳಕಾದ ಕೊಳವನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸುತ್ತಿದ್ದಾರೆ."
+   }
+  ],
+  "ans": "They are cleaning the dirty pond. / ಅವರು ಕೊಳಕಾದ ಕೊಳವನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸುತ್ತಿದ್ದಾರೆ.",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_07_005",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಜೀವಕ್ಕೆ ನೀರು (Water for Life)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the odd one out / ಗುಂಪಿಗೆ ಸೇರದ್ದಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Tap / ನಲ್ಲಿ",
+     "Handpump / ಕೈಪಂಪು",
+     "Well / ಬಾವಿ",
+     "Car / ಕಾರು"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Drinking / ಕುಡಿಯುವುದು",
+     "Bathing / ಸ್ನಾನ",
+     "Cooking / ಅಡುಗೆ",
+     "Sleeping / ನಿದ್ರೆ"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "River / ನದಿ",
+     "Lake / ಕೆರೆ",
+     "Table / ಮೇಜು",
+     "Pond / ಕೊಳ"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "",
+    "options": [
+     "Bucket / ಬಕೆಟ್",
+     "Book / ಪುಸ್ತಕ",
+     "Mug / ಮಗ್",
+     "Pot / ಕೊಡ"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "Desert / ಮರುಭೂಮಿ",
+     "Sea / ಸಮುದ್ರ",
+     "River / ನದಿ",
+     "Ocean / ಸಾಗರ"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Car / ಕಾರು\n2. Sleeping / ನಿದ್ರೆ\n3. Table / ಮೇಜು\n4. Book / ಪುಸ್ತಕ\n5. Desert / ಮರುಭೂಮಿ",
+  "marks": 5,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_07_006",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಜೀವಕ್ಕೆ ನೀರು (Water for Life)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False / ಸರಿ ಅಥವಾ ತಪ್ಪು ಗುರುತಿಸಿ",
+  "rows": [
+   {
+    "q": "We should leave the tap running while brushing our teeth / ಹಲ್ಲುಜ್ಜುವಾಗ ನಲ್ಲಿಯನ್ನು ತೆರೆದೇ ಇಡಬೇಕು",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Ocean water is sweet / ಸಮುದ್ರದ ನೀರು ಸಿಹಿಯಾಗಿರುತ್ತದೆ",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Plants need water / ಗಿಡಮರಗಳಿಗೆ ನೀರು ಬೇಕು",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Cows must be bathed in the lake / ಹಸುಗಳನ್ನು ಕೆರೆಯಲ್ಲಿ ತೊಳೆಯಬೇಕು",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "Drainage water must not be released into a river / ಚರಂಡಿ ನೀರನ್ನು ನದಿಗೆ ಬಿಡಬಾರದು",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. False / ತಪ್ಪು\n2. False / ತಪ್ಪು\n3. True / ಸರಿ\n4. False / ತಪ್ಪು\n5. True / ಸರಿ",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_07_007",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "7. ಜೀವಕ್ಕೆ ನೀರು (Water for Life)",
+  "type": "vsa_1m",
+  "activity": "draw",
+  "q": "Draw a water drop and write a slogan on saving water / ನೀರಿನ ಹನಿಯ ಚಿತ್ರ ಬಿಡಿಸಿ, ನೀರು ಉಳಿಸುವ ಘೋಷವಾಕ್ಯ ಬರೆಯಿರಿ",
+  "height": 28,
+  "ans": "Save water, save life / ನೀರು ಉಳಿಸಿ, ಜೀವ ಉಳಿಸಿ",
+  "marks": 1,
+  "obj": "ಕೌಶಲ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_08_001",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ನಾವು ಸುತ್ತಾಡೋಣ (Let Us Move Around)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer / ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "Which vehicle moves on tracks? / ಯಾವ ವಾಹನವು ಹಳಿಗಳ ಮೇಲೆ ಚಲಿಸುತ್ತದೆ?",
+    "options": [
+     "Aeroplane / ವಿಮಾನ",
+     "Boat / ದೋಣಿ",
+     "Bus / ಬಸ್",
+     "Train / ರೈಲು"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "Which vehicle moves on water? / ಯಾವ ವಾಹನವು ನೀರಿನ ಮೇಲೆ ಚಲಿಸುತ್ತದೆ?",
+    "options": [
+     "Boat / ದೋಣಿ",
+     "Bus / ಬಸ್",
+     "Aeroplane / ವಿಮಾನ",
+     "Train / ರೈಲು"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Which vehicle moves faster? / ಯಾವ ವಾಹನವು ವೇಗವಾಗಿ ಚಲಿಸುತ್ತದೆ?",
+    "options": [
+     "Cycle / ಸೈಕಲ್",
+     "Bike / ಬೈಕ್",
+     "Train / ರೈಲು",
+     "Bus / ಬಸ್"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "Which vehicle moves slower? / ಯಾವ ವಾಹನವು ನಿಧಾನವಾಗಿ ಚಲಿಸುತ್ತದೆ?",
+    "options": [
+     "Car / ಕಾರು",
+     "Cycle / ಸೈಕಲ್",
+     "Train / ರೈಲು",
+     "Bike / ಬೈಕ್"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Train / ರೈಲು\n2. Boat / ದೋಣಿ\n3. Train / ರೈಲು\n4. Cycle / ಸೈಕಲ್",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_08_002",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ನಾವು ಸುತ್ತಾಡೋಣ (Let Us Move Around)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "What is the name of the vehicle in the picture? / ಚಿತ್ರದಲ್ಲಿರುವ ವಾಹನದ ಹೆಸರೇನು?",
+  "items": [
+   {
+    "img": "images/e2_r040_476_778_623_883.jpg",
+    "ans": "Auto rickshaw / ಆಟೋ ರಿಕ್ಷಾ"
+   }
+  ],
+  "ans": "Auto rickshaw / ಆಟೋ ರಿಕ್ಷಾ",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_08_003",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ನಾವು ಸುತ್ತಾಡೋಣ (Let Us Move Around)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. What are vehicles? / ವಾಹನಗಳು ಎಂದರೇನು?\n2. Write the names of any 3 vehicles that move on land. / ನೆಲದ ಮೇಲೆ ಚಲಿಸುವ ಯಾವುದಾದರೂ 3 ವಾಹನಗಳನ್ನು ಹೆಸರಿಸಿ.\n3. Name any two vehicles that are better for long journeys. / ದೂರದ ಪ್ರಯಾಣಕ್ಕೆ ಉತ್ತಮವಾದ ಎರಡು ವಾಹನಗಳನ್ನು ಹೆಸರಿಸಿ.",
+  "ans": "1. Things that carry people and goods from one place to another are vehicles. / ಜನರನ್ನು ಮತ್ತು ವಸ್ತುಗಳನ್ನು ಒಂದು ಸ್ಥಳದಿಂದ ಇನ್ನೊಂದು ಸ್ಥಳಕ್ಕೆ ಸಾಗಿಸುವುವೇ ವಾಹನಗಳು.\n2. Bullock cart, bus, car / ಎತ್ತಿನ ಬಂಡಿ, ಬಸ್, ಕಾರು\n3. Train and aeroplane / ರೈಲು ಮತ್ತು ವಿಮಾನ",
+  "marks": 3,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_08_004",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ನಾವು ಸುತ್ತಾಡೋಣ (Let Us Move Around)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following / ಹೊಂದಿಸಿ ಬರೆಯಿರಿ",
+  "pairs": [
+   {
+    "a": "Lorry / ಲಾರಿ",
+    "word": "Moves on the road / ರಸ್ತೆಯ ಮೇಲೆ ಚಲಿಸುತ್ತದೆ"
+   },
+   {
+    "a": "Train / ರೈಲು",
+    "word": "Moves on tracks / ಹಳಿಗಳ ಮೇಲೆ ಚಲಿಸುತ್ತದೆ"
+   },
+   {
+    "a": "Boat / ದೋಣಿ",
+    "word": "Moves on water / ನೀರಿನ ಮೇಲೆ ಚಲಿಸುತ್ತದೆ"
+   },
+   {
+    "a": "Aeroplane / ವಿಮಾನ",
+    "word": "Flies in the air / ಗಾಳಿಯಲ್ಲಿ ಹಾರುತ್ತದೆ"
+   }
+  ],
+  "ans": "(1) → Moves on the road / ರಸ್ತೆಯ ಮೇಲೆ ಚಲಿಸುತ್ತದೆ | (2) → Moves on tracks / ಹಳಿಗಳ ಮೇಲೆ ಚಲಿಸುತ್ತದೆ | (3) → Moves on water / ನೀರಿನ ಮೇಲೆ ಚಲಿಸುತ್ತದೆ | (4) → Flies in the air / ಗಾಳಿಯಲ್ಲಿ ಹಾರುತ್ತದೆ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_08_005",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ನಾವು ಸುತ್ತಾಡೋಣ (Let Us Move Around)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the odd one out / ಗುಂಪಿಗೆ ಸೇರದ್ದಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Bus / ಬಸ್",
+     "Train / ರೈಲು",
+     "Boat / ದೋಣಿ",
+     "Lorry / ಲಾರಿ"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "",
+    "options": [
+     "Aeroplane / ವಿಮಾನ",
+     "Helicopter / ಹೆಲಿಕಾಪ್ಟರ್",
+     "Boat / ದೋಣಿ",
+     "Jet plane / ಜೆಟ್ ವಿಮಾನ"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "",
+    "options": [
+     "Boat / ದೋಣಿ",
+     "Aeroplane / ವಿಮಾನ",
+     "Ship / ಹಡಗು",
+     "Yacht / ಯಾಂತ್ರಿಕ ದೋಣಿ"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "",
+    "options": [
+     "Train / ರೈಲು",
+     "Rocket / ರಾಕೆಟ್",
+     "Jet / ಜೆಟ್",
+     "Aeroplane / ವಿಮಾನ"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Boat / ದೋಣಿ\n2. Boat / ದೋಣಿ\n3. Aeroplane / ವಿಮಾನ\n4. Train / ರೈಲು",
+  "marks": 4,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_08_006",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ನಾವು ಸುತ್ತಾಡೋಣ (Let Us Move Around)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False / ಸರಿ ಅಥವಾ ತಪ್ಪು ಗುರುತಿಸಿ",
+  "rows": [
+   {
+    "q": "A boat moves on water / ದೋಣಿ ನೀರಿನ ಮೇಲೆ ಚಲಿಸುತ್ತದೆ",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "A train flies in the sky / ರೈಲು ಆಕಾಶದಲ್ಲಿ ಹಾರುತ್ತದೆ",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "A bus moves on the road / ಬಸ್ ರಸ್ತೆಯ ಮೇಲೆ ಚಲಿಸುತ್ತದೆ",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "An aeroplane flies in the air / ವಿಮಾನ ಗಾಳಿಯಲ್ಲಿ ಹಾರುತ್ತದೆ",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. True / ಸರಿ\n2. False / ತಪ್ಪು\n3. True / ಸರಿ\n4. True / ಸರಿ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_08_007",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "8. ನಾವು ಸುತ್ತಾಡೋಣ (Let Us Move Around)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks with the correct word given in brackets / ಆವರಣದಲ್ಲಿರುವ ಸರಿಯಾದ ಪದದಿಂದ ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. An ____ flies in the sky. (Aeroplane / Boat) / ____ ಆಕಾಶದಲ್ಲಿ ಹಾರುತ್ತದೆ. (ವಿಮಾನ / ದೋಣಿ) ?\n2. A ____ moves on water. (Ship / Car) / ____ ನೀರಿನ ಮೇಲೆ ಚಲಿಸುತ್ತದೆ. (ಹಡಗು / ಕಾರು) ?\n3. A ____ runs on rails. (Train / Bus) / ____ ಹಳಿಗಳ ಮೇಲೆ ಓಡುತ್ತದೆ. (ರೈಲು / ಬಸ್) ?\n4. A ____ carries many passengers on the road. (Bus / Car) / ____ ರಸ್ತೆಯಲ್ಲಿ ಹೆಚ್ಚು ಪ್ರಯಾಣಿಕರನ್ನು ಸಾಗಿಸುತ್ತದೆ. (ಬಸ್ / ಕಾರು) ?",
+  "ans": "1. Aeroplane / ವಿಮಾನ\n2. Ship / ಹಡಗು\n3. Train / ರೈಲು\n4. Bus / ಬಸ್",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_09_001",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಸಹಾಯಹಸ್ತಗಳು (Helping Hands Around Us)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer / ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "We go to school to get / ನಾವು ಶಾಲೆಗೆ ಇದನ್ನು ಪಡೆಯಲು ಹೋಗುತ್ತೇವೆ",
+    "options": [
+     "Vegetables / ತರಕಾರಿ",
+     "Education / ಶಿಕ್ಷಣ",
+     "Toys / ಆಟಿಕೆ",
+     "Cake / ಕೇಕ್"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "We send letters to our relatives from the / ಸಂಬಂಧಿಕರಿಗೆ ಪತ್ರ ಕಳುಹಿಸುವ ಸ್ಥಳ",
+    "options": [
+     "Hospital / ಆಸ್ಪತ್ರೆ",
+     "Bus stand / ಬಸ್ ನಿಲ್ದಾಣ",
+     "Post office / ಅಂಚೆ ಕಚೇರಿ",
+     "Bank / ಬ್ಯಾಂಕ್"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "If we get sick, we visit the / ಅನಾರೋಗ್ಯವಾದಾಗ ಭೇಟಿ ನೀಡುವ ಸ್ಥಳ",
+    "options": [
+     "Bank / ಬ್ಯಾಂಕ್",
+     "Post office / ಅಂಚೆ ಕಚೇರಿ",
+     "School / ಶಾಲೆ",
+     "Hospital / ಆಸ್ಪತ್ರೆ"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "The person who gives tickets in a bus is the / ಬಸ್ಸಿನಲ್ಲಿ ಟಿಕೆಟ್ ನೀಡುವ ವ್ಯಕ್ತಿ",
+    "options": [
+     "Conductor / ಕಂಡಕ್ಟರ್",
+     "Doctor / ವೈದ್ಯರು",
+     "Teacher / ಶಿಕ್ಷಕ",
+     "Postman / ಅಂಚೆಯಣ್ಣ"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "We go to this place to bring vegetables / ತರಕಾರಿ ತರಲು ಹೋಗುವ ಸ್ಥಳ",
+    "options": [
+     "Hospital / ಆಸ್ಪತ್ರೆ",
+     "Police station / ಪೊಲೀಸ್ ಠಾಣೆ",
+     "Toilet / ಶೌಚಾಲಯ",
+     "Market / ಮಾರುಕಟ್ಟೆ"
+    ],
+    "ans": 4
+   }
+  ],
+  "ans": "1. Education / ಶಿಕ್ಷಣ\n2. Post office / ಅಂಚೆ ಕಚೇರಿ\n3. Hospital / ಆಸ್ಪತ್ರೆ\n4. Conductor / ಕಂಡಕ್ಟರ್\n5. Market / ಮಾರುಕಟ್ಟೆ",
+  "marks": 5,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_09_002",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಸಹಾಯಹಸ್ತಗಳು (Helping Hands Around Us)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Name a public place where we can read books and newspapers. / ಪುಸ್ತಕ ಮತ್ತು ಪತ್ರಿಕೆ ಓದಬಹುದಾದ ಸಾರ್ವಜನಿಕ ಸ್ಥಳವನ್ನು ಹೆಸರಿಸಿ.\n2. Name a public place where we can play games. / ಆಟವಾಡಬಹುದಾದ ಸಾರ್ವಜನಿಕ ಸ್ಥಳವನ್ನು ಹೆಸರಿಸಿ.\n3. What does a doctor do? / ವೈದ್ಯರು ಏನು ಮಾಡುತ್ತಾರೆ?\n4. What does a postman do? / ಅಂಚೆಯಣ್ಣ ಏನು ಮಾಡುತ್ತಾನೆ?",
+  "ans": "1. Public library / ಸಾರ್ವಜನಿಕ ಗ್ರಂಥಾಲಯ\n2. Playground / stadium / ಆಟದ ಮೈದಾನ / ಕ್ರೀಡಾಂಗಣ\n3. A doctor treats patients. / ವೈದ್ಯರು ರೋಗಿಗಳಿಗೆ ಚಿಕಿತ್ಸೆ ನೀಡುತ್ತಾರೆ.\n4. A postman brings letters to people. / ಅಂಚೆಯಣ್ಣ ಜನರಿಗೆ ಪತ್ರಗಳನ್ನು ತಲುಪಿಸುತ್ತಾನೆ.",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_09_003",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಸಹಾಯಹಸ್ತಗಳು (Helping Hands Around Us)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. What does a teacher do? / ಶಿಕ್ಷಕರು ಏನು ಮಾಡುತ್ತಾರೆ?\n2. Which place do we visit to make a complaint? / ದೂರು ಸಲ್ಲಿಸಲು ಯಾವ ಸ್ಥಳಕ್ಕೆ ಹೋಗುತ್ತೇವೆ?\n3. Write any 2 uses of a public park. / ಸಾರ್ವಜನಿಕ ಉದ್ಯಾನವನದ 2 ಉಪಯೋಗಗಳನ್ನು ಬರೆಯಿರಿ.",
+  "ans": "1. A teacher teaches children. / ಶಿಕ್ಷಕರು ಮಕ್ಕಳಿಗೆ ಪಾಠ ಮಾಡುತ್ತಾರೆ.\n2. Police station / ಪೊಲೀಸ್ ಠಾಣೆ\n3. People go for walking, jogging and exercise; children play there. / ಜನರು ನಡಿಗೆ, ಓಟ, ವ್ಯಾಯಾಮ ಮಾಡುತ್ತಾರೆ; ಮಕ್ಕಳು ಆಟವಾಡುತ್ತಾರೆ.",
+  "marks": 4,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_09_004",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಸಹಾಯಹಸ್ತಗಳು (Helping Hands Around Us)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write the names of any 4 places in the picture. / ಚಿತ್ರದಲ್ಲಿರುವ ಯಾವುದಾದರೂ 4 ಸ್ಥಳಗಳ ಹೆಸರು ಬರೆಯಿರಿ.",
+  "items": [
+   {
+    "img": "images/e2_r044_100_672_488_870.jpg",
+    "ans": "Park, bus stand, school, post office / ಉದ್ಯಾನವನ, ಬಸ್ ನಿಲ್ದಾಣ, ಶಾಲೆ, ಅಂಚೆ ಕಚೇರಿ"
+   }
+  ],
+  "ans": "Park, bus stand, school, post office / ಉದ್ಯಾನವನ, ಬಸ್ ನಿಲ್ದಾಣ, ಶಾಲೆ, ಅಂಚೆ ಕಚೇರಿ",
+  "marks": 2,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_09_005",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಸಹಾಯಹಸ್ತಗಳು (Helping Hands Around Us)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks (Hospital, Teacher, Market, Letters) / ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ (ಆಸ್ಪತ್ರೆ, ಶಿಕ್ಷಕ, ಮಾರುಕಟ್ಟೆ, ಪತ್ರಗಳು)\n1. I teach children in school. I am a ____ / ನಾನು ಶಾಲೆಯಲ್ಲಿ ಮಕ್ಕಳಿಗೆ ಪಾಠ ಮಾಡುತ್ತೇನೆ. ನಾನು ____ ?\n2. We go to the ____ to bring vegetables / ನಾವು ತರಕಾರಿ ತರಲು ____ ಗೆ ಹೋಗುತ್ತೇವೆ ?\n3. A postman brings ____ to people / ಅಂಚೆಯಣ್ಣ ಜನರಿಗೆ ____ ತರುತ್ತಾನೆ ?\n4. I go to the ____ to get medicine / ಔಷಧಿ ತೆಗೆದುಕೊಳ್ಳಲು ನಾನು ____ ಗೆ ಹೋಗುತ್ತೇನೆ ?",
+  "ans": "1. Teacher / ಶಿಕ್ಷಕ\n2. Market / ಮಾರುಕಟ್ಟೆ\n3. Letters / ಪತ್ರಗಳು\n4. Hospital / ಆಸ್ಪತ್ರೆ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_09_006",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಸಹಾಯಹಸ್ತಗಳು (Helping Hands Around Us)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following / ಹೊಂದಿಸಿ ಬರೆಯಿರಿ",
+  "pairs": [
+   {
+    "a": "Doctor / ವೈದ್ಯರು",
+    "word": "Treats patients in hospital / ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ರೋಗಿಗಳಿಗೆ ಚಿಕಿತ್ಸೆ ನೀಡುತ್ತಾರೆ"
+   },
+   {
+    "a": "Bus conductor / ಬಸ್ ಕಂಡಕ್ಟರ್",
+    "word": "Gives tickets in the bus / ಬಸ್ಸಿನಲ್ಲಿ ಟಿಕೆಟ್ ನೀಡುತ್ತಾರೆ"
+   },
+   {
+    "a": "Bus station / ಬಸ್ ನಿಲ್ದಾಣ",
+    "word": "Place where buses stop / ಬಸ್ಸುಗಳು ನಿಲ್ಲುವ ಸ್ಥಳ"
+   },
+   {
+    "a": "School / ಶಾಲೆ",
+    "word": "A place where we go to learn / ನಾವು ಕಲಿಯಲು ಹೋಗುವ ಸ್ಥಳ"
+   }
+  ],
+  "ans": "(1) → Treats patients in hospital / ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ರೋಗಿಗಳಿಗೆ ಚಿಕಿತ್ಸೆ ನೀಡುತ್ತಾರೆ | (2) → Gives tickets in the bus / ಬಸ್ಸಿನಲ್ಲಿ ಟಿಕೆಟ್ ನೀಡುತ್ತಾರೆ | (3) → Place where buses stop / ಬಸ್ಸುಗಳು ನಿಲ್ಲುವ ಸ್ಥಳ | (4) → A place where we go to learn / ನಾವು ಕಲಿಯಲು ಹೋಗುವ ಸ್ಥಳ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_09_007",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "9. ನಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಸಹಾಯಹಸ್ತಗಳು (Helping Hands Around Us)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the odd one out / ಗುಂಪಿಗೆ ಸೇರದ್ದಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "Teacher / ಶಿಕ್ಷಕ",
+     "Doctor / ವೈದ್ಯರು",
+     "Market / ಮಾರುಕಟ್ಟೆ",
+     "Postman / ಅಂಚೆಯಣ್ಣ"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "",
+    "options": [
+     "School / ಶಾಲೆ",
+     "Hospital / ಆಸ್ಪತ್ರೆ",
+     "Bus station / ಬಸ್ ನಿಲ್ದಾಣ",
+     "Vegetables / ತರಕಾರಿಗಳು"
+    ],
+    "ans": 4
+   },
+   {
+    "q": "",
+    "options": [
+     "Letters / ಪತ್ರಗಳು",
+     "Post office / ಅಂಚೆ ಕಚೇರಿ",
+     "Bus / ಬಸ್",
+     "Postman / ಅಂಚೆಯಣ್ಣ"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "",
+    "options": [
+     "Medicines / ಔಷಧಿಗಳು",
+     "Blackboard / ಕಪ್ಪುಹಲಗೆ",
+     "Teacher / ಶಿಕ್ಷಕ",
+     "School / ಶಾಲೆ"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. Market / ಮಾರುಕಟ್ಟೆ\n2. Vegetables / ತರಕಾರಿಗಳು\n3. Bus / ಬಸ್\n4. Medicines / ಔಷಧಿಗಳು",
+  "marks": 4,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_10_001",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಸುಂದರವಾದ ಆಕಾಶ (The Beautiful Sky)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Choose the correct answer / ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "When do we sleep? / ನಾವು ಯಾವಾಗ ಮಲಗುತ್ತೇವೆ?",
+    "options": [
+     "Morning / ಬೆಳಿಗ್ಗೆ",
+     "Afternoon / ಮಧ್ಯಾಹ್ನ",
+     "Night / ರಾತ್ರಿ",
+     "Evening / ಸಂಜೆ"
+    ],
+    "ans": 3
+   },
+   {
+    "q": "What is the shape of the Sun? / ಸೂರ್ಯನ ಆಕಾರ ಏನು?",
+    "options": [
+     "Round / ದುಂಡು",
+     "Triangle / ತ್ರಿಕೋನ",
+     "Square / ಚೌಕ",
+     "Rectangle / ಆಯತ"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Which of these twinkles at night? / ರಾತ್ರಿಯಲ್ಲಿ ಮಿನುಗುವುದು ಯಾವುದು?",
+    "options": [
+     "Sun / ಸೂರ್ಯ",
+     "Star / ನಕ್ಷತ್ರ",
+     "Tree / ಮರ",
+     "Cloud / ಮೋಡ"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. Night / ರಾತ್ರಿ\n2. Round / ದುಂಡು\n3. Star / ನಕ್ಷತ್ರ",
+  "marks": 3,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_10_002",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಸುಂದರವಾದ ಆಕಾಶ (The Beautiful Sky)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle the moon / ಚಂದ್ರನಿಗೆ ಸುತ್ತು ಹಾಕಿ",
+  "rows": [
+   {
+    "q": "",
+    "options": [
+     "images/e2_r046_108_812_168_872.jpg",
+     "images/e2_r046_226_815_300_868.jpg",
+     "images/e2_r046_388_815_450_868.jpg",
+     "images/e2_r046_503_820_576_868.jpg"
+    ],
+    "ans": 3
+   }
+  ],
+  "ans": "1. C",
+  "marks": 1,
+  "obj": "ಅನ್ವಯ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_10_003",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಸುಂದರವಾದ ಆಕಾಶ (The Beautiful Sky)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. What does the Sun give us? / ಸೂರ್ಯ ನಮಗೆ ಏನು ಕೊಡುತ್ತಾನೆ?\n2. How does the moon look? / ಚಂದ್ರ ಹೇಗೆ ಕಾಣುತ್ತಾನೆ?\n3. Name one festival related to the Sun. / ಸೂರ್ಯನಿಗೆ ಸಂಬಂಧಿಸಿದ ಒಂದು ಹಬ್ಬವನ್ನು ಹೆಸರಿಸಿ.",
+  "ans": "1. Heat and light / ಶಾಖ ಮತ್ತು ಬೆಳಕು\n2. Sometimes round, sometimes half / ಕೆಲವೊಮ್ಮೆ ದುಂಡಾಗಿ, ಕೆಲವೊಮ್ಮೆ ಅರ್ಧವಾಗಿ\n3. Makara Sankranti / ಮಕರ ಸಂಕ್ರಾಂತಿ",
+  "marks": 3,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_10_004",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಸುಂದರವಾದ ಆಕಾಶ (The Beautiful Sky)",
+  "type": "vsa_1m",
+  "activity": "picword",
+  "q": "Write any four things seen in the picture. / ಚಿತ್ರದಲ್ಲಿ ಕಾಣುವ ಯಾವುದಾದರೂ ನಾಲ್ಕು ವಸ್ತುಗಳನ್ನು ಬರೆಯಿರಿ.",
+  "items": [
+   {
+    "img": "images/e2_r047_158_376_330_482.jpg",
+    "ans": "Sun, moon, birds, clouds (hills) / ಸೂರ್ಯ, ಚಂದ್ರ, ಹಕ್ಕಿಗಳು, ಮೋಡಗಳು (ಬೆಟ್ಟ)"
+   }
+  ],
+  "ans": "Sun, moon, birds, clouds (hills) / ಸೂರ್ಯ, ಚಂದ್ರ, ಹಕ್ಕಿಗಳು, ಮೋಡಗಳು (ಬೆಟ್ಟ)",
+  "marks": 1,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_10_005",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಸುಂದರವಾದ ಆಕಾಶ (The Beautiful Sky)",
+  "type": "vsa_1m",
+  "q": "Answer the following / ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ\n1. Name the things that you see in the sky at night. / ರಾತ್ರಿ ಆಕಾಶದಲ್ಲಿ ಕಾಣುವ ವಸ್ತುಗಳನ್ನು ಹೆಸರಿಸಿ?\n2. Name any 3 festivals related to the moon. / ಚಂದ್ರನಿಗೆ ಸಂಬಂಧಿಸಿದ 3 ಹಬ್ಬಗಳನ್ನು ಹೆಸರಿಸಿ?",
+  "ans": "1. Moon and stars / ಚಂದ್ರ ಮತ್ತು ನಕ್ಷತ್ರಗಳು\n2. Ramzan (Eid), Buddha Poornima, Holi / ರಂಜಾನ್ (ಈದ್), ಬುದ್ಧ ಪೂರ್ಣಿಮೆ, ಹೋಳಿ",
+  "marks": 2,
+  "obj": "ಜ್ಞಾನ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_10_006",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಸುಂದರವಾದ ಆಕಾಶ (The Beautiful Sky)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False / ಸರಿ ಅಥವಾ ತಪ್ಪು ಗುರುತಿಸಿ",
+  "rows": [
+   {
+    "q": "We can see stars in the morning / ಬೆಳಗಿನ ಸಮಯದಲ್ಲಿ ನಕ್ಷತ್ರಗಳನ್ನು ನೋಡಬಹುದು",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The moon shines at night / ರಾತ್ರಿಯಲ್ಲಿ ಚಂದ್ರನು ಬೆಳಗುತ್ತಾನೆ",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "The Sun gives us light / ಸೂರ್ಯನು ನಮಗೆ ಬೆಳಕನ್ನು ನೀಡುತ್ತಾನೆ",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   }
+  ],
+  "ans": "1. False / ತಪ್ಪು\n2. True / ಸರಿ\n3. True / ಸರಿ",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸುಲಭ"
+ },
+ {
+  "id": "q_2_evsbi_10_007",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಸುಂದರವಾದ ಆಕಾಶ (The Beautiful Sky)",
+  "type": "vsa_1m",
+  "activity": "circle",
+  "q": "Circle True or False / ಸರಿ ಅಥವಾ ತಪ್ಪು ಗುರುತಿಸಿ",
+  "rows": [
+   {
+    "q": "We can see stars during the day / ಹಗಲಿನಲ್ಲಿ ನಕ್ಷತ್ರಗಳನ್ನು ನೋಡಬಹುದು",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   },
+   {
+    "q": "The moon is seen at night / ಚಂದ್ರನು ರಾತ್ರಿ ಕಾಣುತ್ತಾನೆ",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 1
+   },
+   {
+    "q": "Clouds float in water / ಮೋಡಗಳು ನೀರಿನಲ್ಲಿ ತೇಲುತ್ತವೆ",
+    "options": [
+     "True / ಸರಿ",
+     "False / ತಪ್ಪು"
+    ],
+    "ans": 2
+   }
+  ],
+  "ans": "1. False / ತಪ್ಪು\n2. True / ಸರಿ\n3. False / ತಪ್ಪು",
+  "marks": 3,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ },
+ {
+  "id": "q_2_evsbi_10_008",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಸುಂದರವಾದ ಆಕಾಶ (The Beautiful Sky)",
+  "type": "vsa_1m",
+  "q": "Fill in the blanks / ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ\n1. The Sun rises in the ____ / ಸೂರ್ಯನು ____ ದಿಕ್ಕಿನಲ್ಲಿ ಉದಯಿಸುತ್ತಾನೆ ?\n2. We sleep at ____ / ನಾವು ____ ಸಮಯದಲ್ಲಿ ನಿದ್ರೆ ಮಾಡುತ್ತೇವೆ ?\n3. The moon is cooler than the ____ / ಚಂದ್ರನು ____ ಗಿಂತ ತಂಪಾಗಿರುತ್ತಾನೆ ?\n4. Birds fly in the ____ / ಹಕ್ಕಿಗಳು ____ ನಲ್ಲಿ ಹಾರುತ್ತವೆ ?\n5. Clouds are seen in the ____ / ಮೋಡಗಳು ____ ನಲ್ಲಿ ಕಾಣುತ್ತವೆ ?",
+  "ans": "1. East / ಪೂರ್ವ\n2. Night / ರಾತ್ರಿ\n3. Sun / ಸೂರ್ಯ\n4. Sky / ಆಕಾಶ\n5. Sky / ಆಕಾಶ",
+  "marks": 5,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಕಠಿಣ"
+ },
+ {
+  "id": "q_2_evsbi_10_009",
+  "grade": "2",
+  "subject": "ಪರಿಸರ ಅಧ್ಯಯನ (EVS)",
+  "medium": "bilingual_medium",
+  "part": "ಭಾಗ 2",
+  "chapter": "10. ಸುಂದರವಾದ ಆಕಾಶ (The Beautiful Sky)",
+  "type": "match",
+  "activity": "picmatch",
+  "q": "Match the following / ಹೊಂದಿಸಿ ಬರೆಯಿರಿ",
+  "pairs": [
+   {
+    "a": "Sun / ಸೂರ್ಯ",
+    "word": "Heat and light / ಶಾಖ ಮತ್ತು ಬೆಳಕು"
+   },
+   {
+    "a": "Moon / ಚಂದ್ರ",
+    "word": "Night / ರಾತ್ರಿ"
+   },
+   {
+    "a": "Stars / ನಕ್ಷತ್ರಗಳು",
+    "word": "Twinkle / ಮಿನುಗು"
+   },
+   {
+    "a": "Owl / ಗೂಬೆ",
+    "word": "Night bird / ರಾತ್ರಿ ಹಕ್ಕಿ"
+   }
+  ],
+  "ans": "(1) → Heat and light / ಶಾಖ ಮತ್ತು ಬೆಳಕು | (2) → Night / ರಾತ್ರಿ | (3) → Twinkle / ಮಿನುಗು | (4) → Night bird / ರಾತ್ರಿ ಹಕ್ಕಿ",
+  "marks": 4,
+  "obj": "ಗ್ರಹಿಕೆ",
+  "diff": "ಸಾಧಾರಣ"
+ }
+]
