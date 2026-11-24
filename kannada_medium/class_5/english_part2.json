@@ -1075,7 +1075,6 @@
     "obj": "Application",
     "diff": "Easy"
   },
- 
   {
     "id": "q_5_eng_dl_001",
     "grade": "5",
@@ -1960,7 +1959,6 @@
     "obj": "Skill",
     "diff": "Easy"
   },
-  
   {
     "id": "q_5_eng_gc_001",
     "grade": "5",
@@ -3403,7 +3401,6 @@
     "obj": "Knowledge",
     "diff": "Easy"
   },
-  
   {
     "id": "q_5_eng_cc_001",
     "grade": "5",
@@ -4720,7 +4717,6 @@
     "obj": "ಗ್ರಹಿಕೆ",
     "diff": "ಸಾಧಾರಣ"
   },
-  
   {
     "id": "q_5_eng_cow_001",
     "grade": "5",
@@ -5339,7 +5335,6 @@
     "obj": "ಕೌಶಲ",
     "diff": "ಸುಲಭ"
   },
-  
   {
     "id": "q_5_eng_rr_001",
     "grade": "5",
@@ -5350,7 +5345,7 @@
     "type": "blanks",
     "q": "Fill in the missing words from the poem:\nThe man who wants a garden ______,\nOr small or very ______,\nWith flowers growing here and ______,\nMust bend his back and ______.",
     "ans": "fair, big, there, dig",
-    "marks": 2,
+    "marks": 4,
     "obj": "ಜ್ಞಾನ",
     "diff": "ಸುಲಭ"
   },
@@ -5364,7 +5359,7 @@
     "type": "blanks",
     "q": "Fill in the missing words from the poem:\nThe things are mighty few on ______\nThat wishes can ______.\nWhate’er we want of any ______\nWe’ve got to ______ to gain.",
     "ans": "earth, attain, worth, work",
-    "marks": 2,
+    "marks": 4,
     "obj": "ಜ್ಞಾನ",
     "diff": "ಸುಲಭ"
   },
@@ -5378,7 +5373,7 @@
     "type": "blanks",
     "q": "Fill in the missing words from the poem:\nIt matters not what goal you ______\nIts secret here ______:\nYou’ve got to dig from week to ______\nTo get ______ or ______.",
     "ans": "seek, reposes, week, Results, Roses",
-    "marks": 2,
+    "marks": 4,
     "obj": "ಜ್ಞಾನ",
     "diff": "ಸಾಧಾರಣ"
   },
@@ -6100,7 +6095,6 @@
     "obj": "ಕೌಶಲ",
     "diff": "ಸಾಧಾರಣ"
   },
-  
   {
     "id": "q_5_eng_pb_001",
     "grade": "5",
@@ -6836,7 +6830,6 @@
     "obj": "ಗ್ರಹಿಕೆ",
     "diff": "ಕಠಿಣ"
   },
-  
   {
     "id": "q_5_eng_ml_001",
     "grade": "5",
