@@ -18,7 +18,7 @@
     "q": "ಕೊಟ್ಟಿರುವ ಮಾನವನ ವೀರ್ಯಾಣು ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ. a, b, c ಎಂದು ಗುರುತಿಸಿರುವ ಭಾಗಗಳ ಸರಿಯಾದ ಕ್ರಮ :",
     "image": " https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKHQbgeacASYJ2_8jlwAyC4t1sgl_i7oEsjood81Nh-H8ySgMxKbwT1oWnieaT2tRG2EnaePXlTFL2IcnTCIUulnZ6BSOzmNKgzPeTDD8PsBNbECubWQ1LJkBXVoJDcCLtL9jezfYILiFQbX_tTm8eiLBYrkqHw3XTyvtHQzVkX5GK96ldxvJ3CupccP4/s320/257446.png",
     "imgSize": "large",
-"imgLayout": "center",
+    "imgLayout": "center",
     "a": "ಮಧ್ಯದ ಭಾಗ, ಬಾಲ, ಶಿರ",
     "b": "ಬಾಲ, ಮಧ್ಯದ ಭಾಗ, ಶಿರ",
     "c": "ಶಿರ, ಮಧ್ಯದ ಭಾಗ, ಬಾಲ",
@@ -67,7 +67,7 @@
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ ನೀರು ತುಂಬಿರುವ ಪಾತ್ರೆಗೆ ಒಂದು ನಿರ್ದಿಷ್ಟ ಸಸ್ಯದ ಕೆಲವು ಬೀಜಗಳನ್ನು ಹಾಕಲಾಗಿದೆ. ‘X’ ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಸರಿಯಾದ ಹೇಳಿಕೆ :",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmCuJvWtcaeZxBZ1TYwslsY-RyZkbPXw5zllsyVF1pTX5SBkAbiXdWVy0XLYaMsd7jPlep6BY23PhaX6w04b92DPVyKnU7zejZ8XKBJ8QeGXwU92YRvDtcHhfIp1usXt5OtrtDET-l4rCYLO7bAONfQxclbpyKwXt3n5cj3SUPBYSADPdO7BMEfQddt6A/s320/257448.png",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmCuJvWtcaeZxBZ1TYwslsY-RyZkbPXw5zllsyVF1pTX5SBkAbiXdWVy0XLYaMsd7jPlep6BY23PhaX6w04b92DPVyKnU7zejZ8XKBJ8QeGXwU92YRvDtcHhfIp1usXt5OtrtDET-l4rCYLO7bAONfQxclbpyKwXt3n5cj3SUPBYSADPdO7BMEfQddt6A/s320/257448.png",
     "a": "ಹಾನಿಗೊಂಡ ಬೀಜಗಳಾಗಿದ್ದು ಬಿತ್ತನೆಗೆ ಯೋಗ್ಯವಲ್ಲ.",
     "b": "ಉತ್ತಮ, ಆರೋಗ್ಯಕರ ಬೀಜಗಳಾಗಿದ್ದು ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ.",
     "c": "ಭಾರ ಬೀಜಗಳಾಗಿದ್ದು, ಉತ್ತಮ ಇಳುವರಿ ಪಡೆಯಲು ಸಹಾಯಕ.",
@@ -147,9 +147,8 @@
     "ans": "(B) ಕಪ್ಪೆ, ರೇಷ್ಮೆಹುಳು, ಚಿಟ್ಟೆ",
     "marks": 1
   },
-  
   {
-    "id": "sat_bio_24",
+    "id": "sat_bio_24_2",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಸತ್ತ ಮತ್ತು ಕೊಳೆಯುತ್ತಿರುವ ವಸ್ತುಗಳಿಂದ ಜೀವಿಗಳು ಪೋಷಕಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳುವ ಪೋಷಣಾ ವಿಧಾನ :",
@@ -161,7 +160,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_25",
+    "id": "sat_bio_25_2",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳನ್ನು ಓದಿ ಮತ್ತು ಸರಿಯಾದ ಆಯ್ಕೆಯನ್ನು ಸೂಚಿಸಿ :\nಹೇಳಿಕೆ (A) :  ಜೀರ್ಣಾಂಗವ್ಯೂಹದಲ್ಲಿ ಹುಲ್ಲು ಜೀರ್ಣವಾಗುವುದಿಲ್ಲ.\nಕಾರಣ (R) : ಹುಲ್ಲು ಸೆಲ್ಯುಲೋಸ್ ಹೊಂದಿದೆ ಮತ್ತು ಅದನ್ನು ಜೀರ್ಣಿಸುವ ಬ್ಯಾಕ್ಟೀರಿಯಾ  ಜೀರ್ಣಾಂಗವ್ಯೂಹದಲ್ಲಿ ಕಂಡುಬರುವುದಿಲ್ಲ.",
@@ -173,7 +172,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_26",
+    "id": "sat_bio_26_2",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಮಣ್ಣು ಮತ್ತು ಅದರಲ್ಲಿ ಬೆಳೆಯಲು ಯೋಗ್ಯವಾದ ಬೆಳೆಗಳನ್ನು ಹೊಂದಿರುವ ಸರಿಯಾದ ಜೋಡಿ :",
@@ -185,7 +184,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_27",
+    "id": "sat_bio_27_2",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಬೀಜಗಳನ್ನು ಬಿತ್ತನೆ ಮಾಡಲು ಬಳಸುವ ಉಪಕರಣ :",
@@ -197,7 +196,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_28",
+    "id": "sat_bio_28_2",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಕಲುಷಿತ ನೀರಿನ ಸೇವನೆಯಿಂದ ಉಂಟಾಗುವ ರೋಗ :",
@@ -209,7 +208,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_29",
+    "id": "sat_bio_29_2",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಬ್ರೆಡ್ ತಯಾರಿಕೆಯಲ್ಲಿ ಯೀಸ್ಟ್ ಬಳಸುತ್ತಾರೆ. ಏಕೆಂದರೆ ಇದು ಸಂತಾನೋತ್ಪತ್ತಿಯನ್ನು :",
@@ -221,7 +220,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_30",
+    "id": "sat_bio_30_2",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಪಾಶ್ಚರೀಕರಿಸಿದ ಹಾಲನ್ನು ಕುದಿಸದೇ ಸೇವಿಸಬಹುದು. ಏಕೆಂದರೆ ಇದು :",
@@ -233,7 +232,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_31",
+    "id": "sat_bio_31_2",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಚಿತ್ರಪಟವೊಂದನ್ನು ವೀಕ್ಷಿಸಿದ ನಂತರ ವಿದ್ಯಾರ್ಥಿಯು ಅದನ್ನು ಸಸ್ಯ ಜೀವಕೋಶವೆಂದು ಗುರುತಿಸುತ್ತಾನೆ. ಏಕೆಂದರೆ :",
@@ -245,7 +244,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_32",
+    "id": "sat_bio_32_2",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ತಮ್ಮ ತಮ್ಮೊಳಗೆ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡಿಕೊಳ್ಳಬಲ್ಲ ಜೀವಿಗಳ ಗುಂಪು :",
@@ -257,7 +256,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_33",
+    "id": "sat_bio_33_2",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಅಪಾಯದ ಅಂಚಿನಲ್ಲಿರುವ ಕೆಲವು ಪ್ರಾಣಿಗಳ ಬದುಕುಳಿಯುವಿಕೆಯು ಕಷ್ಟಕರವಾಗಿ ಪರಿಣಮಿಸಿದೆ. ಇದಕ್ಕೆ ಕಾರಣವೆಂದರೆ ಅವುಗಳ ನೈಸರ್ಗಿಕ ಆವಾಸದಲ್ಲಿ :",
@@ -269,7 +268,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_34",
+    "id": "sat_bio_34_2",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಕೋಶ ಕೇಂದ್ರದಲ್ಲಿ ಕಂಡುಬರುವ ದಾರದಂತಹ ರಚನೆಗಳು :",
@@ -281,7 +280,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_35",
+    "id": "sat_bio_35_2",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಕಾಫಿ ತೋಟವನ್ನು ಭೇಟಿಮಾಡಿದ ನಂತರ ಕೃಷಿ ವಿಜ್ಞಾನಿಯು ರೈತನಿಗೆ ತುಂತುರು ವಿಧಾನವನ್ನು ಅಳವಡಿಸಿಕೊಳ್ಳಲು ಸೂಚಿಸುತ್ತಾನೆ. ಏಕೆಂದರೆ ಆ ತೋಟದಲ್ಲಿರುವುದು :",
@@ -292,9 +291,8 @@
     "ans": "(A) ಅಸಮವಾದ ಭೂಮಿ ಮತ್ತು ಸಾಕಷ್ಟು ನೀರಿನ ಲಭ್ಯತೆ ಇಲ್ಲ",
     "marks": 1
   },
-  
   {
-    "id": "sat_bio_24",
+    "id": "sat_bio_24_3",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ರಸಗೊಬ್ಬರಕ್ಕೆ ಸಂಬಂಧಪಟ್ಟಂತೆ ಸರಿಯಾದ ಹೇಳಿಕೆ :",
@@ -306,7 +304,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_25",
+    "id": "sat_bio_25_3",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಆತಿಥೇಯ ಜೀವಿಯ ಕೋಶದೊಳಗೆ ಮಾತ್ರ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡುವ ಸೂಕ್ಷ್ಮಜೀವಿ :",
@@ -318,7 +316,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_26",
+    "id": "sat_bio_26_3",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ವಿಜ್ಞಾನಿಗಳು ಮತ್ತು ಅವರ ಕೊಡುಗೆಗಳ ಸರಿಯಾದ ಹೊಂದಾಣಿಕೆ :\na. ಲೂಯಿಸ್‌ಪಾಶ್ಚರ್        i. ಪೆನಿಸಿಲಿನ್ ಆವಿಷ್ಕಾರ\nb. ಅಲೆಕ್ಸಾಂಡರ್ ಫ್ಲೆಮಿಂಗ್   ii. ಸಿಡುಬು ರೋಗಕ್ಕೆ ಲಸಿಕೆ ಆವಿಷ್ಕಾರ\nc. ಎಡ್ವರ್ಡ್ ಜೆನ್ನರ್        iii. ಬೆಸಿಲಸ್ ಅಂಥ್ರಾಸಿಸ್ ಆವಿಷ್ಕಾರ\nd. ರಾಬರ್ಟ್ ಕೋಚ್          iv. ಹುದುಗುವಿಕೆ ಆವಿಷ್ಕಾರ",
@@ -330,7 +328,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_27",
+    "id": "sat_bio_27_3",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಮಣ್ಣನ್ನು ತಿರುವಿಹಾಕಿ, ಸಡಿಲಗೊಳಿಸುವ ಕ್ರಿಯೆ :",
@@ -342,7 +340,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_28",
+    "id": "sat_bio_28_3",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ರೈತರು ಲೆಗ್ಯೂಮ್ ಸಸ್ಯಗಳನ್ನು ಮೇವಿನ ಬೆಳೆಯಾಗಿ ಒಂದು ಋತುವಿನಲ್ಲಿ ಬೆಳೆಯುತ್ತಿದ್ದರು ಮತ್ತು ಮುಂದಿನ ಋತುವಿನಲ್ಲಿ ಗೋಧಿಯನ್ನು ಬೆಳೆಯುತ್ತಿದ್ದರು. ಈ ವಿಧಾನದಿಂದ ಮಣ್ಣಿನಲ್ಲಿ ಮರುಭರ್ತಿಯಾಗುವ ಪೋಷಕಾಂಶವೆಂದರೆ :",
@@ -354,7 +352,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_29",
+    "id": "sat_bio_29_3",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಅಪಾಯಕ್ಕೊಳಗಾದ ಎಲ್ಲಾ ಪ್ರಾಣಿಗಳ ಮತ್ತು ಸಸ್ಯಗಳ ದಾಖಲೆಯನ್ನು ಹೊಂದಿರುವ ಆಕರ ಗ್ರಂಥ :",
@@ -366,7 +364,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_30",
+    "id": "sat_bio_30_3",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ರೇಷ್ಮೆ ಹುಳುವಿನ ಜೀವನ ಚಕ್ರದ ಸರಿಯಾದ ಕ್ರಮ :",
@@ -378,7 +376,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_31",
+    "id": "sat_bio_31_3",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಶಲಾಕೆಯ ಘಟಕಗಳು :",
@@ -390,7 +388,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_32",
+    "id": "sat_bio_32_3",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "‘ಕಂಬೈನ್’ ಎಂದು ಕರೆಯುವ ಯಂತ್ರವು ಇವುಗಳ ಜೋಡಣೆಯಾಗಿದೆ :",
@@ -402,7 +400,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_33",
+    "id": "sat_bio_33_3",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಬ್ರಯೋಫಿಲ್ಲಮ್ ಸಸ್ಯದಲ್ಲಿ ಸಂತಾನೋತ್ಪತ್ತಿಯಾಗುವ ಭಾಗ :",
@@ -414,7 +412,7 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_34",
+    "id": "sat_bio_34_3",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಗೊದಮೊಟ್ಟೆಯು ಪ್ರೌಢಕಪ್ಪೆಯಾಗುವ ಕ್ರಿಯೆ :",
@@ -426,13 +424,13 @@
     "marks": 1
   },
   {
-    "id": "sat_bio_35",
+    "id": "sat_bio_35_3",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಕೊಟ್ಟಿರುವ ಮಾನವನ  ಹೆಣ್ಣು ಸಂತಾನೋತ್ಪತ್ತಿವ್ಯೂಹ ಚಿತ್ರದಲ್ಲಿ a, b ಮತ್ತು c ಎಂದು ಗುರುತಿಸಿರುವ ಭಾಗಗಳ ಸರಿಯಾದ ಕ್ರಮ :",
     "image": "https://raw.github.com/withyou00/withyouqbank/main/images/kopa.png",
-    "imgLayout" : "center",
-    "imgSize" : "large",
+    "imgLayout": "center",
+    "imgSize": "large",
     "a": "ಅಂಡಾಶಯ, ಗರ್ಭಾಶಯ ಮತ್ತು ಅಂಡನಾಳ",
     "b": "ಗರ್ಭಾಶಯ, ಅಂಡಾಶಯ ಮತ್ತು ಅಂಡನಾಳ",
     "c": "ಅಂಡನಾಳ, ಗರ್ಭಾಶಯ ಮತ್ತು ಅಂಡಾಶಯ",
@@ -440,7 +438,6 @@
     "ans": "(D) ಅಂಡಾಶಯ, ಅಂಡನಾಳ ಮತ್ತು ಗರ್ಭಾಶಯ",
     "marks": 1
   },
-  
   {
     "id": "bio_24",
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
@@ -494,7 +491,7 @@
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ಸರಿಯಾಗಿ ಹೊಂದಾಣಿಕೆಯಾಗುವ ಜೋಡಿಯನ್ನು ಗುರುತಿಸಿ:",
-    "image" : "https://raw.github.com/withyou00/withyouqbank/main/images/jeeva.png",
+    "image": "https://raw.github.com/withyou00/withyouqbank/main/images/jeeva.png",
     "a": "i-b, ii-c, iii-a",
     "b": "i-a, ii-b, iii-c",
     "c": "i-c, ii-b, iii-a",
@@ -555,7 +552,7 @@
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": "ನೀಡಿರುವ ಚಟುವಟಿಕೆಯನ್ನು ಗಮನಿಸಿ. ಇಂಗಾಲದ ಡೈ ಆಕ್ಸೈಡ್ ಬಿಡುಗಡೆಯಾಗದಿರುವ ಕೋನಿಕಲ್ ಫ್ಲಾಸ್ಕ್‌ಗಳನ್ನು ಗುರುತಿಸಿ:",
-    "image" : "https://raw.github.com/withyou00/withyouqbank/main/images/flask.png",
+    "image": "https://raw.github.com/withyou00/withyouqbank/main/images/flask.png",
     "a": "X, Z",
     "b": "Y, Z",
     "c": "X, Y",
@@ -580,7 +577,7 @@
     "chapter": "೩. ಜೀವಶಾಸ್ತ್ರ (Biology)",
     "type": "mcq",
     "q": " ವಿಸರ್ಜನಾಂಗ ವ್ಯೂಹದ ಭಾಗಗಳನ್ನು ಮೂತ್ರದ ಹರಿವಿನ ಮಾರ್ಗದ ಕ್ರಮದಲ್ಲಿ ಜೋಡಿಸಿ ಮತ್ತು ಅವುಗಳ ಹೆಸರುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ:",
-    "image" : "https://raw.github.com/withyou00/withyouqbank/main/images/mutra.png",
+    "image": "https://raw.github.com/withyou00/withyouqbank/main/images/mutra.png",
     "a": "i-b, ii-c, iii-a, iv-d",
     "b": "iii-a, ii-b, i-d, iv-c",
     "c": "ii-a, iii-c, iv-d, i-b",
@@ -589,4 +586,3 @@
     "marks": 1
   }
 ]
-
