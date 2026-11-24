@@ -16,8 +16,7 @@
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಮಂಡಲದಲ್ಲಿ ಒತ್ತುಗುಂಡಿಯನ್ನು ಸಂಪರ್ಕ ಸ್ಥಿತಿಗೆ ತಂದಾಗ ABCD ಬಲ್ಬ್‌ಗಳು ಹೀಗೆ ಬೆಳಗುತ್ತವೆ :",
-    "image" : 
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivU557PHPtY7mHaQ-Wm8aNmEjK1tOOzRCo-vyM9ItSmfOJZD03yWw2tgWNVMH8-QFl1TxrLEobAENeHxh6LRE3CnkySczHYHrts23-pS1u8UBGeNKpOm7K7pzCKWCgby8r45FkTsTYLSAYwF2aDRFJENNNlk5JhIa9oKYZB81-pZ-aqWaOmqrevfk88sw/w320-h209/252564.png ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivU557PHPtY7mHaQ-Wm8aNmEjK1tOOzRCo-vyM9ItSmfOJZD03yWw2tgWNVMH8-QFl1TxrLEobAENeHxh6LRE3CnkySczHYHrts23-pS1u8UBGeNKpOm7K7pzCKWCgby8r45FkTsTYLSAYwF2aDRFJENNNlk5JhIa9oKYZB81-pZ-aqWaOmqrevfk88sw/w320-h209/252564.png ",
     "a": "ABDC ಕ್ರಮದಲ್ಲಿ",
     "b": "ACDB ಕ್ರಮದಲ್ಲಿ",
     "c": "CABD ಕ್ರಮದಲ್ಲಿ",
@@ -145,9 +144,8 @@
     "ans": "(C) ಸಮತಲ ದರ್ಪಣ",
     "marks": 1
   },
-  
   {
-    "id": "sat_phy_01",
+    "id": "sat_phy_01_2",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ವಿದ್ಯುತ್ ಕಾಂತೀಯ ಪರಿಣಾಮದಿಂದ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಸಾಧನ :",
@@ -159,27 +157,23 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_02",
+    "id": "sat_phy_02_2",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಮಸೂರದ ಮೂಲಕ ಬೆಳಕಿನ ಕಿರಣಗಳ ಬಾಗುವಿಕೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಸರಿಯಾದ ಚಿತ್ರ :",
     "a": "ಚಿತ್ರ A ",
-    "img_a" :
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpjzcc5f5Ee0RhnevVMcGMvNyh1WsPDgZX15gaj718nIdMaY_2m51-8VfehLNFksJw7EFI6QwCsRum9FltoU8YnwjvHJKsXU8gjPDXtelbCuJ7OK6RGDHfV9W6rD5U8b5A_stW3RdOJ_drvJwhbcZm1DXLe8EDujpnwbt4LiH5c2Rqf0EnUWyyP9Yn5G8/s320/257727.png",
+    "img_a": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpjzcc5f5Ee0RhnevVMcGMvNyh1WsPDgZX15gaj718nIdMaY_2m51-8VfehLNFksJw7EFI6QwCsRum9FltoU8YnwjvHJKsXU8gjPDXtelbCuJ7OK6RGDHfV9W6rD5U8b5A_stW3RdOJ_drvJwhbcZm1DXLe8EDujpnwbt4LiH5c2Rqf0EnUWyyP9Yn5G8/s320/257727.png",
     "b": "ಚಿತ್ರ B ",
-    "img_b" :
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBd1ID_zjV_BR0Gay9Ei1sF1hkL8C6Ls3DzdwqH-nX4PVk914_V0oLzaoZ2XA2u3ub1t_5x2JqZuET0eJNSGan9rp8B1LbVHEv-HcunTS8biuoTcQy4gIAb6Pd-AQBiqnyghLbthq2zhvWh7-Fzj8-Px7ZmDoVtYsQOCE1iNt8YxMdn1-P86EAau_Dn_Q/s320/257728.png",
+    "img_b": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBd1ID_zjV_BR0Gay9Ei1sF1hkL8C6Ls3DzdwqH-nX4PVk914_V0oLzaoZ2XA2u3ub1t_5x2JqZuET0eJNSGan9rp8B1LbVHEv-HcunTS8biuoTcQy4gIAb6Pd-AQBiqnyghLbthq2zhvWh7-Fzj8-Px7ZmDoVtYsQOCE1iNt8YxMdn1-P86EAau_Dn_Q/s320/257728.png",
     "c": "ಚಿತ್ರ C",
-    "img_c" :
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE-fGBXYogSxVyC9QsD8pW-LEe0AsqNqCxvQCxydTqiOCU2_dtSrakeZSMyXOxuVLAUhAGI-2X1t4WRAhVHgJPXiKhoY9M6V1dH2_BV7EhhyUcu2ObcAdRxbu4TkqHHfOhvkKy7dOQukMCHdSa4pG7LeUJ6mvRbHNL6V2smDLnZg5NtaKCKkJyFLiFB2A/s320/257729.png",
+    "img_c": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE-fGBXYogSxVyC9QsD8pW-LEe0AsqNqCxvQCxydTqiOCU2_dtSrakeZSMyXOxuVLAUhAGI-2X1t4WRAhVHgJPXiKhoY9M6V1dH2_BV7EhhyUcu2ObcAdRxbu4TkqHHfOhvkKy7dOQukMCHdSa4pG7LeUJ6mvRbHNL6V2smDLnZg5NtaKCKkJyFLiFB2A/s320/257729.png",
     "d": "ಚಿತ್ರ D",
-    "img_d" :
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSMo1pIbGjSoOOJhTqSo1nTxkPLs0Sjm6OAfgNEXk06BCtaZqnvWYb698lkkfKbtDi5kmdRNJJ6T83HXKtnrsPqyUayd4rja-g_n0ikK9vIUz6md9GcWSwij6wI5aazlYFwAYMIP-zOLjFuBef6_sFp0JxtaK7-MDhPmOUdkzba-1rEUBeYkHw7dj_A0I/s320/257730.png",
+    "img_d": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSMo1pIbGjSoOOJhTqSo1nTxkPLs0Sjm6OAfgNEXk06BCtaZqnvWYb698lkkfKbtDi5kmdRNJJ6T83HXKtnrsPqyUayd4rja-g_n0ikK9vIUz6md9GcWSwij6wI5aazlYFwAYMIP-zOLjFuBef6_sFp0JxtaK7-MDhPmOUdkzba-1rEUBeYkHw7dj_A0I/s320/257730.png",
     "ans": "(D) ಚಿತ್ರ D (ಪೀನ ಮಸೂರದಲ್ಲಿ ಕಿರಣಗಳು ನಾಭಿಯಲ್ಲಿ ಕೇಂದ್ರೀಕರಣ)",
     "marks": 1
   },
   {
-    "id": "sat_phy_03",
+    "id": "sat_phy_03_2",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಒಂದು ಕಾರು 15 ನಿಮಿಷಗಳವರೆಗೆ 60 km/h ಜವದೊಂದಿಗೆ, ನಂತರದ 10 ನಿಮಿಷಗಳು 36 km/h ಜವದೊಂದಿಗೆ ಚಲಿಸಿದೆ. ಕಾರು ಚಲಿಸಿದ ಒಟ್ಟು ದೂರ :",
@@ -191,7 +185,7 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_04",
+    "id": "sat_phy_04_2",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಶಬ್ದದ ಆವೃತ್ತಿಯನ್ನು ಅಳೆಯುವ ಏಕಮಾನ :",
@@ -203,7 +197,7 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_05",
+    "id": "sat_phy_05_2",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳನ್ನು ಓದಿ ಮತ್ತು ಸರಿಯಾದ ಆಯ್ಕೆಯನ್ನು ಸೂಚಿಸಿ :\nಹೇಳಿಕೆ 1 : ತನ್ನ ಮೇಲೆ ಪ್ರಯೋಗವಾಗುವ ವಾತಾವರಣದ ಒತ್ತಡದಿಂದಾಗಿ ಒಂದು ರಬ್ಬರ್ ಸಕ್ಕರ್ ಸಮತಲ ಮೇಲ್ಮೈಗೆ ಅಂಟಿಕೊಳ್ಳುತ್ತದೆ.\nಹೇಳಿಕೆ 2 : ಮೇಲ್ಮೈಯಿಂದ ಸಕ್ಕರ್‌ನ್ನು ಎಳೆಯಲು, ವಾತಾವರಣದ ಒತ್ತಡವನ್ನು ಮೀರಿಸುವ ಸಾಕಷ್ಟು ಹೆಚ್ಚಿನ ಅನ್ವಯಿಕ ಬಲ ಪ್ರಯೋಗಿಸಬೇಕು.",
@@ -215,7 +209,7 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_06",
+    "id": "sat_phy_06_2",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳನ್ನು ಓದಿ ಮತ್ತು ಸರಿಯಾದ ಆಯ್ಕೆಯನ್ನು ಸೂಚಿಸಿ :\nಹೇಳಿಕೆ (A) : ವಾಹನಗಳ ಚಕ್ರಗಳಲ್ಲಿ ಬಳಸಿರುವ ಬಾಲ್ ಬೇರಿಂಗ್‌ಗಳು ಅವುಗಳನ್ನು ನಯವಾಗಿ ಚಲಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ.\nಕಾರಣ (R) : ಬಾಲ್ ಬೇರಿಂಗ್ ಚಕ್ರಗಳ ಮೇಲೆ ಹೆಚ್ಚಿನ ಭಾರವನ್ನು ಹಾಕಿ ಆಕ್ಸಲ್ (ಆಕ್ಸಲ್) ಮುರಿಯುವಂತೆ ಮಾಡುತ್ತದೆ.",
@@ -227,7 +221,7 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_07",
+    "id": "sat_phy_07_2",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "''ಗಾಳಿ ತುಂಬಿದ ಬಲೂನು'', ತನ್ನ ಜವ ಮತ್ತು ದಿಕ್ಕನ್ನು ಬದಲಿಸಲು ಕಾರಣವಾದ ಅಂಶ :",
@@ -239,7 +233,7 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_08",
+    "id": "sat_phy_08_2",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಸೈಕಲ್ ಸವಾರಿ ಮಾಡುತ್ತಿರುವಾಗ ಒಬ್ಬ ಹುಡುಗಿಯು ಅದನ್ನು ನಿಲ್ಲಿಸಲು ಬ್ರೇಕ್‌ನ್ನು ಹಾಕುತ್ತಾಳೆ. ಆಗ ಬ್ರೇಕ್‌ನಿಂದ ಚಕ್ರದ ಮೇಲೆ ವರ್ತಿಸುವ ಬಲ :",
@@ -251,7 +245,7 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_09",
+    "id": "sat_phy_09_2",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಸಂಪರ್ಕ ಬಲಕ್ಕೆ ಸೂಕ್ತವಾದ ಉದಾಹರಣೆ :",
@@ -298,9 +292,8 @@
     "ans": "(A) ಜಾರು ಘರ್ಷಣೆ – ಕೇರಂ ಬೋರ್ಡ್‌ನಲ್ಲಿ ಕೇರಂ ಪಾನ್‌ಗಳು ಚಲಿಸುವುದು",
     "marks": 1
   },
-  
   {
-    "id": "sat_phy_01",
+    "id": "sat_phy_01_3",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಏಕರೂಪ ಚಲನೆಯ ದೂರ-ಕಾಲ ನಕ್ಷೆಯು :",
@@ -312,7 +305,7 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_02",
+    "id": "sat_phy_02_3",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ಕಾಂತೀಯ ಪರಿಣಾಮ ತತ್ವದ ಮೇಲೆ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಸಾಧನ :",
@@ -324,7 +317,7 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_03",
+    "id": "sat_phy_03_3",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ನಿಮ್ನ ಮಸೂರವು ಉಂಟುಮಾಡುವ ಪ್ರತಿಬಿಂಬವು :",
@@ -336,7 +329,7 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_04",
+    "id": "sat_phy_04_3",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಭೂಮಿ ಮತ್ತು ಸಮುದ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ, ಸರಿಯಾದ ಹೇಳಿಕೆ :\na) ಭೂಮಿ ವೇಗವಾಗಿ ಬಿಸಿಯಾಗುತ್ತದೆ.\nb) ಸಮುದ್ರ ವೇಗವಾಗಿ ಬಿಸಿಯಾಗುತ್ತದೆ.\nc) ಭೂಮಿ ವೇಗವಾಗಿ ತಣಿಯುತ್ತದೆ.\nd) ಸಮುದ್ರ ವೇಗವಾಗಿ ತಣಿಯುತ್ತದೆ.",
@@ -348,7 +341,7 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_05",
+    "id": "sat_phy_05_3",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಒಂದು ವಸ್ತು 5 ಸೆಕೆಂಡಿನಲ್ಲಿ 20 ಬಾರಿ ಆಂದೋಲಿಸಿದರೆ ಅದರ ಆಂದೋಲನ ಅವಧಿಯು :",
@@ -360,7 +353,7 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_06",
+    "id": "sat_phy_06_3",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಒಂದು ಶಬ್ದ ತರಂಗದ ಪಾರವನ್ನು 2 ಪಟ್ಟು ಹೆಚ್ಚಿಸಿದರೆ ಅದರ ಶಬ್ದದ ಘೋಷವು :",
@@ -372,7 +365,7 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_07",
+    "id": "sat_phy_07_3",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಮಾನವನ ಕಿವಿಯ ಶಬ್ದಸಂವೇದನೆಯ ಆವೃತ್ತಿಯ ವ್ಯಾಪ್ತಿ :",
@@ -384,7 +377,7 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_08",
+    "id": "sat_phy_08_3",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಒಂದು ಆವೇಶಭರಿತ ವಸ್ತು ಉಂಟುಮಾಡುವ ಬಲ :",
@@ -396,7 +389,7 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_09",
+    "id": "sat_phy_09_3",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಯಂತ್ರಗಳಲ್ಲಿ ಬಾಲ್‌ಬೇರಿಂಗ್‌ಗಳನ್ನು ಬಳಸುವುದರ ಅನುಕೂಲ :",
@@ -408,7 +401,7 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_010",
+    "id": "sat_phy_010_2",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ದ್ರವಗಳು ಉಂಟುಮಾಡುವ ಒತ್ತಡವು ಅವಲಂಬಿತವಾಗದಿರುವುದು :",
@@ -420,7 +413,7 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_011",
+    "id": "sat_phy_011_2",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಶಬ್ದ ತರಂಗಗಳು ಪ್ರಸಾರವಾಗುವುದು :",
@@ -432,7 +425,7 @@
     "marks": 1
   },
   {
-    "id": "sat_phy_012",
+    "id": "sat_phy_012_2",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
     "q": "ಒಂದು ವಸ್ತುವಿನ ಮೇಲೆ ಪ್ರಯೋಗವಾಗುತ್ತಿರುವ ಎರಡು ಬಲಗಳ ಫಲಿತ ಬಲ ಸೊನ್ನೆಯಾದರೆ, ಆ ಬಲಗಳು :",
@@ -443,7 +436,6 @@
     "ans": "(D) ಸಮಾನವಾದ ಪರಿಮಾಣ ಮತ್ತು ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿ ಪ್ರಯೋಗವಾಗುತ್ತಿವೆ.",
     "marks": 1
   },
-  
   {
     "id": "phy_01",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
@@ -553,7 +545,6 @@
     "marks": 1
   },
   {
-    "id": "phy_09_calc_note",
     "id": "phy_10",
     "chapter": "೧. ಭೌತಶಾಸ್ತ್ರ (Physics)",
     "type": "mcq",
@@ -590,4 +581,3 @@
     "marks": 1
   }
 ]
-
