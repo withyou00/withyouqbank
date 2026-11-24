@@ -225,11 +225,26 @@
     "type": "match",
     "q": "ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
     "matchPairs": [
-      { "a": "₹ 15", "b": "1500 ಪೈಸೆ" },
-      { "a": "₹ 75.75 - ₹ 23.25", "b": "₹ 52.50" },
-      { "a": "500 ಪೈಸೆಗಳು", "b": "5 ರೂಪಾಯಿ" },
-      { "a": "₹ 4 + ₹ 5.25", "b": "₹ 9.25" },
-      { "a": "657 ಪೈಸೆ", "b": "6 ರೂಪಾಯಿ 57 ಪೈಸೆ" }
+      {
+        "a": "₹ 15",
+        "b": "1500 ಪೈಸೆ"
+      },
+      {
+        "a": "₹ 75.75 - ₹ 23.25",
+        "b": "₹ 52.50"
+      },
+      {
+        "a": "500 ಪೈಸೆಗಳು",
+        "b": "5 ರೂಪಾಯಿ"
+      },
+      {
+        "a": "₹ 4 + ₹ 5.25",
+        "b": "₹ 9.25"
+      },
+      {
+        "a": "657 ಪೈಸೆ",
+        "b": "6 ರೂಪಾಯಿ 57 ಪೈಸೆ"
+      }
     ],
     "ans": "₹ 15 ➔ 1500 ಪೈಸೆ | ₹ 75.75 - ₹ 23.25 ➔ ₹ 52.50 | 500 ಪೈಸೆಗಳು ➔ 5 ರೂಪಾಯಿ | ₹ 4 + ₹ 5.25 ➔ ₹ 9.25 | 657 ಪೈಸೆ ➔ 6 ರೂಪಾಯಿ 57 ಪೈಸೆ",
     "marks": 4,
@@ -796,11 +811,26 @@
     "type": "match",
     "q": "ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
     "matchPairs": [
-      { "a": "4 ಮೀಟರ್", "b": "400 ಸೆಂ.ಮೀ" },
-      { "a": "7 ಮೀ 20 ಸೆಂಮೀ", "b": "720 ಸೆಂ.ಮೀ" },
-      { "a": "1/4 ಮೀ", "b": "25 ಸೆಂ.ಮೀ" },
-      { "a": "3/4 ಕಿ.ಮೀ", "b": "750 ಮೀಟರ್" },
-      { "a": "1 ಕಿ.ಮೀ", "b": "1000 ಮೀ" }
+      {
+        "a": "4 ಮೀಟರ್",
+        "b": "400 ಸೆಂ.ಮೀ"
+      },
+      {
+        "a": "7 ಮೀ 20 ಸೆಂಮೀ",
+        "b": "720 ಸೆಂ.ಮೀ"
+      },
+      {
+        "a": "1/4 ಮೀ",
+        "b": "25 ಸೆಂ.ಮೀ"
+      },
+      {
+        "a": "3/4 ಕಿ.ಮೀ",
+        "b": "750 ಮೀಟರ್"
+      },
+      {
+        "a": "1 ಕಿ.ಮೀ",
+        "b": "1000 ಮೀ"
+      }
     ],
     "ans": "4 ಮೀಟರ್ ➔ 400 ಸೆಂ.ಮೀ | 7 ಮೀ 20 ಸೆಂಮೀ ➔ 720 ಸೆಂ.ಮೀ | 1/4 ಮೀ ➔ 25 ಸೆಂ.ಮೀ | 3/4 ಕಿ.ಮೀ ➔ 750 ಮೀಟರ್ | 1 ಕಿ.ಮೀ ➔ 1000 ಮೀ",
     "marks": 4,
@@ -1013,9 +1043,9 @@
     "chapter": "ಅಳತೆಗಳು (ತೂಕ)",
     "type": "mcq",
     "q": "ಚಿತ್ರದಲ್ಲಿರುವ ತೂಕದ ಬಿಲ್ಲೆಗಳನ್ನು ನೋಡಿ ಅಕ್ಕಿಯ ಒಟ್ಟು ತೂಕ ಹೇಳಿ: (250 ಗ್ರಾಂ, 2 ಕಿ.ಗ್ರಾಂ, 5 ಕಿ.ಗ್ರಾಂ)",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgg3dEH9_DShZpryUf-i0WkMG_UJPtvG-VzyHGTdrZHPXIvqeAYHPTj808XgvYhnTF6ohxqKSF8U12o43lsGk_F-qePoL429Bj9wZQDVBUI0QEviiH5HwOGiE1NfmYr2UvTNOhJgrAnZoqehJx3yuMDjtavL8YvV-XKnVccj0Pa-RU1HQaVHXMFllA5kM/s1600/Screenshot%202026-10-22%20232601.png ",
-    "imgLayout" : "center",
-    "imgSize" : "large",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgg3dEH9_DShZpryUf-i0WkMG_UJPtvG-VzyHGTdrZHPXIvqeAYHPTj808XgvYhnTF6ohxqKSF8U12o43lsGk_F-qePoL429Bj9wZQDVBUI0QEviiH5HwOGiE1NfmYr2UvTNOhJgrAnZoqehJx3yuMDjtavL8YvV-XKnVccj0Pa-RU1HQaVHXMFllA5kM/s1600/Screenshot%202026-10-22%20232601.png",
+    "imgLayout": "center",
+    "imgSize": "large",
     "a": "6 ಕಿ.ಗ್ರಾಂ 250 ಗ್ರಾಂ",
     "b": "8 ಕಿ.ಗ್ರಾಂ 250 ಗ್ರಾಂ",
     "c": "7 ಕಿ.ಗ್ರಾಂ 250 ಗ್ರಾಂ",
@@ -1562,9 +1592,9 @@
     "chapter": "ಗಾತ್ರದ ಅಳತೆ",
     "type": "mcq",
     "q": "ಅಳತೆ ಜಾಡಿಯಲ್ಲಿ  ತುಂಬಿರುವ ನೀರಿನ ಪ್ರಮಾಣ ಎಷ್ಟು?",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuU0SAxs1Za22-DndZVb1xXy7flSSEjtbKMTU2awZp42V2oTA_5R07fFY2poeBtGJISRgiX5PgG0YLXOLb9sjBgYoC4urvg2_xmLlisdnfstIo2TYOKad6sFWibZWtRhe2_KXrqWcSjrtgVvuEunUlZrpSQRB1-abLF6Aw1ad45N10vxtPAeOD5wbNXyg/s1600/Screenshot%202026-10-22%20232825.png ",
-    "imgLayout" : "center",
-    "imgSize" : "large",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuU0SAxs1Za22-DndZVb1xXy7flSSEjtbKMTU2awZp42V2oTA_5R07fFY2poeBtGJISRgiX5PgG0YLXOLb9sjBgYoC4urvg2_xmLlisdnfstIo2TYOKad6sFWibZWtRhe2_KXrqWcSjrtgVvuEunUlZrpSQRB1-abLF6Aw1ad45N10vxtPAeOD5wbNXyg/s1600/Screenshot%202026-10-22%20232825.png",
+    "imgLayout": "center",
+    "imgSize": "large",
     "a": "100 ml",
     "b": "200 ml",
     "c": "400 ml",
@@ -1583,9 +1613,9 @@
     "chapter": "ಗಾತ್ರದ ಅಳತೆ",
     "type": "mcq",
     "q": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಹೆಚ್ಚಿನ ಧಾರಣ ಸಾಮರ್ಥ್ಯ ಹೊಂದಿರುವ ಜಾಡಿ ಇದಾಗಿದೆ.",
-     "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTBPVzskFhiKooS3Vs1BJysLsOQtSN2iHj9ROxXiYqzdF0pHL0rjRgHucjvbBb8SwFlvOcuBgTWKWZaAsOq09lg6EyR0HLg55YhpXpz98P93xJFI441YlBgesJBS_7AvW0mKn6QQLtrm8bddNbQfJF1uzYr3p4cAeuztFYmWm24IgJVbUhMbL6waWqJUU/s1600/Screenshot%202026-10-22%20232840.png ",
-     "imgLayout" : "center",
-    "imgSize" : "large",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTBPVzskFhiKooS3Vs1BJysLsOQtSN2iHj9ROxXiYqzdF0pHL0rjRgHucjvbBb8SwFlvOcuBgTWKWZaAsOq09lg6EyR0HLg55YhpXpz98P93xJFI441YlBgesJBS_7AvW0mKn6QQLtrm8bddNbQfJF1uzYr3p4cAeuztFYmWm24IgJVbUhMbL6waWqJUU/s1600/Screenshot%202026-10-22%20232840.png",
+    "imgLayout": "center",
+    "imgSize": "large",
     "a": "2 ಲೀಟರ್",
     "b": "100 ml",
     "c": "4 ಲೀಟರ್",
@@ -1821,10 +1851,22 @@
     "type": "match",
     "q": "ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
     "matchPairs": [
-      { "a": "ಗಾತ್ರ ಅಳತೆಯ ಆದರ್ಶ ಮೂಲಮಾನ", "b": "ಲೀಟರ್" },
-      { "a": "ಒಂದು ಸಂಗ್ರಾಹಕದಲ್ಲಿರುವ ದ್ರವ", "b": "ಗಾತ್ರ" },
-      { "a": "ಪಾತ್ರೆಯ ಧಾರಣ ಸಾಮರ್ಥ್ಯ", "b": "ಹಿಡಿಪು" },
-      { "a": "6 ಲೀ ಹಿಡಿಪು", "b": "6000 ಮಿಲೀ" }
+      {
+        "a": "ಗಾತ್ರ ಅಳತೆಯ ಆದರ್ಶ ಮೂಲಮಾನ",
+        "b": "ಲೀಟರ್"
+      },
+      {
+        "a": "ಒಂದು ಸಂಗ್ರಾಹಕದಲ್ಲಿರುವ ದ್ರವ",
+        "b": "ಗಾತ್ರ"
+      },
+      {
+        "a": "ಪಾತ್ರೆಯ ಧಾರಣ ಸಾಮರ್ಥ್ಯ",
+        "b": "ಹಿಡಿಪು"
+      },
+      {
+        "a": "6 ಲೀ ಹಿಡಿಪು",
+        "b": "6000 ಮಿಲೀ"
+      }
     ],
     "ans": "ಗಾತ್ರ ಅಳತೆಯ ಆದರ್ಶ ಮೂಲಮಾನ ➔ ಲೀಟರ್ | ಒಂದು ಸಂಗ್ರಾಹಕದಲ್ಲಿರುವ ದ್ರವ ➔ ಗಾತ್ರ | ಪಾತ್ರೆಯ ಧಾರಣ ಸಾಮರ್ಥ್ಯ ➔ ಹಿಡಿಪು | 6 ಲೀ ಹಿಡಿಪು ➔ 6000 ಮಿಲೀ",
     "marks": 4,
@@ -1841,10 +1883,22 @@
     "type": "match",
     "q": "ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
     "matchPairs": [
-      { "a": "750 ಮಿಲೀ", "b": "3/4 ಲೀಟರ್" },
-      { "a": "500 ಮಿಲಿ ಲೀಟರ್", "b": "1/2 ಲೀಟರ್" },
-      { "a": "1 ಲೀ 250 ಮಿಲೀ", "b": "1250 ಮಿಲೀ" },
-      { "a": "8000 ಮಿಲಿ ಲೀಟರ್", "b": "8 ಲೀಟರ್" }
+      {
+        "a": "750 ಮಿಲೀ",
+        "b": "3/4 ಲೀಟರ್"
+      },
+      {
+        "a": "500 ಮಿಲಿ ಲೀಟರ್",
+        "b": "1/2 ಲೀಟರ್"
+      },
+      {
+        "a": "1 ಲೀ 250 ಮಿಲೀ",
+        "b": "1250 ಮಿಲೀ"
+      },
+      {
+        "a": "8000 ಮಿಲಿ ಲೀಟರ್",
+        "b": "8 ಲೀಟರ್"
+      }
     ],
     "ans": "750 ಮಿಲೀ ➔ 3/4 ಲೀಟರ್ | 500 ಮಿಲಿ ಲೀಟರ್ ➔ 1/2 ಲೀಟರ್ | 1 ಲೀ 250 ಮಿಲೀ ➔ 1250 ಮಿಲೀ | 8000 ಮಿಲಿ ಲೀಟರ್ ➔ 8 ಲೀಟರ್",
     "marks": 4,
@@ -1986,17 +2040,14 @@
     "chapter": "ಗಾತ್ರದ ಅಳತೆ",
     "type": "sa_2m",
     "q": "ಲೀಟರ್ನ್ನು ಮಿಲಿಲೀಟರ್ಗೆ ಪರಿವರ್ತಿಸಿ ಕೋಷ್ಟಕವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ:",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bkTBJ7OVMQ0WuUMi4CDngeem3_S-7ibGK_3CmO2FPuXfxl7bNtOWyovPUjH_-G_t5RXOIC_7pauZ1CJccq0UnJG423gz_6AUVlx1awvB4IhWvI8v4u5zYXd0TtqOwDcgONp33gH5mznLaH8AbSGFVDjU3Yay7ahrVCUFGs7LTozEiEBttvamfYL5YJM/s1600/Screenshot%202026-10-22%20233219.png ",
-    "imgLayout" : "center",
-    "imgSize" : "large",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bkTBJ7OVMQ0WuUMi4CDngeem3_S-7ibGK_3CmO2FPuXfxl7bNtOWyovPUjH_-G_t5RXOIC_7pauZ1CJccq0UnJG423gz_6AUVlx1awvB4IhWvI8v4u5zYXd0TtqOwDcgONp33gH5mznLaH8AbSGFVDjU3Yay7ahrVCUFGs7LTozEiEBttvamfYL5YJM/s1600/Screenshot%202026-10-22%20233219.png",
+    "imgLayout": "center",
+    "imgSize": "large",
     "ans": "1) 8763 ಮಿಲೀ = 8 ಲೀಟರ್, ಉಳಿದ ಮಿಲೀ 763\n2) 4567 ಮಿಲೀ = 4 ಲೀಟರ್, ಉಳಿದ ಮಿಲೀ 567",
     "marks": 2,
     "obj": "ಗ್ರಹಿಕೆ",
     "diff": "ಸಾಧಾರಣ"
   },
-  
- 
- 
   {
     "id": "q_4_mat_13_033",
     "grade": "4",
@@ -2682,9 +2733,9 @@
     "chapter": "ಕಾಲ",
     "type": "sa_3m",
     "q": "ಗಡಿಯಾರಗಳು ತೋರಿಸುತ್ತಿರುವ ಸಮಯವನ್ನು ಗುರುತಿಸಿ ಬರೆಯಿರಿ:",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwhmMYT66Q7AMfw0jA6IJdBCL2xi5RLmC0CHC0ErVKq5or0LARTOfJH8vxzFY5Uld_z_3Jw9z-11Nqm9MTFcxoyfavTICkcAArvhX9Etba7xGD5HuLQB0Fmq9xyDLDh2saL0DLIl3Ah_NVCf-kY1jDjMAAUghTlB8Fd4BwBgUZl4Lb5JYzk9hB7y-Eq6k/s1600/Screenshot%202026-10-22%20233703.png ",
-    "imgLayout" : "center",
-    "imgSize" : "large",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwhmMYT66Q7AMfw0jA6IJdBCL2xi5RLmC0CHC0ErVKq5or0LARTOfJH8vxzFY5Uld_z_3Jw9z-11Nqm9MTFcxoyfavTICkcAArvhX9Etba7xGD5HuLQB0Fmq9xyDLDh2saL0DLIl3Ah_NVCf-kY1jDjMAAUghTlB8Fd4BwBgUZl4Lb5JYzk9hB7y-Eq6k/s1600/Screenshot%202026-10-22%20233703.png",
+    "imgLayout": "center",
+    "imgSize": "large",
     "ans": "1. 2:00 (2 ಗಂಟೆ)\n2. 9:00 (9 ಗಂಟೆ)\n3. 4:45 (4 ಗಂಟೆ 45 ನಿಮಿಷ)",
     "marks": 3,
     "obj": "ಗ್ರಹಿಕೆ",
@@ -2816,8 +2867,6 @@
     "obj": "ಅಭಿವ್ಯಕ್ತಿ",
     "diff": "ಕಠಿಣ"
   },
-  
-
   {
     "id": "q_4_mat_15_005",
     "grade": "4",
@@ -2827,9 +2876,9 @@
     "chapter": "ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ",
     "type": "mcq",
     "q": "ಕಂಬನಕ್ಷೆಯ ಪ್ರಕಾರ ಅತಿ ಹೆಚ್ಚು ವಿದ್ಯಾರ್ಥಿಗಳು ಇಷ್ಟಪಡುವ ತಿಂಡಿ ಯಾವುದು?",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png ",
-    "imgLayout" : "center",
-    "imgSize" : "large",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png",
+    "imgLayout": "center",
+    "imgSize": "large",
     "a": "ಚಪಾತಿ",
     "b": "ಪೂರಿ",
     "c": "ದೋಸೆ",
@@ -2848,9 +2897,9 @@
     "chapter": "ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ",
     "type": "mcq",
     "q": "ಕಂಬನಕ್ಷೆಯ ಪ್ರಕಾರ ಅತಿ ಕಡಿಮೆ ವಿದ್ಯಾರ್ಥಿಗಳು ಇಷ್ಟಪಡುವ ತಿಂಡಿ ಯಾವುದು?",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png ",
-    "imgLayout" : "center",
-    "imgSize" : "large",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png",
+    "imgLayout": "center",
+    "imgSize": "large",
     "a": "ಚಪಾತಿ",
     "b": "ದೋಸೆ",
     "c": "ಇಡ್ಲಿ",
@@ -2869,9 +2918,9 @@
     "chapter": "ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ",
     "type": "mcq",
     "q": "ಚಪಾತಿಯನ್ನು ಇಷ್ಟಪಡುವ ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png ",
-    "imgLayout" : "center",
-    "imgSize" : "large",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png",
+    "imgLayout": "center",
+    "imgSize": "large",
     "a": "4",
     "b": "6",
     "c": "8",
@@ -2890,9 +2939,9 @@
     "chapter": "ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ",
     "type": "mcq",
     "q": "ಪೂರಿಯನ್ನು ಇಷ್ಟಪಡುವ ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png ",
-    "imgLayout" : "center",
-    "imgSize" : "large",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png",
+    "imgLayout": "center",
+    "imgSize": "large",
     "a": "6",
     "b": "8",
     "c": "4",
@@ -2911,9 +2960,9 @@
     "chapter": "ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ",
     "type": "mcq",
     "q": "ದೋಸೆಯನ್ನು ಇಷ್ಟಪಡುವ ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png ",
-    "imgLayout" : "center",
-    "imgSize" : "large",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png",
+    "imgLayout": "center",
+    "imgSize": "large",
     "a": "8",
     "b": "4",
     "c": "7",
@@ -2932,9 +2981,9 @@
     "chapter": "ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ",
     "type": "mcq",
     "q": "ಇಡ್ಲಿಯನ್ನು ಇಷ್ಟಪಡುವ ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png ",
-    "imgLayout" : "center",
-    "imgSize" : "large",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png",
+    "imgLayout": "center",
+    "imgSize": "large",
     "a": "7",
     "b": "4",
     "c": "8",
@@ -2953,9 +3002,9 @@
     "chapter": "ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ",
     "type": "mcq",
     "q": "ತರಗತಿಯಲ್ಲಿ ಸಮೀಕ್ಷೆಗೊಳಪಟ್ಟ ಒಟ್ಟು ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png ",
-    "imgLayout" : "center",
-    "imgSize" : "large",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png",
+    "imgLayout": "center",
+    "imgSize": "large",
     "a": "6",
     "b": "4",
     "c": "25",
@@ -2974,9 +3023,9 @@
     "chapter": "ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ",
     "type": "mcq",
     "q": "7 ವಿದ್ಯಾರ್ಥಿಗಳು ಇಷ್ಟಪಡುವ ತಿಂಡಿ ಯಾವುದು?",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png ",
-    "imgLayout" : "center",
-    "imgSize" : "large",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png",
+    "imgLayout": "center",
+    "imgSize": "large",
     "a": "ಪೂರಿ",
     "b": "ಚಪಾತಿ",
     "c": "ಇಡ್ಲಿ",
@@ -2995,9 +3044,9 @@
     "chapter": "ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ",
     "type": "mcq",
     "q": "8 ವಿದ್ಯಾರ್ಥಿಗಳು ಇಷ್ಟಪಡುವ ತಿಂಡಿ ಯಾವುದು?",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png ",
-    "imgLayout" : "center",
-    "imgSize" : "large",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png",
+    "imgLayout": "center",
+    "imgSize": "large",
     "a": "ದೋಸೆ",
     "b": "ಪೂರಿ",
     "c": "ಚಪಾತಿ",
@@ -3016,9 +3065,9 @@
     "chapter": "ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ",
     "type": "mcq",
     "q": "4 ವಿದ್ಯಾರ್ಥಿಗಳು ಇಷ್ಟಪಡುವ ತಿಂಡಿ ಯಾವುದು?",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png ",
-    "imgLayout" : "center",
-    "imgSize" : "large",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png",
+    "imgLayout": "center",
+    "imgSize": "large",
     "a": "ಇಡ್ಲಿ",
     "b": "ಚಪಾತಿ",
     "c": "ದೋಸೆ",
@@ -3037,9 +3086,9 @@
     "chapter": "ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ",
     "type": "mcq",
     "q": "6 ವಿದ್ಯಾರ್ಥಿಗಳು ಇಷ್ಟಪಡುವ ತಿಂಡಿ ಯಾವುದು?",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png ",
-    "imgLayout" : "center",
-    "imgSize" : "large",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png",
+    "imgLayout": "center",
+    "imgSize": "large",
     "a": "ಪೂರಿ",
     "b": "ಇಡ್ಲಿ",
     "c": "ಚಪಾತಿ",
@@ -3058,9 +3107,9 @@
     "chapter": "ದತ್ತಾಂಶಗಳ ನಿರ್ವಹಣೆ",
     "type": "mcq",
     "q": "4ಕ್ಕಿಂತ ಹೆಚ್ಚು ಮತ್ತು 7ಕ್ಕಿಂತ ಕಡಿಮೆ ವಿದ್ಯಾರ್ಥಿಗಳು ಇಷ್ಟಪಡುವ ತಿಂಡಿ ಯಾವುದು?",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png ",
-    "imgLayout" : "center",
-    "imgSize" : "large",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkkr4nQKJhwz3JvDQBFHbUOJ5K7ujJ-x5Buog4_FM_s2V5mzmQp8n7GXYrhA3EAISdecQICgNTw6fmVF9iHEVF87q247kLIDrWw3QZnKwdz-t56hsb3bA3uOz2bW4BWI98dVebtLwqqwlP-kVcXNz1PWU-S1jqr7pP8kbT979IYM23_mLauNTh7Yozmo/s1600/Screenshot%202026-10-22%20233804.png",
+    "imgLayout": "center",
+    "imgSize": "large",
     "a": "ದೋಸೆ",
     "b": "ಪೂರಿ",
     "c": "ಚಪಾತಿ",
@@ -3070,8 +3119,6 @@
     "obj": "ಗ್ರಹಿಕೆ",
     "diff": "ಸಾಧಾರಣ"
   },
- 
-  
   {
     "id": "q_4_mat_15_023",
     "grade": "4",
@@ -3128,7 +3175,6 @@
     "obj": "ಗ್ರಹಿಕೆ",
     "diff": "ಕಠಿಣ"
   },
- 
   {
     "id": "q_4_mat_15_028",
     "grade": "4",
@@ -3144,8 +3190,6 @@
     "obj": "ಅಭಿವ್ಯಕ್ತಿ",
     "diff": "ಕಠಿಣ"
   },
-  
- 
   {
     "id": "q_4_mat_16_001",
     "grade": "4",
@@ -3155,8 +3199,7 @@
     "chapter": "ವಿನ್ಯಾಸಗಳು ಮತ್ತು ಸಮಮಿತಿ",
     "type": "mcq",
     "q": "ಕೊಟ್ಟಿರುವ ಆಕೃತಿಗಳ ವಿನ್ಯಾಸದ ಮುಂದಿನ ಆಕೃತಿ ಗುರುತಿಸಿ: ",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyX0qC5DtuRarPfNcT3A79_l2BUsR5JNlsz6Rl56N-Ob_Gu-st4VS3VqFyUkWQnn0Izl0e9KQ7jHeFnQMvLpTUxxWCN6E-0zzs5w2RbgqDmN1MxLHEYuY9IjTNX5ltw-D-SbXhjQIWjNE9VKFzgrQbEJStiJVDgbaL513OTkpJP9-xjVm6f7sYYt98JWg/s1600/Screenshot%202026-10-22%20234501.png ",
-    
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyX0qC5DtuRarPfNcT3A79_l2BUsR5JNlsz6Rl56N-Ob_Gu-st4VS3VqFyUkWQnn0Izl0e9KQ7jHeFnQMvLpTUxxWCN6E-0zzs5w2RbgqDmN1MxLHEYuY9IjTNX5ltw-D-SbXhjQIWjNE9VKFzgrQbEJStiJVDgbaL513OTkpJP9-xjVm6f7sYYt98JWg/s1600/Screenshot%202026-10-22%20234501.png",
     "a": "ವೃತ್ತ",
     "b": "ತ್ರಿಭುಜ",
     "c": "ಚೌಕ",
@@ -3358,10 +3401,22 @@
     "type": "match",
     "q": "ಸಂಖ್ಯಾ ವಿನ್ಯಾಸದ ಮುಂದಿನ ಸಂಖ್ಯೆಯನ್ನು ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
     "matchPairs": [
-      { "a": "3, 5, 7, 9", "b": "11" },
-      { "a": "11, 12, 13, 14", "b": "15" },
-      { "a": "11, 21, 31, 41", "b": "51" },
-      { "a": "6, 12, 18, 24", "b": "30" }
+      {
+        "a": "3, 5, 7, 9",
+        "b": "11"
+      },
+      {
+        "a": "11, 12, 13, 14",
+        "b": "15"
+      },
+      {
+        "a": "11, 21, 31, 41",
+        "b": "51"
+      },
+      {
+        "a": "6, 12, 18, 24",
+        "b": "30"
+      }
     ],
     "ans": "3, 5, 7, 9 ➔ 11 | 11, 12, 13, 14 ➔ 15 | 11, 21, 31, 41 ➔ 51 | 6, 12, 18, 24 ➔ 30",
     "marks": 4,
@@ -3546,10 +3601,22 @@
     "type": "match",
     "q": "ಆಕೃತಿಗಳಿಗೆ ಅನುಗುಣವಾಗಿ ಸಮಮಿತಿ ರೇಖೆಗಳ ಸಂಖ್ಯೆಯನ್ನು ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
     "matchPairs": [
-      { "a": "ಚಿಟ್ಟೆಯ ಚಿತ್ರ", "b": "ಒಂದು ಸಮಮಿತಿ ರೇಖೆ" },
-      { "a": "ಆಯತ", "b": "ಎರಡು ಸಮಮಿತಿ ರೇಖೆ" },
-      { "a": "ಸಮಬಾಹು ತ್ರಿಭುಜ", "b": "ಮೂರು ಸಮಮಿತಿ ರೇಖೆ" },
-      { "a": "ಚೌಕ", "b": "ನಾಲ್ಕು ಸಮಮಿತಿ ರೇಖೆ" }
+      {
+        "a": "ಚಿಟ್ಟೆಯ ಚಿತ್ರ",
+        "b": "ಒಂದು ಸಮಮಿತಿ ರೇಖೆ"
+      },
+      {
+        "a": "ಆಯತ",
+        "b": "ಎರಡು ಸಮಮಿತಿ ರೇಖೆ"
+      },
+      {
+        "a": "ಸಮಬಾಹು ತ್ರಿಭುಜ",
+        "b": "ಮೂರು ಸಮಮಿತಿ ರೇಖೆ"
+      },
+      {
+        "a": "ಚೌಕ",
+        "b": "ನಾಲ್ಕು ಸಮಮಿತಿ ರೇಖೆ"
+      }
     ],
     "ans": "ಚಿಟ್ಟೆಯ ಚಿತ್ರ ➔ ಒಂದು ಸಮಮಿತಿ ರೇಖೆ | ಆಯತ ➔ ಎರಡು ಸಮಮಿತಿ ರೇಖೆ | ಸಮಬಾಹು ತ್ರಿಭುಜ ➔ ಮೂರು ಸಮಮಿತಿ ರೇಖೆ | ಚೌಕ ➔ ನಾಲ್ಕು ಸಮಮಿತಿ ರೇಖೆ",
     "marks": 4,
@@ -3752,17 +3819,28 @@
     "type": "match",
     "q": "ಕೆಳಗಿನ ಜ್ಯಾಮಿತೀಯ ಆಕೃತಿಗಳ ಹೆಸರುಗಳನ್ನು ಸರಿಯಾದ ವಿವರಣೆಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
     "matchPairs": [
-      { "a": "ತ್ರಿಭುಜ", "b": "3 ಬಾಹುಗಳುಳ್ಳ ಆಕೃತಿ" },
-      { "a": "ಚೌಕ", "b": "4 ಸಮಾನ ಬಾಹುಗಳುಳ್ಳ ಆಕೃತಿ" },
-      { "a": "ಆಯತ", "b": "ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮವಿರುವ ಆಕೃತಿ" },
-      { "a": "ಸಮಾಂತರ ಚತುರ್ಭುಜ", "b": "ಓರೆ ಅಭಿಮುಖ ಬಾಹುಗಳುಳ್ಳ ಆಕೃತಿ" }
+      {
+        "a": "ತ್ರಿಭುಜ",
+        "b": "3 ಬಾಹುಗಳುಳ್ಳ ಆಕೃತಿ"
+      },
+      {
+        "a": "ಚೌಕ",
+        "b": "4 ಸಮಾನ ಬಾಹುಗಳುಳ್ಳ ಆಕೃತಿ"
+      },
+      {
+        "a": "ಆಯತ",
+        "b": "ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮವಿರುವ ಆಕೃತಿ"
+      },
+      {
+        "a": "ಸಮಾಂತರ ಚತುರ್ಭುಜ",
+        "b": "ಓರೆ ಅಭಿಮುಖ ಬಾಹುಗಳುಳ್ಳ ಆಕೃತಿ"
+      }
     ],
     "ans": "ತ್ರಿಭುಜ ➔ 3 ಬಾಹುಗಳುಳ್ಳ ಆಕೃತಿ | ಚೌಕ ➔ 4 ಸಮಾನ ಬಾಹುಗಳುಳ್ಳ ಆಕೃತಿ | ಆಯತ ➔ ಅಭಿಮುಖ ಬಾಹುಗಳು ಸಮವಿರುವ ಆಕೃತಿ | ಸಮಾಂತರ ಚತುರ್ಭುಜ ➔ ಓರೆ ಅಭಿಮುಖ ಬಾಹುಗಳುಳ್ಳ ಆಕೃತಿ",
     "marks": 4,
     "obj": "ಜ್ಞಾನ",
     "diff": "ಸುಲಭ"
   },
-
   {
     "id": "q_4_mat_17_008",
     "grade": "4",
@@ -3777,8 +3855,6 @@
     "obj": "ಅಭಿವ್ಯಕ್ತಿ",
     "diff": "ಸುಲಭ"
   },
-
- 
   {
     "id": "q_4_mat_18_001",
     "grade": "4",
@@ -3933,13 +4009,10 @@
     "type": "mcq",
     "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಚೌಕಘನ ಅಲ್ಲ?",
     "a": "ದಾಳ",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDNYvh6HVaGKVJTZp8iSPgMFlR5sdAAok0kzHuAGWInSaO0fUE_Xks_-2eTv93qUyWlbB2dQ4g3m3Tumoa3RS7AgA1b0WihUd94hK4D0-OdIl2MKoSiWw2xBNweLEJ8dTtR6UclC_pIezbojwlkk-psSX6BM-1LdIQFZOWqfcrb2mfBXJCR5bTOxRGHqs/s320/unnamed.png ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq4Rdss0JubaSR6s7YW7ar7zl5RBSXXmEMtMukcAuQRF4RA0f4SnXHW3CpbrrLhP-nvx8h_RkrEJzYgZtMRDvh1fXm9LJBCCk7DDzqHiNw1hPgoytJL1PrcSytrTkyusbZh-QmziBbVHZnL3M0XUzyGFYCl8qpeDj7uFk_e_fMGcVjHZPL3JjjZlkEMxM/s320/images%20(1).png",
     "b": "ಬೆಂಕಿಪೆಟ್ಟಿಗೆ",
-     "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9CDFLttx8ykiwQlqfwtBEYuqLiedxaVqGfOT7K_hH88mcRBk6B1lAfX7IbidGrt_Vh-Ng92jzEnLcOOVoQ0WOVFmosqJzGUV6BWXB7Sw0yby5Ebh08XlrLRcDPPa7QX1H0h6OSw0Yp12TU9uiSrrWDYXCi4WpZF_CddEjQhqEosUg8QRxylbi9qvMVS8/s320/images%20(1).jpg ",
     "c": "ರುಬಿಕ್ಸ್ ಕ್ಯೂಬ್",
-     "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVCyIfkaEuyhbzRNqAddytFMzfq0JLxtjVgb_wv20-D3s9LA_p_H1OgpEq64m0yC4YMKUccVbkEMSdyh4HolCf26J0GDSHZJq0HJv6a2mvWRFFdU5-V2fCNxA2-aWtgtOHL0Dpd5cYiE4gbGCzBmB269W3A-7yCITqCuTTuf4p1WKMBzh57e_G0WsjQnw/s320/images.png ",
     "d": "ಕ್ಯೂಬ್ ಆಟಿಕೆ",
-     "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq4Rdss0JubaSR6s7YW7ar7zl5RBSXXmEMtMukcAuQRF4RA0f4SnXHW3CpbrrLhP-nvx8h_RkrEJzYgZtMRDvh1fXm9LJBCCk7DDzqHiNw1hPgoytJL1PrcSytrTkyusbZh-QmziBbVHZnL3M0XUzyGFYCl8qpeDj7uFk_e_fMGcVjHZPL3JjjZlkEMxM/s320/images%20(1).png ",
     "ans": "B) ಬೆಂಕಿಪೆಟ್ಟಿಗೆ",
     "marks": 1,
     "obj": "ಗ್ರಹಿಕೆ",
@@ -3973,13 +4046,10 @@
     "type": "mcq",
     "q": "ಸ್ತಂಭಾಕೃತಿಯನ್ನು  ಹೋಲುವ ಆಕೃತಿ:",
     "a": "ಕೋನ್",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBN9B8rHvZWZPqxWxr7eKX7Ji-mi5N9GiVNSEbSvfdrJBKIZNAfIdwjlkMttij5yDkpWZJluPwtcdCDsg7aguSi1lnr9w7oBHPclo-jwy9mzAUZF3vMqruAtaEwPaVuVTk2CDTANq9muVktmQYWY2MA8HSoQ1oIrKuMkKKYiV1Up31PaYe5WJHg1q-QAc/s320/images%20(2).jpg ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjlvEGuzqcMWu0vxZkgXxvO2a2sAbJqo3JIMbX0Z4lIuofLVG90w_GsrBIUl5np16V5QJ0RAph2UUU7QGksiVVc3t2ieX3sVtXaJTgp5qjY9hK_TG8nkq_Wtb7uEFtOf55LqE_3b5xyRINSCLEYIjtTm_SXOBvNUyLcK9xFBzYuh6dmWkKdG6iIhKOYCw/s320/images%20(4).jpg",
     "b": "ಗ್ಯಾಸ್ ಸಿಲಿಂಡರ್",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI57OI4vvrPDv40Y3M4auqoS_DKOwm8-n-7YUMyffrVC4YxKh5rJvmMc3XEYqlsJz4W19XYTqAofJqd58VZqYNB_Q_MFvPHeYRoSIACESapAr49Z30lMQa36Ru4ZXXc1bIjx1TvHPZGlcCSGCnnYmFc7TDRfseYKU2Hb6mAMNQaVzwq6F8pU79fuPCuRI/s320/images%20(3).jpg ",
     "c": "ದಾಳ",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVCyIfkaEuyhbzRNqAddytFMzfq0JLxtjVgb_wv20-D3s9LA_p_H1OgpEq64m0yC4YMKUccVbkEMSdyh4HolCf26J0GDSHZJq0HJv6a2mvWRFFdU5-V2fCNxA2-aWtgtOHL0Dpd5cYiE4gbGCzBmB269W3A-7yCITqCuTTuf4p1WKMBzh57e_G0WsjQnw/s320/images.png ",
     "d": "ಚೆಂಡು",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjlvEGuzqcMWu0vxZkgXxvO2a2sAbJqo3JIMbX0Z4lIuofLVG90w_GsrBIUl5np16V5QJ0RAph2UUU7QGksiVVc3t2ieX3sVtXaJTgp5qjY9hK_TG8nkq_Wtb7uEFtOf55LqE_3b5xyRINSCLEYIjtTm_SXOBvNUyLcK9xFBzYuh6dmWkKdG6iIhKOYCw/s320/images%20(4).jpg ",
     "ans": "B) ಗ್ಯಾಸ್ ಸಿಲಿಂಡರ್",
     "marks": 1,
     "obj": "ಗ್ರಹಿಕೆ",
@@ -4062,7 +4132,7 @@
     "chapter": "ಘನಾಕೃತಿಗಳು",
     "type": "blanks",
     "q": "ಮರದ ದಿಮ್ಮಿ _____________ ಘನಾಕೃತಿಗೆ ಉದಾಹರಣೆ ಆಗಿದೆ.",
-    "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvtsXlc1LhoyJ65oGCFjtGEkT0SumpZdGHquE92eBskHhNxwZk8FpV4502u_57nKXxpAqKhVobskU_y4_P5ku3Ari7suA2g5bi_yhAY37z9BfCAdl5L7GFiTHkeyXiFOjTN0oO6hL590VxL84ARmRtyDltSZIarM_3LFeJjTYHFfx0OCW9EZiNHoXt3c/s320/images%20(5).jpg ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvtsXlc1LhoyJ65oGCFjtGEkT0SumpZdGHquE92eBskHhNxwZk8FpV4502u_57nKXxpAqKhVobskU_y4_P5ku3Ari7suA2g5bi_yhAY37z9BfCAdl5L7GFiTHkeyXiFOjTN0oO6hL590VxL84ARmRtyDltSZIarM_3LFeJjTYHFfx0OCW9EZiNHoXt3c/s320/images%20(5).jpg",
     "ans": "ಸಿಲಿಂಡರ್ (ಸ್ತಂಭಾಕೃತಿ)",
     "marks": 1,
     "obj": "ಗ್ರಹಿಕೆ",
@@ -4134,10 +4204,22 @@
     "type": "match",
     "q": "ವಸ್ತುಗಳನ್ನು ಅವುಗಳ ಘನಾಕೃತಿಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
     "matchPairs": [
-      { "a": "ಕ್ಯಾರೆಟ್", "b": "ಶಂಕು" },
-      { "a": "ಚೆಂಡು", "b": "ಗೋಳ" },
-      { "a": "ಬ್ಯಾಟರಿ ಸೆಲ್", "b": "ಸಿಲಿಂಡರ್" },
-      { "a": "ಇಟ್ಟಿಗೆ", "b": "ಆಯತಘನ" }
+      {
+        "a": "ಕ್ಯಾರೆಟ್",
+        "b": "ಶಂಕು"
+      },
+      {
+        "a": "ಚೆಂಡು",
+        "b": "ಗೋಳ"
+      },
+      {
+        "a": "ಬ್ಯಾಟರಿ ಸೆಲ್",
+        "b": "ಸಿಲಿಂಡರ್"
+      },
+      {
+        "a": "ಇಟ್ಟಿಗೆ",
+        "b": "ಆಯತಘನ"
+      }
     ],
     "ans": "ಕ್ಯಾರೆಟ್ ➔ ಶಂಕು | ಚೆಂಡು ➔ ಗೋಳ | ಬ್ಯಾಟರಿ ಸೆಲ್ ➔ ಸಿಲಿಂಡರ್ | ಇಟ್ಟಿಗೆ ➔ ಆಯತಘನ",
     "marks": 4,
@@ -4154,10 +4236,22 @@
     "type": "match",
     "q": "ಘನಾಕೃತಿಗಳನ್ನು ಅವುಗಳ ಜಾಲಾಕೃತಿಗಳ ವಿವರಣೆಗೆ ಹೊಂದಿಸಿ ಬರೆಯಿರಿ:",
     "matchPairs": [
-      { "a": "ವರ್ಗಪಾದ ಗೋಪುರ", "b": "1 ಚೌಕ ಮತ್ತು 4 ತ್ರಿಭುಜಗಳ ಜಾಲ" },
-      { "a": "ಆಯತ ಘನ", "b": "6 ಆಯತಾಕಾರದ ಮುಖಗಳ ಜಾಲ" },
-      { "a": "ತ್ರಿಭುಜಪಾದ ಗೋಪುರ", "b": "4 ತ್ರಿಭುಜಗಳ ಜಾಲ" },
-      { "a": "ತ್ರಿಭುಜಪಾದ ಪಟ್ಟಕ", "b": "3 ಆಯತ ಮತ್ತು 2 ತ್ರಿಭುಜಗಳ ಜಾಲ" }
+      {
+        "a": "ವರ್ಗಪಾದ ಗೋಪುರ",
+        "b": "1 ಚೌಕ ಮತ್ತು 4 ತ್ರಿಭುಜಗಳ ಜಾಲ"
+      },
+      {
+        "a": "ಆಯತ ಘನ",
+        "b": "6 ಆಯತಾಕಾರದ ಮುಖಗಳ ಜಾಲ"
+      },
+      {
+        "a": "ತ್ರಿಭುಜಪಾದ ಗೋಪುರ",
+        "b": "4 ತ್ರಿಭುಜಗಳ ಜಾಲ"
+      },
+      {
+        "a": "ತ್ರಿಭುಜಪಾದ ಪಟ್ಟಕ",
+        "b": "3 ಆಯತ ಮತ್ತು 2 ತ್ರಿಭುಜಗಳ ಜಾಲ"
+      }
     ],
     "ans": "ವರ್ಗಪಾದ ಗೋಪುರ ➔ 1 ಚೌಕ ಮತ್ತು 4 ತ್ರಿಭುಜಗಳ ಜಾಲ | ಆಯತ ಘನ ➔ 6 ಆಯತಾಕಾರದ ಮುಖಗಳ ಜಾಲ | ತ್ರಿಭುಜಪಾದ ಗೋಪುರ ➔ 4 ತ್ರಿಭುಜಗಳ ಜಾಲ | ತ್ರಿಭುಜಪಾದ ಪಟ್ಟಕ ➔ 3 ಆಯತ ಮತ್ತು 2 ತ್ರಿಭುಜಗಳ ಜಾಲ",
     "marks": 4,

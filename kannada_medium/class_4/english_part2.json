@@ -1617,7 +1617,6 @@
     "obj": "Understanding",
     "diff": "Easy"
   },
-  
   {
     "id": "q_eng_04_108",
     "grade": "4",
@@ -4138,7 +4137,6 @@
     "obj": "Knowledge",
     "diff": "Easy"
   },
-  
   {
     "id": "q_eng_04_273",
     "grade": "4",
@@ -6414,20 +6412,6 @@
     "diff": "Average"
   },
   {
-    "id": "q_eng_04_422",
-    "grade": "4",
-    "subject": "English",
-    "medium": "kannada_medium",
-    "part": "Part 2",
-    "chapter": "Art",
-    "type": "vsa_1m",
-    "q": "Who is the author of the poem \"The paint box\"?",
-    "ans": "E.V. Rieu is the author.",
-    "marks": 1,
-    "obj": "Understanding",
-    "diff": "Easy"
-  },
-  {
     "id": "q_eng_04_423",
     "grade": "4",
     "subject": "English",
@@ -6623,7 +6607,6 @@
     "obj": "Understanding",
     "diff": "Easy"
   },
-  
   {
     "id": "q_eng_04_adv_001",
     "grade": "4",
