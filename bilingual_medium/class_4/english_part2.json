@@ -3215,17 +3215,6 @@
       "ans": "A) A small settlement",
       "obj": "Knowledge",
       "diff": "Easy"
-    },
-    {
-      "id": "e4c9_q37",
-      "chapter": "9. Hekko",
-      "type": "mcq",
-      "marks": 1,
-      "q": "Farmer means:",
-      "a": "Person who grows crops",
-      "b": "Doctor",
-      "c": "Teacher",
-      "d": "Driver",
-      "ans": "A) Person who grows crops",
-      "obj": "Knowledge",
-      "diff": "
+    }
+  ]
+}
