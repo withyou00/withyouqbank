@@ -3458,36 +3458,5 @@
     "marks": 1,
     "obj": "ಅನ್ವಯ",
     "diff": "ಸಾಧಾರಣ"
-  },
-  {
-    "id": "q_8_eng_04_015",
-    "grade": "8",
-    "subject": "English",
-    "medium": "kannada_medium",
-    "part": "ಭಾಗ 1",
-    "chapter": "The Boy Who Asked for More",
-    "type": "match",
-    "q": "Match the words with their synonyms.",
-    "matchPairs": [
-      {
-        "a": "Happy",
-        "b": "Glad"
-      },
-      {
-        "a": "Begin",
-        "b": "Start"
-      },
-      {
-        "a": "Beautiful",
-        "b": "Pretty"
-      },
-      {
-        "a": "Brave",
-        "b": "Courageous"
-      },
-      {
-        "a": "Large",
-        "b": "Big"
-      }
-    ],
-    "ans": "(1) → Glad | (2) → Start | (3) → Pretty | (4) → Courageous |
+  }
+]
