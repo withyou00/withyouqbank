@@ -1,0 +1,60 @@
+[
+ {
+  "id": "GK26-001",
+  "diff": "easy",
+  "q_kn": "ಕರ್ನಾಟಕದ ರಾಜ್ಯ ಪ್ರಾಣಿ ಯಾವುದು?",
+  "q_en": "Which is the state animal of Karnataka?",
+  "opt_kn": [
+   "ಹುಲಿ",
+   "ಆನೆ",
+   "ಸಿಂಹ",
+   "ಜಿಂಕೆ"
+  ],
+  "opt_en": [
+   "Tiger",
+   "Elephant",
+   "Lion",
+   "Deer"
+  ],
+  "ans": "B"
+ },
+ {
+  "id": "GK26-002",
+  "diff": "medium",
+  "q_kn": "ಭಾರತದ ಸಂವಿಧಾನವನ್ನು ಅಂಗೀಕರಿಸಿದ ದಿನ ಯಾವುದು?",
+  "q_en": "On which date was the Constitution of India adopted?",
+  "opt_kn": [
+   "26 ಜನವರಿ 1950",
+   "15 ಆಗಸ್ಟ್ 1947",
+   "26 ನವೆಂಬರ್ 1949",
+   "2 ಅಕ್ಟೋಬರ್ 1949"
+  ],
+  "opt_en": [
+   "26 January 1950",
+   "15 August 1947",
+   "26 November 1949",
+   "2 October 1949"
+  ],
+  "ans": "C"
+ },
+ {
+  "id": "GK26-003",
+  "diff": "easy",
+  "q_kn": "ಸೌರವ್ಯೂಹದ ಅತಿ ದೊಡ್ಡ ಗ್ರಹ ಯಾವುದು?",
+  "q_en": "Which is the largest planet in the Solar System?",
+  "opt_kn": [
+   "ಶನಿ",
+   "ಭೂಮಿ",
+   "ಗುರು",
+   "ನೆಪ್ಚೂನ್"
+  ],
+  "opt_en": [
+   "Saturn",
+   "Earth",
+   "Jupiter",
+   "Neptune"
+  ],
+  "ans": "C",
+  "img": ""
+ }
+]
