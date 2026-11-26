@@ -1,0 +1,4447 @@
+{
+ "subject": "social",
+ "class": 7,
+ "source": "7ನೇ ತರಗತಿ ಸಮಾಜ ವಿಜ್ಞಾನ ಭಾಗ-1, ಭಾಗ-2 (2026-27)",
+ "questions": [
+  {
+   "id": "7SS-C01-01",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ಜಗತ್ತಿನ ಪ್ರಮುಖ ಘಟನೆಗಳು",
+   "ch_en": "Major Events of the World",
+   "diff": "easy",
+   "q_kn": "ಕ್ರೈಸ್ತರ ಪವಿತ್ರ ಗ್ರಂಥ ಯಾವುದು?",
+   "q_en": "Which is the holy book of the Christians?",
+   "opt_kn": [
+    "ಬೈಬಲ್",
+    "ಕುರಾನ್",
+    "ಗುರು ಗ್ರಂಥ ಸಾಹಿಬ್",
+    "ತ್ರಿಪಿಟಕ"
+   ],
+   "opt_en": [
+    "Bible",
+    "Quran",
+    "Guru Granth Sahib",
+    "Tripitaka"
+   ],
+   "ans": "A",
+   "exp_kn": "ಕ್ರೈಸ್ತ ಧರ್ಮದ ಪವಿತ್ರ ಗ್ರಂಥ ಬೈಬಲ್."
+  },
+  {
+   "id": "7SS-C01-02",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ಜಗತ್ತಿನ ಪ್ರಮುಖ ಘಟನೆಗಳು",
+   "ch_en": "Major Events of the World",
+   "diff": "easy",
+   "q_kn": "ಪ್ರವಾದಿ ಮಹಮ್ಮದ್ ಪೈಗಂಬರರು ಜನಿಸಿದ ಸ್ಥಳ ಯಾವುದು?",
+   "q_en": "Where was Prophet Muhammad born?",
+   "opt_kn": [
+    "ಜೆರುಸಲೆಂ",
+    "ಮದೀನಾ",
+    "ಮೆಕ್ಕಾ",
+    "ಬಾಗ್ದಾದ್"
+   ],
+   "opt_en": [
+    "Jerusalem",
+    "Medina",
+    "Mecca",
+    "Baghdad"
+   ],
+   "ans": "C",
+   "exp_kn": "ಪ್ರವಾದಿ ಮಹಮ್ಮದರು ಅರೇಬಿಯಾದ ಮೆಕ್ಕಾದಲ್ಲಿ ಜನಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C01-03",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ಜಗತ್ತಿನ ಪ್ರಮುಖ ಘಟನೆಗಳು",
+   "ch_en": "Major Events of the World",
+   "diff": "medium",
+   "q_kn": "ಕುಬ್ಲಾಯ್ ಖಾನ್ ಯಾರ ಮೊಮ್ಮಗ?",
+   "q_en": "Kublai Khan was the grandson of whom?",
+   "opt_kn": [
+    "ಬಾಬರ್",
+    "ಚಂಗೀಸ್ ಖಾನ್",
+    "ತೈಮೂರ್",
+    "ಮಹಮ್ಮದ್ ಘೋರಿ"
+   ],
+   "opt_en": [
+    "Babur",
+    "Genghis Khan",
+    "Timur",
+    "Muhammad Ghori"
+   ],
+   "ans": "B",
+   "exp_kn": "ಕುಬ್ಲಾಯ್ ಖಾನ್ ಚಂಗೀಸ್ ಖಾನನ ಮೊಮ್ಮಗ; ಚೀನಾದ ಚಕ್ರವರ್ತಿಯಾಗಿದ್ದನು."
+  },
+  {
+   "id": "7SS-C01-04",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ಜಗತ್ತಿನ ಪ್ರಮುಖ ಘಟನೆಗಳು",
+   "ch_en": "Major Events of the World",
+   "diff": "medium",
+   "q_kn": "ಕ್ರೂಸೇಡ್ ಯುದ್ಧಗಳು ಮುಖ್ಯವಾಗಿ ಯಾವ ನಗರದ ಮೇಲಿನ ಹಿಡಿತಕ್ಕಾಗಿ ನಡೆದವು?",
+   "q_en": "The Crusades were fought mainly for control over which city?",
+   "opt_kn": [
+    "ಕಾನ್ಸ್ಟಾಂಟಿನೋಪಲ್",
+    "ಮೆಕ್ಕಾ",
+    "ರೋಮ್",
+    "ಜೆರುಸಲೆಂ"
+   ],
+   "opt_en": [
+    "Constantinople",
+    "Mecca",
+    "Rome",
+    "Jerusalem"
+   ],
+   "ans": "D",
+   "exp_kn": "ಪವಿತ್ರ ನಗರ ಜೆರುಸಲೆಂ ಮೇಲಿನ ಹಿಡಿತಕ್ಕಾಗಿ ಕ್ರೈಸ್ತರು ಮತ್ತು ಮುಸ್ಲಿಮರ ನಡುವೆ ಕ್ರೂಸೇಡ್ ಯುದ್ಧಗಳು ನಡೆದವು."
+  },
+  {
+   "id": "7SS-C01-05",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ಜಗತ್ತಿನ ಪ್ರಮುಖ ಘಟನೆಗಳು",
+   "ch_en": "Major Events of the World",
+   "diff": "hard",
+   "q_kn": "ಸಾ.ಶ. 1453ರಲ್ಲಿ ಟರ್ಕರು ವಶಪಡಿಸಿಕೊಂಡ ಪೂರ್ವ ರೋಮನ್ ಸಾಮ್ರಾಜ್ಯದ ರಾಜಧಾನಿ ಯಾವುದು?",
+   "q_en": "In 1453 CE the Turks captured the capital of the Eastern Roman Empire. Which city was it?",
+   "opt_kn": [
+    "ರೋಮ್",
+    "ಅಥೆನ್ಸ್",
+    "ವೆನಿಸ್",
+    "ಕಾನ್ಸ್ಟಾಂಟಿನೋಪಲ್"
+   ],
+   "opt_en": [
+    "Rome",
+    "Athens",
+    "Venice",
+    "Constantinople"
+   ],
+   "ans": "D",
+   "exp_kn": "1453ರಲ್ಲಿ ಟರ್ಕರ ಸುಲ್ತಾನ ಮಹಮ್ಮದನು ಕಾನ್ಸ್ಟಾಂಟಿನೋಪಲ್ ವಶಪಡಿಸಿಕೊಂಡನು."
+  },
+  {
+   "id": "7SS-C01-06",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ಜಗತ್ತಿನ ಪ್ರಮುಖ ಘಟನೆಗಳು",
+   "ch_en": "Major Events of the World",
+   "diff": "medium",
+   "q_kn": "ಯೇಸುಕ್ರಿಸ್ತರು ಜನಿಸಿದ ಸ್ಥಳ ಯಾವುದು?",
+   "q_en": "Where was Jesus Christ born?",
+   "opt_kn": [
+    "ಬೆತ್ಲಹೆಂ",
+    "ಬಾಗ್ದಾದ್",
+    "ರೋಮ್",
+    "ಮೆಕ್ಕಾ"
+   ],
+   "opt_en": [
+    "Bethlehem",
+    "Baghdad",
+    "Rome",
+    "Mecca"
+   ],
+   "ans": "A",
+   "exp_kn": "ಯೇಸುಕ್ರಿಸ್ತರು ಜೆರುಸಲೆಂ ಸಮೀಪದ ಬೆತ್ಲಹೆಂನಲ್ಲಿ ಜನಿಸಿದರು; ತಾಯಿ ಮೇರಿ."
+  },
+  {
+   "id": "7SS-C02-01",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಮಧ್ಯಯುಗದ ಯುರೋಪ್",
+   "ch_en": "Medieval Europe",
+   "diff": "easy",
+   "q_kn": "ಪುನರುಜ್ಜೀವನ (ರಿನೈಸಾನ್ಸ್) ಮೊದಲು ಯಾವ ದೇಶದಲ್ಲಿ ಆರಂಭವಾಯಿತು?",
+   "q_en": "In which country did the Renaissance begin?",
+   "opt_kn": [
+    "ಇಂಗ್ಲೆಂಡ್",
+    "ಜರ್ಮನಿ",
+    "ಇಟಲಿ",
+    "ಫ್ರಾನ್ಸ್"
+   ],
+   "opt_en": [
+    "England",
+    "Germany",
+    "Italy",
+    "France"
+   ],
+   "ans": "C",
+   "exp_kn": "ಪುನರುಜ್ಜೀವನ ಇಟಲಿಯಲ್ಲಿ ಆರಂಭವಾಗಿ ಯುರೋಪಿನಾದ್ಯಂತ ಹರಡಿತು."
+  },
+  {
+   "id": "7SS-C02-02",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಮಧ್ಯಯುಗದ ಯುರೋಪ್",
+   "ch_en": "Medieval Europe",
+   "diff": "medium",
+   "q_kn": "ಭೂಪ್ರದಕ್ಷಿಣೆ ಮಾಡಿದ ಮೊದಲ ಹಡಗು ಯಾವುದು?",
+   "q_en": "Which was the first ship to sail around the world?",
+   "opt_kn": [
+    "ಸಾಂತಾ ಮರಿಯಾ",
+    "ವಿಕ್ಟೋರಿಯಾ",
+    "ಟೈಟಾನಿಕ್",
+    "ಮೇಫ್ಲವರ್"
+   ],
+   "opt_en": [
+    "Santa Maria",
+    "Victoria",
+    "Titanic",
+    "Mayflower"
+   ],
+   "ans": "B",
+   "exp_kn": "ಮೆಗಲನ್‌ನ ಸಹಚರರು \"ವಿಕ್ಟೋರಿಯಾ\" ಹಡಗಿನಲ್ಲಿ 1522ರಲ್ಲಿ ಸ್ಪೇನ್‌ಗೆ ಮರಳಿದರು."
+  },
+  {
+   "id": "7SS-C02-03",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಮಧ್ಯಯುಗದ ಯುರೋಪ್",
+   "ch_en": "Medieval Europe",
+   "diff": "easy",
+   "q_kn": "ಜರ್ಮನಿಯಲ್ಲಿ ಧಾರ್ಮಿಕ ಸುಧಾರಣಾ ಚಳವಳಿಯನ್ನು ಆರಂಭಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who started the Reformation movement in Germany?",
+   "opt_kn": [
+    "ಜಾನ್ ವೈಕ್ಲಿಫ್",
+    "ಕೋಪರ್ನಿಕಸ್",
+    "ಇಗ್ನೇಶಿಯಸ್ ಲಯೋಲಾ",
+    "ಮಾರ್ಟಿನ್ ಲೂಥರ್"
+   ],
+   "opt_en": [
+    "John Wycliffe",
+    "Copernicus",
+    "Ignatius Loyola",
+    "Martin Luther"
+   ],
+   "ans": "D",
+   "exp_kn": "ಮಾರ್ಟಿನ್ ಲೂಥರ್ ಜರ್ಮನಿಯಲ್ಲಿ ಧಾರ್ಮಿಕ ಸುಧಾರಣಾ ಚಳವಳಿ ಆರಂಭಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C02-04",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಮಧ್ಯಯುಗದ ಯುರೋಪ್",
+   "ch_en": "Medieval Europe",
+   "diff": "medium",
+   "q_kn": "ಕೊಲಂಬಸನು ಅಮೇರಿಕದ ಮೂಲನಿವಾಸಿಗಳನ್ನು ಏನೆಂದು ಕರೆದನು?",
+   "q_en": "What did Columbus call the natives of America?",
+   "opt_kn": [
+    "ರೆಡ್ ಇಂಡಿಯನ್ಸ್",
+    "ಎಸ್ಕಿಮೋ",
+    "ಮಾವೋರಿ",
+    "ಅಬೊರಿಜಿನ್ಸ್"
+   ],
+   "opt_en": [
+    "Red Indians",
+    "Eskimos",
+    "Maori",
+    "Aborigines"
+   ],
+   "ans": "A",
+   "exp_kn": "ತಾನು ಭಾರತ ತಲುಪಿದೆ ಎಂದು ಭಾವಿಸಿ ಕೊಲಂಬಸ್ ಅಲ್ಲಿನವರನ್ನು \"ರೆಡ್ ಇಂಡಿಯನ್ಸ್\" ಎಂದನು."
+  },
+  {
+   "id": "7SS-C02-05",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಮಧ್ಯಯುಗದ ಯುರೋಪ್",
+   "ch_en": "Medieval Europe",
+   "diff": "medium",
+   "q_kn": "ಪುನರುಜ್ಜೀವನ ಕಾಲದ ಪ್ರಖ್ಯಾತ ಚಿತ್ರಕಾರರ ಜೋಡಿ ಯಾವುದು?",
+   "q_en": "Which pair were famous painters of the Renaissance period?",
+   "opt_kn": [
+    "ಕೊಲಂಬಸ್ ಮತ್ತು ಮೆಗಲನ್",
+    "ಲಿಯೊನಾರ್ಡೊ ಡ ವಿಂಚಿ ಮತ್ತು ಮೈಕೆಲ್ ಏಂಜೆಲೊ",
+    "ಕೋಪರ್ನಿಕಸ್ ಮತ್ತು ಗೆಲಿಲಿಯೋ",
+    "ಷೇಕ್ಸ್‌ಪಿಯರ್ ಮತ್ತು ಡಾಂಟೆ"
+   ],
+   "opt_en": [
+    "Columbus and Magellan",
+    "Leonardo da Vinci and Michelangelo",
+    "Copernicus and Galileo",
+    "Shakespeare and Dante"
+   ],
+   "ans": "B",
+   "exp_kn": "ಲಿಯೊನಾರ್ಡೊ ಡ ವಿಂಚಿ ಮತ್ತು ಮೈಕೆಲ್ ಏಂಜೆಲೊ ಪುನರುಜ್ಜೀವನದ ಪ್ರಸಿದ್ಧ ಚಿತ್ರಕಾರರು."
+  },
+  {
+   "id": "7SS-C02-06",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಮಧ್ಯಯುಗದ ಯುರೋಪ್",
+   "ch_en": "Medieval Europe",
+   "diff": "hard",
+   "q_kn": "\"ಸೂರ್ಯನು ವಿಶ್ವದ ಕೇಂದ್ರ; ಭೂಮಿ ಸೂರ್ಯನ ಸುತ್ತ ಸುತ್ತುತ್ತದೆ\" ಎಂದು ಪ್ರತಿಪಾದಿಸಿದ ಪುನರುಜ್ಜೀವನ ಕಾಲದ ವಿಜ್ಞಾನಿ ಯಾರು?",
+   "q_en": "Which Renaissance scientist proposed that the Sun is at the centre and the Earth revolves around it?",
+   "opt_kn": [
+    "ಮಾರ್ಕೋ ಪೋಲೊ",
+    "ಷೇಕ್ಸ್‌ಪಿಯರ್",
+    "ಕೋಪರ್ನಿಕಸ್",
+    "ಮಾರ್ಟಿನ್ ಲೂಥರ್"
+   ],
+   "opt_en": [
+    "Marco Polo",
+    "Shakespeare",
+    "Copernicus",
+    "Martin Luther"
+   ],
+   "ans": "C",
+   "exp_kn": "ಕೋಪರ್ನಿಕಸ್ ಸೂರ್ಯಕೇಂದ್ರ ಸಿದ್ಧಾಂತವನ್ನು ಮಂಡಿಸಿದನು."
+  },
+  {
+   "id": "7SS-C02-07",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಮಧ್ಯಯುಗದ ಯುರೋಪ್",
+   "ch_en": "Medieval Europe",
+   "diff": "medium",
+   "q_kn": "ಹೊಂದಿಸಿ: (1) ಮಾರ್ಕೋ ಪೋಲೊ (2) ಷೇಕ್ಸ್‌ಪಿಯರ್ (3) ಮೆಗಲನ್ – (a) ನಾಟಕಕಾರ (b) ಭೂಪ್ರದಕ್ಷಿಣೆ (c) ಚೀನಾ ಪ್ರವಾಸಿ",
+   "q_en": "Match: (1) Marco Polo (2) Shakespeare (3) Magellan – (a) dramatist (b) voyage round the world (c) traveller to China",
+   "opt_kn": [
+    "1-c, 2-a, 3-b",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-b, 3-c",
+    "1-b, 2-c, 3-a"
+   ],
+   "opt_en": [
+    "1-c, 2-a, 3-b",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-b, 3-c",
+    "1-b, 2-c, 3-a"
+   ],
+   "ans": "A",
+   "exp_kn": "ಮಾರ್ಕೋ ಪೋಲೊ ಚೀನಾ ಪ್ರವಾಸಿ, ಷೇಕ್ಸ್‌ಪಿಯರ್ ನಾಟಕಕಾರ, ಮೆಗಲನ್ ಭೂಪ್ರದಕ್ಷಿಣೆ."
+  },
+  {
+   "id": "7SS-C03-01",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಭಾರತಕ್ಕೆ ಐರೋಪ್ಯರ ಆಗಮನ",
+   "ch_en": "Arrival of Europeans to India",
+   "diff": "easy",
+   "q_kn": "ಭಾರತಕ್ಕೆ ಸಮುದ್ರ ಮಾರ್ಗವನ್ನು ಕಂಡುಹಿಡಿದವನು ಯಾರು?",
+   "q_en": "Who discovered the sea route to India?",
+   "opt_kn": [
+    "ಅಲ್ಬುಕರ್ಕ್",
+    "ವಾಸ್ಕೊ ಡ ಗಾಮ",
+    "ಮೆಗಲನ್",
+    "ಕೊಲಂಬಸ್"
+   ],
+   "opt_en": [
+    "Albuquerque",
+    "Vasco da Gama",
+    "Magellan",
+    "Columbus"
+   ],
+   "ans": "B",
+   "exp_kn": "ವಾಸ್ಕೊ ಡ ಗಾಮ 1498ರಲ್ಲಿ ಕಲ್ಲಿಕೋಟೆಗೆ ಬಂದು ಭಾರತಕ್ಕೆ ಜಲಮಾರ್ಗ ತೆರೆದನು."
+  },
+  {
+   "id": "7SS-C03-02",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಭಾರತಕ್ಕೆ ಐರೋಪ್ಯರ ಆಗಮನ",
+   "ch_en": "Arrival of Europeans to India",
+   "diff": "easy",
+   "q_kn": "ವ್ಯಾಪಾರಕ್ಕಾಗಿ ಸಮುದ್ರಮಾರ್ಗವಾಗಿ ಭಾರತಕ್ಕೆ ಮೊದಲು ಬಂದ ಯುರೋಪಿಯನ್ನರು ಯಾರು?",
+   "q_en": "Which Europeans first came to India by sea for trade?",
+   "opt_kn": [
+    "ಡಚ್ಚರು",
+    "ಬ್ರಿಟಿಷರು",
+    "ಪೋರ್ಚುಗೀಸರು",
+    "ಫ್ರೆಂಚರು"
+   ],
+   "opt_en": [
+    "Dutch",
+    "British",
+    "Portuguese",
+    "French"
+   ],
+   "ans": "C",
+   "exp_kn": "ಪೋರ್ಚುಗೀಸರು ಭಾರತಕ್ಕೆ ಬಂದ ಮೊದಲ ಯುರೋಪಿಯನ್ನರು."
+  },
+  {
+   "id": "7SS-C03-03",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಭಾರತಕ್ಕೆ ಐರೋಪ್ಯರ ಆಗಮನ",
+   "ch_en": "Arrival of Europeans to India",
+   "diff": "medium",
+   "q_kn": "ಭಾರತದಲ್ಲಿ ಡಚ್ಚರ ರಾಜಧಾನಿ ಯಾವುದಾಗಿತ್ತು?",
+   "q_en": "What was the capital of the Dutch in India?",
+   "opt_kn": [
+    "ಗೋವಾ",
+    "ಕಲ್ಕತ್ತಾ",
+    "ಪಾಂಡಿಚೇರಿ",
+    "ಪುಲಿಕಾಟ್"
+   ],
+   "opt_en": [
+    "Goa",
+    "Calcutta",
+    "Pondicherry",
+    "Pulicat"
+   ],
+   "ans": "D",
+   "exp_kn": "ಪುಲಿಕಾಟ್ ಡಚ್ಚರ ರಾಜಧಾನಿಯಾಗಿತ್ತು."
+  },
+  {
+   "id": "7SS-C03-04",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಭಾರತಕ್ಕೆ ಐರೋಪ್ಯರ ಆಗಮನ",
+   "ch_en": "Arrival of Europeans to India",
+   "diff": "medium",
+   "q_kn": "ಬ್ರಿಟಿಷ್ ಈಸ್ಟ್ ಇಂಡಿಯಾ ಕಂಪನಿ ಸ್ಥಾಪನೆಯಾದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year was the British East India Company established?",
+   "opt_kn": [
+    "1600",
+    "1498",
+    "1664",
+    "1757"
+   ],
+   "opt_en": [
+    "1600",
+    "1498",
+    "1664",
+    "1757"
+   ],
+   "ans": "A",
+   "exp_kn": "ಬ್ರಿಟಿಷ್ ಈಸ್ಟ್ ಇಂಡಿಯಾ ಕಂಪನಿ ಸಾ.ಶ. 1600ರಲ್ಲಿ ಸ್ಥಾಪನೆಯಾಯಿತು."
+  },
+  {
+   "id": "7SS-C03-05",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಭಾರತಕ್ಕೆ ಐರೋಪ್ಯರ ಆಗಮನ",
+   "ch_en": "Arrival of Europeans to India",
+   "diff": "hard",
+   "q_kn": "ಬ್ರಿಟಿಷರಿಗೆ ಸುಂಕರಹಿತ ವ್ಯಾಪಾರದ ಪರವಾನಗಿ \"ದಸ್ತಕ್\" ನೀಡಿದ ಮೊಗಲ್ ಚಕ್ರವರ್ತಿ ಯಾರು?",
+   "q_en": "Which Mughal emperor granted the British the \"dastak\" (duty-free trade permit)?",
+   "opt_kn": [
+    "ಎರಡನೇ ಷಾ ಆಲಂ",
+    "ಫರೂಕ್ ಸಿಯಾರ್",
+    "ಅಕ್ಬರ್",
+    "ಔರಂಗಜೇಬ್"
+   ],
+   "opt_en": [
+    "Shah Alam II",
+    "Farrukhsiyar",
+    "Akbar",
+    "Aurangzeb"
+   ],
+   "ans": "B",
+   "exp_kn": "ಮೊಗಲ್ ಚಕ್ರವರ್ತಿ ಫರೂಕ್ ಸಿಯಾರನಿಂದ ಬ್ರಿಟಿಷರು ದಸ್ತಕ್‌ಗಳನ್ನು ಪಡೆದರು."
+  },
+  {
+   "id": "7SS-C03-06",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಭಾರತಕ್ಕೆ ಐರೋಪ್ಯರ ಆಗಮನ",
+   "ch_en": "Arrival of Europeans to India",
+   "diff": "medium",
+   "q_kn": "ಹೊಂದಿಸಿ: (1) ಪೋರ್ಚುಗೀಸರು (2) ಡಚ್ಚರು (3) ಫ್ರೆಂಚರು (4) ಬ್ರಿಟಿಷರು – (a) ಪಾಂಡಿಚೇರಿ (b) ಕಲ್ಕತ್ತಾ (c) ಪುಲಿಕಾಟ್ (d) ಗೋವಾ",
+   "q_en": "Match: (1) Portuguese (2) Dutch (3) French (4) British – (a) Pondicherry (b) Calcutta (c) Pulicat (d) Goa",
+   "opt_kn": [
+    "1-a, 2-c, 3-d, 4-b",
+    "1-c, 2-d, 3-a, 4-b",
+    "1-d, 2-c, 3-a, 4-b",
+    "1-d, 2-a, 3-c, 4-b"
+   ],
+   "opt_en": [
+    "1-a, 2-c, 3-d, 4-b",
+    "1-c, 2-d, 3-a, 4-b",
+    "1-d, 2-c, 3-a, 4-b",
+    "1-d, 2-a, 3-c, 4-b"
+   ],
+   "ans": "C",
+   "exp_kn": "ಪೋರ್ಚುಗೀಸರು–ಗೋವಾ, ಡಚ್ಚರು–ಪುಲಿಕಾಟ್, ಫ್ರೆಂಚರು–ಪಾಂಡಿಚೇರಿ, ಬ್ರಿಟಿಷರು–ಕಲ್ಕತ್ತಾ."
+  },
+  {
+   "id": "7SS-C04-01",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಹದಿನೆಂಟನೆಯ ಶತಮಾನದ ಭಾರತ",
+   "ch_en": "India in the Eighteenth Century",
+   "diff": "medium",
+   "q_kn": "\"ಎರಡನೆಯ ಶಿವಾಜಿ\" ಎಂಬ ಕೀರ್ತಿಗೆ ಪಾತ್ರನಾದ ಪೇಶ್ವೆ ಯಾರು?",
+   "q_en": "Which Peshwa earned the title \"Second Shivaji\"?",
+   "opt_kn": [
+    "ಎರಡನೇ ಬಾಜೀರಾವ್",
+    "ಮಾಧವರಾವ್",
+    "ಬಾಲಾಜಿ ವಿಶ್ವನಾಥ",
+    "ಒಂದನೆಯ ಬಾಜೀರಾವ್"
+   ],
+   "opt_en": [
+    "Baji Rao II",
+    "Madhav Rao",
+    "Balaji Vishwanath",
+    "Baji Rao I"
+   ],
+   "ans": "D",
+   "exp_kn": "ದೆಹಲಿಯವರೆಗೆ ಮುನ್ನುಗ್ಗಿದ ಒಂದನೆಯ ಬಾಜೀರಾವ್ \"ಎರಡನೆಯ ಶಿವಾಜಿ\" ಎನಿಸಿದನು."
+  },
+  {
+   "id": "7SS-C04-02",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಹದಿನೆಂಟನೆಯ ಶತಮಾನದ ಭಾರತ",
+   "ch_en": "India in the Eighteenth Century",
+   "diff": "easy",
+   "q_kn": "ಪ್ಲಾಸಿ ಕದನ ನಡೆದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year was the Battle of Plassey fought?",
+   "opt_kn": [
+    "1764",
+    "1757",
+    "1761",
+    "1799"
+   ],
+   "opt_en": [
+    "1764",
+    "1757",
+    "1761",
+    "1799"
+   ],
+   "ans": "B",
+   "exp_kn": "ಪ್ಲಾಸಿ ಕದನ 1757ರಲ್ಲಿ ಸಿರಾಜ್-ಉದ್-ದೌಲ ಮತ್ತು ಬ್ರಿಟಿಷರ ನಡುವೆ ನಡೆಯಿತು."
+  },
+  {
+   "id": "7SS-C04-03",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಹದಿನೆಂಟನೆಯ ಶತಮಾನದ ಭಾರತ",
+   "ch_en": "India in the Eighteenth Century",
+   "diff": "medium",
+   "q_kn": "ಮೂರನೇ ಪಾಣಿಪತ್ ಕದನ (1761) ಯಾರ ನಡುವೆ ನಡೆಯಿತು?",
+   "q_en": "Between whom was the Third Battle of Panipat (1761) fought?",
+   "opt_kn": [
+    "ಮರಾಠರು ಮತ್ತು ಬ್ರಿಟಿಷರು",
+    "ಬ್ರಿಟಿಷರು ಮತ್ತು ಫ್ರೆಂಚರು",
+    "ಮರಾಠರು ಮತ್ತು ಅಹಮದ್ ಷಾ ಅಬ್ದಾಲಿ",
+    "ಮೊಗಲರು ಮತ್ತು ಬಾಬರ್"
+   ],
+   "opt_en": [
+    "Marathas and British",
+    "British and French",
+    "Marathas and Ahmad Shah Abdali",
+    "Mughals and Babur"
+   ],
+   "ans": "C",
+   "exp_kn": "1761ರ ಮೂರನೇ ಪಾಣಿಪತ್ ಕದನದಲ್ಲಿ ಅಹಮದ್ ಷಾ ಅಬ್ದಾಲಿ ಮರಾಠರನ್ನು ಸೋಲಿಸಿದನು."
+  },
+  {
+   "id": "7SS-C04-04",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಹದಿನೆಂಟನೆಯ ಶತಮಾನದ ಭಾರತ",
+   "ch_en": "India in the Eighteenth Century",
+   "diff": "medium",
+   "q_kn": "ಕರ್ನಾಟಿಕ್ ಯುದ್ಧಗಳ ಕಾಲದಲ್ಲಿ ಕರ್ನಾಟಿಕ್‌ನ ರಾಜಧಾನಿ ಯಾವುದಾಗಿತ್ತು?",
+   "q_en": "What was the capital of the Carnatic during the Carnatic Wars?",
+   "opt_kn": [
+    "ಆರ್ಕಾಟ್",
+    "ಪಾಂಡಿಚೇರಿ",
+    "ಮದ್ರಾಸ್",
+    "ಹೈದರಾಬಾದ್"
+   ],
+   "opt_en": [
+    "Arcot",
+    "Pondicherry",
+    "Madras",
+    "Hyderabad"
+   ],
+   "ans": "A",
+   "exp_kn": "ಆರ್ಕಾಟ್ (ತಮಿಳುನಾಡು) ಕರ್ನಾಟಿಕದ ರಾಜಧಾನಿಯಾಗಿತ್ತು."
+  },
+  {
+   "id": "7SS-C04-05",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಹದಿನೆಂಟನೆಯ ಶತಮಾನದ ಭಾರತ",
+   "ch_en": "India in the Eighteenth Century",
+   "diff": "easy",
+   "q_kn": "ಕರ್ನಾಟಿಕ್ ಯುದ್ಧಗಳಲ್ಲಿ ಅಂತಿಮವಾಗಿ ಗೆದ್ದವರು ಯಾರು?",
+   "q_en": "Who finally won the Carnatic Wars?",
+   "opt_kn": [
+    "ಡಚ್ಚರು",
+    "ಮರಾಠರು",
+    "ಫ್ರೆಂಚರು",
+    "ಬ್ರಿಟಿಷರು"
+   ],
+   "opt_en": [
+    "Dutch",
+    "Marathas",
+    "French",
+    "British"
+   ],
+   "ans": "D",
+   "exp_kn": "ಕರ್ನಾಟಿಕ್ ಯುದ್ಧಗಳಲ್ಲಿ ಬ್ರಿಟಿಷರು ಫ್ರೆಂಚರನ್ನು ಸೋಲಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C04-06",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಹದಿನೆಂಟನೆಯ ಶತಮಾನದ ಭಾರತ",
+   "ch_en": "India in the Eighteenth Century",
+   "diff": "hard",
+   "q_kn": "ಕಾಲಾನುಕ್ರಮದಲ್ಲಿ ಜೋಡಿಸಿ: ಪ್ಲಾಸಿ ಕದನ, ಬಕ್ಸಾರ್ ಕದನ, ಮೂರನೇ ಪಾಣಿಪತ್ ಕದನ",
+   "q_en": "Arrange chronologically: Battle of Plassey, Battle of Buxar, Third Battle of Panipat",
+   "opt_kn": [
+    "ಬಕ್ಸಾರ್ → ಪ್ಲಾಸಿ → ಪಾಣಿಪತ್",
+    "ಪಾಣಿಪತ್ → ಪ್ಲಾಸಿ → ಬಕ್ಸಾರ್",
+    "ಪ್ಲಾಸಿ → ಪಾಣಿಪತ್ → ಬಕ್ಸಾರ್",
+    "ಪ್ಲಾಸಿ → ಬಕ್ಸಾರ್ → ಪಾಣಿಪತ್"
+   ],
+   "opt_en": [
+    "Buxar → Plassey → Panipat",
+    "Panipat → Plassey → Buxar",
+    "Plassey → Panipat → Buxar",
+    "Plassey → Buxar → Panipat"
+   ],
+   "ans": "C",
+   "exp_kn": "ಪ್ಲಾಸಿ 1757, ಮೂರನೇ ಪಾಣಿಪತ್ 1761, ಬಕ್ಸಾರ್ 1764."
+  },
+  {
+   "id": "7SS-C05-01",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬ್ರಿಟಿಷ್ ಪ್ರಾಬಲ್ಯದ ಬೆಳವಣಿಗೆ",
+   "ch_en": "Growth of British Supremacy",
+   "diff": "easy",
+   "q_kn": "ಸಹಾಯಕ ಸೈನ್ಯ ಪದ್ಧತಿಯನ್ನು ಜಾರಿಗೆ ತಂದವರು ಯಾರು?",
+   "q_en": "Who introduced the Subsidiary Alliance system?",
+   "opt_kn": [
+    "ಲಾರ್ಡ್ ವೆಲ್ಲೆಸ್ಲಿ",
+    "ಲಾರ್ಡ್ ಡಾಲ್‌ಹೌಸಿ",
+    "ವಾರನ್ ಹೇಸ್ಟಿಂಗ್ಸ್",
+    "ರಾಬರ್ಟ್ ಕ್ಲೈವ್"
+   ],
+   "opt_en": [
+    "Lord Wellesley",
+    "Lord Dalhousie",
+    "Warren Hastings",
+    "Robert Clive"
+   ],
+   "ans": "A",
+   "exp_kn": "ಲಾರ್ಡ್ ವೆಲ್ಲೆಸ್ಲಿ ಸಹಾಯಕ ಸೈನ್ಯ ಪದ್ಧತಿ ಜಾರಿಗೆ ತಂದನು."
+  },
+  {
+   "id": "7SS-C05-02",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬ್ರಿಟಿಷ್ ಪ್ರಾಬಲ್ಯದ ಬೆಳವಣಿಗೆ",
+   "ch_en": "Growth of British Supremacy",
+   "diff": "easy",
+   "q_kn": "\"ದತ್ತು ಮಕ್ಕಳಿಗೆ ಹಕ್ಕಿಲ್ಲ\" ನೀತಿಯನ್ನು ಜಾರಿಗೆ ತಂದವನು ಯಾರು?",
+   "q_en": "Who introduced the Doctrine of Lapse?",
+   "opt_kn": [
+    "ಲಾರ್ಡ್ ಕಾರ್ನ್‌ವಾಲೀಸ್",
+    "ಲಾರ್ಡ್ ವೆಲ್ಲೆಸ್ಲಿ",
+    "ಲಾರ್ಡ್ ಕ್ಯಾನಿಂಗ್",
+    "ಲಾರ್ಡ್ ಡಾಲ್‌ಹೌಸಿ"
+   ],
+   "opt_en": [
+    "Lord Cornwallis",
+    "Lord Wellesley",
+    "Lord Canning",
+    "Lord Dalhousie"
+   ],
+   "ans": "D",
+   "exp_kn": "ಡಾಲ್‌ಹೌಸಿ ದತ್ತು ಮಕ್ಕಳಿಗೆ ಹಕ್ಕಿಲ್ಲ ನೀತಿಯಿಂದ ಹಲವು ಸಂಸ್ಥಾನಗಳನ್ನು ವಶಪಡಿಸಿಕೊಂಡನು."
+  },
+  {
+   "id": "7SS-C05-03",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬ್ರಿಟಿಷ್ ಪ್ರಾಬಲ್ಯದ ಬೆಳವಣಿಗೆ",
+   "ch_en": "Growth of British Supremacy",
+   "diff": "medium",
+   "q_kn": "ರೆಗ್ಯುಲೇಟಿಂಗ್ ಆಕ್ಟ್ ಜಾರಿಗೆ ಬಂದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year did the Regulating Act come into force?",
+   "opt_kn": [
+    "1793",
+    "1773",
+    "1858",
+    "1813"
+   ],
+   "opt_en": [
+    "1793",
+    "1773",
+    "1858",
+    "1813"
+   ],
+   "ans": "B",
+   "exp_kn": "ರೆಗ್ಯುಲೇಟಿಂಗ್ ಆಕ್ಟ್ 1773ರಲ್ಲಿ ಜಾರಿಯಾಯಿತು."
+  },
+  {
+   "id": "7SS-C05-04",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬ್ರಿಟಿಷ್ ಪ್ರಾಬಲ್ಯದ ಬೆಳವಣಿಗೆ",
+   "ch_en": "Growth of British Supremacy",
+   "diff": "medium",
+   "q_kn": "ಬಕ್ಸಾರ್ ಕದನದ (1764) ನಂತರ ರಾಬರ್ಟ್ ಕ್ಲೈವ್ ಯಾರೊಂದಿಗೆ ಒಪ್ಪಂದ ಮಾಡಿಕೊಂಡು ದಿವಾನಿ ಹಕ್ಕು ಪಡೆದನು?",
+   "q_en": "After the Battle of Buxar, Robert Clive obtained the Diwani rights through a treaty with whom?",
+   "opt_kn": [
+    "ರಣಜಿತ್ ಸಿಂಗ್",
+    "ಎರಡನೇ ಷಾ ಆಲಂ",
+    "ಟಿಪ್ಪು ಸುಲ್ತಾನ್",
+    "ಸಿರಾಜ್-ಉದ್-ದೌಲ"
+   ],
+   "opt_en": [
+    "Ranjit Singh",
+    "Shah Alam II",
+    "Tipu Sultan",
+    "Siraj-ud-Daulah"
+   ],
+   "ans": "B",
+   "exp_kn": "ಮೊಗಲ್ ಚಕ್ರವರ್ತಿ ಎರಡನೇ ಷಾ ಆಲಂನೊಡನೆ ಒಪ್ಪಂದದಿಂದ ಬಂಗಾಳದ ದಿವಾನಿ ಹಕ್ಕು ದೊರೆಯಿತು."
+  },
+  {
+   "id": "7SS-C05-05",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬ್ರಿಟಿಷ್ ಪ್ರಾಬಲ್ಯದ ಬೆಳವಣಿಗೆ",
+   "ch_en": "Growth of British Supremacy",
+   "diff": "medium",
+   "q_kn": "\"ದಿವಾನಿ ಹಕ್ಕು\" ಎಂದರೆ ಏನು?",
+   "q_en": "What does \"Diwani right\" mean?",
+   "opt_kn": [
+    "ಭೂಕಂದಾಯ ವಸೂಲಿ ಮಾಡುವ ಹಕ್ಕು",
+    "ಸೈನ್ಯ ಇಡುವ ಹಕ್ಕು",
+    "ನಾಣ್ಯ ಮುದ್ರಿಸುವ ಹಕ್ಕು",
+    "ನ್ಯಾಯ ನೀಡುವ ಹಕ್ಕು"
+   ],
+   "opt_en": [
+    "Right to collect land revenue",
+    "Right to keep an army",
+    "Right to mint coins",
+    "Right to give justice"
+   ],
+   "ans": "A",
+   "exp_kn": "ದಿವಾನಿ ಎಂದರೆ ಕಂದಾಯ ವಸೂಲಿ ಮಾಡುವ ಹಕ್ಕು."
+  },
+  {
+   "id": "7SS-C05-06",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬ್ರಿಟಿಷ್ ಪ್ರಾಬಲ್ಯದ ಬೆಳವಣಿಗೆ",
+   "ch_en": "Growth of British Supremacy",
+   "diff": "medium",
+   "q_kn": "ಹದಿನೆಂಟನೆಯ ವಯಸ್ಸಿನಲ್ಲಿ ಲಾಹೋರಿನ ರಾಜನಾಗಿ ಸಿಖ್ ಮಿಸಲ್‌ಗಳನ್ನು ಒಗ್ಗೂಡಿಸಿ ಪ್ರಬಲ ರಾಜ್ಯ ಕಟ್ಟಿದವನು ಯಾರು?",
+   "q_en": "Who became king of Lahore at eighteen and united the Sikh misls into a strong kingdom?",
+   "opt_kn": [
+    "ಗುರು ನಾನಕ್",
+    "ಬಂದಾ ಬಹಾದೂರ್",
+    "ದಲೀಪ್ ಸಿಂಗ್",
+    "ರಣಜಿತ್ ಸಿಂಗ್"
+   ],
+   "opt_en": [
+    "Guru Nanak",
+    "Banda Bahadur",
+    "Duleep Singh",
+    "Ranjit Singh"
+   ],
+   "ans": "D",
+   "exp_kn": "ಮಹಾರಾಜ ರಣಜಿತ್ ಸಿಂಗ್ ಪಂಜಾಬಿನಲ್ಲಿ ಸಿಖ್ ರಾಜ್ಯ ಸ್ಥಾಪಿಸಿದನು."
+  },
+  {
+   "id": "7SS-C06-01",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Effects of British Rule",
+   "diff": "easy",
+   "q_kn": "ಖಾಯಂ ಜಮೀನ್ದಾರಿ ಪದ್ಧತಿಯನ್ನು ಜಾರಿಗೆ ತಂದವರು ಯಾರು?",
+   "q_en": "Who introduced the Permanent Zamindari Settlement?",
+   "opt_kn": [
+    "ವಿಲಿಯಂ ಬೆಂಟಿಂಕ್",
+    "ವಾರನ್ ಹೇಸ್ಟಿಂಗ್ಸ್",
+    "ಲಾರ್ಡ್ ಕಾರ್ನ್‌ವಾಲೀಸ್",
+    "ಥಾಮಸ್ ಮನ್ರೋ"
+   ],
+   "opt_en": [
+    "William Bentinck",
+    "Warren Hastings",
+    "Lord Cornwallis",
+    "Thomas Munro"
+   ],
+   "ans": "C",
+   "exp_kn": "ಕಾರ್ನ್‌ವಾಲೀಸ್ 1793ರಲ್ಲಿ ಖಾಯಂ ಜಮೀನ್ದಾರಿ ಪದ್ಧತಿ ಜಾರಿಗೆ ತಂದನು."
+  },
+  {
+   "id": "7SS-C06-02",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Effects of British Rule",
+   "diff": "medium",
+   "q_kn": "ರೈತವಾರಿ ಪದ್ಧತಿಯನ್ನು ಜಾರಿಗೆ ತಂದವರು ಯಾರು?",
+   "q_en": "Who introduced the Ryotwari system?",
+   "opt_kn": [
+    "ಥಾಮಸ್ ಮನ್ರೋ",
+    "ಕಾರ್ನ್‌ವಾಲೀಸ್",
+    "ಡಾಲ್‌ಹೌಸಿ",
+    "ಮೆಕಾಲೆ"
+   ],
+   "opt_en": [
+    "Thomas Munro",
+    "Cornwallis",
+    "Dalhousie",
+    "Macaulay"
+   ],
+   "ans": "A",
+   "exp_kn": "ರೈತರಿಂದ ನೇರವಾಗಿ ಕಂದಾಯ ವಸೂಲಿ ಮಾಡುವ ರೈತವಾರಿ ಪದ್ಧತಿಯನ್ನು ಥಾಮಸ್ ಮನ್ರೋ ಜಾರಿಗೆ ತಂದನು."
+  },
+  {
+   "id": "7SS-C06-03",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Effects of British Rule",
+   "diff": "hard",
+   "q_kn": "1813ರ ಚಾರ್ಟರ್ ಕಾಯ್ದೆಯಲ್ಲಿ ಭಾರತೀಯರ ಶಿಕ್ಷಣಕ್ಕಾಗಿ ಮೀಸಲಿಟ್ಟ ಮೊತ್ತ ಎಷ್ಟು?",
+   "q_en": "How much money was set aside for the education of Indians in the Charter Act of 1813?",
+   "opt_kn": [
+    "ಐವತ್ತು ಸಾವಿರ ರೂಪಾಯಿ",
+    "ಒಂದು ಲಕ್ಷ ರೂಪಾಯಿ",
+    "ಹತ್ತು ಲಕ್ಷ ರೂಪಾಯಿ",
+    "ಒಂದು ಕೋಟಿ ರೂಪಾಯಿ"
+   ],
+   "opt_en": [
+    "Fifty thousand rupees",
+    "One lakh rupees",
+    "Ten lakh rupees",
+    "One crore rupees"
+   ],
+   "ans": "B",
+   "exp_kn": "1813ರ ಚಾರ್ಟರ್ ಕಾಯ್ದೆ ಶಿಕ್ಷಣಕ್ಕೆ ಒಂದು ಲಕ್ಷ ರೂಪಾಯಿ ಮೀಸಲಿಟ್ಟಿತು."
+  },
+  {
+   "id": "7SS-C06-04",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Effects of British Rule",
+   "diff": "medium",
+   "q_kn": "1857ರಲ್ಲಿ ಸ್ಥಾಪನೆಯಾದ ಭಾರತದ ಮೂರು ವಿಶ್ವವಿದ್ಯಾಲಯಗಳು ಯಾವ ನಗರಗಳಲ್ಲಿದ್ದವು?",
+   "q_en": "The three universities founded in India in 1857 were in which cities?",
+   "opt_kn": [
+    "ಕಲ್ಕತ್ತಾ, ಲಾಹೋರ್, ಅಲಹಾಬಾದ್",
+    "ದೆಹಲಿ, ಮೈಸೂರು, ಪುಣೆ",
+    "ಕಲ್ಕತ್ತಾ, ಬೊಂಬಾಯಿ, ಮದ್ರಾಸ್",
+    "ಬೆಂಗಳೂರು, ಮದ್ರಾಸ್, ದೆಹಲಿ"
+   ],
+   "opt_en": [
+    "Calcutta, Lahore, Allahabad",
+    "Delhi, Mysore, Pune",
+    "Calcutta, Bombay, Madras",
+    "Bangalore, Madras, Delhi"
+   ],
+   "ans": "C",
+   "exp_kn": "1857ರಲ್ಲಿ ಕಲ್ಕತ್ತಾ, ಬೊಂಬಾಯಿ ಮತ್ತು ಮದ್ರಾಸ್ ವಿಶ್ವವಿದ್ಯಾಲಯಗಳು ಸ್ಥಾಪನೆಯಾದವು."
+  },
+  {
+   "id": "7SS-C06-05",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Effects of British Rule",
+   "diff": "medium",
+   "q_kn": "\"ಸಂಪತ್ತಿನ ಸೋರಿಕೆ ಸಿದ್ಧಾಂತ\"ವನ್ನು ಮಂಡಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who put forward the \"Drain of Wealth\" theory?",
+   "opt_kn": [
+    "ಗೋಪಾಲಕೃಷ್ಣ ಗೋಖಲೆ",
+    "ರಾಜಾ ರಾಮಮೋಹನ ರಾಯ್",
+    "ಬಾಲಗಂಗಾಧರ ತಿಲಕ",
+    "ದಾದಾಬಾಯಿ ನವರೋಜಿ"
+   ],
+   "opt_en": [
+    "Gopal Krishna Gokhale",
+    "Raja Ram Mohan Roy",
+    "Bal Gangadhar Tilak",
+    "Dadabhai Naoroji"
+   ],
+   "ans": "D",
+   "exp_kn": "ಬ್ರಿಟಿಷರು ಭಾರತದ ಸಂಪತ್ತನ್ನು ಹೊರಕ್ಕೆ ಸಾಗಿಸುತ್ತಿದ್ದಾರೆ ಎಂದು ದಾದಾಬಾಯಿ ನವರೋಜಿ ತೋರಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C06-06",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Effects of British Rule",
+   "diff": "hard",
+   "q_kn": "ಹೊಂದಿಸಿ: (1) ವಾರನ್ ಹೇಸ್ಟಿಂಗ್ಸ್ (2) ವಿಲಿಯಂ ಬೆಂಟಿಂಕ್ (3) ಥಾಮಸ್ ಮನ್ರೋ – (a) ರೈತವಾರಿ ಪದ್ಧತಿ (b) ಕಂದಾಯ ವಸೂಲಿಯ ಹರಾಜು ವ್ಯವಸ್ಥೆ (c) ಇಂಗ್ಲಿಷ್ ಶಿಕ್ಷಣ ನೀತಿ",
+   "q_en": "Match: (1) Warren Hastings (2) William Bentinck (3) Thomas Munro – (a) Ryotwari system (b) auction system of revenue (c) English education policy",
+   "opt_kn": [
+    "1-b, 2-c, 3-a",
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b"
+   ],
+   "opt_en": [
+    "1-b, 2-c, 3-a",
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b"
+   ],
+   "ans": "A",
+   "exp_kn": "ಹೇಸ್ಟಿಂಗ್ಸ್–ಹರಾಜು ವ್ಯವಸ್ಥೆ, ಬೆಂಟಿಂಕ್–ಇಂಗ್ಲಿಷ್ ಶಿಕ್ಷಣ, ಮನ್ರೋ–ರೈತವಾರಿ."
+  },
+  {
+   "id": "7SS-C07-01",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "easy",
+   "q_kn": "\"ಮೈಸೂರು ಹುಲಿ\" ಎಂದು ಪ್ರಸಿದ್ಧರಾದವರು ಯಾರು?",
+   "q_en": "Who is known as the \"Tiger of Mysore\"?",
+   "opt_kn": [
+    "ಚಿಕ್ಕದೇವರಾಜ ಒಡೆಯರು",
+    "ಮದಕರಿ ನಾಯಕ",
+    "ಹೈದರಾಲಿ",
+    "ಟಿಪ್ಪು ಸುಲ್ತಾನ್"
+   ],
+   "opt_en": [
+    "Chikkadevaraja Wodeyar",
+    "Madakari Nayaka",
+    "Hyder Ali",
+    "Tipu Sultan"
+   ],
+   "ans": "D",
+   "exp_kn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ \"ಮೈಸೂರು ಹುಲಿ\" ಎಂದು ಪ್ರಸಿದ್ಧ."
+  },
+  {
+   "id": "7SS-C07-02",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "medium",
+   "q_kn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಬ್ರಿಟಿಷರೊಡನೆ ಹೋರಾಡಿ ಅಸುನೀಗಿದ ನಾಲ್ಕನೆಯ ಆಂಗ್ಲೋ–ಮೈಸೂರು ಯುದ್ಧ ನಡೆದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year was the Fourth Anglo-Mysore War, in which Tipu Sultan died fighting the British, fought?",
+   "opt_kn": [
+    "1769",
+    "1792",
+    "1799",
+    "1784"
+   ],
+   "opt_en": [
+    "1769",
+    "1792",
+    "1799",
+    "1784"
+   ],
+   "ans": "C",
+   "exp_kn": "ಮೊದಲ ಯುದ್ಧ 1767-69, ಎರಡನೆಯದು 1780-84, ಮೂರನೆಯದು 1790-92, ನಾಲ್ಕನೆಯದು 1799."
+  },
+  {
+   "id": "7SS-C07-03",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "medium",
+   "q_kn": "ಹದಿನೆಂಟು ಶಾಖೆಗಳ ಆಡಳಿತ ಕಚೇರಿ \"ಅಠಾರಾ ಕಚೇರಿ\"ಯನ್ನು ಸ್ಥಾಪಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who established the \"Athara Kacheri\", an administrative office with eighteen departments?",
+   "opt_kn": [
+    "ಟಿಪ್ಪು ಸುಲ್ತಾನ್",
+    "ಚಿಕ್ಕದೇವರಾಜ ಒಡೆಯರು",
+    "ದಿವಾನ್ ಪೂರ್ಣಯ್ಯ",
+    "ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರು"
+   ],
+   "opt_en": [
+    "Tipu Sultan",
+    "Chikkadevaraja Wodeyar",
+    "Dewan Purnaiah",
+    "Nalvadi Krishnaraja Wodeyar"
+   ],
+   "ans": "B",
+   "exp_kn": "ಚಿಕ್ಕದೇವರಾಜ ಒಡೆಯರು ಹದಿನೆಂಟು ಶಾಖೆಗಳ ಅಠಾರಾ ಕಚೇರಿ ಸ್ಥಾಪಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C07-04",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "medium",
+   "q_kn": "ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರ ಮೈಸೂರು ಸಂಸ್ಥಾನವನ್ನು ಗಾಂಧೀಜಿ ಏನೆಂದು ಬಣ್ಣಿಸಿದರು?",
+   "q_en": "How did Gandhiji describe the Mysore State under Nalvadi Krishnaraja Wodeyar?",
+   "opt_kn": [
+    "ಆದರ್ಶ ರಾಜ್ಯ",
+    "ಸುವರ್ಣ ರಾಜ್ಯ",
+    "ರಾಮರಾಜ್ಯ",
+    "ಸ್ವರ್ಗರಾಜ್ಯ"
+   ],
+   "opt_en": [
+    "Ideal state",
+    "Golden state",
+    "Rama Rajya",
+    "Heavenly kingdom"
+   ],
+   "ans": "C",
+   "exp_kn": "ಗಾಂಧೀಜಿ ಮೈಸೂರು ಸಂಸ್ಥಾನವನ್ನು \"ರಾಮರಾಜ್ಯ\" ಎಂದು, ನಾಲ್ವಡಿಯವರನ್ನು \"ರಾಜರ್ಷಿ\" ಎಂದು ಕರೆದರು."
+  },
+  {
+   "id": "7SS-C07-05",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "easy",
+   "q_kn": "\"ಭಾರತ ರತ್ನ\" ಪ್ರಶಸ್ತಿ ಪಡೆದ ಮೊದಲ ಕನ್ನಡಿಗ ಯಾರು?",
+   "q_en": "Who was the first Kannadiga to receive the Bharat Ratna?",
+   "opt_kn": [
+    "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ",
+    "ಕುವೆಂಪು",
+    "ಸರ್ ಮಿರ್ಜಾ ಇಸ್ಮಾಯಿಲ್",
+    "ಸಿ.ಎನ್.ಆರ್. ರಾವ್"
+   ],
+   "opt_en": [
+    "Sir M. Visvesvaraya",
+    "Kuvempu",
+    "Sir Mirza Ismail",
+    "C.N.R. Rao"
+   ],
+   "ans": "A",
+   "exp_kn": "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯನವರು ಭಾರತ ರತ್ನ ಪಡೆದ ಮೊದಲ ಕನ್ನಡಿಗರು."
+  },
+  {
+   "id": "7SS-C07-06",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "medium",
+   "q_kn": "ಟಿಪ್ಪು ಸುಲ್ತಾನನ ಬೇಸಿಗೆ ಅರಮನೆ \"ದರಿಯಾ ದೌಲತ್\" ಎಲ್ಲಿದೆ?",
+   "q_en": "Where is Tipu Sultan's summer palace \"Dariya Daulat\"?",
+   "opt_kn": [
+    "ಚಿತ್ರದುರ್ಗ",
+    "ಶ್ರೀರಂಗಪಟ್ಟಣ",
+    "ಬೆಂಗಳೂರು",
+    "ಮೈಸೂರು"
+   ],
+   "opt_en": [
+    "Chitradurga",
+    "Srirangapatna",
+    "Bengaluru",
+    "Mysuru"
+   ],
+   "ans": "B",
+   "exp_kn": "ದರಿಯಾ ದೌಲತ್ ಶ್ರೀರಂಗಪಟ್ಟಣದಲ್ಲಿದೆ."
+  },
+  {
+   "id": "7SS-C07-07",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "medium",
+   "q_kn": "ಬೆಂಗಳೂರಿನ ಲಾಲ್‌ಬಾಗ್ ಉದ್ಯಾನವನವನ್ನು ಆರಂಭಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who started the Lalbagh garden in Bengaluru?",
+   "opt_kn": [
+    "ಚಿಕ್ಕದೇವರಾಜ ಒಡೆಯರು",
+    "ಕೆಂಪೇಗೌಡ",
+    "ಮಾರ್ಕ್ ಕಬ್ಬನ್",
+    "ಹೈದರಾಲಿ"
+   ],
+   "opt_en": [
+    "Chikkadevaraja Wodeyar",
+    "Kempegowda",
+    "Mark Cubbon",
+    "Hyder Ali"
+   ],
+   "ans": "D",
+   "exp_kn": "ಲಾಲ್‌ಬಾಗ್ ಉದ್ಯಾನವನವನ್ನು ಹೈದರಾಲಿ ಆರಂಭಿಸಿದನು; ಟಿಪ್ಪು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದನು."
+  },
+  {
+   "id": "7SS-C07-08",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "medium",
+   "q_kn": "ಮೈಸೂರು ಸಂಸ್ಥಾನದಲ್ಲಿ \"ಪ್ರಜಾಪ್ರತಿನಿಧಿ ಸಭೆ\" ಆರಂಭವಾದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year did the \"Representative Assembly\" begin in the Mysore State?",
+   "opt_kn": [
+    "1907",
+    "1915",
+    "1881",
+    "1947"
+   ],
+   "opt_en": [
+    "1907",
+    "1915",
+    "1881",
+    "1947"
+   ],
+   "ans": "C",
+   "exp_kn": "ಹತ್ತನೆಯ ಚಾಮರಾಜ ಒಡೆಯರ ಕಾಲದಲ್ಲಿ 1881ರಲ್ಲಿ ಪ್ರಜಾಪ್ರತಿನಿಧಿ ಸಭೆ ಆರಂಭವಾಯಿತು."
+  },
+  {
+   "id": "7SS-C07-09",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "easy",
+   "q_kn": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ಎಲ್ಲಿ ಸ್ಥಾಪನೆಯಾಯಿತು?",
+   "q_en": "Where was the Kannada Sahitya Parishat established?",
+   "opt_kn": [
+    "ಮಂಗಳೂರು",
+    "ಬೆಂಗಳೂರು",
+    "ಮೈಸೂರು",
+    "ಧಾರವಾಡ"
+   ],
+   "opt_en": [
+    "Mangaluru",
+    "Bengaluru",
+    "Mysuru",
+    "Dharwad"
+   ],
+   "ans": "B",
+   "exp_kn": "1915ರಲ್ಲಿ ಬೆಂಗಳೂರಿನಲ್ಲಿ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ಸ್ಥಾಪನೆಯಾಯಿತು."
+  },
+  {
+   "id": "7SS-C07-10",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "medium",
+   "q_kn": "ಮೈಸೂರು ಸಂಸ್ಥಾನವು ಭಾರತ ಒಕ್ಕೂಟ ಸೇರಬೇಕೆಂದು 1947ರಲ್ಲಿ ನಡೆದ \"ಅರಮನೆ ಸತ್ಯಾಗ್ರಹ\"ದ ನೇತೃತ್ವ ವಹಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who led the 1947 \"Palace Satyagraha\" demanding that Mysore State join the Indian Union?",
+   "opt_kn": [
+    "ಆಲೂರು ವೆಂಕಟರಾಯ",
+    "ಎಸ್. ನಿಜಲಿಂಗಪ್ಪ",
+    "ಹರ್ಡೇಕರ್ ಮಂಜಪ್ಪ",
+    "ಕೆ.ಸಿ. ರೆಡ್ಡಿ"
+   ],
+   "opt_en": [
+    "Aluru Venkata Rao",
+    "S. Nijalingappa",
+    "Hardekar Manjappa",
+    "K.C. Reddy"
+   ],
+   "ans": "D",
+   "exp_kn": "ಕೆ.ಸಿ. ರೆಡ್ಡಿಯವರ ನೇತೃತ್ವದಲ್ಲಿ ಅರಮನೆ ಸತ್ಯಾಗ್ರಹ ನಡೆಯಿತು."
+  },
+  {
+   "id": "7SS-C07-11",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "hard",
+   "q_kn": "ಹೊಂದಿಸಿ: (1) ಚಿಕ್ಕದೇವರಾಜ ಒಡೆಯರು (2) ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರು (3) ಜಯಚಾಮರಾಜ ಒಡೆಯರು – (a) ರಾಜರ್ಷಿ (b) ಮೊದಲ ರಾಜ್ಯಪಾಲರು (c) ನವಕೋಟಿ ನಾರಾಯಣ",
+   "q_en": "Match: (1) Chikkadevaraja Wodeyar (2) Nalvadi Krishnaraja Wodeyar (3) Jayachamaraja Wodeyar – (a) Rajarshi (b) first Governor (c) Navakoti Narayana",
+   "opt_kn": [
+    "1-c, 2-a, 3-b",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c"
+   ],
+   "opt_en": [
+    "1-c, 2-a, 3-b",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c"
+   ],
+   "ans": "A",
+   "exp_kn": "ಚಿಕ್ಕದೇವರಾಜ–ನವಕೋಟಿ ನಾರಾಯಣ, ನಾಲ್ವಡಿ–ರಾಜರ್ಷಿ, ಜಯಚಾಮರಾಜ–ಮೊದಲ ರಾಜ್ಯಪಾಲರು."
+  },
+  {
+   "id": "7SS-C07-12",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "easy",
+   "q_kn": "ಕೊಡಗನ್ನು ಆಳಿದ ಪ್ರಮುಖ ರಾಜವಂಶ ಯಾವುದು?",
+   "q_en": "Which was the main dynasty that ruled Kodagu?",
+   "opt_kn": [
+    "ಚೌಟರು",
+    "ಕೆಳದಿ ನಾಯಕರು",
+    "ಹಾಲೇರಿ ಅರಸುಮನೆತನ",
+    "ಆಳುಪರು"
+   ],
+   "opt_en": [
+    "Chowtas",
+    "Keladi Nayakas",
+    "Haleri dynasty",
+    "Alupas"
+   ],
+   "ans": "C",
+   "exp_kn": "ಕೊಡಗನ್ನು ಹಾಲೇರಿ ಅರಸುಮನೆತನ ಆಳಿತು."
+  },
+  {
+   "id": "7SS-C07-13",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "easy",
+   "q_kn": "ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮನ ನಿಷ್ಠಾವಂತ ಭಂಟ ಯಾರು?",
+   "q_en": "Who was the loyal follower of Kittur Rani Chennamma?",
+   "opt_kn": [
+    "ಮದಕರಿ ನಾಯಕ",
+    "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ",
+    "ವೆಂಕಟಪ್ಪ ನಾಯಕ",
+    "ಸಿಂಧೂರ ಲಕ್ಷ್ಮಣ"
+   ],
+   "opt_en": [
+    "Madakari Nayaka",
+    "Sangolli Rayanna",
+    "Venkatappa Nayaka",
+    "Sindhura Lakshmana"
+   ],
+   "ans": "B",
+   "exp_kn": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ ಚೆನ್ನಮ್ಮನ ನಿಷ್ಠಾವಂತ ಭಂಟ."
+  },
+  {
+   "id": "7SS-C07-14",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "medium",
+   "q_kn": "ಪೋರ್ಚುಗೀಸರ ವಿರುದ್ಧ ಹೋರಾಡಿದ ಉಲ್ಲಾಳದ ರಾಣಿ ಯಾರು?",
+   "q_en": "Which queen of Ullal fought against the Portuguese?",
+   "opt_kn": [
+    "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ",
+    "ರಾಣಿ ಚೆನ್ನಮ್ಮ",
+    "ಒನಕೆ ಓಬವ್ವ",
+    "ರಾಣಿ ಅಬ್ಬಕ್ಕ"
+   ],
+   "opt_en": [
+    "Keladi Chennamma",
+    "Rani Chennamma",
+    "Onake Obavva",
+    "Rani Abbakka"
+   ],
+   "ans": "D",
+   "exp_kn": "ಚೌಟ ಮನೆತನದ ಉಲ್ಲಾಳದ ರಾಣಿ ಅಬ್ಬಕ್ಕ ಪೋರ್ಚುಗೀಸರನ್ನು ಎದುರಿಸಿದಳು."
+  },
+  {
+   "id": "7SS-C07-15",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "medium",
+   "q_kn": "ಕನ್ನಡದ ಮೊದಲ ನಿಘಂಟನ್ನು ರಚಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who compiled the first Kannada dictionary?",
+   "opt_kn": [
+    "ಫರ್ಡಿನಾಂಡ್ ಕಿಟೆಲ್",
+    "ಮೆನ್ನರ್",
+    "ಮಾರ್ಕ್ ಕಬ್ಬನ್",
+    "ಬಿ.ಎಲ್. ರೈಸ್"
+   ],
+   "opt_en": [
+    "Ferdinand Kittel",
+    "Manner",
+    "Mark Cubbon",
+    "B.L. Rice"
+   ],
+   "ans": "A",
+   "exp_kn": "ಫರ್ಡಿನಾಂಡ್ ಕಿಟೆಲ್ ಕನ್ನಡ ನಿಘಂಟು ರಚಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C07-16",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "easy",
+   "q_kn": "ಹೈದರಾಲಿಯ ಸೈನಿಕರಿಂದ ಚಿತ್ರದುರ್ಗದ ಕೋಟೆಯನ್ನು ಒನಕೆಯಿಂದ ರಕ್ಷಿಸಿದ ವೀರ ಮಹಿಳೆ ಯಾರು?",
+   "q_en": "Which brave woman defended the Chitradurga fort with a pestle against Hyder Ali's soldiers?",
+   "opt_kn": [
+    "ಒನಕೆ ಓಬವ್ವ",
+    "ರಾಮಿ",
+    "ರಾಣಿ ಅಬ್ಬಕ್ಕ",
+    "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ"
+   ],
+   "opt_en": [
+    "Onake Obavva",
+    "Rami",
+    "Rani Abbakka",
+    "Kittur Chennamma"
+   ],
+   "ans": "A",
+   "exp_kn": "ಒನಕೆ ಓಬವ್ವ ಚಿತ್ರದುರ್ಗದ ಕೋಟೆಯನ್ನು ರಕ್ಷಿಸಿದಳು."
+  },
+  {
+   "id": "7SS-C07-17",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "medium",
+   "q_kn": "ಬೆಂಗಳೂರು ನಗರವನ್ನು ನಿರ್ಮಿಸಿದ ಯಲಹಂಕ ನಾಡಪ್ರಭು ಯಾರು?",
+   "q_en": "Which Yelahanka chieftain built the city of Bengaluru?",
+   "opt_kn": [
+    "ಎರಡನೆಯ ಕೆಂಪೇಗೌಡ",
+    "ಮದಕರಿ ನಾಯಕ",
+    "ಹಿರಿಯ ವೆಂಕಟಪ್ಪ ನಾಯಕ",
+    "ಒಂದನೆಯ ಕೆಂಪೇಗೌಡ"
+   ],
+   "opt_en": [
+    "Kempegowda II",
+    "Madakari Nayaka",
+    "Hiriya Venkatappa Nayaka",
+    "Kempegowda I"
+   ],
+   "ans": "D",
+   "exp_kn": "ಒಂದನೆಯ ಕೆಂಪೇಗೌಡ ಬೆಂಗಳೂರು ನಗರ ಕಟ್ಟಿದನು."
+  },
+  {
+   "id": "7SS-C07-18",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "medium",
+   "q_kn": "ಹಲಗಲಿ ದಂಗೆಯಲ್ಲಿ ಮೂವರು ಬ್ರಿಟಿಷ್ ಸೈನಿಕರನ್ನು ಗುಂಡಿಕ್ಕಿ ಕೊಂದ ಬೇಡರ ವೀರ ಮಹಿಳೆ ಯಾರು?",
+   "q_en": "Which brave Beda woman shot dead three British soldiers in the Halagali revolt?",
+   "opt_kn": [
+    "ಚೆನ್ನಮ್ಮ",
+    "ಓಬವ್ವ",
+    "ರಾಮಿ",
+    "ಅಬ್ಬಕ್ಕ"
+   ],
+   "opt_en": [
+    "Chennamma",
+    "Obavva",
+    "Rami",
+    "Abbakka"
+   ],
+   "ans": "C",
+   "exp_kn": "ಹಲಗಲಿ ದಂಗೆಯಲ್ಲಿ ರಾಮಿ ವೀರಮರಣ ಹೊಂದಿದಳು."
+  },
+  {
+   "id": "7SS-C07-19",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "medium",
+   "q_kn": "\"ಕರ್ನಾಟಕದ ಗಾಂಧಿ\" ಎಂದು ಪ್ರಸಿದ್ಧರಾದವರು ಯಾರು?",
+   "q_en": "Who is known as the \"Gandhi of Karnataka\"?",
+   "opt_kn": [
+    "ಆಲೂರು ವೆಂಕಟರಾಯ",
+    "ಹರ್ಡೇಕರ್ ಮಂಜಪ್ಪ",
+    "ಸ್ವಾಮಿ ರಮಾನಂದ ತೀರ್ಥ",
+    "ಕಾರ್ನಾಡ್ ಸದಾಶಿವರಾವ್"
+   ],
+   "opt_en": [
+    "Aluru Venkata Rao",
+    "Hardekar Manjappa",
+    "Swami Ramananda Tirtha",
+    "Karnad Sadashiva Rao"
+   ],
+   "ans": "B",
+   "exp_kn": "ಹರ್ಡೇಕರ್ ಮಂಜಪ್ಪ \"ಕರ್ನಾಟಕದ ಗಾಂಧಿ\" ಎಂದೇ ಪ್ರಸಿದ್ಧರು."
+  },
+  {
+   "id": "7SS-C07-20",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "hard",
+   "q_kn": "ಹೈದರಾಬಾದ್ ಸಂಸ್ಥಾನದಲ್ಲಿ \"ವಂದೇ ಮಾತರಂ\" ಹಾಡು ನಿಷೇಧದ ವಿರುದ್ಧದ ಹೋರಾಟದ ಧೀರ ನಾಯಕ ಯಾರು?",
+   "q_en": "Who was the brave leader of the struggle against the ban on singing \"Vande Mataram\" in Hyderabad State?",
+   "opt_kn": [
+    "ಸ್ವಾಮಿ ರಮಾನಂದ ತೀರ್ಥ",
+    "ಸಿಂಧೂರ ಲಕ್ಷ್ಮಣ",
+    "ಶರಣಗೌಡ ಇನಾಂದಾರ್",
+    "ರಾಮಚಂದ್ರ ರಾವ್"
+   ],
+   "opt_en": [
+    "Swami Ramananda Tirtha",
+    "Sindhura Lakshmana",
+    "Sharanagouda Inamdar",
+    "Ramachandra Rao"
+   ],
+   "ans": "D",
+   "exp_kn": "ಅವರು \"ವಂದೇ ಮಾತರಂ ರಾಮಚಂದ್ರ ರಾವ್\" ಎಂದೇ ಪ್ರಸಿದ್ಧರು."
+  },
+  {
+   "id": "7SS-C07-21",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "medium",
+   "q_kn": "ಯಾದಗಿರಿ ಜಿಲ್ಲೆಯ ಸುರಪುರ ಯಾವ ಎರಡು ನದಿಗಳ ನಡುವೆ ಇದೆ?",
+   "q_en": "Surapura in Yadgir district lies between which two rivers?",
+   "opt_kn": [
+    "ಘಟಪ್ರಭಾ ಮತ್ತು ಮಲಪ್ರಭಾ",
+    "ತುಂಗಾ ಮತ್ತು ಭದ್ರಾ",
+    "ಕೃಷ್ಣಾ ಮತ್ತು ಭೀಮಾ",
+    "ಕಾವೇರಿ ಮತ್ತು ಕಬಿನಿ"
+   ],
+   "opt_en": [
+    "Ghataprabha and Malaprabha",
+    "Tunga and Bhadra",
+    "Krishna and Bhima",
+    "Kaveri and Kabini"
+   ],
+   "ans": "C",
+   "exp_kn": "ಸುರಪುರವು ಕೃಷ್ಣಾ ಹಾಗೂ ಭೀಮಾ ನದಿಗಳ ಮಧ್ಯದಲ್ಲಿದೆ."
+  },
+  {
+   "id": "7SS-C07-22",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಮೈಸೂರು ಮತ್ತು ಇತರ ಸಂಸ್ಥಾನಗಳು",
+   "ch_en": "Mysore and Other Princely States",
+   "diff": "hard",
+   "q_kn": "ಹೇಳಿಕೆ (A): ಮೂರನೆಯ ಆಂಗ್ಲೋ–ಮೈಸೂರು ಯುದ್ಧದ ನಂತರ ಟಿಪ್ಪು ತನ್ನ ಅರ್ಧ ರಾಜ್ಯವನ್ನು ಕಳೆದುಕೊಂಡನು. ಕಾರಣ (R): ಶಾಂತಿ ಒಪ್ಪಂದದಂತೆ ಅವನು ಅರ್ಧ ರಾಜ್ಯವನ್ನು ಒಪ್ಪಿಸಿ ಅಪಾರ ಪರಿಹಾರ ಧನ ನೀಡಬೇಕಾಯಿತು.",
+   "q_en": "Assertion (A): After the Third Anglo-Mysore War Tipu lost half his kingdom. Reason (R): By the peace treaty he had to give up half his territory and pay a huge indemnity.",
+   "opt_kn": [
+    "A ಮತ್ತು R ಎರಡೂ ಸರಿ; R, A ಗೆ ಸರಿಯಾದ ವಿವರಣೆ",
+    "A ಮತ್ತು R ಎರಡೂ ಸರಿ; ಆದರೆ R, A ಗೆ ವಿವರಣೆಯಲ್ಲ",
+    "A ಸರಿ, R ತಪ್ಪು",
+    "A ತಪ್ಪು, R ಸರಿ"
+   ],
+   "opt_en": [
+    "Both A and R are true and R explains A",
+    "Both true but R does not explain A",
+    "A true, R false",
+    "A false, R true"
+   ],
+   "ans": "A",
+   "exp_kn": "ಶ್ರೀರಂಗಪಟ್ಟಣದ ಮುತ್ತಿಗೆಯ ನಂತರ ಶಾಂತಿ ಒಪ್ಪಂದದಂತೆ ಟಿಪ್ಪು ಅರ್ಧ ರಾಜ್ಯ ಮತ್ತು ಪರಿಹಾರ ಧನ ನೀಡಬೇಕಾಯಿತು; ಮಕ್ಕಳನ್ನು ಒತ್ತೆಯಾಳಾಗಿ ಕೊಟ್ಟರು."
+  },
+  {
+   "id": "7SS-C08-01",
+   "part": 1,
+   "ch": 8,
+   "ch_kn": "ಭಕ್ತಿ ಪಂಥ ಹಾಗೂ ಸೂಫಿ ಪರಂಪರೆ",
+   "ch_en": "Bhakti Movement and Sufi Tradition",
+   "diff": "easy",
+   "q_kn": "ಅಕ್ಕಮಹಾದೇವಿಯವರ ವಚನಗಳ ಅಂಕಿತನಾಮ ಯಾವುದು?",
+   "q_en": "What is the signature name (ankita) in Akkamahadevi's vachanas?",
+   "opt_kn": [
+    "ಕಾಗಿನೆಲೆ ಆದಿಕೇಶವ",
+    "ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ",
+    "ಕೂಡಲಸಂಗಮದೇವ",
+    "ಗುಹೇಶ್ವರ"
+   ],
+   "opt_en": [
+    "Kaginele Adikeshava",
+    "Chennamallikarjuna",
+    "Kudalasangamadeva",
+    "Guheshwara"
+   ],
+   "ans": "B",
+   "exp_kn": "ಅಕ್ಕಮಹಾದೇವಿಯ ಅಂಕಿತ \"ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ\"."
+  },
+  {
+   "id": "7SS-C08-02",
+   "part": 1,
+   "ch": 8,
+   "ch_kn": "ಭಕ್ತಿ ಪಂಥ ಹಾಗೂ ಸೂಫಿ ಪರಂಪರೆ",
+   "ch_en": "Bhakti Movement and Sufi Tradition",
+   "diff": "easy",
+   "q_kn": "\"ಕರ್ನಾಟಕ ಸಂಗೀತ ಪಿತಾಮಹ\" ಯಾರು?",
+   "q_en": "Who is the \"Father of Carnatic music\"?",
+   "opt_kn": [
+    "ಪುರಂದರದಾಸರು",
+    "ತ್ಯಾಗರಾಜರು",
+    "ಕನಕದಾಸರು",
+    "ಶಿಶುನಾಳ ಷರೀಫರು"
+   ],
+   "opt_en": [
+    "Purandara Dasa",
+    "Tyagaraja",
+    "Kanaka Dasa",
+    "Shishunala Sharif"
+   ],
+   "ans": "A",
+   "exp_kn": "ಪುರಂದರದಾಸರನ್ನು ಕರ್ನಾಟಕ ಸಂಗೀತ ಪಿತಾಮಹ ಎನ್ನುತ್ತಾರೆ."
+  },
+  {
+   "id": "7SS-C08-03",
+   "part": 1,
+   "ch": 8,
+   "ch_kn": "ಭಕ್ತಿ ಪಂಥ ಹಾಗೂ ಸೂಫಿ ಪರಂಪರೆ",
+   "ch_en": "Bhakti Movement and Sufi Tradition",
+   "diff": "medium",
+   "q_kn": "\"ಕಾಗಿನೆಲೆ ಆದಿಕೇಶವ\" ಯಾರ ಅಂಕಿತನಾಮ?",
+   "q_en": "\"Kaginele Adikeshava\" is whose signature name?",
+   "opt_kn": [
+    "ಪುರಂದರದಾಸರು",
+    "ಅಲ್ಲಮಪ್ರಭು",
+    "ಕನಕದಾಸರು",
+    "ಬಸವಣ್ಣ"
+   ],
+   "opt_en": [
+    "Purandara Dasa",
+    "Allama Prabhu",
+    "Kanaka Dasa",
+    "Basavanna"
+   ],
+   "ans": "C",
+   "exp_kn": "ಕನಕದಾಸರ ಅಂಕಿತ \"ಕಾಗಿನೆಲೆ ಆದಿಕೇಶವ\"."
+  },
+  {
+   "id": "7SS-C08-04",
+   "part": 1,
+   "ch": 8,
+   "ch_kn": "ಭಕ್ತಿ ಪಂಥ ಹಾಗೂ ಸೂಫಿ ಪರಂಪರೆ",
+   "ch_en": "Bhakti Movement and Sufi Tradition",
+   "diff": "medium",
+   "q_kn": "\"ಕರ್ನಾಟಕದ ಕಬೀರ\" ಎಂದು ಯಾರನ್ನು ಕರೆಯುತ್ತಾರೆ?",
+   "q_en": "Who is called the \"Kabir of Karnataka\"?",
+   "opt_kn": [
+    "ಶಿಶುನಾಳ ಷರೀಫರು",
+    "ಸರ್ವಜ್ಞ",
+    "ಪುರಂದರದಾಸರು",
+    "ಕನಕದಾಸರು"
+   ],
+   "opt_en": [
+    "Shishunala Sharif",
+    "Sarvajna",
+    "Purandara Dasa",
+    "Kanaka Dasa"
+   ],
+   "ans": "A",
+   "exp_kn": "ಶಿಶುನಾಳ ಷರೀಫರನ್ನು ಕರ್ನಾಟಕದ ಕಬೀರ ಎನ್ನುತ್ತಾರೆ."
+  },
+  {
+   "id": "7SS-C08-05",
+   "part": 1,
+   "ch": 8,
+   "ch_kn": "ಭಕ್ತಿ ಪಂಥ ಹಾಗೂ ಸೂಫಿ ಪರಂಪರೆ",
+   "ch_en": "Bhakti Movement and Sufi Tradition",
+   "diff": "easy",
+   "q_kn": "ಸಿಖ್ಖರ ಪವಿತ್ರ ಗ್ರಂಥ ಯಾವುದು?",
+   "q_en": "What is the holy book of the Sikhs?",
+   "opt_kn": [
+    "ಕುರಾನ್",
+    "ಬೈಬಲ್",
+    "ರಾಮಚರಿತಮಾನಸ",
+    "ಗುರು ಗ್ರಂಥ ಸಾಹಿಬ್"
+   ],
+   "opt_en": [
+    "Quran",
+    "Bible",
+    "Ramcharitmanas",
+    "Guru Granth Sahib"
+   ],
+   "ans": "D",
+   "exp_kn": "ಸಿಖ್ಖರ ಪವಿತ್ರ ಗ್ರಂಥ ಗುರು ಗ್ರಂಥ ಸಾಹಿಬ್."
+  },
+  {
+   "id": "7SS-C08-06",
+   "part": 1,
+   "ch": 8,
+   "ch_kn": "ಭಕ್ತಿ ಪಂಥ ಹಾಗೂ ಸೂಫಿ ಪರಂಪರೆ",
+   "ch_en": "Bhakti Movement and Sufi Tradition",
+   "diff": "medium",
+   "q_kn": "\"ಕಲಿಯುಗದ ರಾಧಾ\" ಎಂದು ಯಾರನ್ನು ಕರೆಯುತ್ತಿದ್ದರು?",
+   "q_en": "Who was called the \"Radha of Kaliyuga\"?",
+   "opt_kn": [
+    "ಆಂಡಾಳ್",
+    "ಮೀರಾಬಾಯಿ",
+    "ಲಲ್ಲೇಶ್ವರಿ",
+    "ಅಕ್ಕಮಹಾದೇವಿ"
+   ],
+   "opt_en": [
+    "Andal",
+    "Meerabai",
+    "Lalleshwari",
+    "Akkamahadevi"
+   ],
+   "ans": "B",
+   "exp_kn": "ಕೃಷ್ಣಭಕ್ತೆ ಮೀರಾಬಾಯಿಯನ್ನು ಕಲಿಯುಗದ ರಾಧಾ ಎನ್ನುತ್ತಿದ್ದರು."
+  },
+  {
+   "id": "7SS-C08-07",
+   "part": 1,
+   "ch": 8,
+   "ch_kn": "ಭಕ್ತಿ ಪಂಥ ಹಾಗೂ ಸೂಫಿ ಪರಂಪರೆ",
+   "ch_en": "Bhakti Movement and Sufi Tradition",
+   "diff": "hard",
+   "q_kn": "ಹೊಂದಿಸಿ: (1) ಗುರುನಾನಕ್ (2) ಚೈತನ್ಯ (3) ನಿಜಾಮುದ್ದೀನ್ ಔಲಿಯಾ – (a) ಸೂಫಿ ಸಂತ (b) ಸಿಖ್ ಧರ್ಮ (c) ಹರೇಕೃಷ್ಣ ಪಂಥ",
+   "q_en": "Match: (1) Guru Nanak (2) Chaitanya (3) Nizamuddin Auliya – (a) Sufi saint (b) Sikhism (c) Hare Krishna sect",
+   "opt_kn": [
+    "1-b, 2-c, 3-a",
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b"
+   ],
+   "opt_en": [
+    "1-b, 2-c, 3-a",
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b"
+   ],
+   "ans": "A",
+   "exp_kn": "ಗುರುನಾನಕ್–ಸಿಖ್ ಧರ್ಮ, ಚೈತನ್ಯ–ಹರೇಕೃಷ್ಣ ಪಂಥ, ನಿಜಾಮುದ್ದೀನ್ ಔಲಿಯಾ–ಸೂಫಿ ಸಂತ."
+  },
+  {
+   "id": "7SS-C08-08",
+   "part": 1,
+   "ch": 8,
+   "ch_kn": "ಭಕ್ತಿ ಪಂಥ ಹಾಗೂ ಸೂಫಿ ಪರಂಪರೆ",
+   "ch_en": "Bhakti Movement and Sufi Tradition",
+   "diff": "medium",
+   "q_kn": "ಅಕ್ಕಮಹಾದೇವಿ ಜನಿಸಿದ ಸ್ಥಳ ಯಾವುದು?",
+   "q_en": "Where was Akkamahadevi born?",
+   "opt_kn": [
+    "ಬಸವನ ಬಾಗೇವಾಡಿ",
+    "ಕಲ್ಯಾಣ",
+    "ಉಡುತಡಿ",
+    "ಕಾಗಿನೆಲೆ"
+   ],
+   "opt_en": [
+    "Basavana Bagewadi",
+    "Kalyana",
+    "Udutadi",
+    "Kaginele"
+   ],
+   "ans": "C",
+   "exp_kn": "ಅಕ್ಕಮಹಾದೇವಿ ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆಯ ಉಡುತಡಿಯಲ್ಲಿ ಜನಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C09-01",
+   "part": 1,
+   "ch": 9,
+   "ch_kn": "ಶಾಸಕಾಂಗ, ಕಾರ್ಯಾಂಗ ಮತ್ತು ನ್ಯಾಯಾಂಗ",
+   "ch_en": "Legislature, Executive and Judiciary",
+   "diff": "easy",
+   "q_kn": "ಶಾಸನಗಳನ್ನು ಅನುಷ್ಠಾನಗೊಳಿಸುವ ಸರ್ಕಾರದ ಅಂಗ ಯಾವುದು?",
+   "q_en": "Which organ of government implements the laws?",
+   "opt_kn": [
+    "ಚುನಾವಣಾ ಆಯೋಗ",
+    "ಕಾರ್ಯಾಂಗ",
+    "ಶಾಸಕಾಂಗ",
+    "ನ್ಯಾಯಾಂಗ"
+   ],
+   "opt_en": [
+    "Election Commission",
+    "Executive",
+    "Legislature",
+    "Judiciary"
+   ],
+   "ans": "B",
+   "exp_kn": "ಶಾಸಕಾಂಗ ರೂಪಿಸಿದ ಶಾಸನಗಳನ್ನು ಕಾರ್ಯಾಂಗ ಅನುಷ್ಠಾನಗೊಳಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "7SS-C09-02",
+   "part": 1,
+   "ch": 9,
+   "ch_kn": "ಶಾಸಕಾಂಗ, ಕಾರ್ಯಾಂಗ ಮತ್ತು ನ್ಯಾಯಾಂಗ",
+   "ch_en": "Legislature, Executive and Judiciary",
+   "diff": "medium",
+   "q_kn": "ಎರಡು ಸದನಗಳುಳ್ಳ ಶಾಸಕಾಂಗವನ್ನು ಏನೆನ್ನುತ್ತಾರೆ?",
+   "q_en": "What is a legislature with two houses called?",
+   "opt_kn": [
+    "ಸಂಯುಕ್ತ ಸದನ",
+    "ಏಕಸದನ ಶಾಸಕಾಂಗ",
+    "ಸಚಿವ ಸಂಪುಟ",
+    "ದ್ವಿಸದನ ಶಾಸಕಾಂಗ"
+   ],
+   "opt_en": [
+    "Joint house",
+    "Unicameral legislature",
+    "Cabinet",
+    "Bicameral legislature"
+   ],
+   "ans": "D",
+   "exp_kn": "ಎರಡು ಸದನಗಳಿರುವುದು ದ್ವಿಸದನ, ಒಂದೇ ಸದನ ಇರುವುದು ಏಕಸದನ ಶಾಸಕಾಂಗ."
+  },
+  {
+   "id": "7SS-C09-03",
+   "part": 1,
+   "ch": 9,
+   "ch_kn": "ಶಾಸಕಾಂಗ, ಕಾರ್ಯಾಂಗ ಮತ್ತು ನ್ಯಾಯಾಂಗ",
+   "ch_en": "Legislature, Executive and Judiciary",
+   "diff": "medium",
+   "q_kn": "ನ್ಯಾಯಾಂಗ (Judiciary) ಎಂಬ ಪದ ಯಾವ ಲ್ಯಾಟಿನ್ ಪದದಿಂದ ಬಂದಿದೆ?",
+   "q_en": "From which Latin word is \"Judiciary\" derived?",
+   "opt_kn": [
+    "ಲೆಜಿಸ್",
+    "ಪಾರ್ಲರ್",
+    "ಎಕ್ಸಿಕ್ಯೂ",
+    "ಜಸ್ಟಿಶಿಯಾ"
+   ],
+   "opt_en": [
+    "Legis",
+    "Parler",
+    "Exsequi",
+    "Justitia"
+   ],
+   "ans": "D",
+   "exp_kn": "ನ್ಯಾಯಾಂಗ ಪದ ಲ್ಯಾಟಿನ್‌ನ \"ಜಸ್ಟಿಶಿಯಾ\" ದಿಂದ ಬಂದಿದೆ."
+  },
+  {
+   "id": "7SS-C09-04",
+   "part": 1,
+   "ch": 9,
+   "ch_kn": "ಶಾಸಕಾಂಗ, ಕಾರ್ಯಾಂಗ ಮತ್ತು ನ್ಯಾಯಾಂಗ",
+   "ch_en": "Legislature, Executive and Judiciary",
+   "diff": "medium",
+   "q_kn": "\"ಹಕ್ಕುಗಳ ರಕ್ಷಕ\" ಎಂದು ಸರ್ಕಾರದ ಯಾವ ಅಂಗವನ್ನು ಕರೆಯುತ್ತಾರೆ?",
+   "q_en": "Which organ of government is called the \"protector of rights\"?",
+   "opt_kn": [
+    "ನ್ಯಾಯಾಂಗ",
+    "ಶಾಸಕಾಂಗ",
+    "ಕಾರ್ಯಾಂಗ",
+    "ಪತ್ರಿಕಾರಂಗ"
+   ],
+   "opt_en": [
+    "Judiciary",
+    "Legislature",
+    "Executive",
+    "Press"
+   ],
+   "ans": "A",
+   "exp_kn": "ನಾಗರಿಕರ ಹಕ್ಕುಗಳನ್ನು ನ್ಯಾಯಾಂಗ ರಕ್ಷಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "7SS-C09-05",
+   "part": 1,
+   "ch": 9,
+   "ch_kn": "ಶಾಸಕಾಂಗ, ಕಾರ್ಯಾಂಗ ಮತ್ತು ನ್ಯಾಯಾಂಗ",
+   "ch_en": "Legislature, Executive and Judiciary",
+   "diff": "hard",
+   "q_kn": "ಭಾರತದಲ್ಲಿ ಕಾರ್ಯಾಂಗದ ನೈಜ ಮುಖ್ಯಸ್ಥರು ಯಾರು?",
+   "q_en": "Who is the real head of the executive in India?",
+   "opt_kn": [
+    "ರಾಷ್ಟ್ರಪತಿ",
+    "ಮುಖ್ಯ ನ್ಯಾಯಾಧೀಶರು",
+    "ಪ್ರಧಾನಮಂತ್ರಿ",
+    "ಉಪರಾಷ್ಟ್ರಪತಿ"
+   ],
+   "opt_en": [
+    "President",
+    "Chief Justice",
+    "Prime Minister",
+    "Vice-President"
+   ],
+   "ans": "C",
+   "exp_kn": "ರಾಷ್ಟ್ರಪತಿ ನಾಮಮಾತ್ರ ಮುಖ್ಯಸ್ಥರು; ಪ್ರಧಾನಮಂತ್ರಿ ನೈಜ ಮುಖ್ಯಸ್ಥರು."
+  },
+  {
+   "id": "7SS-C09-06",
+   "part": 1,
+   "ch": 9,
+   "ch_kn": "ಶಾಸಕಾಂಗ, ಕಾರ್ಯಾಂಗ ಮತ್ತು ನ್ಯಾಯಾಂಗ",
+   "ch_en": "Legislature, Executive and Judiciary",
+   "diff": "medium",
+   "q_kn": "ಭಾರತದ ರಾಷ್ಟ್ರಪತಿಯವರು ಯಾವ ಚುನಾವಣೆಯ ಮೂಲಕ ಆಯ್ಕೆಯಾಗುತ್ತಾರೆ?",
+   "q_en": "By which type of election is the President of India elected?",
+   "opt_kn": [
+    "ನಾಮನಿರ್ದೇಶನ",
+    "ಪರೋಕ್ಷ ಚುನಾವಣೆ",
+    "ಪ್ರತ್ಯಕ್ಷ ಚುನಾವಣೆ",
+    "ಅನುವಂಶಿಕ ವಿಧಾನ"
+   ],
+   "opt_en": [
+    "Nomination",
+    "Indirect election",
+    "Direct election",
+    "Hereditary method"
+   ],
+   "ans": "B",
+   "exp_kn": "ರಾಷ್ಟ್ರಪತಿಯವರು ಚುನಾಯಿತ ಪ್ರತಿನಿಧಿಗಳಿಂದ ಪರೋಕ್ಷವಾಗಿ ಆಯ್ಕೆಯಾಗುತ್ತಾರೆ."
+  },
+  {
+   "id": "7SS-C10-01",
+   "part": 1,
+   "ch": 10,
+   "ch_kn": "ಕೇಂದ್ರ ಸರ್ಕಾರ",
+   "ch_en": "The Union Government",
+   "diff": "easy",
+   "q_kn": "ಭಾರತ ಗಣರಾಜ್ಯದ ಅತ್ಯುನ್ನತ ಅಧಿಕಾರಿ ಯಾರು?",
+   "q_en": "Who is the highest authority of the Republic of India?",
+   "opt_kn": [
+    "ಪ್ರಧಾನಮಂತ್ರಿ",
+    "ರಾಷ್ಟ್ರಪತಿ",
+    "ಲೋಕಸಭಾ ಸ್ಪೀಕರ್",
+    "ಮುಖ್ಯ ನ್ಯಾಯಾಧೀಶರು"
+   ],
+   "opt_en": [
+    "Prime Minister",
+    "President",
+    "Lok Sabha Speaker",
+    "Chief Justice"
+   ],
+   "ans": "B",
+   "exp_kn": "ರಾಷ್ಟ್ರಪತಿ ಭಾರತ ಗಣರಾಜ್ಯದ ಅತ್ಯುನ್ನತ ಅಧಿಕಾರಿ."
+  },
+  {
+   "id": "7SS-C10-02",
+   "part": 1,
+   "ch": 10,
+   "ch_kn": "ಕೇಂದ್ರ ಸರ್ಕಾರ",
+   "ch_en": "The Union Government",
+   "diff": "easy",
+   "q_kn": "ಸಂಸತ್ತಿನ ಕೆಳಮನೆಯನ್ನು ಏನೆನ್ನುತ್ತಾರೆ?",
+   "q_en": "What is the lower house of Parliament called?",
+   "opt_kn": [
+    "ವಿಧಾನಸಭೆ",
+    "ರಾಜ್ಯಸಭೆ",
+    "ವಿಧಾನಪರಿಷತ್",
+    "ಲೋಕಸಭೆ"
+   ],
+   "opt_en": [
+    "Vidhana Sabha",
+    "Rajya Sabha",
+    "Vidhana Parishat",
+    "Lok Sabha"
+   ],
+   "ans": "D",
+   "exp_kn": "ಲೋಕಸಭೆ ಕೆಳಮನೆ; ರಾಜ್ಯಸಭೆ ಮೇಲ್ಮನೆ."
+  },
+  {
+   "id": "7SS-C10-03",
+   "part": 1,
+   "ch": 10,
+   "ch_kn": "ಕೇಂದ್ರ ಸರ್ಕಾರ",
+   "ch_en": "The Union Government",
+   "diff": "medium",
+   "q_kn": "ರಾಜ್ಯಸಭಾ ಸದಸ್ಯರ ಅಧಿಕಾರಾವಧಿ ಎಷ್ಟು ವರ್ಷ?",
+   "q_en": "What is the term of a Rajya Sabha member?",
+   "opt_kn": [
+    "2 ವರ್ಷ",
+    "5 ವರ್ಷ",
+    "6 ವರ್ಷ",
+    "4 ವರ್ಷ"
+   ],
+   "opt_en": [
+    "2 years",
+    "5 years",
+    "6 years",
+    "4 years"
+   ],
+   "ans": "C",
+   "exp_kn": "ರಾಜ್ಯಸಭಾ ಸದಸ್ಯರ ಅವಧಿ 6 ವರ್ಷ; ಪ್ರತಿ 2 ವರ್ಷಕ್ಕೆ ಮೂರನೇ ಒಂದು ಭಾಗ ನಿವೃತ್ತರಾಗುತ್ತಾರೆ."
+  },
+  {
+   "id": "7SS-C10-04",
+   "part": 1,
+   "ch": 10,
+   "ch_kn": "ಕೇಂದ್ರ ಸರ್ಕಾರ",
+   "ch_en": "The Union Government",
+   "diff": "medium",
+   "q_kn": "ಲೋಕಸಭಾ ಸದಸ್ಯರಾಗಲು ಕನಿಷ್ಠ ವಯಸ್ಸು ಎಷ್ಟು?",
+   "q_en": "What is the minimum age to become a Lok Sabha member?",
+   "opt_kn": [
+    "25 ವರ್ಷ",
+    "18 ವರ್ಷ",
+    "30 ವರ್ಷ",
+    "35 ವರ್ಷ"
+   ],
+   "opt_en": [
+    "25 years",
+    "18 years",
+    "30 years",
+    "35 years"
+   ],
+   "ans": "A",
+   "exp_kn": "ಲೋಕಸಭಾ ಸದಸ್ಯರಾಗಲು ಕನಿಷ್ಠ 25 ವರ್ಷ ವಯಸ್ಸಾಗಿರಬೇಕು."
+  },
+  {
+   "id": "7SS-C10-05",
+   "part": 1,
+   "ch": 10,
+   "ch_kn": "ಕೇಂದ್ರ ಸರ್ಕಾರ",
+   "ch_en": "The Union Government",
+   "diff": "hard",
+   "q_kn": "ಸಂವಿಧಾನವನ್ನು ತಿದ್ದುಪಡಿ ಮಾಡುವ ಅಧಿಕಾರ ಯಾರಿಗಿದೆ?",
+   "q_en": "Who has the power to amend the Constitution?",
+   "opt_kn": [
+    "ಪ್ರಧಾನಮಂತ್ರಿ",
+    "ಸರ್ವೋಚ್ಚ ನ್ಯಾಯಾಲಯ",
+    "ಸಂಸತ್ತು",
+    "ರಾಷ್ಟ್ರಪತಿ"
+   ],
+   "opt_en": [
+    "Prime Minister",
+    "Supreme Court",
+    "Parliament",
+    "President"
+   ],
+   "ans": "C",
+   "exp_kn": "ಸಂವಿಧಾನ ತಿದ್ದುಪಡಿ ಮಾಡುವ ಅಧಿಕಾರ ಸಂಸತ್ತಿಗಿದೆ."
+  },
+  {
+   "id": "7SS-C10-06",
+   "part": 1,
+   "ch": 10,
+   "ch_kn": "ಕೇಂದ್ರ ಸರ್ಕಾರ",
+   "ch_en": "The Union Government",
+   "diff": "medium",
+   "q_kn": "ಕೇಂದ್ರ ಮಂತ್ರಿಮಂಡಲದ ಮುಖ್ಯಸ್ಥರು ಯಾರು?",
+   "q_en": "Who is the head of the Union Council of Ministers?",
+   "opt_kn": [
+    "ರಾಷ್ಟ್ರಪತಿ",
+    "ಪ್ರಧಾನಮಂತ್ರಿ",
+    "ಉಪರಾಷ್ಟ್ರಪತಿ",
+    "ಗೃಹಮಂತ್ರಿ"
+   ],
+   "opt_en": [
+    "President",
+    "Prime Minister",
+    "Vice-President",
+    "Home Minister"
+   ],
+   "ans": "B",
+   "exp_kn": "ಪ್ರಧಾನಮಂತ್ರಿ ಮಂತ್ರಿಮಂಡಲದ ಮುಖ್ಯಸ್ಥರು."
+  },
+  {
+   "id": "7SS-C11-01",
+   "part": 1,
+   "ch": 11,
+   "ch_kn": "ರಾಜ್ಯ ಸರ್ಕಾರ",
+   "ch_en": "The State Government",
+   "diff": "easy",
+   "q_kn": "ರಾಜ್ಯಪಾಲರನ್ನು ಯಾರು ನೇಮಕ ಮಾಡುತ್ತಾರೆ?",
+   "q_en": "Who appoints the Governor of a state?",
+   "opt_kn": [
+    "ರಾಷ್ಟ್ರಪತಿ",
+    "ವಿಧಾನಸಭೆ",
+    "ಪ್ರಧಾನಮಂತ್ರಿ",
+    "ಮುಖ್ಯಮಂತ್ರಿ"
+   ],
+   "opt_en": [
+    "President",
+    "Legislative Assembly",
+    "Prime Minister",
+    "Chief Minister"
+   ],
+   "ans": "A",
+   "exp_kn": "ರಾಜ್ಯಪಾಲರನ್ನು ರಾಷ್ಟ್ರಪತಿ ನೇಮಕ ಮಾಡುತ್ತಾರೆ."
+  },
+  {
+   "id": "7SS-C11-02",
+   "part": 1,
+   "ch": 11,
+   "ch_kn": "ರಾಜ್ಯ ಸರ್ಕಾರ",
+   "ch_en": "The State Government",
+   "diff": "easy",
+   "q_kn": "ಸುವರ್ಣಸೌಧ ಯಾವ ನಗರದಲ್ಲಿದೆ?",
+   "q_en": "In which city is the Suvarna Soudha?",
+   "opt_kn": [
+    "ಧಾರವಾಡ",
+    "ಬೆಂಗಳೂರು",
+    "ಮೈಸೂರು",
+    "ಬೆಳಗಾವಿ"
+   ],
+   "opt_en": [
+    "Dharwad",
+    "Bengaluru",
+    "Mysuru",
+    "Belagavi"
+   ],
+   "ans": "D",
+   "exp_kn": "ಸುವರ್ಣ ವಿಧಾನಸೌಧ ಬೆಳಗಾವಿಯಲ್ಲಿದೆ."
+  },
+  {
+   "id": "7SS-C11-03",
+   "part": 1,
+   "ch": 11,
+   "ch_kn": "ರಾಜ್ಯ ಸರ್ಕಾರ",
+   "ch_en": "The State Government",
+   "diff": "medium",
+   "q_kn": "ಕರ್ನಾಟಕ ವಿಧಾನಸಭೆಯ ಚುನಾಯಿತ ಸದಸ್ಯರ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
+   "q_en": "How many elected members are there in the Karnataka Legislative Assembly?",
+   "opt_kn": [
+    "225",
+    "28",
+    "75",
+    "224"
+   ],
+   "opt_en": [
+    "225",
+    "28",
+    "75",
+    "224"
+   ],
+   "ans": "D",
+   "exp_kn": "ಕರ್ನಾಟಕ ವಿಧಾನಸಭೆಯಲ್ಲಿ 224 ಚುನಾಯಿತ ಸದಸ್ಯರಿದ್ದಾರೆ."
+  },
+  {
+   "id": "7SS-C11-04",
+   "part": 1,
+   "ch": 11,
+   "ch_kn": "ರಾಜ್ಯ ಸರ್ಕಾರ",
+   "ch_en": "The State Government",
+   "diff": "medium",
+   "q_kn": "ಶಿಕ್ಷಕರ ಪ್ರತಿನಿಧಿಗಳು ಯಾವ ಸದನದ ಸದಸ್ಯರಾಗಿರುತ್ತಾರೆ?",
+   "q_en": "Representatives of teachers are members of which house?",
+   "opt_kn": [
+    "ವಿಧಾನಪರಿಷತ್",
+    "ಗ್ರಾಮಸಭೆ",
+    "ಲೋಕಸಭೆ",
+    "ವಿಧಾನಸಭೆ"
+   ],
+   "opt_en": [
+    "Legislative Council",
+    "Grama Sabha",
+    "Lok Sabha",
+    "Legislative Assembly"
+   ],
+   "ans": "A",
+   "exp_kn": "ವಿಧಾನಪರಿಷತ್ತಿನಲ್ಲಿ ಶಿಕ್ಷಕರ ಮತ್ತು ಪದವೀಧರರ ಪ್ರತಿನಿಧಿಗಳಿರುತ್ತಾರೆ."
+  },
+  {
+   "id": "7SS-C11-05",
+   "part": 1,
+   "ch": 11,
+   "ch_kn": "ರಾಜ್ಯ ಸರ್ಕಾರ",
+   "ch_en": "The State Government",
+   "diff": "medium",
+   "q_kn": "ವಿಧಾನಸಭೆಯ ಕಲಾಪಗಳು ಯಾರ ನೇತೃತ್ವದಲ್ಲಿ ನಡೆಯುತ್ತವೆ?",
+   "q_en": "Under whose leadership are the proceedings of the Legislative Assembly conducted?",
+   "opt_kn": [
+    "ಮುಖ್ಯಮಂತ್ರಿ",
+    "ರಾಜ್ಯಪಾಲರು",
+    "ಸಭಾಧ್ಯಕ್ಷರು (ಸ್ಪೀಕರ್)",
+    "ಸಭಾಪತಿ"
+   ],
+   "opt_en": [
+    "Chief Minister",
+    "Governor",
+    "Speaker",
+    "Chairman"
+   ],
+   "ans": "C",
+   "exp_kn": "ವಿಧಾನಸಭೆ ಕಲಾಪಗಳು ಸಭಾಧ್ಯಕ್ಷರ ನೇತೃತ್ವದಲ್ಲಿ ನಡೆಯುತ್ತವೆ."
+  },
+  {
+   "id": "7SS-C12-01",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಭಾರತದ ಪ್ರಾಕೃತಿಕ ವಿಭಾಗಗಳು",
+   "ch_en": "Physical Divisions of India",
+   "diff": "medium",
+   "q_kn": "ಭಾರತದ ಅತ್ಯಂತ ಎತ್ತರವಾದ ಶಿಖರ ಯಾವುದು?",
+   "q_en": "Which is the highest peak in India?",
+   "opt_kn": [
+    "ನಂದಾದೇವಿ",
+    "ಗಾಡ್ವಿನ್ ಆಸ್ಟಿನ್ (K2)",
+    "ಕಾಂಚನಜುಂಗಾ",
+    "ಮೌಂಟ್ ಎವರೆಸ್ಟ್"
+   ],
+   "opt_en": [
+    "Nanda Devi",
+    "Godwin Austen (K2)",
+    "Kanchenjunga",
+    "Mount Everest"
+   ],
+   "ans": "B",
+   "exp_kn": "ಮೌಂಟ್ ಗಾಡ್ವಿನ್ ಆಸ್ಟಿನ್ (K2, 8611 ಮೀ.) ಭಾರತದ ಅತಿ ಎತ್ತರದ ಶಿಖರ."
+  },
+  {
+   "id": "7SS-C12-02",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಭಾರತದ ಪ್ರಾಕೃತಿಕ ವಿಭಾಗಗಳು",
+   "ch_en": "Physical Divisions of India",
+   "diff": "easy",
+   "q_kn": "ಕರ್ನಾಟಕದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಮಳೆ ಬೀಳುವ ಪ್ರದೇಶ ಯಾವುದು?",
+   "q_en": "Which place receives the highest rainfall in Karnataka?",
+   "opt_kn": [
+    "ಮಡಿಕೇರಿ",
+    "ಆಗುಂಬೆ",
+    "ಜೋಗ",
+    "ಚಿಕ್ಕಮಗಳೂರು"
+   ],
+   "opt_en": [
+    "Madikeri",
+    "Agumbe",
+    "Jog",
+    "Chikkamagaluru"
+   ],
+   "ans": "B",
+   "exp_kn": "ಆಗುಂಬೆ ರಾಜ್ಯದಲ್ಲೇ ಅತಿ ಹೆಚ್ಚು ಮಳೆ ಬೀಳುವ ಪ್ರದೇಶ."
+  },
+  {
+   "id": "7SS-C12-03",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಭಾರತದ ಪ್ರಾಕೃತಿಕ ವಿಭಾಗಗಳು",
+   "ch_en": "Physical Divisions of India",
+   "diff": "medium",
+   "q_kn": "\"ಕರ್ನಾಟಕದ ಹೆಬ್ಬಾಗಿಲು\" ಎಂದು ಯಾವುದನ್ನು ಕರೆಯುತ್ತಾರೆ?",
+   "q_en": "What is called the \"Gateway of Karnataka\"?",
+   "opt_kn": [
+    "ಬೆಳಗಾವಿ",
+    "ಕಾರವಾರ ಬಂದರು",
+    "ಬೆಂಗಳೂರು ವಿಮಾನ ನಿಲ್ದಾಣ",
+    "ನವಮಂಗಳೂರು ಬಂದರು"
+   ],
+   "opt_en": [
+    "Belagavi",
+    "Karwar Port",
+    "Bengaluru Airport",
+    "New Mangalore Port"
+   ],
+   "ans": "D",
+   "exp_kn": "ನವಮಂಗಳೂರು ಬಂದರನ್ನು ಕರ್ನಾಟಕದ ಹೆಬ್ಬಾಗಿಲು ಎನ್ನುತ್ತಾರೆ."
+  },
+  {
+   "id": "7SS-C12-04",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಭಾರತದ ಪ್ರಾಕೃತಿಕ ವಿಭಾಗಗಳು",
+   "ch_en": "Physical Divisions of India",
+   "diff": "medium",
+   "q_kn": "ವಿಸ್ತೀರ್ಣದಲ್ಲಿ ಭಾರತವು ಪ್ರಪಂಚದಲ್ಲಿ ಎಷ್ಟನೇ ಸ್ಥಾನದಲ್ಲಿದೆ?",
+   "q_en": "What is India's rank in the world by area?",
+   "opt_kn": [
+    "ಏಳನೇ",
+    "ಹತ್ತನೇ",
+    "ಐದನೇ",
+    "ಎರಡನೇ"
+   ],
+   "opt_en": [
+    "Seventh",
+    "Tenth",
+    "Fifth",
+    "Second"
+   ],
+   "ans": "A",
+   "exp_kn": "ವಿಸ್ತೀರ್ಣದಲ್ಲಿ ಭಾರತ ಪ್ರಪಂಚದಲ್ಲಿ ಏಳನೇ ಸ್ಥಾನ; ಜನಸಂಖ್ಯೆಯಲ್ಲಿ ಮುಂಚೂಣಿಯಲ್ಲಿದೆ."
+  },
+  {
+   "id": "7SS-C12-05",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಭಾರತದ ಪ್ರಾಕೃತಿಕ ವಿಭಾಗಗಳು",
+   "ch_en": "Physical Divisions of India",
+   "diff": "easy",
+   "q_kn": "ಇವುಗಳಲ್ಲಿ ಕರ್ನಾಟಕದ ನೆರೆಯ ರಾಜ್ಯವಲ್ಲದುದು ಯಾವುದು?",
+   "q_en": "Which of these is NOT a neighbouring state of Karnataka?",
+   "opt_kn": [
+    "ಗೋವಾ",
+    "ಕೇರಳ",
+    "ಒಡಿಶಾ",
+    "ತೆಲಂಗಾಣ"
+   ],
+   "opt_en": [
+    "Goa",
+    "Kerala",
+    "Odisha",
+    "Telangana"
+   ],
+   "ans": "C",
+   "exp_kn": "ಕರ್ನಾಟಕದ ನೆರೆ ರಾಜ್ಯಗಳು: ಮಹಾರಾಷ್ಟ್ರ, ಗೋವಾ, ಕೇರಳ, ತಮಿಳುನಾಡು, ಆಂಧ್ರಪ್ರದೇಶ, ತೆಲಂಗಾಣ."
+  },
+  {
+   "id": "7SS-C12-06",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಭಾರತದ ಪ್ರಾಕೃತಿಕ ವಿಭಾಗಗಳು",
+   "ch_en": "Physical Divisions of India",
+   "diff": "medium",
+   "q_kn": "ಕರಾವಳಿಯನ್ನು ಹೊಂದಿರುವ ಕರ್ನಾಟಕದ ಜಿಲ್ಲೆಗಳ ಗುಂಪು ಯಾವುದು?",
+   "q_en": "Which group of Karnataka districts has a coastline?",
+   "opt_kn": [
+    "ಉಡುಪಿ, ಕೊಡಗು, ಹಾಸನ",
+    "ದಕ್ಷಿಣ ಕನ್ನಡ, ಶಿವಮೊಗ್ಗ, ಕೊಡಗು",
+    "ಉತ್ತರ ಕನ್ನಡ, ಬೆಳಗಾವಿ, ಧಾರವಾಡ",
+    "ಉತ್ತರ ಕನ್ನಡ, ಉಡುಪಿ, ದಕ್ಷಿಣ ಕನ್ನಡ"
+   ],
+   "opt_en": [
+    "Udupi, Kodagu, Hassan",
+    "Dakshina Kannada, Shivamogga, Kodagu",
+    "Uttara Kannada, Belagavi, Dharwad",
+    "Uttara Kannada, Udupi, Dakshina Kannada"
+   ],
+   "ans": "D",
+   "exp_kn": "ಉತ್ತರ ಕನ್ನಡ, ಉಡುಪಿ ಮತ್ತು ದಕ್ಷಿಣ ಕನ್ನಡ ಕರಾವಳಿ ಜಿಲ್ಲೆಗಳು."
+  },
+  {
+   "id": "7SS-C12-07",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಭಾರತದ ಪ್ರಾಕೃತಿಕ ವಿಭಾಗಗಳು",
+   "ch_en": "Physical Divisions of India",
+   "diff": "hard",
+   "q_kn": "ಇವುಗಳಲ್ಲಿ ಭಾರತದ ಪ್ರಾಕೃತಿಕ ವಿಭಾಗವಲ್ಲದುದು ಯಾವುದು?",
+   "q_en": "Which of these is NOT a physical division of India?",
+   "opt_kn": [
+    "ಉತ್ತರದ ಪರ್ವತಗಳು",
+    "ಮಲೆನಾಡು",
+    "ಉತ್ತರದ ಮಹಾ ಮೈದಾನ",
+    "ದ್ವೀಪಗಳು"
+   ],
+   "opt_en": [
+    "Northern mountains",
+    "Malnad",
+    "Great northern plains",
+    "Islands"
+   ],
+   "ans": "B",
+   "exp_kn": "ಮಲೆನಾಡು ಕರ್ನಾಟಕದ ಪ್ರಾಕೃತಿಕ ವಿಭಾಗ; ಭಾರತದ ವಿಭಾಗಗಳು ಪರ್ವತ, ಮೈದಾನ, ಪ್ರಸ್ಥಭೂಮಿ, ಕರಾವಳಿ, ದ್ವೀಪಗಳು."
+  },
+  {
+   "id": "7SS-C13-01",
+   "part": 1,
+   "ch": 13,
+   "ch_kn": "ಉತ್ತರ ಅಮೇರಿಕ ಖಂಡ",
+   "ch_en": "North America",
+   "diff": "medium",
+   "q_kn": "ಕೆನಡದಲ್ಲಿ ಮರ ಕಡಿಯುವ ವೃತ್ತಿಯನ್ನು ಅವಲಂಬಿಸಿದ ಜನರನ್ನು ಏನೆನ್ನುತ್ತಾರೆ?",
+   "q_en": "What are the people who depend on wood-cutting in Canada called?",
+   "opt_kn": [
+    "ಎಸ್ಕಿಮೋಗಳು",
+    "ಗೌಚೋಗಳು",
+    "ಲಂಬರ್ ಜಾಕ್ಸ್",
+    "ಕೌಬಾಯ್ಸ್"
+   ],
+   "opt_en": [
+    "Eskimos",
+    "Gauchos",
+    "Lumberjacks",
+    "Cowboys"
+   ],
+   "ans": "C",
+   "exp_kn": "ಕೆನಡದಲ್ಲಿ ಮರ ಕಡಿಯುವವರನ್ನು ಲಂಬರ್ ಜಾಕ್ಸ್ ಎನ್ನುತ್ತಾರೆ."
+  },
+  {
+   "id": "7SS-C13-02",
+   "part": 1,
+   "ch": 13,
+   "ch_kn": "ಉತ್ತರ ಅಮೇರಿಕ ಖಂಡ",
+   "ch_en": "North America",
+   "diff": "medium",
+   "q_kn": "\"ಪ್ರಪಂಚದ ಗೋಧಿಯ ಕಣಜ\" ಎಂದು ಕರೆಯಲ್ಪಡುವ ಉತ್ತರ ಅಮೇರಿಕದ ಹುಲ್ಲುಗಾವಲು ಯಾವುದು?",
+   "q_en": "Which North American grassland is called the \"Granary of the World\"?",
+   "opt_kn": [
+    "ಪ್ರೈರೀಸ್",
+    "ಸ್ಟೆಪ್ಪೀಸ್",
+    "ಪಂಪಾಸ್",
+    "ಡೌನ್ಸ್"
+   ],
+   "opt_en": [
+    "Prairies",
+    "Steppes",
+    "Pampas",
+    "Downs"
+   ],
+   "ans": "A",
+   "exp_kn": "ಪ್ರೈರೀಸ್ ಹುಲ್ಲುಗಾವಲನ್ನು ಗೋಧಿಯ ಕಣಜ ಅಥವಾ \"ರೊಟ್ಟಿಯ ಬುಟ್ಟಿ\" ಎನ್ನುತ್ತಾರೆ."
+  },
+  {
+   "id": "7SS-C13-03",
+   "part": 1,
+   "ch": 13,
+   "ch_kn": "ಉತ್ತರ ಅಮೇರಿಕ ಖಂಡ",
+   "ch_en": "North America",
+   "diff": "medium",
+   "q_kn": "ಸೂಚಿಪರ್ಣ ಅರಣ್ಯದ ಪಟ್ಟಿಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+   "q_en": "What is the belt of coniferous forests called?",
+   "opt_kn": [
+    "ಸೆಲ್ವಾಸ್",
+    "ಟಂಡ್ರಾ",
+    "ಸವನ್ನಾ",
+    "ಟೈಗಾ"
+   ],
+   "opt_en": [
+    "Selvas",
+    "Tundra",
+    "Savanna",
+    "Taiga"
+   ],
+   "ans": "D",
+   "exp_kn": "ಸೂಚಿಪರ್ಣ ಅರಣ್ಯದ ಪಟ್ಟಿಯನ್ನು ಟೈಗಾ ಎನ್ನುತ್ತಾರೆ."
+  },
+  {
+   "id": "7SS-C13-04",
+   "part": 1,
+   "ch": 13,
+   "ch_kn": "ಉತ್ತರ ಅಮೇರಿಕ ಖಂಡ",
+   "ch_en": "North America",
+   "diff": "medium",
+   "q_kn": "ಪ್ರಸಿದ್ಧ ಗ್ರ್ಯಾಂಡ್ ಕ್ಯಾನಿಯನ್ ಕಂದರ ಯಾವ ದೇಶದಲ್ಲಿದೆ?",
+   "q_en": "In which country is the famous Grand Canyon?",
+   "opt_kn": [
+    "ಮೆಕ್ಸಿಕೋ",
+    "ಅಮೇರಿಕ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ (ಯು.ಎಸ್.ಎ.)",
+    "ಬ್ರೆಜಿಲ್",
+    "ಕೆನಡ"
+   ],
+   "opt_en": [
+    "Mexico",
+    "USA",
+    "Brazil",
+    "Canada"
+   ],
+   "ans": "B",
+   "exp_kn": "ಗ್ರ್ಯಾಂಡ್ ಕ್ಯಾನಿಯನ್ ಯು.ಎಸ್.ಎ.ಯಲ್ಲಿದೆ; ಮೆಕ್ಸಿಕೋ ಮಾಯನ್ ನಾಗರಿಕತೆಯ ತಾಣಗಳಿಗೆ ಹೆಸರಾಗಿದೆ."
+  },
+  {
+   "id": "7SS-C13-05",
+   "part": 1,
+   "ch": 13,
+   "ch_kn": "ಉತ್ತರ ಅಮೇರಿಕ ಖಂಡ",
+   "ch_en": "North America",
+   "diff": "easy",
+   "q_kn": "ಉತ್ತರ ಅಮೇರಿಕದ ಅತ್ಯಂತ ಉದ್ದವಾದ ನದಿ ವ್ಯವಸ್ಥೆ ಯಾವುದು?",
+   "q_en": "Which is the longest river system of North America?",
+   "opt_kn": [
+    "ಕೊಲರಾಡೊ",
+    "ಅಮೆಜಾನ್",
+    "ಮಿಸಿಸಿಪ್ಪಿ–ಮಿಸೌರಿ",
+    "ನೈಲ್"
+   ],
+   "opt_en": [
+    "Colorado",
+    "Amazon",
+    "Mississippi–Missouri",
+    "Nile"
+   ],
+   "ans": "C",
+   "exp_kn": "ಮಿಸಿಸಿಪ್ಪಿ–ಮಿಸೌರಿ ಉತ್ತರ ಅಮೇರಿಕದ ಅತಿ ಉದ್ದದ ನದಿ ವ್ಯವಸ್ಥೆ."
+  },
+  {
+   "id": "7SS-C13-06",
+   "part": 1,
+   "ch": 13,
+   "ch_kn": "ಉತ್ತರ ಅಮೇರಿಕ ಖಂಡ",
+   "ch_en": "North America",
+   "diff": "hard",
+   "q_kn": "ಉತ್ತರ ಅಮೇರಿಕದ ಮಹಾಸರೋವರಗಳಲ್ಲಿ ಅತಿ ದೊಡ್ಡದು ಯಾವುದು?",
+   "q_en": "Which is the largest of the Great Lakes of North America?",
+   "opt_kn": [
+    "ಸುಪೀರಿಯರ್",
+    "ಹ್ಯೂರಾನ್",
+    "ಓಂಟಾರಿಯೊ",
+    "ಐರಿ"
+   ],
+   "opt_en": [
+    "Superior",
+    "Huron",
+    "Ontario",
+    "Erie"
+   ],
+   "ans": "A",
+   "exp_kn": "ಹ್ಯೂರಾನ್, ಓಂಟಾರಿಯೊ, ಮಿಚಿಗನ್, ಐರಿ, ಸುಪೀರಿಯರ್ – ಇವುಗಳಲ್ಲಿ ಸುಪೀರಿಯರ್ ಅತಿ ದೊಡ್ಡದು."
+  },
+  {
+   "id": "7SS-C14-01",
+   "part": 1,
+   "ch": 14,
+   "ch_kn": "ದಕ್ಷಿಣ ಅಮೇರಿಕ ಖಂಡ",
+   "ch_en": "South America",
+   "diff": "easy",
+   "q_kn": "ದಕ್ಷಿಣ ಅಮೇರಿಕದ ಅತಿ ದೊಡ್ಡ ರಾಷ್ಟ್ರ ಯಾವುದು?",
+   "q_en": "Which is the largest country in South America?",
+   "opt_kn": [
+    "ಬ್ರೆಜಿಲ್",
+    "ಅರ್ಜೆಂಟೈನಾ",
+    "ಚಿಲಿ",
+    "ಪೆರು"
+   ],
+   "opt_en": [
+    "Brazil",
+    "Argentina",
+    "Chile",
+    "Peru"
+   ],
+   "ans": "A",
+   "exp_kn": "ಬ್ರೆಜಿಲ್ ದಕ್ಷಿಣ ಅಮೇರಿಕದ ಅತಿ ದೊಡ್ಡ ರಾಷ್ಟ್ರ."
+  },
+  {
+   "id": "7SS-C14-02",
+   "part": 1,
+   "ch": 14,
+   "ch_kn": "ದಕ್ಷಿಣ ಅಮೇರಿಕ ಖಂಡ",
+   "ch_en": "South America",
+   "diff": "medium",
+   "q_kn": "ವಿಶ್ವದ ಅತಿ ಎತ್ತರದ ಜಲಪಾತ ಯಾವ ಖಂಡದಲ್ಲಿದೆ?",
+   "q_en": "In which continent is the world's highest waterfall?",
+   "opt_kn": [
+    "ಉತ್ತರ ಅಮೇರಿಕ",
+    "ದಕ್ಷಿಣ ಅಮೇರಿಕ",
+    "ಏಷ್ಯಾ",
+    "ಆಫ್ರಿಕಾ"
+   ],
+   "opt_en": [
+    "North America",
+    "South America",
+    "Asia",
+    "Africa"
+   ],
+   "ans": "B",
+   "exp_kn": "ವೆನಿಜುವೆಲಾದ ಏಂಜೆಲ್ ಜಲಪಾತ ವಿಶ್ವದ ಅತಿ ಎತ್ತರದ ಜಲಪಾತ."
+  },
+  {
+   "id": "7SS-C14-03",
+   "part": 1,
+   "ch": 14,
+   "ch_kn": "ದಕ್ಷಿಣ ಅಮೇರಿಕ ಖಂಡ",
+   "ch_en": "South America",
+   "diff": "medium",
+   "q_kn": "ಅರ್ಜೆಂಟೈನಾದ ಸಮಶೀತೋಷ್ಣ ಹುಲ್ಲುಗಾವಲು ಯಾವುದು?",
+   "q_en": "What is the temperate grassland of Argentina called?",
+   "opt_kn": [
+    "ಲಾನೋಸ್",
+    "ಪ್ರೈರೀಸ್",
+    "ಕಾಂಪೋಸ್",
+    "ಪಂಪಾಸ್"
+   ],
+   "opt_en": [
+    "Llanos",
+    "Prairies",
+    "Campos",
+    "Pampas"
+   ],
+   "ans": "D",
+   "exp_kn": "ಅರ್ಜೆಂಟೈನಾದ ಪಂಪಾಸ್, ವೆನಿಜುವೆಲಾದ ಲಾನೋಸ್, ಬ್ರೆಜಿಲ್‌ನ ಕಾಂಪೋಸ್."
+  },
+  {
+   "id": "7SS-C14-04",
+   "part": 1,
+   "ch": 14,
+   "ch_kn": "ದಕ್ಷಿಣ ಅಮೇರಿಕ ಖಂಡ",
+   "ch_en": "South America",
+   "diff": "medium",
+   "q_kn": "ದಕ್ಷಿಣ ಅಮೇರಿಕದ ಪಶ್ಚಿಮ ಅಂಚಿನಲ್ಲಿರುವ ಉದ್ದದ ಪರ್ವತ ಶ್ರೇಣಿ ಯಾವುದು?",
+   "q_en": "Which long mountain range runs along the western edge of South America?",
+   "opt_kn": [
+    "ರಾಕೀಸ್",
+    "ಆಲ್ಪ್ಸ್",
+    "ಆಂಡೀಸ್",
+    "ಅಪ್ಪಲೇಷಿಯನ್"
+   ],
+   "opt_en": [
+    "Rockies",
+    "Alps",
+    "Andes",
+    "Appalachian"
+   ],
+   "ans": "C",
+   "exp_kn": "ಆಂಡೀಸ್ ಪರ್ವತಶ್ರೇಣಿ ದಕ್ಷಿಣ ಅಮೇರಿಕದ ಪಶ್ಚಿಮ ಅಂಚಿನಲ್ಲಿದೆ."
+  },
+  {
+   "id": "7SS-C14-05",
+   "part": 1,
+   "ch": 14,
+   "ch_kn": "ದಕ್ಷಿಣ ಅಮೇರಿಕ ಖಂಡ",
+   "ch_en": "South America",
+   "diff": "easy",
+   "q_kn": "ದಕ್ಷಿಣ ಅಮೇರಿಕದ ಅತಿ ಉದ್ದವಾದ ಮತ್ತು ಪ್ರಪಂಚದ ಅತಿ ದೊಡ್ಡ ನದಿ ಯಾವುದು?",
+   "q_en": "Which is the longest river of South America and the largest river in the world?",
+   "opt_kn": [
+    "ಓರಿನೊಕೊ",
+    "ಪರಾನ",
+    "ಲಾಪ್ಲಾಟಾ",
+    "ಅಮೆಜಾನ್"
+   ],
+   "opt_en": [
+    "Orinoco",
+    "Parana",
+    "La Plata",
+    "Amazon"
+   ],
+   "ans": "D",
+   "exp_kn": "ಅಮೆಜಾನ್ ದಕ್ಷಿಣ ಅಮೇರಿಕದ ಅತಿ ಉದ್ದದ ನದಿ ಹಾಗೂ ಪ್ರಪಂಚದ ಅತಿ ದೊಡ್ಡ ನದಿ."
+  },
+  {
+   "id": "7SS-C14-06",
+   "part": 1,
+   "ch": 14,
+   "ch_kn": "ದಕ್ಷಿಣ ಅಮೇರಿಕ ಖಂಡ",
+   "ch_en": "South America",
+   "diff": "hard",
+   "q_kn": "ಪ್ರಪಂಚದಲ್ಲೇ ಅತಿ ಎತ್ತರದಲ್ಲಿರುವ ನೌಕಾಯಾನಯೋಗ್ಯ ಸರೋವರ ಯಾವುದು?",
+   "q_en": "Which is the highest navigable lake in the world?",
+   "opt_kn": [
+    "ಬೈಕಲ್",
+    "ಸುಪೀರಿಯರ್",
+    "ಟಿಟಿಕಾಕ",
+    "ವಿಕ್ಟೋರಿಯಾ"
+   ],
+   "opt_en": [
+    "Baikal",
+    "Superior",
+    "Titicaca",
+    "Victoria"
+   ],
+   "ans": "C",
+   "exp_kn": "ಆಂಡೀಸ್‌ನಲ್ಲಿರುವ ಟಿಟಿಕಾಕ ವಿಶ್ವದ ಅತಿ ಎತ್ತರದ ನೌಕಾಯಾನಯೋಗ್ಯ ಸರೋವರ."
+  },
+  {
+   "id": "7SS-C15-01",
+   "part": 2,
+   "ch": 15,
+   "ch_kn": "ಸಾಮಾಜಿಕ ಮತ್ತು ಧಾರ್ಮಿಕ ಸುಧಾರಣೆಗಳು",
+   "ch_en": "Social and Religious Reforms",
+   "diff": "easy",
+   "q_kn": "\"ಭಾರತದ ಪುನರುಜ್ಜೀವನದ ಪಿತಾಮಹ\" ಎಂದು ಯಾರನ್ನು ಕರೆಯುತ್ತಾರೆ?",
+   "q_en": "Who is called the \"Father of the Indian Renaissance\"?",
+   "opt_kn": [
+    "ರಾಜಾ ರಾಮಮೋಹನ ರಾಯ್",
+    "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ",
+    "ಜ್ಯೋತಿಬಾ ಫುಲೆ",
+    "ದಯಾನಂದ ಸರಸ್ವತಿ"
+   ],
+   "opt_en": [
+    "Raja Ram Mohan Roy",
+    "Swami Vivekananda",
+    "Jyotiba Phule",
+    "Dayananda Saraswati"
+   ],
+   "ans": "A",
+   "exp_kn": "ರಾಜಾ ರಾಮಮೋಹನ ರಾಯ್ ಭಾರತದ ಪುನರುಜ್ಜೀವನದ ಪಿತಾಮಹ."
+  },
+  {
+   "id": "7SS-C15-02",
+   "part": 2,
+   "ch": 15,
+   "ch_kn": "ಸಾಮಾಜಿಕ ಮತ್ತು ಧಾರ್ಮಿಕ ಸುಧಾರಣೆಗಳು",
+   "ch_en": "Social and Religious Reforms",
+   "diff": "medium",
+   "q_kn": "\"ಸಂವಾದ ಕೌಮುದಿ\" ಪತ್ರಿಕೆಯನ್ನು ಆರಂಭಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who started the newspaper \"Sambad Kaumudi\"?",
+   "opt_kn": [
+    "ಜ್ಯೋತಿಬಾ ಫುಲೆ",
+    "ರಾಜಾ ರಾಮಮೋಹನ ರಾಯ್",
+    "ಅನಿಬೆಸೆಂಟ್",
+    "ಬಾಲಗಂಗಾಧರ ತಿಲಕ"
+   ],
+   "opt_en": [
+    "Jyotiba Phule",
+    "Raja Ram Mohan Roy",
+    "Annie Besant",
+    "Bal Gangadhar Tilak"
+   ],
+   "ans": "B",
+   "exp_kn": "ರಾಜಾ ರಾಮಮೋಹನ ರಾಯ್ ಸಂವಾದ ಕೌಮುದಿ ಪತ್ರಿಕೆ ಆರಂಭಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C15-03",
+   "part": 2,
+   "ch": 15,
+   "ch_kn": "ಸಾಮಾಜಿಕ ಮತ್ತು ಧಾರ್ಮಿಕ ಸುಧಾರಣೆಗಳು",
+   "ch_en": "Social and Religious Reforms",
+   "diff": "medium",
+   "q_kn": "\"ಗುಲಾಮಗಿರಿ\" ಕೃತಿಯನ್ನು ರಚಿಸಿ ಸತ್ಯಶೋಧಕ ಸಮಾಜವನ್ನು ಸ್ಥಾಪಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who wrote \"Gulamgiri\" and founded the Satyashodhak Samaj?",
+   "opt_kn": [
+    "ಎಂ.ಜಿ. ರಾನಡೆ",
+    "ಜ್ಯೋತಿಬಾ ಫುಲೆ",
+    "ಶ್ರೀ ನಾರಾಯಣ ಗುರು",
+    "ಸಯ್ಯದ್ ಅಹಮದ್ ಖಾನ್"
+   ],
+   "opt_en": [
+    "M.G. Ranade",
+    "Jyotiba Phule",
+    "Sri Narayana Guru",
+    "Syed Ahmad Khan"
+   ],
+   "ans": "B",
+   "exp_kn": "ಜ್ಯೋತಿಬಾ ಫುಲೆ ಗುಲಾಮಗಿರಿ ಕೃತಿ ಬರೆದು ಸತ್ಯಶೋಧಕ ಸಮಾಜ ಸ್ಥಾಪಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C15-04",
+   "part": 2,
+   "ch": 15,
+   "ch_kn": "ಸಾಮಾಜಿಕ ಮತ್ತು ಧಾರ್ಮಿಕ ಸುಧಾರಣೆಗಳು",
+   "ch_en": "Social and Religious Reforms",
+   "diff": "medium",
+   "q_kn": "ಲಾಹೋರಿನಲ್ಲಿ \"ದಯಾನಂದ ಆಂಗ್ಲೋವೇದಿಕ್ ಶಾಲೆ\"ಯನ್ನು ಆರಂಭಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who started the \"Dayananda Anglo-Vedic School\" in Lahore?",
+   "opt_kn": [
+    "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ",
+    "ದಯಾನಂದ ಸರಸ್ವತಿ",
+    "ಲಾಲಾ ಹಂಸರಾಜ್",
+    "ಲಾಲಾ ಲಜಪತ್ ರಾಯ್"
+   ],
+   "opt_en": [
+    "Swami Vivekananda",
+    "Dayananda Saraswati",
+    "Lala Hansraj",
+    "Lala Lajpat Rai"
+   ],
+   "ans": "C",
+   "exp_kn": "ಆರ್ಯ ಸಮಾಜದ ನಾಯಕ ಲಾಲಾ ಹಂಸರಾಜ್ 1886ರಲ್ಲಿ D.A.V. ಶಾಲೆ ಸ್ಥಾಪಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C15-05",
+   "part": 2,
+   "ch": 15,
+   "ch_kn": "ಸಾಮಾಜಿಕ ಮತ್ತು ಧಾರ್ಮಿಕ ಸುಧಾರಣೆಗಳು",
+   "ch_en": "Social and Religious Reforms",
+   "diff": "medium",
+   "q_kn": "ಮಹಿಳೆಯರ ಉದ್ಧಾರಕ್ಕಾಗಿ \"ಮುಕ್ತಿ ಮಿಷನ್\" ಸ್ಥಾಪಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who founded the \"Mukti Mission\" for the upliftment of women?",
+   "opt_kn": [
+    "ಪಂಡಿತ ರಮಾಬಾಯಿ",
+    "ಅನಿಬೆಸೆಂಟ್",
+    "ತಾರಾಬಾಯಿ ಶಿಂಧೆ",
+    "ಸಾವಿತ್ರಿಬಾಯಿ ಫುಲೆ"
+   ],
+   "opt_en": [
+    "Pandita Ramabai",
+    "Annie Besant",
+    "Tarabai Shinde",
+    "Savitribai Phule"
+   ],
+   "ans": "A",
+   "exp_kn": "ಪಂಡಿತ ರಮಾಬಾಯಿ ಮುಕ್ತಿ ಮಿಷನ್ ಸ್ಥಾಪಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C15-06",
+   "part": 2,
+   "ch": 15,
+   "ch_kn": "ಸಾಮಾಜಿಕ ಮತ್ತು ಧಾರ್ಮಿಕ ಸುಧಾರಣೆಗಳು",
+   "ch_en": "Social and Religious Reforms",
+   "diff": "easy",
+   "q_kn": "\"ಏಳಿ! ಎದ್ದೇಳಿ! ಗುರಿ ಮುಟ್ಟುವ ತನಕ ನಿಲ್ಲದಿರಿ\" – ಇದು ಯಾರ ಕರೆ?",
+   "q_en": "\"Arise! Awake! Stop not till the goal is reached\" – whose call was this?",
+   "opt_kn": [
+    "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್",
+    "ಬಾಲಗಂಗಾಧರ ತಿಲಕ",
+    "ಮಹಾತ್ಮ ಗಾಂಧಿ",
+    "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ"
+   ],
+   "opt_en": [
+    "Subhas Chandra Bose",
+    "Bal Gangadhar Tilak",
+    "Mahatma Gandhi",
+    "Swami Vivekananda"
+   ],
+   "ans": "D",
+   "exp_kn": "ಇದು ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಪ್ರಸಿದ್ಧ ಕರೆ."
+  },
+  {
+   "id": "7SS-C15-07",
+   "part": 2,
+   "ch": 15,
+   "ch_kn": "ಸಾಮಾಜಿಕ ಮತ್ತು ಧಾರ್ಮಿಕ ಸುಧಾರಣೆಗಳು",
+   "ch_en": "Social and Religious Reforms",
+   "diff": "hard",
+   "q_kn": "ಹೊಂದಿಸಿ: (1) ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ (2) ದಯಾನಂದ ಸರಸ್ವತಿ (3) ಸಯ್ಯದ್ ಅಹಮದ್ ಖಾನ್ (4) ಅನಿಬೆಸೆಂಟ್ – (a) ಆರ್ಯ ಸಮಾಜ (b) ಅಲಿಘರ್ ಚಳವಳಿ (c) ಥಿಯೊಸಾಫಿಕಲ್ ಸೊಸೈಟಿ (d) ರಾಮಕೃಷ್ಣ ಮಿಷನ್",
+   "q_en": "Match: (1) Vivekananda (2) Dayananda Saraswati (3) Syed Ahmad Khan (4) Annie Besant – (a) Arya Samaj (b) Aligarh movement (c) Theosophical Society (d) Ramakrishna Mission",
+   "opt_kn": [
+    "1-a, 2-d, 3-b, 4-c",
+    "1-d, 2-a, 3-c, 4-b",
+    "1-d, 2-a, 3-b, 4-c",
+    "1-c, 2-a, 3-b, 4-d"
+   ],
+   "opt_en": [
+    "1-a, 2-d, 3-b, 4-c",
+    "1-d, 2-a, 3-c, 4-b",
+    "1-d, 2-a, 3-b, 4-c",
+    "1-c, 2-a, 3-b, 4-d"
+   ],
+   "ans": "C",
+   "exp_kn": "ವಿವೇಕಾನಂದ–ರಾಮಕೃಷ್ಣ ಮಿಷನ್, ದಯಾನಂದ–ಆರ್ಯ ಸಮಾಜ, ಸಯ್ಯದ್ ಅಹಮದ್ ಖಾನ್–ಅಲಿಘರ್, ಅನಿಬೆಸೆಂಟ್–ಥಿಯೊಸಾಫಿಕಲ್."
+  },
+  {
+   "id": "7SS-C15-08",
+   "part": 2,
+   "ch": 15,
+   "ch_kn": "ಸಾಮಾಜಿಕ ಮತ್ತು ಧಾರ್ಮಿಕ ಸುಧಾರಣೆಗಳು",
+   "ch_en": "Social and Religious Reforms",
+   "diff": "medium",
+   "q_kn": "\"ಸ್ತ್ರೀ-ಪುರುಷ ತುಲನ\" ಕೃತಿಯ ಲೇಖಕಿ ಯಾರು?",
+   "q_en": "Who wrote \"Stri-Purush Tulana\"?",
+   "opt_kn": [
+    "ತಾರಾಬಾಯಿ ಶಿಂಧೆ",
+    "ಸರೋಜಿನಿ ನಾಯ್ಡು",
+    "ಪಂಡಿತ ರಮಾಬಾಯಿ",
+    "ಕಮಲಾದೇವಿ ಚಟ್ಟೋಪಾಧ್ಯಾಯ"
+   ],
+   "opt_en": [
+    "Tarabai Shinde",
+    "Sarojini Naidu",
+    "Pandita Ramabai",
+    "Kamaladevi Chattopadhyay"
+   ],
+   "ans": "A",
+   "exp_kn": "ತಾರಾಬಾಯಿ ಶಿಂಧೆ \"ಸ್ತ್ರೀ-ಪುರುಷ ತುಲನ\" ರಚಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C16-01",
+   "part": 2,
+   "ch": 16,
+   "ch_kn": "ಭಾರತದ ಪ್ರಥಮ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮ",
+   "ch_en": "India's First War of Independence",
+   "diff": "easy",
+   "q_kn": "ಬ್ಯಾರಕ್‌ಪುರದಲ್ಲಿ ಕೊಬ್ಬು ಸವರಿದ ತೋಟಾ ಬಳಸಲು ನಿರಾಕರಿಸಿದ ಭಾರತೀಯ ಸಿಪಾಯಿ ಯಾರು?",
+   "q_en": "Which Indian sepoy at Barrackpore refused to use the greased cartridge?",
+   "opt_kn": [
+    "ನಾನಾ ಸಾಹೇಬ್",
+    "ತಾಂತ್ಯಾ ಟೋಪಿ",
+    "ಕುಂವರ್ ಸಿಂಗ್",
+    "ಮಂಗಲ್ ಪಾಂಡೆ"
+   ],
+   "opt_en": [
+    "Nana Saheb",
+    "Tantia Tope",
+    "Kunwar Singh",
+    "Mangal Pandey"
+   ],
+   "ans": "D",
+   "exp_kn": "ಮಂಗಲ್ ಪಾಂಡೆ ಕೊಬ್ಬು ಸವರಿದ ತೋಟಾ ಬಳಸಲು ನಿರಾಕರಿಸಿದನು."
+  },
+  {
+   "id": "7SS-C16-02",
+   "part": 2,
+   "ch": 16,
+   "ch_kn": "ಭಾರತದ ಪ್ರಥಮ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮ",
+   "ch_en": "India's First War of Independence",
+   "diff": "medium",
+   "q_kn": "1857ರ ಸಂಗ್ರಾಮದ ತಕ್ಷಣದ ಕಾರಣ ಯಾವುದು?",
+   "q_en": "What was the immediate cause of the 1857 revolt?",
+   "opt_kn": [
+    "ದತ್ತು ಮಕ್ಕಳಿಗೆ ಹಕ್ಕಿಲ್ಲ ನೀತಿ",
+    "ಕೊಬ್ಬು ಸವರಿದ ತೋಟಾಗಳ ಬಳಕೆ",
+    "ರೌಲತ್ ಕಾಯಿದೆ",
+    "ಬಂಗಾಳದ ವಿಭಜನೆ"
+   ],
+   "opt_en": [
+    "Doctrine of Lapse",
+    "Use of greased cartridges",
+    "Rowlatt Act",
+    "Partition of Bengal"
+   ],
+   "ans": "B",
+   "exp_kn": "ಹಸು ಮತ್ತು ಹಂದಿಯ ಕೊಬ್ಬು ಸವರಿದ ತೋಟಾಗಳು ತಕ್ಷಣದ ಕಾರಣ."
+  },
+  {
+   "id": "7SS-C16-03",
+   "part": 2,
+   "ch": 16,
+   "ch_kn": "ಭಾರತದ ಪ್ರಥಮ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮ",
+   "ch_en": "India's First War of Independence",
+   "diff": "medium",
+   "q_kn": "ಬಿಹಾರದಲ್ಲಿ 1857ರ ದಂಗೆಗಳು ಯಾರ ನೇತೃತ್ವದಲ್ಲಿ ನಡೆದವು?",
+   "q_en": "Under whose leadership did the 1857 revolts take place in Bihar?",
+   "opt_kn": [
+    "ನಾನಾ ಸಾಹೇಬ್",
+    "ಲಕ್ಷ್ಮೀಬಾಯಿ",
+    "ಬೇಗಂ ಹಜರತ್ ಮಹಲ್",
+    "ಕುಂವರ್ ಸಿಂಗ್"
+   ],
+   "opt_en": [
+    "Nana Saheb",
+    "Lakshmibai",
+    "Begum Hazrat Mahal",
+    "Kunwar Singh"
+   ],
+   "ans": "D",
+   "exp_kn": "ಬಿಹಾರದಲ್ಲಿ ಕುಂವರ್ ಸಿಂಗ್ ನೇತೃತ್ವ ವಹಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C16-04",
+   "part": 2,
+   "ch": 16,
+   "ch_kn": "ಭಾರತದ ಪ್ರಥಮ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮ",
+   "ch_en": "India's First War of Independence",
+   "diff": "hard",
+   "q_kn": "1857ರ ಹೋರಾಟವನ್ನು \"ಭಾರತದ ಪ್ರಥಮ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮ\" ಎಂದು ಕರೆದವರು ಯಾರು?",
+   "q_en": "Who called the 1857 struggle \"India's First War of Independence\"?",
+   "opt_kn": [
+    "ವಿ.ಡಿ. ಸಾವರ್ಕರ್",
+    "ಜವಾಹರಲಾಲ್ ನೆಹರೂ",
+    "ಮಹಾತ್ಮ ಗಾಂಧಿ",
+    "ಬಾಲಗಂಗಾಧರ ತಿಲಕ"
+   ],
+   "opt_en": [
+    "V.D. Savarkar",
+    "Jawaharlal Nehru",
+    "Mahatma Gandhi",
+    "Bal Gangadhar Tilak"
+   ],
+   "ans": "A",
+   "exp_kn": "ವಿ.ಡಿ. ಸಾವರ್ಕರ್ ಇದನ್ನು ಪ್ರಥಮ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮ ಎಂದು ಕರೆದರು."
+  },
+  {
+   "id": "7SS-C16-05",
+   "part": 2,
+   "ch": 16,
+   "ch_kn": "ಭಾರತದ ಪ್ರಥಮ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮ",
+   "ch_en": "India's First War of Independence",
+   "diff": "medium",
+   "q_kn": "ಸಾಮಾನ್ಯ ಸೇನಾಸೇವಾ ಕಾಯಿದೆಯನ್ನು ಜಾರಿಗೆ ತಂದವರು ಯಾರು?",
+   "q_en": "Who introduced the General Service Enlistment Act?",
+   "opt_kn": [
+    "ಲಾರ್ಡ್ ಕರ್ಜನ್",
+    "ಲಾರ್ಡ್ ಕ್ಯಾನಿಂಗ್",
+    "ಲಾರ್ಡ್ ಡಾಲ್‌ಹೌಸಿ",
+    "ಲಾರ್ಡ್ ವೆಲ್ಲೆಸ್ಲಿ"
+   ],
+   "opt_en": [
+    "Lord Curzon",
+    "Lord Canning",
+    "Lord Dalhousie",
+    "Lord Wellesley"
+   ],
+   "ans": "B",
+   "exp_kn": "ಲಾರ್ಡ್ ಕ್ಯಾನಿಂಗ್ ಸಾಮಾನ್ಯ ಸೇನಾಸೇವಾ ಕಾಯಿದೆ ಜಾರಿಗೆ ತಂದನು."
+  },
+  {
+   "id": "7SS-C16-06",
+   "part": 2,
+   "ch": 16,
+   "ch_kn": "ಭಾರತದ ಪ್ರಥಮ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮ",
+   "ch_en": "India's First War of Independence",
+   "diff": "medium",
+   "q_kn": "1857ರ ಸಂಗ್ರಾಮದ ನಂತರ ಭಾರತದ ಆಡಳಿತ ಯಾರ ಕೈಗೆ ಹೋಯಿತು?",
+   "q_en": "After the 1857 revolt, the rule of India passed into whose hands?",
+   "opt_kn": [
+    "ಫ್ರೆಂಚರು",
+    "ಮೊಗಲ್ ಚಕ್ರವರ್ತಿ",
+    "ಬ್ರಿಟಿಷ್ ರಾಣಿ (ಬ್ರಿಟಿಷ್ ಸರ್ಕಾರ)",
+    "ಈಸ್ಟ್ ಇಂಡಿಯಾ ಕಂಪನಿ"
+   ],
+   "opt_en": [
+    "French",
+    "Mughal emperor",
+    "British Crown",
+    "East India Company"
+   ],
+   "ans": "C",
+   "exp_kn": "1858ರಲ್ಲಿ ಕಂಪನಿ ಆಳ್ವಿಕೆ ಕೊನೆಗೊಂಡು ರಾಣಿ ವಿಕ್ಟೋರಿಯಾ ಘೋಷಣೆ ಹೊರಡಿಸಿದಳು."
+  },
+  {
+   "id": "7SS-C17-01",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿ",
+   "ch_en": "The Freedom Movement",
+   "diff": "easy",
+   "q_kn": "ಗಾಂಧೀಜಿಯವರ ರಾಜಕೀಯ ಗುರು ಯಾರು?",
+   "q_en": "Who was Gandhiji's political guru?",
+   "opt_kn": [
+    "ಬಾಲಗಂಗಾಧರ ತಿಲಕ",
+    "ಗೋಪಾಲಕೃಷ್ಣ ಗೋಖಲೆ",
+    "ಲಾಲಾ ಲಜಪತ್ ರಾಯ್",
+    "ದಾದಾಬಾಯಿ ನವರೋಜಿ"
+   ],
+   "opt_en": [
+    "Bal Gangadhar Tilak",
+    "Gopal Krishna Gokhale",
+    "Lala Lajpat Rai",
+    "Dadabhai Naoroji"
+   ],
+   "ans": "B",
+   "exp_kn": "ಗೋಪಾಲಕೃಷ್ಣ ಗೋಖಲೆ ಗಾಂಧೀಜಿಯವರ ರಾಜಕೀಯ ಗುರು."
+  },
+  {
+   "id": "7SS-C17-02",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿ",
+   "ch_en": "The Freedom Movement",
+   "diff": "medium",
+   "q_kn": "\"ಸ್ವರಾಜ್ಯವು ನನ್ನ ಜನ್ಮಸಿದ್ಧ ಹಕ್ಕು; ನಾನು ಅದನ್ನು ಪಡೆದೇ ತೀರುತ್ತೇನೆ\" ಎಂದವರು ಯಾರು?",
+   "q_en": "Who said \"Swaraj is my birthright and I shall have it\"?",
+   "opt_kn": [
+    "ಜವಾಹರಲಾಲ್ ನೆಹರೂ",
+    "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್",
+    "ಮಹಾತ್ಮ ಗಾಂಧಿ",
+    "ಬಾಲಗಂಗಾಧರ ತಿಲಕ"
+   ],
+   "opt_en": [
+    "Jawaharlal Nehru",
+    "Subhas Chandra Bose",
+    "Mahatma Gandhi",
+    "Bal Gangadhar Tilak"
+   ],
+   "ans": "D",
+   "exp_kn": "ಇದು ಬಾಲಗಂಗಾಧರ ತಿಲಕರ ಘೋಷಣೆ."
+  },
+  {
+   "id": "7SS-C17-03",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿ",
+   "ch_en": "The Freedom Movement",
+   "diff": "medium",
+   "q_kn": "ಚೌರಿಚೌರಾ ಘಟನೆ ಸಂಭವಿಸಿದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year did the Chauri Chaura incident occur?",
+   "opt_kn": [
+    "1922",
+    "1919",
+    "1942",
+    "1930"
+   ],
+   "opt_en": [
+    "1922",
+    "1919",
+    "1942",
+    "1930"
+   ],
+   "ans": "A",
+   "exp_kn": "1922ರ ಚೌರಿಚೌರಾ ಹಿಂಸಾಚಾರದ ನಂತರ ಗಾಂಧೀಜಿ ಅಸಹಕಾರ ಚಳವಳಿ ಹಿಂತೆಗೆದರು."
+  },
+  {
+   "id": "7SS-C17-04",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿ",
+   "ch_en": "The Freedom Movement",
+   "diff": "medium",
+   "q_kn": "\"ಸಂಪೂರ್ಣ ಸ್ವರಾಜ್ಯ\" ನಿರ್ಣಯ ಅಂಗೀಕಾರವಾದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year was the \"Poorna Swaraj\" resolution passed?",
+   "opt_kn": [
+    "1919",
+    "1947",
+    "1929",
+    "1935"
+   ],
+   "opt_en": [
+    "1919",
+    "1947",
+    "1929",
+    "1935"
+   ],
+   "ans": "C",
+   "exp_kn": "1929ರ ಲಾಹೋರ್ ಕಾಂಗ್ರೆಸ್ ಅಧಿವೇಶನದಲ್ಲಿ ಸಂಪೂರ್ಣ ಸ್ವರಾಜ್ಯ ನಿರ್ಣಯ ಅಂಗೀಕಾರವಾಯಿತು."
+  },
+  {
+   "id": "7SS-C17-05",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿ",
+   "ch_en": "The Freedom Movement",
+   "diff": "easy",
+   "q_kn": "ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್ ಸ್ಥಾಪಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who founded the Indian National Congress?",
+   "opt_kn": [
+    "ಡಬ್ಲ್ಯು.ಸಿ. ಬ್ಯಾನರ್ಜಿ",
+    "ಮಹಾತ್ಮ ಗಾಂಧಿ",
+    "ದಾದಾಬಾಯಿ ನವರೋಜಿ",
+    "ಎ.ಒ. ಹ್ಯೂಮ್"
+   ],
+   "opt_en": [
+    "W.C. Bonnerjee",
+    "Mahatma Gandhi",
+    "Dadabhai Naoroji",
+    "A.O. Hume"
+   ],
+   "ans": "D",
+   "exp_kn": "ಎ.ಒ. ಹ್ಯೂಮ್ 1885ರಲ್ಲಿ ಕಾಂಗ್ರೆಸ್ ಸ್ಥಾಪಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C17-06",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿ",
+   "ch_en": "The Freedom Movement",
+   "diff": "medium",
+   "q_kn": "\"ಫಾರ್ವರ್ಡ್ ಬ್ಲಾಕ್\" ಆರಂಭಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who started the \"Forward Bloc\"?",
+   "opt_kn": [
+    "ಬಾಲಗಂಗಾಧರ ತಿಲಕ",
+    "ಸರ್ದಾರ್ ಪಟೇಲ್",
+    "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್",
+    "ಭಗತ್ ಸಿಂಗ್"
+   ],
+   "opt_en": [
+    "Bal Gangadhar Tilak",
+    "Sardar Patel",
+    "Subhas Chandra Bose",
+    "Bhagat Singh"
+   ],
+   "ans": "C",
+   "exp_kn": "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್ ಫಾರ್ವರ್ಡ್ ಬ್ಲಾಕ್ ಆರಂಭಿಸಿ ಐ.ಎನ್.ಎ. ನೇತೃತ್ವ ವಹಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C17-07",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿ",
+   "ch_en": "The Freedom Movement",
+   "diff": "easy",
+   "q_kn": "\"ಭಾರತದ ಉಕ್ಕಿನ ಮನುಷ್ಯ\" ಎಂದು ಖ್ಯಾತರಾದವರು ಯಾರು?",
+   "q_en": "Who is known as the \"Iron Man of India\"?",
+   "opt_kn": [
+    "ಜವಾಹರಲಾಲ್ ನೆಹರೂ",
+    "ಸರ್ದಾರ್ ವಲ್ಲಭಭಾಯಿ ಪಟೇಲ್",
+    "ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕರ್",
+    "ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್"
+   ],
+   "opt_en": [
+    "Jawaharlal Nehru",
+    "Sardar Vallabhbhai Patel",
+    "B.R. Ambedkar",
+    "Rajendra Prasad"
+   ],
+   "ans": "B",
+   "exp_kn": "ಸರ್ದಾರ್ ವಲ್ಲಭಭಾಯಿ ಪಟೇಲ್ ಭಾರತದ ಉಕ್ಕಿನ ಮನುಷ್ಯ."
+  },
+  {
+   "id": "7SS-C17-08",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿ",
+   "ch_en": "The Freedom Movement",
+   "diff": "medium",
+   "q_kn": "ಸಂವಿಧಾನದ ಕರಡು ಸಮಿತಿಯ ಅಧ್ಯಕ್ಷರು ಯಾರು?",
+   "q_en": "Who was the chairman of the Drafting Committee of the Constitution?",
+   "opt_kn": [
+    "ಡಾ. ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕರ್",
+    "ಜವಾಹರಲಾಲ್ ನೆಹರೂ",
+    "ಡಾ. ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್",
+    "ಸರ್ದಾರ್ ಪಟೇಲ್"
+   ],
+   "opt_en": [
+    "Dr. B.R. Ambedkar",
+    "Jawaharlal Nehru",
+    "Dr. Rajendra Prasad",
+    "Sardar Patel"
+   ],
+   "ans": "A",
+   "exp_kn": "ಕರಡು ಸಮಿತಿಯ ಅಧ್ಯಕ್ಷರು ಡಾ. ಅಂಬೇಡ್ಕರ್; ಸಂವಿಧಾನ ರಚನಾ ಸಭೆಯ ಅಧ್ಯಕ್ಷರು ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್."
+  },
+  {
+   "id": "7SS-C17-09",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿ",
+   "ch_en": "The Freedom Movement",
+   "diff": "medium",
+   "q_kn": "ಜಲಿಯನ್‌ವಾಲಾಬಾಗ್ ಹತ್ಯಾಕಾಂಡ ನಡೆದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year did the Jallianwala Bagh massacre take place?",
+   "opt_kn": [
+    "1922",
+    "1919",
+    "1905",
+    "1930"
+   ],
+   "opt_en": [
+    "1922",
+    "1919",
+    "1905",
+    "1930"
+   ],
+   "ans": "B",
+   "exp_kn": "ರೌಲತ್ ಕಾಯಿದೆಯ ವಿರುದ್ಧದ ಸಭೆಯ ಮೇಲೆ 1919ರಲ್ಲಿ ಅಮೃತಸರದ ಜಲಿಯನ್‌ವಾಲಾಬಾಗ್‌ನಲ್ಲಿ ಗುಂಡು ಹಾರಿಸಲಾಯಿತು."
+  },
+  {
+   "id": "7SS-C17-10",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿ",
+   "ch_en": "The Freedom Movement",
+   "diff": "medium",
+   "q_kn": "\"ಲಾಲ್, ಬಾಲ್, ಪಾಲ್\" ತ್ರಿಮೂರ್ತಿಗಳಲ್ಲಿ \"ಪಾಲ್\" ಯಾರು?",
+   "q_en": "In the trio \"Lal, Bal, Pal\", who is \"Pal\"?",
+   "opt_kn": [
+    "ಲಾಲಾ ಲಜಪತ್ ರಾಯ್",
+    "ಬಾಲಗಂಗಾಧರ ತಿಲಕ",
+    "ಗೋಪಾಲಕೃಷ್ಣ ಗೋಖಲೆ",
+    "ಬಿಪಿನ್ ಚಂದ್ರ ಪಾಲ್"
+   ],
+   "opt_en": [
+    "Lala Lajpat Rai",
+    "Bal Gangadhar Tilak",
+    "Gopal Krishna Gokhale",
+    "Bipin Chandra Pal"
+   ],
+   "ans": "D",
+   "exp_kn": "ಲಾಲ್–ಲಜಪತ್ ರಾಯ್, ಬಾಲ್–ತಿಲಕ, ಪಾಲ್–ಬಿಪಿನ್ ಚಂದ್ರ ಪಾಲ್."
+  },
+  {
+   "id": "7SS-C17-11",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿ",
+   "ch_en": "The Freedom Movement",
+   "diff": "hard",
+   "q_kn": "ಮರಾಠಿಯಲ್ಲಿ \"ಸ್ವದೇಶಿ ವ್ರತ\" ನಾಟಕ ರಚಿಸಿದ ಕರ್ನಾಟಕದ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ್ತಿ ಯಾರು?",
+   "q_en": "Which freedom fighter from Karnataka wrote the Marathi play \"Swadeshi Vrata\"?",
+   "opt_kn": [
+    "ಬಳ್ಳಾರಿ ಸಿದ್ದಮ್ಮ",
+    "ಯಶೋಧರಮ್ಮ ದಾಸಪ್ಪ",
+    "ಉಮಾಬಾಯಿ ಕುಂದಾಪುರ",
+    "ಕಮಲಾದೇವಿ ಚಟ್ಟೋಪಾಧ್ಯಾಯ"
+   ],
+   "opt_en": [
+    "Ballari Siddamma",
+    "Yashodharamma Dasappa",
+    "Umabai Kundapur",
+    "Kamaladevi Chattopadhyay"
+   ],
+   "ans": "C",
+   "exp_kn": "ಉಮಾಬಾಯಿ ಕುಂದಾಪುರ ಮರಾಠಿಯಲ್ಲಿ ಸ್ವದೇಶಿ ವ್ರತ ನಾಟಕ ರಚಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C17-12",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿ",
+   "ch_en": "The Freedom Movement",
+   "diff": "medium",
+   "q_kn": "ಹೋಂ ರೂಲ್ ಚಳವಳಿಯನ್ನು ಆರಂಭಿಸಿದವರಲ್ಲಿ ಒಬ್ಬರು ಯಾರು?",
+   "q_en": "Who was one of the leaders who started the Home Rule movement?",
+   "opt_kn": [
+    "ಅನಿಬೆಸೆಂಟ್",
+    "ಎ.ಒ. ಹ್ಯೂಮ್",
+    "ಜವಾಹರಲಾಲ್ ನೆಹರೂ",
+    "ಮಹಾತ್ಮ ಗಾಂಧಿ"
+   ],
+   "opt_en": [
+    "Annie Besant",
+    "A.O. Hume",
+    "Jawaharlal Nehru",
+    "Mahatma Gandhi"
+   ],
+   "ans": "A",
+   "exp_kn": "ಅನಿಬೆಸೆಂಟ್ ಮತ್ತು ತಿಲಕರು ಹೋಂ ರೂಲ್ ಚಳವಳಿ ಆರಂಭಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C17-13",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿ",
+   "ch_en": "The Freedom Movement",
+   "diff": "hard",
+   "q_kn": "ಕಾಲಾನುಕ್ರಮದಲ್ಲಿ ಜೋಡಿಸಿ: ದಂಡಿ ಯಾತ್ರೆ, ಜಲಿಯನ್‌ವಾಲಾಬಾಗ್ ಹತ್ಯಾಕಾಂಡ, ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ ಚಳವಳಿ, ಚೌರಿಚೌರಾ ಘಟನೆ",
+   "q_en": "Arrange chronologically: Dandi March, Jallianwala Bagh massacre, Quit India Movement, Chauri Chaura incident",
+   "opt_kn": [
+    "ಚೌರಿಚೌರಾ → ಜಲಿಯನ್‌ವಾಲಾಬಾಗ್ → ದಂಡಿ → ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ",
+    "ದಂಡಿ → ಜಲಿಯನ್‌ವಾಲಾಬಾಗ್ → ಚೌರಿಚೌರಾ → ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ",
+    "ಜಲಿಯನ್‌ವಾಲಾಬಾಗ್ → ಚೌರಿಚೌರಾ → ದಂಡಿ → ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ",
+    "ಜಲಿಯನ್‌ವಾಲಾಬಾಗ್ → ದಂಡಿ → ಚೌರಿಚೌರಾ → ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ"
+   ],
+   "opt_en": [
+    "Chauri Chaura → Jallianwala → Dandi → Quit India",
+    "Dandi → Jallianwala → Chauri Chaura → Quit India",
+    "Jallianwala → Chauri Chaura → Dandi → Quit India",
+    "Jallianwala → Dandi → Chauri Chaura → Quit India"
+   ],
+   "ans": "C",
+   "exp_kn": "ಜಲಿಯನ್‌ವಾಲಾಬಾಗ್ 1919, ಚೌರಿಚೌರಾ 1922, ದಂಡಿ ಯಾತ್ರೆ 1930, ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ 1942."
+  },
+  {
+   "id": "7SS-C17-14",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿ",
+   "ch_en": "The Freedom Movement",
+   "diff": "medium",
+   "q_kn": "ಉಳ್ಳಾಲದ ರಕ್ಷಣೆಗಾಗಿ ರಾಣಿ ಅಬ್ಬಕ್ಕ ದೇವಿ ಯಾರ ವಿರುದ್ಧ ಹೋರಾಡಿದಳು?",
+   "q_en": "Against whom did Rani Abbakka Devi fight to defend Ullal?",
+   "opt_kn": [
+    "ಮೊಗಲರು",
+    "ಡಚ್ಚರು",
+    "ಬ್ರಿಟಿಷರು",
+    "ಪೋರ್ಚುಗೀಸರು"
+   ],
+   "opt_en": [
+    "Mughals",
+    "Dutch",
+    "British",
+    "Portuguese"
+   ],
+   "ans": "D",
+   "exp_kn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಪೋರ್ಚುಗೀಸರ ವಿರುದ್ಧ ಹೋರಾಡಿದಳು."
+  },
+  {
+   "id": "7SS-C18-01",
+   "part": 2,
+   "ch": 18,
+   "ch_kn": "ಕರ್ನಾಟಕದ ಏಕೀಕರಣ ಮತ್ತು ಗಡಿ ವಿವಾದಗಳು",
+   "ch_en": "Unification of Karnataka and Border Disputes",
+   "diff": "easy",
+   "q_kn": "\"ಕರ್ನಾಟಕ ಕುಲಪುರೋಹಿತ\" ಎಂದು ಯಾರನ್ನು ಕರೆಯುತ್ತಾರೆ?",
+   "q_en": "Who is called \"Karnataka Kulapurohita\"?",
+   "opt_kn": [
+    "ಆಲೂರು ವೆಂಕಟರಾಯ",
+    "ಎಸ್. ನಿಜಲಿಂಗಪ್ಪ",
+    "ಕುವೆಂಪು",
+    "ಗೋವಿಂದ ಪೈ"
+   ],
+   "opt_en": [
+    "Aluru Venkata Rao",
+    "S. Nijalingappa",
+    "Kuvempu",
+    "Govinda Pai"
+   ],
+   "ans": "A",
+   "exp_kn": "ಆಲೂರು ವೆಂಕಟರಾಯರನ್ನು ಕರ್ನಾಟಕ ಕುಲಪುರೋಹಿತ ಎನ್ನುತ್ತಾರೆ."
+  },
+  {
+   "id": "7SS-C18-02",
+   "part": 2,
+   "ch": 18,
+   "ch_kn": "ಕರ್ನಾಟಕದ ಏಕೀಕರಣ ಮತ್ತು ಗಡಿ ವಿವಾದಗಳು",
+   "ch_en": "Unification of Karnataka and Border Disputes",
+   "diff": "medium",
+   "q_kn": "ಕನ್ನಡದ ಮೊದಲ ರಾಷ್ಟ್ರಕವಿ ಯಾರು?",
+   "q_en": "Who was the first Rashtrakavi of Kannada?",
+   "opt_kn": [
+    "ಕುವೆಂಪು",
+    "ಎಂ. ಗೋವಿಂದ ಪೈ",
+    "ಜಿ.ಎಸ್. ಶಿವರುದ್ರಪ್ಪ",
+    "ದ.ರಾ. ಬೇಂದ್ರೆ"
+   ],
+   "opt_en": [
+    "Kuvempu",
+    "M. Govinda Pai",
+    "G.S. Shivarudrappa",
+    "D.R. Bendre"
+   ],
+   "ans": "B",
+   "exp_kn": "ಎಂ. ಗೋವಿಂದ ಪೈ ಕನ್ನಡದ ಮೊದಲ ರಾಷ್ಟ್ರಕವಿ."
+  },
+  {
+   "id": "7SS-C18-03",
+   "part": 2,
+   "ch": 18,
+   "ch_kn": "ಕರ್ನಾಟಕದ ಏಕೀಕರಣ ಮತ್ತು ಗಡಿ ವಿವಾದಗಳು",
+   "ch_en": "Unification of Karnataka and Border Disputes",
+   "diff": "medium",
+   "q_kn": "ಏಕೀಕೃತ ಕರ್ನಾಟಕದ (1956) ಮೊದಲ ಮುಖ್ಯಮಂತ್ರಿ ಯಾರು?",
+   "q_en": "Who was the first Chief Minister of unified Karnataka (1956)?",
+   "opt_kn": [
+    "ಎಸ್. ನಿಜಲಿಂಗಪ್ಪ",
+    "ಕೆ.ಸಿ. ರೆಡ್ಡಿ",
+    "ಡಿ. ದೇವರಾಜ ಅರಸು",
+    "ಕೆಂಗಲ್ ಹನುಮಂತಯ್ಯ"
+   ],
+   "opt_en": [
+    "S. Nijalingappa",
+    "K.C. Reddy",
+    "D. Devaraj Urs",
+    "Kengal Hanumanthaiah"
+   ],
+   "ans": "A",
+   "exp_kn": "1956ರಲ್ಲಿ ಏಕೀಕೃತ ಕರ್ನಾಟಕದ ಮೊದಲ ಮುಖ್ಯಮಂತ್ರಿ ಎಸ್. ನಿಜಲಿಂಗಪ್ಪ."
+  },
+  {
+   "id": "7SS-C18-04",
+   "part": 2,
+   "ch": 18,
+   "ch_kn": "ಕರ್ನಾಟಕದ ಏಕೀಕರಣ ಮತ್ತು ಗಡಿ ವಿವಾದಗಳು",
+   "ch_en": "Unification of Karnataka and Border Disputes",
+   "diff": "medium",
+   "q_kn": "1890ರಲ್ಲಿ ಆರಂಭವಾದ ಕರ್ನಾಟಕ ವಿದ್ಯಾವರ್ಧಕ ಸಂಘದ ಮೊದಲ ಅಧ್ಯಕ್ಷರು ಯಾರು?",
+   "q_en": "Who was the first president of the Karnataka Vidyavardhaka Sangha, started in 1890?",
+   "opt_kn": [
+    "ಹರ್ಡೇಕರ್ ಮಂಜಪ್ಪ",
+    "ರಾ.ಹಾ. ದೇಶಪಾಂಡೆ",
+    "ಆಲೂರು ವೆಂಕಟರಾಯ",
+    "ವೆಂಕಟ ರಂಗೋ ಕಟ್ಟಿ"
+   ],
+   "opt_en": [
+    "Hardekar Manjappa",
+    "R.H. Deshpande",
+    "Aluru Venkata Rao",
+    "Venkata Rango Katti"
+   ],
+   "ans": "B",
+   "exp_kn": "ರಾ.ಹಾ. ದೇಶಪಾಂಡೆಯವರ ಅಧ್ಯಕ್ಷತೆಯಲ್ಲಿ 1890ರಲ್ಲಿ ಕ.ವಿ.ವ. ಸಂಘ ಆರಂಭವಾಯಿತು."
+  },
+  {
+   "id": "7SS-C18-05",
+   "part": 2,
+   "ch": 18,
+   "ch_kn": "ಕರ್ನಾಟಕದ ಏಕೀಕರಣ ಮತ್ತು ಗಡಿ ವಿವಾದಗಳು",
+   "ch_en": "Unification of Karnataka and Border Disputes",
+   "diff": "hard",
+   "q_kn": "ರಾಜ್ಯಗಳ ಪುನರ್ವಿಂಗಡಣೆಗಾಗಿ ನೇಮಕವಾಗಿದ್ದ ಆಯೋಗ ಯಾವುದು?",
+   "q_en": "Which commission was appointed for the reorganisation of states?",
+   "opt_kn": [
+    "ಹಾವನೂರು ಆಯೋಗ",
+    "ಗೋಕಾಕ್ ಸಮಿತಿ",
+    "ಮಹಾಜನ್ ಆಯೋಗ",
+    "ಫಜಲ್ ಅಲಿ ಆಯೋಗ"
+   ],
+   "opt_en": [
+    "Havanur Commission",
+    "Gokak Committee",
+    "Mahajan Commission",
+    "Fazal Ali Commission"
+   ],
+   "ans": "D",
+   "exp_kn": "ರಾಜ್ಯ ಪುನರ್ವಿಂಗಡಣೆಗೆ ಫಜಲ್ ಅಲಿ ಆಯೋಗ ನೇಮಕವಾಗಿತ್ತು."
+  },
+  {
+   "id": "7SS-C18-06",
+   "part": 2,
+   "ch": 18,
+   "ch_kn": "ಕರ್ನಾಟಕದ ಏಕೀಕರಣ ಮತ್ತು ಗಡಿ ವಿವಾದಗಳು",
+   "ch_en": "Unification of Karnataka and Border Disputes",
+   "diff": "medium",
+   "q_kn": "\"ಕವಿರಾಜಮಾರ್ಗ\"ದ ಪ್ರಕಾರ ಕನ್ನಡನಾಡು ಯಾವ ನದಿಗಳ ನಡುವೆ ಹರಡಿತ್ತು?",
+   "q_en": "According to \"Kavirajamarga\", the Kannada land extended between which rivers?",
+   "opt_kn": [
+    "ನರ್ಮದೆಯಿಂದ ಕಾವೇರಿಯವರೆಗೆ",
+    "ಕೃಷ್ಣೆಯಿಂದ ತುಂಗಭದ್ರೆಯವರೆಗೆ",
+    "ಕಾವೇರಿಯಿಂದ ಗೋದಾವರಿಯವರೆಗೆ",
+    "ಕಾವೇರಿಯಿಂದ ಕೃಷ್ಣೆಯವರೆಗೆ"
+   ],
+   "opt_en": [
+    "Narmada to Kaveri",
+    "Krishna to Tungabhadra",
+    "Kaveri to Godavari",
+    "Kaveri to Krishna"
+   ],
+   "ans": "C",
+   "exp_kn": "ಕವಿರಾಜಮಾರ್ಗ ಕನ್ನಡನಾಡು ಕಾವೇರಿಯಿಂದ ಗೋದಾವರಿಯವರೆಗೆ ಇತ್ತು ಎಂದು ವರ್ಣಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "7SS-C19-01",
+   "part": 2,
+   "ch": 19,
+   "ch_kn": "ಕರ್ನಾಟಕದ ಸಮಾಜಮುಖಿ ಚಳವಳಿಗಳು",
+   "ch_en": "Social Movements of Karnataka",
+   "diff": "easy",
+   "q_kn": "ಸುಂದರಲಾಲ್ ಬಹುಗುಣರು ಆರಂಭಿಸಿದ ಪರಿಸರ ಚಳವಳಿ ಯಾವುದು?",
+   "q_en": "Which environmental movement was started by Sunderlal Bahuguna?",
+   "opt_kn": [
+    "ಚಿಪ್ಕೋ ಚಳವಳಿ",
+    "ಸೈಲೆಂಟ್ ವ್ಯಾಲಿ",
+    "ಅಪ್ಪಿಕೋ ಚಳವಳಿ",
+    "ನರ್ಮದಾ ಬಚಾವೋ"
+   ],
+   "opt_en": [
+    "Chipko movement",
+    "Silent Valley",
+    "Appiko movement",
+    "Narmada Bachao"
+   ],
+   "ans": "A",
+   "exp_kn": "ಸುಂದರಲಾಲ್ ಬಹುಗುಣ ಚಿಪ್ಕೋ ಚಳವಳಿ ಆರಂಭಿಸಿದರು; ಕರ್ನಾಟಕದಲ್ಲಿ ಅದರ ರೂಪ ಅಪ್ಪಿಕೋ."
+  },
+  {
+   "id": "7SS-C19-02",
+   "part": 2,
+   "ch": 19,
+   "ch_kn": "ಕರ್ನಾಟಕದ ಸಮಾಜಮುಖಿ ಚಳವಳಿಗಳು",
+   "ch_en": "Social Movements of Karnataka",
+   "diff": "medium",
+   "q_kn": "\"ಅಪ್ಪಿಕೋ\" ಚಳವಳಿಯ ಉದ್ದೇಶ ಏನು?",
+   "q_en": "What was the aim of the \"Appiko\" movement?",
+   "opt_kn": [
+    "ಕೆರೆಗಳ ಹೂಳೆತ್ತುವುದು",
+    "ಕನ್ನಡ ಭಾಷೆ ರಕ್ಷಣೆ",
+    "ದಲಿತರ ಹಕ್ಕುಗಳು",
+    "ಮರಗಳನ್ನು ಅಪ್ಪಿಕೊಂಡು ಕಡಿಯದಂತೆ ತಡೆಯುವುದು"
+   ],
+   "opt_en": [
+    "Desilting tanks",
+    "Protecting the Kannada language",
+    "Rights of Dalits",
+    "Hugging trees to stop them being cut"
+   ],
+   "ans": "D",
+   "exp_kn": "ಮರಗಳನ್ನು ಅಪ್ಪಿಕೊಂಡು ಅರಣ್ಯ ನಾಶ ತಡೆಯುವುದು ಅಪ್ಪಿಕೋ ಚಳವಳಿ."
+  },
+  {
+   "id": "7SS-C19-03",
+   "part": 2,
+   "ch": 19,
+   "ch_kn": "ಕರ್ನಾಟಕದ ಸಮಾಜಮುಖಿ ಚಳವಳಿಗಳು",
+   "ch_en": "Social Movements of Karnataka",
+   "diff": "medium",
+   "q_kn": "\"ದಲಿತ ಸೂರ್ಯ\" ಎಂಬ ಕೀರ್ತಿಗೆ ಪಾತ್ರರಾದವರು ಯಾರು?",
+   "q_en": "Who earned the title \"Dalita Surya\"?",
+   "opt_kn": [
+    "ಶ್ರೀ ನಾರಾಯಣ ಗುರು",
+    "ಡಾ. ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕರ್",
+    "ಕುದ್ಮುಲ್ ರಂಗರಾವ್",
+    "ಜ್ಯೋತಿಬಾ ಫುಲೆ"
+   ],
+   "opt_en": [
+    "Sri Narayana Guru",
+    "Dr. B.R. Ambedkar",
+    "Kudmul Ranga Rao",
+    "Jyotiba Phule"
+   ],
+   "ans": "B",
+   "exp_kn": "ಅಂಬೇಡ್ಕರರು ದಲಿತರ ಸ್ವಾಭಿಮಾನದ ಸಂಕೇತವಾಗಿ \"ದಲಿತ ಸೂರ್ಯ\" ಎನಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C19-04",
+   "part": 2,
+   "ch": 19,
+   "ch_kn": "ಕರ್ನಾಟಕದ ಸಮಾಜಮುಖಿ ಚಳವಳಿಗಳು",
+   "ch_en": "Social Movements of Karnataka",
+   "diff": "medium",
+   "q_kn": "ಶಿಕ್ಷಣದಲ್ಲಿ ಕನ್ನಡಕ್ಕೆ ಪ್ರಥಮ ಆದ್ಯತೆ ನೀಡಲು ಶಿಫಾರಸು ಮಾಡಿದ ಭಾಷಾ ಸಮಿತಿ ಯಾರ ಅಧ್ಯಕ್ಷತೆಯಲ್ಲಿ ರಚನೆಯಾಯಿತು?",
+   "q_en": "The language committee that recommended first priority for Kannada in education was chaired by whom?",
+   "opt_kn": [
+    "ಕುವೆಂಪು",
+    "ಎಲ್.ಜಿ. ಹಾವನೂರು",
+    "ಡಾ. ವಿ.ಕೃ. ಗೋಕಾಕ್",
+    "ಆಲೂರು ವೆಂಕಟರಾಯ"
+   ],
+   "opt_en": [
+    "Kuvempu",
+    "L.G. Havanur",
+    "Dr. V.K. Gokak",
+    "Aluru Venkata Rao"
+   ],
+   "ans": "C",
+   "exp_kn": "ಡಾ. ವಿನಾಯಕ ಕೃಷ್ಣ ಗೋಕಾಕರ ಅಧ್ಯಕ್ಷತೆಯಲ್ಲಿ ಭಾಷಾ ಸಮಿತಿ ರಚನೆಯಾಯಿತು."
+  },
+  {
+   "id": "7SS-C19-05",
+   "part": 2,
+   "ch": 19,
+   "ch_kn": "ಕರ್ನಾಟಕದ ಸಮಾಜಮುಖಿ ಚಳವಳಿಗಳು",
+   "ch_en": "Social Movements of Karnataka",
+   "diff": "hard",
+   "q_kn": "ಕರ್ನಾಟಕದಲ್ಲಿ ಬಿ.ಎ. ಆನರ್ಸ್ ಪದವಿ ಗಳಿಸಿದ ಮೊದಲ ಮಹಿಳೆಯರು ಯಾರು?",
+   "q_en": "Who were the first women in Karnataka to earn the B.A. Honours degree?",
+   "opt_kn": [
+    "ಯಶೋಧರಮ್ಮ ಮತ್ತು ಉಮಾಬಾಯಿ",
+    "ಇಂದಿರಮ್ಮ ಮತ್ತು ಸಿದ್ದಮ್ಮ",
+    "ಶ್ರೀರಂಗಮ್ಮ ಮತ್ತು ರುಕ್ಮಿಣಮ್ಮ",
+    "ಕಮಲಾದೇವಿ ಮತ್ತು ಸರೋಜಿನಿ"
+   ],
+   "opt_en": [
+    "Yashodharamma and Umabai",
+    "Indiramma and Siddamma",
+    "Srirangamma and Rukminamma",
+    "Kamaladevi and Sarojini"
+   ],
+   "ans": "C",
+   "exp_kn": "ಶ್ರೀರಂಗಮ್ಮ ಮತ್ತು ರುಕ್ಮಿಣಮ್ಮ ಬಿ.ಎ. ಆನರ್ಸ್ ಪದವಿ ಪಡೆದ ಮೊದಲ ಮಹಿಳೆಯರು."
+  },
+  {
+   "id": "7SS-C19-06",
+   "part": 2,
+   "ch": 19,
+   "ch_kn": "ಕರ್ನಾಟಕದ ಸಮಾಜಮುಖಿ ಚಳವಳಿಗಳು",
+   "ch_en": "Social Movements of Karnataka",
+   "diff": "easy",
+   "q_kn": "\"ತುಂಗಾ ಮೂಲ ಉಳಿಸಿ\" ಆಂದೋಲನ ಯಾವ ಬಗೆಯ ಚಳವಳಿ?",
+   "q_en": "What kind of movement was the \"Save Tunga Moola\" agitation?",
+   "opt_kn": [
+    "ರೈತ ಚಳವಳಿ",
+    "ಪರಿಸರ ಚಳವಳಿ",
+    "ಭಾಷಾ ಚಳವಳಿ",
+    "ದಲಿತ ಚಳವಳಿ"
+   ],
+   "opt_en": [
+    "Farmers' movement",
+    "Environmental movement",
+    "Language movement",
+    "Dalit movement"
+   ],
+   "ans": "B",
+   "exp_kn": "ತುಂಗಾ ನದಿಯ ಉಗಮ ಪ್ರದೇಶದ ಅರಣ್ಯ ರಕ್ಷಣೆಗಾಗಿ ನಡೆದ ಪರಿಸರ ಚಳವಳಿ."
+  },
+  {
+   "id": "7SS-C20-01",
+   "part": 2,
+   "ch": 20,
+   "ch_kn": "ಕರ್ನಾಟಕ ಆರ್ಥಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಪರಿವರ್ತನೆ",
+   "ch_en": "Economic and Social Change in Karnataka",
+   "diff": "medium",
+   "q_kn": "1975ರಲ್ಲಿ ನೇಮಕವಾದ ಕರ್ನಾಟಕದ ಪ್ರಥಮ ಹಿಂದುಳಿದ ವರ್ಗಗಳ ಆಯೋಗದ ಅಧ್ಯಕ್ಷರು ಯಾರು?",
+   "q_en": "Who chaired Karnataka's first Backward Classes Commission appointed in 1975?",
+   "opt_kn": [
+    "ಎಲ್.ಜಿ. ಹಾವನೂರು",
+    "ವಿ.ಕೃ. ಗೋಕಾಕ್",
+    "ಅಬ್ದುಲ್ ನಜೀರ್ ಸಾಬ್",
+    "ಬಿ.ಡಿ. ಜತ್ತಿ"
+   ],
+   "opt_en": [
+    "L.G. Havanur",
+    "V.K. Gokak",
+    "Abdul Nazir Sab",
+    "B.D. Jatti"
+   ],
+   "ans": "A",
+   "exp_kn": "ಮುಖ್ಯಮಂತ್ರಿ ದೇವರಾಜ ಅರಸು 1975ರಲ್ಲಿ ಎಲ್.ಜಿ. ಹಾವನೂರು ಆಯೋಗ ನೇಮಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C20-02",
+   "part": 2,
+   "ch": 20,
+   "ch_kn": "ಕರ್ನಾಟಕ ಆರ್ಥಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಪರಿವರ್ತನೆ",
+   "ch_en": "Economic and Social Change in Karnataka",
+   "diff": "medium",
+   "q_kn": "ಎಲ್.ಜಿ. ಹಾವನೂರು ಆಯೋಗವನ್ನು ನೇಮಿಸಿದ ಮುಖ್ಯಮಂತ್ರಿ ಯಾರು?",
+   "q_en": "Which Chief Minister appointed the L.G. Havanur Commission?",
+   "opt_kn": [
+    "ಎಸ್. ನಿಜಲಿಂಗಪ್ಪ",
+    "ರಾಮಕೃಷ್ಣ ಹೆಗಡೆ",
+    "ವೀರೇಂದ್ರ ಪಾಟೀಲ್",
+    "ಡಿ. ದೇವರಾಜ ಅರಸು"
+   ],
+   "opt_en": [
+    "S. Nijalingappa",
+    "Ramakrishna Hegde",
+    "Veerendra Patil",
+    "D. Devaraj Urs"
+   ],
+   "ans": "D",
+   "exp_kn": "ಡಿ. ದೇವರಾಜ ಅರಸು 1975ರಲ್ಲಿ ಹಾವನೂರು ಆಯೋಗ ನೇಮಿಸಿದರು."
+  },
+  {
+   "id": "7SS-C20-03",
+   "part": 2,
+   "ch": 20,
+   "ch_kn": "ಕರ್ನಾಟಕ ಆರ್ಥಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಪರಿವರ್ತನೆ",
+   "ch_en": "Economic and Social Change in Karnataka",
+   "diff": "medium",
+   "q_kn": "ಬಿ.ಡಿ. ಜತ್ತಿಯವರು ಭಾರತದ ಯಾವ ಹುದ್ದೆಯಲ್ಲಿದ್ದರು?",
+   "q_en": "B.D. Jatti held which post of India?",
+   "opt_kn": [
+    "ಮುಖ್ಯ ನ್ಯಾಯಾಧೀಶರು",
+    "ಉಪರಾಷ್ಟ್ರಪತಿ",
+    "ಪ್ರಧಾನಮಂತ್ರಿ",
+    "ಲೋಕಸಭಾ ಸ್ಪೀಕರ್"
+   ],
+   "opt_en": [
+    "Chief Justice",
+    "Vice-President",
+    "Prime Minister",
+    "Lok Sabha Speaker"
+   ],
+   "ans": "B",
+   "exp_kn": "ಬಿ.ಡಿ. ಜತ್ತಿ ಭಾರತದ ಉಪರಾಷ್ಟ್ರಪತಿಯಾಗಿದ್ದರು; ಭೂಸುಧಾರಣಾ ಸಮಿತಿಯ ನೇತೃತ್ವ ವಹಿಸಿದ್ದರು."
+  },
+  {
+   "id": "7SS-C20-04",
+   "part": 2,
+   "ch": 20,
+   "ch_kn": "ಕರ್ನಾಟಕ ಆರ್ಥಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಪರಿವರ್ತನೆ",
+   "ch_en": "Economic and Social Change in Karnataka",
+   "diff": "medium",
+   "q_kn": "ಕರ್ನಾಟಕದಲ್ಲಿ ಪಂಚಾಯತ್ ರಾಜ್ ವ್ಯವಸ್ಥೆಯ ರೂವಾರಿ ಯಾರು?",
+   "q_en": "Who was the architect of the Panchayat Raj system in Karnataka?",
+   "opt_kn": [
+    "ದೇವರಾಜ ಅರಸು",
+    "ಬಲವಂತರಾಯ್ ಮೆಹ್ತಾ",
+    "ಬಿ.ಡಿ. ಜತ್ತಿ",
+    "ಅಬ್ದುಲ್ ನಜೀರ್ ಸಾಬ್"
+   ],
+   "opt_en": [
+    "Devaraj Urs",
+    "Balwantrai Mehta",
+    "B.D. Jatti",
+    "Abdul Nazir Sab"
+   ],
+   "ans": "D",
+   "exp_kn": "ಅಬ್ದುಲ್ ನಜೀರ್ ಸಾಬ್ ಕರ್ನಾಟಕದ ಪಂಚಾಯತ್ ರಾಜ್ ವ್ಯವಸ್ಥೆಯ ರೂವಾರಿ."
+  },
+  {
+   "id": "7SS-C20-05",
+   "part": 2,
+   "ch": 20,
+   "ch_kn": "ಕರ್ನಾಟಕ ಆರ್ಥಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಪರಿವರ್ತನೆ",
+   "ch_en": "Economic and Social Change in Karnataka",
+   "diff": "hard",
+   "q_kn": "ಪಂಚಾಯತ್ ರಾಜ್‌ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ 1955ರಲ್ಲಿ ಮೂರು ಹಂತದ ಸ್ಥಳೀಯ ಆಡಳಿತವನ್ನು ಶಿಫಾರಸು ಮಾಡಿದ ಸಮಿತಿ ಯಾರ ಅಧ್ಯಕ್ಷತೆಯಲ್ಲಿತ್ತು?",
+   "q_en": "The committee that recommended a three-tier local government system was chaired by whom?",
+   "opt_kn": [
+    "ಎಲ್.ಜಿ. ಹಾವನೂರು",
+    "ವಿ.ಕೃ. ಗೋಕಾಕ್",
+    "ಬಲವಂತರಾಯ್ ಮೆಹ್ತಾ",
+    "ಫಜಲ್ ಅಲಿ"
+   ],
+   "opt_en": [
+    "L.G. Havanur",
+    "V.K. Gokak",
+    "Balwantrai Mehta",
+    "Fazal Ali"
+   ],
+   "ans": "C",
+   "exp_kn": "ಬಲವಂತರಾಯ್ ಮೆಹ್ತಾ ಸಮಿತಿ ಮೂರು ಹಂತದ ಸ್ಥಳೀಯ ಆಡಳಿತ ಶಿಫಾರಸು ಮಾಡಿತು."
+  },
+  {
+   "id": "7SS-C20-06",
+   "part": 2,
+   "ch": 20,
+   "ch_kn": "ಕರ್ನಾಟಕ ಆರ್ಥಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಪರಿವರ್ತನೆ",
+   "ch_en": "Economic and Social Change in Karnataka",
+   "diff": "medium",
+   "q_kn": "ಭೂಸುಧಾರಣೆಯ ಮುಖ್ಯ ಉದ್ದೇಶ ಯಾವುದು?",
+   "q_en": "What is the main aim of land reforms?",
+   "opt_kn": [
+    "ಭೂಮಾಲೀಕರ ಹಿಡಿತ ಮಿತಿಗೊಳಿಸಿ ಉಳುವವರಿಗೆ ಭೂಮಿ ನೀಡುವುದು",
+    "ಹೆಚ್ಚು ತೆರಿಗೆ ವಸೂಲಿ",
+    "ಕೈಗಾರಿಕೆಗಳಿಗೆ ಭೂಮಿ ನೀಡುವುದು",
+    "ಅರಣ್ಯ ವಿಸ್ತರಣೆ"
+   ],
+   "opt_en": [
+    "Limiting landlords' control and giving land to the tiller",
+    "Collecting more tax",
+    "Giving land to industries",
+    "Expanding forests"
+   ],
+   "ans": "A",
+   "exp_kn": "ಜಮೀನ್ದಾರಿ ನಿರ್ಮೂಲನ, ಭೂಮಿತಿ ನಿಗದಿ ಮೂಲಕ ಉಳುವವನಿಗೆ ಭೂಮಿ ನೀಡುವುದು ಭೂಸುಧಾರಣೆಯ ಗುರಿ."
+  },
+  {
+   "id": "7SS-C21-01",
+   "part": 2,
+   "ch": 21,
+   "ch_kn": "ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಮುನ್ನಡೆ",
+   "ch_en": "Progress in Various Fields",
+   "diff": "easy",
+   "q_kn": "ಬೆಂಗಳೂರನ್ನು ಭಾರತದ ಯಾವ \"ಕಣಿವೆ\" ಎಂದು ಕರೆಯುತ್ತಾರೆ?",
+   "q_en": "Bengaluru is called the \"______ Valley of India\".",
+   "opt_kn": [
+    "ಸಿಲಿಕಾನ್ ಕಣಿವೆ",
+    "ಹೂವಿನ ಕಣಿವೆ",
+    "ಕಾಫಿ ಕಣಿವೆ",
+    "ಮರಳಿನ ಕಣಿವೆ"
+   ],
+   "opt_en": [
+    "Silicon Valley",
+    "Valley of Flowers",
+    "Coffee Valley",
+    "Sand Valley"
+   ],
+   "ans": "A",
+   "exp_kn": "ಮಾಹಿತಿ ತಂತ್ರಜ್ಞಾನದ ಕೇಂದ್ರವಾದ ಬೆಂಗಳೂರನ್ನು ಭಾರತದ ಸಿಲಿಕಾನ್ ಕಣಿವೆ ಎನ್ನುತ್ತಾರೆ."
+  },
+  {
+   "id": "7SS-C21-02",
+   "part": 2,
+   "ch": 21,
+   "ch_kn": "ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಮುನ್ನಡೆ",
+   "ch_en": "Progress in Various Fields",
+   "diff": "medium",
+   "q_kn": "ಪ್ರಪಂಚದ ಮೊಟ್ಟಮೊದಲ ತದ್ರೂಪಿ (ಕ್ಲೋನ್) ಪ್ರಾಣಿ ಯಾವುದು?",
+   "q_en": "Which was the world's first cloned animal?",
+   "opt_kn": [
+    "ಹ್ಯಾಮ್ ಎಂಬ ಚಿಂಪಾಂಜಿ",
+    "ಲೈಕಾ ಎಂಬ ನಾಯಿ",
+    "ಡಾಲಿ ಎಂಬ ಹಸು",
+    "ಡಾಲಿ ಎಂಬ ಕುರಿ"
+   ],
+   "opt_en": [
+    "Ham the chimpanzee",
+    "Laika the dog",
+    "Dolly the cow",
+    "Dolly the sheep"
+   ],
+   "ans": "D",
+   "exp_kn": "1997ರಲ್ಲಿ ವಿಲ್ಮಟ್ ಎಂಬ ವಿಜ್ಞಾನಿ ಡಾಲಿ ಎಂಬ ತದ್ರೂಪಿ ಕುರಿ ಸೃಷ್ಟಿಸಿದನು."
+  },
+  {
+   "id": "7SS-C21-03",
+   "part": 2,
+   "ch": 21,
+   "ch_kn": "ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಮುನ್ನಡೆ",
+   "ch_en": "Progress in Various Fields",
+   "diff": "medium",
+   "q_kn": "\"ಗೃಹ ಕೈಗಾರಿಕೆಗಳೇ ದೇಶವನ್ನು ಪ್ರಗತಿ ಪಥದತ್ತ ಕೊಂಡೊಯ್ಯುವ ದೀವಟಿಕೆಗಳು\" ಎಂದವರು ಯಾರು?",
+   "q_en": "Who said \"Cottage industries are the torches that lead the nation to progress\"?",
+   "opt_kn": [
+    "ಡಾ. ಅಂಬೇಡ್ಕರ್",
+    "ಜವಾಹರಲಾಲ್ ನೆಹರೂ",
+    "ಮಹಾತ್ಮ ಗಾಂಧೀಜಿ",
+    "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ"
+   ],
+   "opt_en": [
+    "Dr. Ambedkar",
+    "Jawaharlal Nehru",
+    "Mahatma Gandhi",
+    "Sir M. Visvesvaraya"
+   ],
+   "ans": "C",
+   "exp_kn": "ಇದು ಮಹಾತ್ಮ ಗಾಂಧೀಜಿಯವರ ಹೇಳಿಕೆ."
+  },
+  {
+   "id": "7SS-C21-04",
+   "part": 2,
+   "ch": 21,
+   "ch_kn": "ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಮುನ್ನಡೆ",
+   "ch_en": "Progress in Various Fields",
+   "diff": "medium",
+   "q_kn": "ರಾಸಾಯನಿಕಗಳ ಬದಲು ಗೊಬ್ಬರ, ಎರೆಹುಳು ಗೊಬ್ಬರಗಳನ್ನು ಬಳಸುವ ಕೃಷಿ ಪದ್ಧತಿ ಯಾವುದು?",
+   "q_en": "Which farming method uses manure and vermicompost instead of chemicals?",
+   "opt_kn": [
+    "ಸ್ಥಳಾಂತರ ಕೃಷಿ",
+    "ಸಾವಯವ ಕೃಷಿ",
+    "ವಾಣಿಜ್ಯ ಕೃಷಿ",
+    "ತೋಟಗಾರಿಕೆ"
+   ],
+   "opt_en": [
+    "Shifting cultivation",
+    "Organic farming",
+    "Commercial farming",
+    "Horticulture"
+   ],
+   "ans": "B",
+   "exp_kn": "ಸಾವಯವ ಕೃಷಿ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಮತ್ತು ಆರೋಗ್ಯ ಕಾಪಾಡುತ್ತದೆ."
+  },
+  {
+   "id": "7SS-C21-05",
+   "part": 2,
+   "ch": 21,
+   "ch_kn": "ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಮುನ್ನಡೆ",
+   "ch_en": "Progress in Various Fields",
+   "diff": "hard",
+   "q_kn": "ಗಾಳಿ ಮತ್ತು ನೀರಿನಿಂದ ಮೇಲ್ಮಣ್ಣು ಕೊಚ್ಚಿಹೋಗುವುದನ್ನು ಏನೆನ್ನುತ್ತಾರೆ?",
+   "q_en": "What is the washing away of topsoil by wind and water called?",
+   "opt_kn": [
+    "ಮಣ್ಣಿನ ಸಂರಕ್ಷಣೆ",
+    "ನೀರಾವರಿ",
+    "ಜೈವಿಕ ತಂತ್ರಜ್ಞಾನ",
+    "ಮಣ್ಣಿನ ಸವಕಳಿ"
+   ],
+   "opt_en": [
+    "Soil conservation",
+    "Irrigation",
+    "Biotechnology",
+    "Soil erosion"
+   ],
+   "ans": "D",
+   "exp_kn": "ಮೇಲ್ಮಣ್ಣು ಕೊಚ್ಚಿಹೋಗುವುದು ಮಣ್ಣಿನ ಸವಕಳಿ."
+  },
+  {
+   "id": "7SS-C22-01",
+   "part": 2,
+   "ch": 22,
+   "ch_kn": "ನ್ಯಾಯಾಂಗ",
+   "ch_en": "The Judiciary",
+   "diff": "easy",
+   "q_kn": "ದೇಶದ ಅತ್ಯುನ್ನತ ನ್ಯಾಯಾಲಯ ಯಾವುದು?",
+   "q_en": "Which is the highest court of the country?",
+   "opt_kn": [
+    "ಸರ್ವೋಚ್ಚ ನ್ಯಾಯಾಲಯ (ಸುಪ್ರೀಂ ಕೋರ್ಟ್)",
+    "ಉಚ್ಚ ನ್ಯಾಯಾಲಯ",
+    "ಜಿಲ್ಲಾ ನ್ಯಾಯಾಲಯ",
+    "ಲೋಕ ಅದಾಲತ್"
+   ],
+   "opt_en": [
+    "Supreme Court",
+    "High Court",
+    "District Court",
+    "Lok Adalat"
+   ],
+   "ans": "A",
+   "exp_kn": "ಸರ್ವೋಚ್ಚ ನ್ಯಾಯಾಲಯ ದೇಶದ ಅತ್ಯುನ್ನತ ನ್ಯಾಯಾಲಯ; ದೆಹಲಿಯಲ್ಲಿದೆ."
+  },
+  {
+   "id": "7SS-C22-02",
+   "part": 2,
+   "ch": 22,
+   "ch_kn": "ನ್ಯಾಯಾಂಗ",
+   "ch_en": "The Judiciary",
+   "diff": "medium",
+   "q_kn": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ನ್ಯಾಯಾಧೀಶರ ನಿವೃತ್ತಿ ವಯಸ್ಸು ಎಷ್ಟು?",
+   "q_en": "What is the retirement age of Supreme Court judges?",
+   "opt_kn": [
+    "62 ವರ್ಷ",
+    "65 ವರ್ಷ",
+    "70 ವರ್ಷ",
+    "60 ವರ್ಷ"
+   ],
+   "opt_en": [
+    "62 years",
+    "65 years",
+    "70 years",
+    "60 years"
+   ],
+   "ans": "B",
+   "exp_kn": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ನ್ಯಾಯಾಧೀಶರ ನಿವೃತ್ತಿ ವಯೋಮಿತಿ 65 ವರ್ಷ."
+  },
+  {
+   "id": "7SS-C22-03",
+   "part": 2,
+   "ch": 22,
+   "ch_kn": "ನ್ಯಾಯಾಂಗ",
+   "ch_en": "The Judiciary",
+   "diff": "medium",
+   "q_kn": "ಪಠ್ಯಪುಸ್ತಕದ ಪ್ರಕಾರ ದೇಶದಲ್ಲಿ ಒಟ್ಟು ಎಷ್ಟು ಉಚ್ಚ ನ್ಯಾಯಾಲಯಗಳಿವೆ?",
+   "q_en": "According to the textbook, how many High Courts are there in the country?",
+   "opt_kn": [
+    "21",
+    "36",
+    "25",
+    "28"
+   ],
+   "opt_en": [
+    "21",
+    "36",
+    "25",
+    "28"
+   ],
+   "ans": "C",
+   "exp_kn": "ದೇಶದಲ್ಲಿ ಒಟ್ಟು 25 ಉಚ್ಚ ನ್ಯಾಯಾಲಯಗಳಿವೆ; ಕರ್ನಾಟಕದ ಉಚ್ಚ ನ್ಯಾಯಾಲಯ ಬೆಂಗಳೂರಿನಲ್ಲಿದೆ."
+  },
+  {
+   "id": "7SS-C22-04",
+   "part": 2,
+   "ch": 22,
+   "ch_kn": "ನ್ಯಾಯಾಂಗ",
+   "ch_en": "The Judiciary",
+   "diff": "easy",
+   "q_kn": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ನ್ಯಾಯಾಧೀಶರನ್ನು ಯಾರು ನೇಮಿಸುತ್ತಾರೆ?",
+   "q_en": "Who appoints the judges of the Supreme Court?",
+   "opt_kn": [
+    "ರಾಷ್ಟ್ರಪತಿ",
+    "ಪ್ರಧಾನಮಂತ್ರಿ",
+    "ಕಾನೂನು ಮಂತ್ರಿ",
+    "ಸಂಸತ್ತು"
+   ],
+   "opt_en": [
+    "President",
+    "Prime Minister",
+    "Law Minister",
+    "Parliament"
+   ],
+   "ans": "A",
+   "exp_kn": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ನ್ಯಾಯಾಧೀಶರನ್ನು ರಾಷ್ಟ್ರಪತಿ ನೇಮಿಸುತ್ತಾರೆ."
+  },
+  {
+   "id": "7SS-C22-05",
+   "part": 2,
+   "ch": 22,
+   "ch_kn": "ನ್ಯಾಯಾಂಗ",
+   "ch_en": "The Judiciary",
+   "diff": "hard",
+   "q_kn": "ಇವುಗಳಲ್ಲಿ ಸರ್ವೋಚ್ಚ ನ್ಯಾಯಾಲಯದ ಕಾರ್ಯವಲ್ಲದುದು ಯಾವುದು?",
+   "q_en": "Which of these is NOT a function of the Supreme Court?",
+   "opt_kn": [
+    "ಮೂಲಭೂತ ಹಕ್ಕುಗಳ ರಕ್ಷಣೆಗೆ ರಿಟ್ ಹೊರಡಿಸುವುದು",
+    "ಸಂವಿಧಾನವನ್ನು ಅರ್ಥೈಸುವುದು",
+    "ಕಾನೂನುಗಳನ್ನು ರಚಿಸುವುದು",
+    "ಕೇಂದ್ರ–ರಾಜ್ಯಗಳ ನಡುವಿನ ವಿವಾದ ಬಗೆಹರಿಸುವುದು"
+   ],
+   "opt_en": [
+    "Issuing writs to protect fundamental rights",
+    "Interpreting the Constitution",
+    "Making laws",
+    "Settling Centre–State disputes"
+   ],
+   "ans": "C",
+   "exp_kn": "ಕಾನೂನು ರಚನೆ ಶಾಸಕಾಂಗದ ಕೆಲಸ; ಉಳಿದವು ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ನ ಕಾರ್ಯಗಳು."
+  },
+  {
+   "id": "7SS-C23-01",
+   "part": 2,
+   "ch": 23,
+   "ch_kn": "ರಕ್ಷಣಾ ಪಡೆಗಳು",
+   "ch_en": "Defence Forces",
+   "diff": "easy",
+   "q_kn": "ರಕ್ಷಣಾ ಪಡೆಗಳ ಸರ್ವೋಚ್ಚ ಅಧಿಕಾರ (ಮಹಾದಂಡನಾಯಕ) ಯಾರಿಗಿದೆ?",
+   "q_en": "Who is the Supreme Commander of the defence forces?",
+   "opt_kn": [
+    "ಪ್ರಧಾನಮಂತ್ರಿ",
+    "ರಾಷ್ಟ್ರಪತಿ",
+    "ರಕ್ಷಣಾ ಮಂತ್ರಿ",
+    "ಭೂಸೇನಾ ಮುಖ್ಯಸ್ಥರು"
+   ],
+   "opt_en": [
+    "Prime Minister",
+    "President",
+    "Defence Minister",
+    "Army Chief"
+   ],
+   "ans": "B",
+   "exp_kn": "ರಕ್ಷಣಾ ಪಡೆಗಳ ಸರ್ವೋಚ್ಚ ಅಧಿಕಾರ ರಾಷ್ಟ್ರಪತಿಗಳಿಗಿದೆ."
+  },
+  {
+   "id": "7SS-C23-02",
+   "part": 2,
+   "ch": 23,
+   "ch_kn": "ರಕ್ಷಣಾ ಪಡೆಗಳು",
+   "ch_en": "Defence Forces",
+   "diff": "medium",
+   "q_kn": "ಭೂಸೇನೆಯ ಪ್ರಧಾನ ಕಚೇರಿ ಎಲ್ಲಿದೆ?",
+   "q_en": "Where is the headquarters of the Indian Army?",
+   "opt_kn": [
+    "ಪುಣೆ",
+    "ಬೆಂಗಳೂರು",
+    "ಮುಂಬೈ",
+    "ಹೊಸದಿಲ್ಲಿ"
+   ],
+   "opt_en": [
+    "Pune",
+    "Bengaluru",
+    "Mumbai",
+    "New Delhi"
+   ],
+   "ans": "D",
+   "exp_kn": "ಭೂಸೇನೆಯ ಪ್ರಧಾನ ಕಚೇರಿ ಹೊಸದಿಲ್ಲಿಯಲ್ಲಿದೆ."
+  },
+  {
+   "id": "7SS-C23-03",
+   "part": 2,
+   "ch": 23,
+   "ch_kn": "ರಕ್ಷಣಾ ಪಡೆಗಳು",
+   "ch_en": "Defence Forces",
+   "diff": "medium",
+   "q_kn": "ಭೂಸೇನೆಯ ಮುಖ್ಯಸ್ಥರನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+   "q_en": "What is the head of the Army called?",
+   "opt_kn": [
+    "ಅಡ್ಮಿರಲ್",
+    "ಕಮಾಂಡೆಂಟ್",
+    "ಏರ್ ಚೀಫ್ ಮಾರ್ಷಲ್",
+    "ಜನರಲ್ (ದಂಡನಾಯಕ)"
+   ],
+   "opt_en": [
+    "Admiral",
+    "Commandant",
+    "Air Chief Marshal",
+    "General"
+   ],
+   "ans": "D",
+   "exp_kn": "ಭೂಸೇನೆ–ಜನರಲ್, ನೌಕಾಪಡೆ–ಅಡ್ಮಿರಲ್, ವಾಯುಪಡೆ–ಏರ್ ಚೀಫ್ ಮಾರ್ಷಲ್."
+  },
+  {
+   "id": "7SS-C23-04",
+   "part": 2,
+   "ch": 23,
+   "ch_kn": "ರಕ್ಷಣಾ ಪಡೆಗಳು",
+   "ch_en": "Defence Forces",
+   "diff": "hard",
+   "q_kn": "ಗಡಿ ಭದ್ರತಾ ಪಡೆಯ (BSF) ಧ್ಯೇಯ ವಾಕ್ಯ ಯಾವುದು?",
+   "q_en": "What is the motto of the Border Security Force (BSF)?",
+   "opt_kn": [
+    "ಸೇವೆ ಮತ್ತು ತ್ಯಾಗ",
+    "ಪ್ರಾಣ ಇರುವವರೆಗೆ ಕರ್ತವ್ಯ (Duty Until Death)",
+    "ಸತ್ಯಮೇವ ಜಯತೆ",
+    "ಏಕತೆ ಮತ್ತು ಶಿಸ್ತು"
+   ],
+   "opt_en": [
+    "Service and Sacrifice",
+    "Duty Until Death",
+    "Satyameva Jayate",
+    "Unity and Discipline"
+   ],
+   "ans": "B",
+   "exp_kn": "BSF ಧ್ಯೇಯ: \"Duty Until Death\" – ಪ್ರಾಣ ಇರುವವರೆಗೆ ಕರ್ತವ್ಯ."
+  },
+  {
+   "id": "7SS-C23-05",
+   "part": 2,
+   "ch": 23,
+   "ch_kn": "ರಕ್ಷಣಾ ಪಡೆಗಳು",
+   "ch_en": "Defence Forces",
+   "diff": "medium",
+   "q_kn": "ಮುಚ್ಚಿಹೋದ ರಸ್ತೆಗಳನ್ನು ತೆರವು ಮಾಡಿ ಸೈನಿಕ ಕಾರ್ಯಾಚರಣೆಗೆ ನೆರವಾಗುವ ಸಂಸ್ಥೆ ಯಾವುದು?",
+   "q_en": "Which organisation clears blocked roads to help military operations?",
+   "opt_kn": [
+    "ಕರಾವಳಿ ರಕ್ಷಣಾ ಪಡೆ",
+    "ರೆಡ್‌ಕ್ರಾಸ್",
+    "ಗಡಿ ರಸ್ತೆಗಳ ಸಂಘಟನೆ (BRO)",
+    "ಎನ್.ಸಿ.ಸಿ."
+   ],
+   "opt_en": [
+    "Coast Guard",
+    "Red Cross",
+    "Border Roads Organisation",
+    "NCC"
+   ],
+   "ans": "C",
+   "exp_kn": "ಗಡಿ ರಸ್ತೆಗಳ ಸಂಘಟನೆ ಗಡಿ ಪ್ರದೇಶಗಳಲ್ಲಿ ರಸ್ತೆ ನಿರ್ಮಿಸಿ ತೆರವುಗೊಳಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "7SS-C24-01",
+   "part": 2,
+   "ch": 24,
+   "ch_kn": "ಭಾರತ ಮತ್ತು ನೆರೆ ದೇಶಗಳು",
+   "ch_en": "India and its Neighbours",
+   "diff": "easy",
+   "q_kn": "ಸಾರ್ಕ್ (SAARC) ಅಸ್ತಿತ್ವಕ್ಕೆ ಬಂದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year did SAARC come into existence?",
+   "opt_kn": [
+    "1985",
+    "1971",
+    "1999",
+    "1962"
+   ],
+   "opt_en": [
+    "1985",
+    "1971",
+    "1999",
+    "1962"
+   ],
+   "ans": "A",
+   "exp_kn": "ದಕ್ಷಿಣ ಏಷ್ಯ ಪ್ರಾದೇಶಿಕ ಸಹಕಾರ ಸಂಘ (ಸಾರ್ಕ್) 1985ರಲ್ಲಿ ಅಸ್ತಿತ್ವಕ್ಕೆ ಬಂದಿತು."
+  },
+  {
+   "id": "7SS-C24-02",
+   "part": 2,
+   "ch": 24,
+   "ch_kn": "ಭಾರತ ಮತ್ತು ನೆರೆ ದೇಶಗಳು",
+   "ch_en": "India and its Neighbours",
+   "diff": "medium",
+   "q_kn": "ಬಾಂಗ್ಲಾದೇಶದ ವಿಮೋಚನೆಗಾಗಿ ಅವಾಮಿ ಲೀಗ್ ಚಳವಳಿಯ ನೇತೃತ್ವ ವಹಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who led the Awami League liberation movement of Bangladesh?",
+   "opt_kn": [
+    "ಜುಲ್ಫಿಕರ್ ಅಲಿ ಭುಟ್ಟೋ",
+    "ಶೇಖ್ ಮುಜೀಬುರ್ ರೆಹಮಾನ್",
+    "ಜಿಯಾ ಉಲ್ ಹಕ್",
+    "ಮಹಮ್ಮದ್ ಅಲಿ ಜಿನ್ನಾ"
+   ],
+   "opt_en": [
+    "Zulfikar Ali Bhutto",
+    "Sheikh Mujibur Rahman",
+    "Zia-ul-Haq",
+    "Muhammad Ali Jinnah"
+   ],
+   "ans": "B",
+   "exp_kn": "ಶೇಖ್ ಮುಜೀಬುರ್ ರೆಹಮಾನ್ ನೇತೃತ್ವದಲ್ಲಿ 1971ರಲ್ಲಿ ಬಾಂಗ್ಲಾದೇಶ ಸ್ವತಂತ್ರವಾಯಿತು."
+  },
+  {
+   "id": "7SS-C24-03",
+   "part": 2,
+   "ch": 24,
+   "ch_kn": "ಭಾರತ ಮತ್ತು ನೆರೆ ದೇಶಗಳು",
+   "ch_en": "India and its Neighbours",
+   "diff": "medium",
+   "q_kn": "ಚಿತ್ತಗಾಂಗ್ ಪರ್ವತ ಪ್ರದೇಶದಿಂದ ಭಾರತಕ್ಕೆ ವಲಸೆ ಬಂದ ನಿರಾಶ್ರಿತರು ಯಾರು?",
+   "q_en": "Who are the refugees who migrated to India from the Chittagong Hill Tracts?",
+   "opt_kn": [
+    "ಚಕ್ಮಾ ನಿರಾಶ್ರಿತರು",
+    "ತಮಿಳರು",
+    "ಟಿಬೆಟಿಯನ್ನರು",
+    "ರೋಹಿಂಗ್ಯಾಗಳು"
+   ],
+   "opt_en": [
+    "Chakma refugees",
+    "Tamils",
+    "Tibetans",
+    "Rohingyas"
+   ],
+   "ans": "A",
+   "exp_kn": "ಚಿತ್ತಗಾಂಗ್ ಪರ್ವತ ಪ್ರದೇಶದ ಚಕ್ಮಾ ನಿರಾಶ್ರಿತರು ಭಾರತಕ್ಕೆ ಬಂದರು."
+  },
+  {
+   "id": "7SS-C24-04",
+   "part": 2,
+   "ch": 24,
+   "ch_kn": "ಭಾರತ ಮತ್ತು ನೆರೆ ದೇಶಗಳು",
+   "ch_en": "India and its Neighbours",
+   "diff": "medium",
+   "q_kn": "ಕಾರ್ಗಿಲ್ ಯುದ್ಧ ನಡೆದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year was the Kargil war fought?",
+   "opt_kn": [
+    "1965",
+    "1971",
+    "1962",
+    "1999"
+   ],
+   "opt_en": [
+    "1965",
+    "1971",
+    "1962",
+    "1999"
+   ],
+   "ans": "D",
+   "exp_kn": "ಕಾರ್ಗಿಲ್ ಯುದ್ಧ 1999ರಲ್ಲಿ ಭಾರತ–ಪಾಕಿಸ್ತಾನದ ನಡುವೆ ನಡೆಯಿತು."
+  },
+  {
+   "id": "7SS-C24-05",
+   "part": 2,
+   "ch": 24,
+   "ch_kn": "ಭಾರತ ಮತ್ತು ನೆರೆ ದೇಶಗಳು",
+   "ch_en": "India and its Neighbours",
+   "diff": "hard",
+   "q_kn": "ಇವುಗಳಲ್ಲಿ ಸಾರ್ಕ್‌ನ ಸದಸ್ಯ ರಾಷ್ಟ್ರವಲ್ಲದುದು ಯಾವುದು?",
+   "q_en": "Which of these is NOT a member of SAARC?",
+   "opt_kn": [
+    "ಮಾಲ್ಡೀವ್ಸ್",
+    "ಭೂತಾನ್",
+    "ಮಯನ್ಮಾರ್",
+    "ಅಫ್ಘಾನಿಸ್ತಾನ"
+   ],
+   "opt_en": [
+    "Maldives",
+    "Bhutan",
+    "Myanmar",
+    "Afghanistan"
+   ],
+   "ans": "C",
+   "exp_kn": "ಸಾರ್ಕ್‌ನ ಎಂಟು ಸದಸ್ಯರು: ಭಾರತ, ಪಾಕಿಸ್ತಾನ, ಬಾಂಗ್ಲಾ, ನೇಪಾಳ, ಭೂತಾನ್, ಶ್ರೀಲಂಕಾ, ಮಾಲ್ಡೀವ್ಸ್, ಅಫ್ಘಾನಿಸ್ತಾನ."
+  },
+  {
+   "id": "7SS-C24-06",
+   "part": 2,
+   "ch": 24,
+   "ch_kn": "ಭಾರತ ಮತ್ತು ನೆರೆ ದೇಶಗಳು",
+   "ch_en": "India and its Neighbours",
+   "diff": "medium",
+   "q_kn": "1962ರಲ್ಲಿ ಭಾರತ ಯಾವ ದೇಶದೊಂದಿಗೆ ಯುದ್ಧ ಮಾಡಿತು?",
+   "q_en": "With which country did India fight a war in 1962?",
+   "opt_kn": [
+    "ಚೀನಾ",
+    "ಪಾಕಿಸ್ತಾನ",
+    "ನೇಪಾಳ",
+    "ಬಾಂಗ್ಲಾದೇಶ"
+   ],
+   "opt_en": [
+    "China",
+    "Pakistan",
+    "Nepal",
+    "Bangladesh"
+   ],
+   "ans": "A",
+   "exp_kn": "1962ರಲ್ಲಿ ಚೀನಾ–ಭಾರತ ಯುದ್ಧ ನಡೆಯಿತು."
+  },
+  {
+   "id": "7SS-C25-01",
+   "part": 2,
+   "ch": 25,
+   "ch_kn": "ವಿಶ್ವಸಂಸ್ಥೆ",
+   "ch_en": "The United Nations",
+   "diff": "easy",
+   "q_kn": "ವಿಶ್ವಸಂಸ್ಥೆ ಸ್ಥಾಪನೆಯಾದ ದಿನಾಂಕ ಯಾವುದು?",
+   "q_en": "On which date was the United Nations established?",
+   "opt_kn": [
+    "10 ಡಿಸೆಂಬರ್ 1948",
+    "26 ಜನವರಿ 1950",
+    "24 ಅಕ್ಟೋಬರ್ 1945",
+    "15 ಆಗಸ್ಟ್ 1947"
+   ],
+   "opt_en": [
+    "10 December 1948",
+    "26 January 1950",
+    "24 October 1945",
+    "15 August 1947"
+   ],
+   "ans": "C",
+   "exp_kn": "1945 ಅಕ್ಟೋಬರ್ 24ರಂದು ವಿಶ್ವಸಂಸ್ಥೆ ಸ್ಥಾಪನೆಯಾಯಿತು."
+  },
+  {
+   "id": "7SS-C25-02",
+   "part": 2,
+   "ch": 25,
+   "ch_kn": "ವಿಶ್ವಸಂಸ್ಥೆ",
+   "ch_en": "The United Nations",
+   "diff": "medium",
+   "q_kn": "ವಿಶ್ವಸಂಸ್ಥೆ ಸ್ಥಾಪನೆಗೆ ಸಮಾವೇಶಗೊಂಡ ರಾಷ್ಟ್ರಗಳ ಪ್ರತಿನಿಧಿಗಳು ಯಾವ ನಗರದಲ್ಲಿ ಸೇರಿದ್ದರು?",
+   "q_en": "In which city did the representatives of nations meet to form the UN?",
+   "opt_kn": [
+    "ಪ್ಯಾರಿಸ್",
+    "ಲಂಡನ್",
+    "ಜಿನೀವಾ",
+    "ಸ್ಯಾನ್‌ಫ್ರಾನ್ಸಿಸ್ಕೊ"
+   ],
+   "opt_en": [
+    "Paris",
+    "London",
+    "Geneva",
+    "San Francisco"
+   ],
+   "ans": "D",
+   "exp_kn": "ಐವತ್ತೊಂದು ರಾಷ್ಟ್ರಗಳ ಪ್ರತಿನಿಧಿಗಳು ಸ್ಯಾನ್‌ಫ್ರಾನ್ಸಿಸ್ಕೊದಲ್ಲಿ ಸಮಾವೇಶಗೊಂಡರು."
+  },
+  {
+   "id": "7SS-C25-03",
+   "part": 2,
+   "ch": 25,
+   "ch_kn": "ವಿಶ್ವಸಂಸ್ಥೆ",
+   "ch_en": "The United Nations",
+   "diff": "medium",
+   "q_kn": "ವಿಶ್ವಸಂಸ್ಥೆಯ ಲಾಂಛನದ ಎರಡೂ ಕಡೆ ಇರುವ ಆಲಿವ್ ರೆಂಬೆಗಳು ಯಾವುದರ ಸಂಕೇತ?",
+   "q_en": "The olive branches on both sides of the UN emblem symbolise what?",
+   "opt_kn": [
+    "ಕೃಷಿ",
+    "ಸ್ನೇಹ ಮತ್ತು ಶಾಂತಿ",
+    "ಸಂಪತ್ತು",
+    "ಯುದ್ಧ ಮತ್ತು ಶಕ್ತಿ"
+   ],
+   "opt_en": [
+    "Agriculture",
+    "Friendship and peace",
+    "Wealth",
+    "War and power"
+   ],
+   "ans": "B",
+   "exp_kn": "ಲಾಂಛನದ ಭೂಖಂಡಗಳು ಜಗತ್ತಿನ ಎಲ್ಲ ದೇಶಗಳನ್ನು, ಆಲಿವ್ ರೆಂಬೆಗಳು ಸ್ನೇಹ ಮತ್ತು ಶಾಂತಿಯನ್ನು ಸೂಚಿಸುತ್ತವೆ."
+  },
+  {
+   "id": "7SS-C25-04",
+   "part": 2,
+   "ch": 25,
+   "ch_kn": "ವಿಶ್ವಸಂಸ್ಥೆ",
+   "ch_en": "The United Nations",
+   "diff": "medium",
+   "q_kn": "ವಿಶ್ವಸಂಸ್ಥೆಯ ಅಂತರಾಷ್ಟ್ರೀಯ ನ್ಯಾಯಾಲಯದಲ್ಲಿ ಎಷ್ಟು ನ್ಯಾಯಾಧೀಶರಿರುತ್ತಾರೆ?",
+   "q_en": "How many judges are there in the International Court of Justice?",
+   "opt_kn": [
+    "9",
+    "15",
+    "51",
+    "25"
+   ],
+   "opt_en": [
+    "9",
+    "15",
+    "51",
+    "25"
+   ],
+   "ans": "B",
+   "exp_kn": "ಅಂತರಾಷ್ಟ್ರೀಯ ನ್ಯಾಯಾಲಯದಲ್ಲಿ ಹದಿನೈದು ನ್ಯಾಯಾಧೀಶರಿರುತ್ತಾರೆ; ಅವರನ್ನು ಭದ್ರತಾ ಮಂಡಳಿ ಮತ್ತು ಮಹಾಸಭೆ ಚುನಾಯಿಸುತ್ತವೆ."
+  },
+  {
+   "id": "7SS-C25-05",
+   "part": 2,
+   "ch": 25,
+   "ch_kn": "ವಿಶ್ವಸಂಸ್ಥೆ",
+   "ch_en": "The United Nations",
+   "diff": "hard",
+   "q_kn": "ವಿಶ್ವಸಂಸ್ಥೆಯ ಅಂತರರಾಷ್ಟ್ರೀಯ ನ್ಯಾಯಾಲಯ ಎಲ್ಲಿದೆ?",
+   "q_en": "Where is the International Court of Justice of the UN located?",
+   "opt_kn": [
+    "ಹೇಗ್ (ನೆದರ್ಲ್ಯಾಂಡ್ಸ್)",
+    "ನ್ಯೂಯಾರ್ಕ್",
+    "ರೋಮ್",
+    "ಜಿನೀವಾ"
+   ],
+   "opt_en": [
+    "The Hague (Netherlands)",
+    "New York",
+    "Rome",
+    "Geneva"
+   ],
+   "ans": "A",
+   "exp_kn": "ಅಂತರರಾಷ್ಟ್ರೀಯ ನ್ಯಾಯಾಲಯ ನೆದರ್ಲ್ಯಾಂಡ್ಸ್‌ನ ಹೇಗ್‌ನಲ್ಲಿದೆ."
+  },
+  {
+   "id": "7SS-C26-01",
+   "part": 2,
+   "ch": 26,
+   "ch_kn": "ಆಸ್ಟ್ರೇಲಿಯ",
+   "ch_en": "Australia",
+   "diff": "easy",
+   "q_kn": "ಆಸ್ಟ್ರೇಲಿಯದ ರಾಷ್ಟ್ರೀಯ ಪ್ರಾಣಿ ಯಾವುದು?",
+   "q_en": "What is the national animal of Australia?",
+   "opt_kn": [
+    "ಡಿಂಗೊ",
+    "ಎಮು",
+    "ಕೋಲಾ",
+    "ಕಾಂಗರೂ"
+   ],
+   "opt_en": [
+    "Dingo",
+    "Emu",
+    "Koala",
+    "Kangaroo"
+   ],
+   "ans": "D",
+   "exp_kn": "ಕಾಂಗರೂ ಆಸ್ಟ್ರೇಲಿಯದ ರಾಷ್ಟ್ರೀಯ ಪ್ರಾಣಿ."
+  },
+  {
+   "id": "7SS-C26-02",
+   "part": 2,
+   "ch": 26,
+   "ch_kn": "ಆಸ್ಟ್ರೇಲಿಯ",
+   "ch_en": "Australia",
+   "diff": "medium",
+   "q_kn": "ಆಸ್ಟ್ರೇಲಿಯದ ಅತಿ ದೊಡ್ಡ ಪಕ್ಷಿ ಯಾವುದು?",
+   "q_en": "Which is the largest bird of Australia?",
+   "opt_kn": [
+    "ಲೈರ್",
+    "ಕಪ್ಪು ಹಂಸ",
+    "ಎಮು",
+    "ಕೂಕಾಬುರ್ರ"
+   ],
+   "opt_en": [
+    "Lyrebird",
+    "Black swan",
+    "Emu",
+    "Kookaburra"
+   ],
+   "ans": "C",
+   "exp_kn": "ಎಮು ಆಸ್ಟ್ರೇಲಿಯದ ಅತಿ ದೊಡ್ಡ ಪಕ್ಷಿ."
+  },
+  {
+   "id": "7SS-C26-03",
+   "part": 2,
+   "ch": 26,
+   "ch_kn": "ಆಸ್ಟ್ರೇಲಿಯ",
+   "ch_en": "Australia",
+   "diff": "medium",
+   "q_kn": "ಆಸ್ಟ್ರೇಲಿಯದ ಪೂರ್ವ ತೀರದಾಚೆ ಹಬ್ಬಿರುವ ಹವಳ ದಿಣ್ಣೆಗಳ ಸಾಲು ಯಾವುದು?",
+   "q_en": "What is the chain of coral reefs off the east coast of Australia called?",
+   "opt_kn": [
+    "ಗ್ರೇಟ್ ಬ್ಯಾರಿಯರ್ ರೀಫ್",
+    "ಆರ್ಟೀಸಿಯನ್ ಜಲಾನಯನ",
+    "ಗ್ರೇಟ್ ಡಿವೈಡಿಂಗ್ ರೇಂಜ್",
+    "ಮರ್ರೆ ಬಯಲು"
+   ],
+   "opt_en": [
+    "Great Barrier Reef",
+    "Artesian basin",
+    "Great Dividing Range",
+    "Murray plain"
+   ],
+   "ans": "A",
+   "exp_kn": "ಗ್ರೇಟ್ ಬ್ಯಾರಿಯರ್ ರೀಫ್ ಸುಮಾರು 2000 ಕಿ.ಮೀ. ಹಬ್ಬಿರುವ ಹವಳ ದಿಣ್ಣೆಗಳು."
+  },
+  {
+   "id": "7SS-C26-04",
+   "part": 2,
+   "ch": 26,
+   "ch_kn": "ಆಸ್ಟ್ರೇಲಿಯ",
+   "ch_en": "Australia",
+   "diff": "hard",
+   "q_kn": "ಆಸ್ಟ್ರೇಲಿಯ ಖಂಡದ ಅತಿ ಎತ್ತರವಾದ ಶಿಖರ ಯಾವುದು?",
+   "q_en": "Which is the highest peak of the Australian continent?",
+   "opt_kn": [
+    "ಅಕಾಂಕಾಗುವ",
+    "ಕೊಸಿಯುಸ್ಕೊ",
+    "ಕಿಲಿಮಾಂಜರೊ",
+    "ಮೆಕಿನ್ಲೆ"
+   ],
+   "opt_en": [
+    "Aconcagua",
+    "Kosciuszko",
+    "Kilimanjaro",
+    "McKinley"
+   ],
+   "ans": "B",
+   "exp_kn": "ಕೊಸಿಯುಸ್ಕೊ (2230 ಮೀ.) ಆಸ್ಟ್ರೇಲಿಯದ ಅತಿ ಎತ್ತರದ ಶಿಖರ."
+  },
+  {
+   "id": "7SS-C26-05",
+   "part": 2,
+   "ch": 26,
+   "ch_kn": "ಆಸ್ಟ್ರೇಲಿಯ",
+   "ch_en": "Australia",
+   "diff": "medium",
+   "q_kn": "ಮರಿಗಳನ್ನು ಹೊಟ್ಟೆಯ ಹೊರಚೀಲದಲ್ಲಿ ಪೋಷಿಸುವ ಆಸ್ಟ್ರೇಲಿಯದ ಪ್ರಾಣಿಗಳನ್ನು ಏನೆನ್ನುತ್ತಾರೆ?",
+   "q_en": "What are Australian animals that rear their young in a pouch called?",
+   "opt_kn": [
+    "ಉಭಯವಾಸಿಗಳು",
+    "ಸರೀಸೃಪಗಳು",
+    "ಚೀಲಪ್ರಾಣಿಗಳು (ಮಾರ್ಸುಪಿಯಲ್)",
+    "ಮೆಲುಕು ಹಾಕುವ ಪ್ರಾಣಿಗಳು"
+   ],
+   "opt_en": [
+    "Amphibians",
+    "Reptiles",
+    "Marsupials",
+    "Ruminants"
+   ],
+   "ans": "C",
+   "exp_kn": "ಕಾಂಗರೂ, ಕೋಲಾ ಮೊದಲಾದವು ಮರಿಗಳನ್ನು ಚೀಲದಲ್ಲಿ ಪೋಷಿಸುವ ಚೀಲಪ್ರಾಣಿಗಳು."
+  },
+  {
+   "id": "7SS-C27-01",
+   "part": 2,
+   "ch": 27,
+   "ch_kn": "ಅಂಟಾರ್ಟಿಕ",
+   "ch_en": "Antarctica",
+   "diff": "easy",
+   "q_kn": "ಭಾರತ ಅಂಟಾರ್ಟಿಕದಲ್ಲಿ ಸ್ಥಾಪಿಸಿದ ಮೊದಲ ಸಂಶೋಧನಾ ಕೇಂದ್ರ ಯಾವುದು?",
+   "q_en": "What was India's first research station in Antarctica?",
+   "opt_kn": [
+    "ಹಿಮಾದ್ರಿ",
+    "ಭಾರತಿ",
+    "ಮೈತ್ರಿ",
+    "ದಕ್ಷಿಣ ಗಂಗೋತ್ರಿ"
+   ],
+   "opt_en": [
+    "Himadri",
+    "Bharati",
+    "Maitri",
+    "Dakshin Gangotri"
+   ],
+   "ans": "D",
+   "exp_kn": "ದಕ್ಷಿಣ ಗಂಗೋತ್ರಿ ಭಾರತದ ಮೊದಲ ಅಂಟಾರ್ಟಿಕ ಸಂಶೋಧನಾ ಕೇಂದ್ರ; ನಂತರ \"ಮೈತ್ರಿ\" ಸ್ಥಾಪನೆಯಾಯಿತು."
+  },
+  {
+   "id": "7SS-C27-02",
+   "part": 2,
+   "ch": 27,
+   "ch_kn": "ಅಂಟಾರ್ಟಿಕ",
+   "ch_en": "Antarctica",
+   "diff": "medium",
+   "q_kn": "ಭಾರತದ ಮೊದಲ ವಿಜ್ಞಾನಿಗಳ ತಂಡ ಅಂಟಾರ್ಟಿಕ ತಲುಪಿದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year did India's first team of scientists reach Antarctica?",
+   "opt_kn": [
+    "1992",
+    "1982",
+    "1962",
+    "1972"
+   ],
+   "opt_en": [
+    "1992",
+    "1982",
+    "1962",
+    "1972"
+   ],
+   "ans": "B",
+   "exp_kn": "ಗೋವಾದಿಂದ ಹೊರಟ ತಂಡ 1982 ಜನವರಿ 9ರಂದು ಅಂಟಾರ್ಟಿಕ ತಲುಪಿತು."
+  },
+  {
+   "id": "7SS-C27-03",
+   "part": 2,
+   "ch": 27,
+   "ch_kn": "ಅಂಟಾರ್ಟಿಕ",
+   "ch_en": "Antarctica",
+   "diff": "medium",
+   "q_kn": "ಅಂಟಾರ್ಟಿಕದಲ್ಲಿ ವರ್ಷದಲ್ಲಿ ಎಷ್ಟು ತಿಂಗಳು ಕತ್ತಲು ಇರುತ್ತದೆ?",
+   "q_en": "For how many months of the year is there darkness in Antarctica?",
+   "opt_kn": [
+    "ಆರು ತಿಂಗಳು",
+    "ಒಂದು ತಿಂಗಳು",
+    "ಮೂರು ತಿಂಗಳು",
+    "ಒಂಬತ್ತು ತಿಂಗಳು"
+   ],
+   "opt_en": [
+    "Six months",
+    "One month",
+    "Three months",
+    "Nine months"
+   ],
+   "ans": "A",
+   "exp_kn": "ಅಂಟಾರ್ಟಿಕದಲ್ಲಿ ಆರು ತಿಂಗಳು ಕತ್ತಲು, ಆರು ತಿಂಗಳು ಬೆಳಕು."
+  },
+  {
+   "id": "7SS-C27-04",
+   "part": 2,
+   "ch": 27,
+   "ch_kn": "ಅಂಟಾರ್ಟಿಕ",
+   "ch_en": "Antarctica",
+   "diff": "medium",
+   "q_kn": "ಅಂಟಾರ್ಟಿಕದ ಸುತ್ತಲಿನ ಜಲಭಾಗದಲ್ಲಿ ಕಾಣುವ ಪ್ರಾಣಿ ಯಾವುದು?",
+   "q_en": "Which animal is found in the waters around Antarctica?",
+   "opt_kn": [
+    "ಒಂಟೆ",
+    "ಹಿಮಕರಡಿ",
+    "ಕಾಂಗರೂ",
+    "ಪೆಂಗ್ವಿನ್"
+   ],
+   "opt_en": [
+    "Camel",
+    "Polar bear",
+    "Kangaroo",
+    "Penguin"
+   ],
+   "ans": "D",
+   "exp_kn": "ಪೆಂಗ್ವಿನ್, ತಿಮಿಂಗಿಲ, ಸೀಲ್, ಕ್ರಿಲ್ ಅಂಟಾರ್ಟಿಕದ ಜಲಭಾಗದಲ್ಲಿವೆ; ಹಿಮಕರಡಿ ಉತ್ತರ ಧ್ರುವದಲ್ಲಿರುತ್ತದೆ."
+  },
+  {
+   "id": "7SS-C27-05",
+   "part": 2,
+   "ch": 27,
+   "ch_kn": "ಅಂಟಾರ್ಟಿಕ",
+   "ch_en": "Antarctica",
+   "diff": "hard",
+   "q_kn": "ಅಂಟಾರ್ಟಿಕದಲ್ಲಿ ಕಂಡುಬರುವ ಪ್ರಮುಖ ಸಸ್ಯಗಳು ಯಾವುವು?",
+   "q_en": "What are the main plants found in Antarctica?",
+   "opt_kn": [
+    "ಉಷ್ಣವಲಯದ ಮಳೆಕಾಡು",
+    "ಸೂಚಿಪರ್ಣ ಮರಗಳು",
+    "ಪಾಚಿ, ಶಿಲಾವಲ್ಕ ಮತ್ತು ಹಾವಸೆ",
+    "ಹುಲ್ಲುಗಾವಲುಗಳು"
+   ],
+   "opt_en": [
+    "Tropical rainforest",
+    "Coniferous trees",
+    "Algae, lichens and mosses",
+    "Grasslands"
+   ],
+   "ans": "C",
+   "exp_kn": "ಪಾಚಿ, ಶಿಲಾವಲ್ಕ ಮತ್ತು ಹಾವಸೆಗಳೇ ಅಂಟಾರ್ಟಿಕದ ಪ್ರಮುಖ ಸಸ್ಯಗಳು."
+  }
+ ]
+}
