@@ -1,0 +1,4183 @@
+{
+ "subject": "science",
+ "class": 8,
+ "source": "ಕುತೂಹಲ 8ನೇ ತರಗತಿ ವಿಜ್ಞಾನ ಭಾಗ-1, ಭಾಗ-2 (2026-27)",
+ "questions": [
+  {
+   "id": "8SCI-C01-01",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ವಿಜ್ಞಾನದ ಸಂಶೋಧಕ ಜಗತ್ತನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring the Investigative World of Science",
+   "diff": "easy",
+   "q_kn": "ವೈಜ್ಞಾನಿಕ ಅನ್ವೇಷಣೆ ಸಾಮಾನ್ಯವಾಗಿ ಯಾವುದರಿಂದ ಆರಂಭವಾಗುತ್ತದೆ?",
+   "q_en": "Scientific inquiry usually begins with what?",
+   "opt_kn": [
+    "ಬಹುಮಾನ ಪಡೆಯುವುದರಿಂದ",
+    "ಫಲಿತಾಂಶ ಬರೆಯುವುದರಿಂದ",
+    "ಪ್ರಶ್ನೆ ಕೇಳುವುದರಿಂದ",
+    "ಊಹಿಸದೆ ಒಪ್ಪಿಕೊಳ್ಳುವುದರಿಂದ"
+   ],
+   "opt_en": [
+    "Getting a prize",
+    "Writing the result",
+    "Asking a question",
+    "Accepting without thinking"
+   ],
+   "ans": "C",
+   "exp_kn": "“ಏಕೆ?”, “ಹೇಗೆ?” ಎಂಬ ಪ್ರಶ್ನೆಗಳಿಂದ ವಿಜ್ಞಾನ ಆರಂಭವಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C01-02",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ವಿಜ್ಞಾನದ ಸಂಶೋಧಕ ಜಗತ್ತನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring the Investigative World of Science",
+   "diff": "medium",
+   "q_kn": "ನ್ಯಾಯಯುತ ಪರೀಕ್ಷೆಯಲ್ಲಿ (fair test) ಒಂದು ಬಾರಿಗೆ ಎಷ್ಟು ಅಂಶ(ಚರ)ಗಳನ್ನು ಬದಲಿಸಬೇಕು?",
+   "q_en": "In a fair test, how many factors (variables) should be changed at a time?",
+   "opt_kn": [
+    "ಯಾವುದನ್ನೂ ಇಲ್ಲ",
+    "ಒಂದು",
+    "ಎರಡು",
+    "ಎಲ್ಲವನ್ನೂ"
+   ],
+   "opt_en": [
+    "None",
+    "One",
+    "Two",
+    "All"
+   ],
+   "ans": "B",
+   "exp_kn": "ಒಂದೇ ಅಂಶವನ್ನು ಬದಲಿಸಿ ಉಳಿದವುಗಳನ್ನು ಸ್ಥಿರವಾಗಿಟ್ಟಾಗ ಮಾತ್ರ ಅದರ ಪರಿಣಾಮ ತಿಳಿಯುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C01-03",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ವಿಜ್ಞಾನದ ಸಂಶೋಧಕ ಜಗತ್ತನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring the Investigative World of Science",
+   "diff": "medium",
+   "q_kn": "ಪ್ರಯೋಗದ ಮೊದಲು ಫಲಿತಾಂಶದ ಬಗ್ಗೆ ಮಾಡುವ ತಾತ್ಕಾಲಿಕ ಅಂದಾಜನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "A tentative guess about the result made before an experiment is called?",
+   "opt_kn": [
+    "ತೀರ್ಮಾನ",
+    "ಅಳತೆ",
+    "ಅವಲೋಕನ",
+    "ಊಹೆ"
+   ],
+   "opt_en": [
+    "Conclusion",
+    "Measurement",
+    "Observation",
+    "Prediction/Hypothesis"
+   ],
+   "ans": "D",
+   "exp_kn": "ಪ್ರಯೋಗದ ಮೊದಲು ಊಹೆ ಮಾಡಿ, ನಂತರ ಅವಲೋಕನಗಳಿಂದ ಅದನ್ನು ಪರೀಕ್ಷಿಸುತ್ತೇವೆ."
+  },
+  {
+   "id": "8SCI-C01-04",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ವಿಜ್ಞಾನದ ಸಂಶೋಧಕ ಜಗತ್ತನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring the Investigative World of Science",
+   "diff": "easy",
+   "q_kn": "ವಿಜ್ಞಾನದ ಬಗ್ಗೆ ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
+   "q_en": "Which statement about science is correct?",
+   "opt_kn": [
+    "ವಿಜ್ಞಾನ ಯಾವಾಗಲೂ ವಿಕಸಿತಗೊಳ್ಳುತ್ತಲೇ ಇರುತ್ತದೆ",
+    "ವಿಜ್ಞಾನದಲ್ಲಿ ಪ್ರಶ್ನೆ ಕೇಳಬಾರದು",
+    "ವಿಜ್ಞಾನದ ಎಲ್ಲ ಉತ್ತರಗಳು ಈಗಾಗಲೇ ಸಿಕ್ಕಿವೆ",
+    "ವಿಜ್ಞಾನಕ್ಕೆ ಅವಲೋಕನ ಬೇಕಿಲ್ಲ"
+   ],
+   "opt_en": [
+    "Science keeps evolving",
+    "Questions should not be asked in science",
+    "All answers in science are already found",
+    "Science needs no observation"
+   ],
+   "ans": "A",
+   "exp_kn": "ಪ್ರತಿ ಉತ್ತರವು ಹೊಸ ಪ್ರಶ್ನೆ ಹುಟ್ಟಿಸುವುದರಿಂದ ವಿಜ್ಞಾನ ಸದಾ ವಿಕಸಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C02-01",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಅಗೋಚರ ಜೀವ ಜಗತ್ತು: ನಮ್ಮ ಬರಿಗಣ್ಣಿನ ಆಚೆ",
+   "ch_en": "The Invisible Living World: Beyond Our Naked Eye",
+   "diff": "easy",
+   "q_kn": "ಜೀವದ ಮೂಲ ಘಟಕ ಯಾವುದು?",
+   "q_en": "What is the basic unit of life?",
+   "opt_kn": [
+    "ನ್ಯೂಕ್ಲಿಯಸ್",
+    "ಜೀವಕೋಶ",
+    "ಅಂಗ",
+    "ಅಂಗಾಂಶ"
+   ],
+   "opt_en": [
+    "Nucleus",
+    "Cell",
+    "Organ",
+    "Tissue"
+   ],
+   "ans": "B",
+   "exp_kn": "ಎಲ್ಲ ಜೀವಿಗಳ ದೇಹ ಜೀವಕೋಶಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ; ಜೀವಕೋಶ ಜೀವದ ಮೂಲ ಘಟಕ."
+  },
+  {
+   "id": "8SCI-C02-02",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಅಗೋಚರ ಜೀವ ಜಗತ್ತು: ನಮ್ಮ ಬರಿಗಣ್ಣಿನ ಆಚೆ",
+   "ch_en": "The Invisible Living World: Beyond Our Naked Eye",
+   "diff": "medium",
+   "q_kn": "ಕಾರ್ಕ್‌ನ ತೆಳು ಪದರವನ್ನು ಸೂಕ್ಷ್ಮದರ್ಶಕದಲ್ಲಿ ನೋಡಿ ‘ಜೀವಕೋಶ’ (cell) ಎಂದು ಹೆಸರಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who observed a thin slice of cork and named the small parts \"cells\"?",
+   "opt_kn": [
+    "ರಾಬರ್ಟ್ ಹುಕ್",
+    "ಅಲೆಕ್ಸಾಂಡರ್ ಫ್ಲೆಮಿಂಗ್",
+    "ಎಡ್ವರ್ಡ್ ಜೆನ್ನರ್",
+    "ಲ್ಯೂವೆನ್‌ಹುಕ್"
+   ],
+   "opt_en": [
+    "Robert Hooke",
+    "Alexander Fleming",
+    "Edward Jenner",
+    "Leeuwenhoek"
+   ],
+   "ans": "A",
+   "exp_kn": "ರಾಬರ್ಟ್ ಹುಕ್ 1665ರ “ಮೈಕ್ರೋಗ್ರಾಫಿಯಾ” ಪುಸ್ತಕದಲ್ಲಿ ಜೀವಕೋಶಗಳನ್ನು ವಿವರಿಸಿದರು."
+  },
+  {
+   "id": "8SCI-C02-03",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಅಗೋಚರ ಜೀವ ಜಗತ್ತು: ನಮ್ಮ ಬರಿಗಣ್ಣಿನ ಆಚೆ",
+   "ch_en": "The Invisible Living World: Beyond Our Naked Eye",
+   "diff": "hard",
+   "q_kn": "ರಾಬರ್ಟ್ ಹುಕ್ ಅವರ “ಮೈಕ್ರೋಗ್ರಾಫಿಯಾ” ಪುಸ್ತಕ ಪ್ರಕಟವಾದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year was Robert Hooke's book \"Micrographia\" published?",
+   "opt_kn": [
+    "1820",
+    "1765",
+    "1928",
+    "1665"
+   ],
+   "opt_en": [
+    "1820",
+    "1765",
+    "1928",
+    "1665"
+   ],
+   "ans": "D",
+   "exp_kn": "ಮೈಕ್ರೋಗ್ರಾಫಿಯಾ 1665ರಲ್ಲಿ ಪ್ರಕಟವಾಯಿತು."
+  },
+  {
+   "id": "8SCI-C02-04",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಅಗೋಚರ ಜೀವ ಜಗತ್ತು: ನಮ್ಮ ಬರಿಗಣ್ಣಿನ ಆಚೆ",
+   "ch_en": "The Invisible Living World: Beyond Our Naked Eye",
+   "diff": "medium",
+   "q_kn": "“ಸೂಕ್ಷ್ಮಜೀವಶಾಸ್ತ್ರದ ಪಿತಾಮಹ” ಎಂದು ಯಾರನ್ನು ಕರೆಯುವರು?",
+   "q_en": "Who is called the \"Father of Microbiology\"?",
+   "opt_kn": [
+    "ರಾಬರ್ಟ್ ಹುಕ್",
+    "ಲೂಯಿ ಪಾಶ್ಚರ್",
+    "ಆಂಟನಿ ವಾನ್ ಲ್ಯೂವೆನ್‌ಹುಕ್",
+    "ಚಾರ್ಲ್ಸ್ ಡಾರ್ವಿನ್"
+   ],
+   "opt_en": [
+    "Robert Hooke",
+    "Louis Pasteur",
+    "Antonie van Leeuwenhoek",
+    "Charles Darwin"
+   ],
+   "ans": "C",
+   "exp_kn": "ತಾನೇ ತಯಾರಿಸಿದ ಸೂಕ್ಷ್ಮದರ್ಶಕದಲ್ಲಿ ಸೂಕ್ಷ್ಮಜೀವಿಗಳನ್ನು ಮೊದಲು ಕಂಡವರು ಲ್ಯೂವೆನ್‌ಹುಕ್."
+  },
+  {
+   "id": "8SCI-C02-05",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಅಗೋಚರ ಜೀವ ಜಗತ್ತು: ನಮ್ಮ ಬರಿಗಣ್ಣಿನ ಆಚೆ",
+   "ch_en": "The Invisible Living World: Beyond Our Naked Eye",
+   "diff": "medium",
+   "q_kn": "ಸಸ್ಯ ಜೀವಕೋಶದಲ್ಲಿ ಇದ್ದು ಪ್ರಾಣಿ ಜೀವಕೋಶದಲ್ಲಿ ಇಲ್ಲದ ಭಾಗ ಯಾವುದು?",
+   "q_en": "Which part is present in a plant cell but absent in an animal cell?",
+   "opt_kn": [
+    "ಕೋಶಭಿತ್ತಿ",
+    "ಕೋಶದ್ರವ್ಯ",
+    "ನ್ಯೂಕ್ಲಿಯಸ್",
+    "ಕೋಶಪೊರೆ"
+   ],
+   "opt_en": [
+    "Cell wall",
+    "Cytoplasm",
+    "Nucleus",
+    "Cell membrane"
+   ],
+   "ans": "A",
+   "exp_kn": "ಸಸ್ಯ, ಶಿಲೀಂಧ್ರ, ಬ್ಯಾಕ್ಟೀರಿಯಾ ಜೀವಕೋಶಗಳಲ್ಲಿ ಕೋಶಪೊರೆಯ ಸುತ್ತ ಕೋಶಭಿತ್ತಿ ಇರುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C02-06",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಅಗೋಚರ ಜೀವ ಜಗತ್ತು: ನಮ್ಮ ಬರಿಗಣ್ಣಿನ ಆಚೆ",
+   "ch_en": "The Invisible Living World: Beyond Our Naked Eye",
+   "diff": "medium",
+   "q_kn": "ಎಲೆಗಳಿಗೆ ಹಸಿರು ಬಣ್ಣ ನೀಡಿ ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಗೆ ಸಹಾಯಮಾಡುವ ವರ್ಣದ್ರವ್ಯ ಯಾವುದು?",
+   "q_en": "Which pigment gives leaves green colour and helps in photosynthesis?",
+   "opt_kn": [
+    "ಮೆಲನಿನ್",
+    "ಹಿಮೋಗ್ಲೋಬಿನ್",
+    "ಕ್ಲೋರೋಫಿಲ್",
+    "ಕೆರೋಟಿನ್"
+   ],
+   "opt_en": [
+    "Melanin",
+    "Haemoglobin",
+    "Chlorophyll",
+    "Carotene"
+   ],
+   "ans": "C",
+   "exp_kn": "ಪ್ಲಾಸ್ಟಿಡ್‌ಗಳಲ್ಲಿರುವ ಕ್ಲೋರೋಫಿಲ್ ಹಸಿರು ಬಣ್ಣ ನೀಡಿ ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C02-07",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಅಗೋಚರ ಜೀವ ಜಗತ್ತು: ನಮ್ಮ ಬರಿಗಣ್ಣಿನ ಆಚೆ",
+   "ch_en": "The Invisible Living World: Beyond Our Naked Eye",
+   "diff": "medium",
+   "q_kn": "ಸಸ್ಯ ಜೀವಕೋಶದಲ್ಲಿ ಖಾಲಿಯಂತೆ ಕಾಣುವ, ವಸ್ತುಗಳನ್ನು ಸಂಗ್ರಹಿಸುವ ದೊಡ್ಡ ಸ್ಥಳ ಯಾವುದು?",
+   "q_en": "The large, empty-looking space in a plant cell that stores substances is?",
+   "opt_kn": [
+    "ಕೋಶಭಿತ್ತಿ",
+    "ನ್ಯೂಕ್ಲಿಯಸ್",
+    "ಪ್ಲಾಸ್ಟಿಡ್",
+    "ರಸದಾನಿ"
+   ],
+   "opt_en": [
+    "Cell wall",
+    "Nucleus",
+    "Plastid",
+    "Vacuole"
+   ],
+   "ans": "D",
+   "exp_kn": "ಸಸ್ಯ ಜೀವಕೋಶದ ದೊಡ್ಡ ರಸದಾನಿ ಪ್ರಮುಖ ವಸ್ತುಗಳನ್ನು ಸಂಗ್ರಹಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C02-08",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಅಗೋಚರ ಜೀವ ಜಗತ್ತು: ನಮ್ಮ ಬರಿಗಣ್ಣಿನ ಆಚೆ",
+   "ch_en": "The Invisible Living World: Beyond Our Naked Eye",
+   "diff": "medium",
+   "q_kn": "ನಿರ್ದಿಷ್ಟ ನ್ಯೂಕ್ಲಿಯಸ್ ಹೊಂದಿಲ್ಲದ ಸೂಕ್ಷ್ಮಜೀವಿ ಯಾವುದು?",
+   "q_en": "Which microorganism does not have a well-defined nucleus?",
+   "opt_kn": [
+    "ಯೀಸ್ಟ್",
+    "ಬ್ಯಾಕ್ಟೀರಿಯಾ",
+    "ಅಮೀಬಾ",
+    "ಶೈವಲ"
+   ],
+   "opt_en": [
+    "Yeast",
+    "Bacteria",
+    "Amoeba",
+    "Algae"
+   ],
+   "ans": "B",
+   "exp_kn": "ಬ್ಯಾಕ್ಟೀರಿಯಾದಲ್ಲಿ ಪೊರೆಯಿಂದ ಆವೃತ ನ್ಯೂಕ್ಲಿಯಸ್ ಇರುವುದಿಲ್ಲ."
+  },
+  {
+   "id": "8SCI-C02-09",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಅಗೋಚರ ಜೀವ ಜಗತ್ತು: ನಮ್ಮ ಬರಿಗಣ್ಣಿನ ಆಚೆ",
+   "ch_en": "The Invisible Living World: Beyond Our Naked Eye",
+   "diff": "medium",
+   "q_kn": "ಆತಿಥೇಯ ಜೀವಿಯ ಒಳಗೆ ಮಾತ್ರ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡುವುದು ಯಾವುದು?",
+   "q_en": "Which reproduces only inside a host organism?",
+   "opt_kn": [
+    "ವೈರಸ್",
+    "ಪ್ರೋಟೋಜೋವಾ",
+    "ಬ್ಯಾಕ್ಟೀರಿಯಾ",
+    "ಯೀಸ್ಟ್"
+   ],
+   "opt_en": [
+    "Virus",
+    "Protozoa",
+    "Bacteria",
+    "Yeast"
+   ],
+   "ans": "A",
+   "exp_kn": "ವೈರಸ್‌ಗಳು ಆತಿಥೇಯ ಜೀವಕೋಶದೊಳಗೆ ಮಾತ್ರ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C02-10",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಅಗೋಚರ ಜೀವ ಜಗತ್ತು: ನಮ್ಮ ಬರಿಗಣ್ಣಿನ ಆಚೆ",
+   "ch_en": "The Invisible Living World: Beyond Our Naked Eye",
+   "diff": "easy",
+   "q_kn": "ಇಡ್ಲಿ, ದೋಸೆ, ಬ್ರೆಡ್ ತಯಾರಿಕೆಯಲ್ಲಿ ಹಿಟ್ಟು ಉಬ್ಬಲು ಬಳಸುವ ಶಿಲೀಂಧ್ರ ಯಾವುದು?",
+   "q_en": "Which fungus is used to make dough rise for idli, dosa and bread?",
+   "opt_kn": [
+    "ಅಮೀಬಾ",
+    "ಸ್ಪಿರುಲಿನಾ",
+    "ರೈಜೋಬಿಯಂ",
+    "ಯೀಸ್ಟ್"
+   ],
+   "opt_en": [
+    "Amoeba",
+    "Spirulina",
+    "Rhizobium",
+    "Yeast"
+   ],
+   "ans": "D",
+   "exp_kn": "ಯೀಸ್ಟ್ ಹುದುಗುವಿಕೆಯಿಂದ ಅನಿಲ ಬಿಡುಗಡೆ ಮಾಡಿ ಹಿಟ್ಟು ಉಬ್ಬುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C02-11",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಅಗೋಚರ ಜೀವ ಜಗತ್ತು: ನಮ್ಮ ಬರಿಗಣ್ಣಿನ ಆಚೆ",
+   "ch_en": "The Invisible Living World: Beyond Our Naked Eye",
+   "diff": "easy",
+   "q_kn": "ಹಾಲನ್ನು ಮೊಸರಾಗಿಸುವ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಯಾವುದು?",
+   "q_en": "Which bacterium converts milk into curd?",
+   "opt_kn": [
+    "ಪ್ಲಾಸ್ಮೋಡಿಯಂ",
+    "ರೈಜೋಬಿಯಂ",
+    "ಲ್ಯಾಕ್ಟೋಬ್ಯಾಸಿಲಸ್",
+    "ಯೀಸ್ಟ್"
+   ],
+   "opt_en": [
+    "Plasmodium",
+    "Rhizobium",
+    "Lactobacillus",
+    "Yeast"
+   ],
+   "ans": "C",
+   "exp_kn": "ಲ್ಯಾಕ್ಟೋಬ್ಯಾಸಿಲಸ್ ಮೊಸರು ತಯಾರಿಕೆಗೆ ಬಳಕೆಯಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C02-12",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಅಗೋಚರ ಜೀವ ಜಗತ್ತು: ನಮ್ಮ ಬರಿಗಣ್ಣಿನ ಆಚೆ",
+   "ch_en": "The Invisible Living World: Beyond Our Naked Eye",
+   "diff": "medium",
+   "q_kn": "ದ್ವಿದಳ ಸಸ್ಯಗಳ ಬೇರು ಗಂಟುಗಳಲ್ಲಿದ್ದು ಗಾಳಿಯ ನೈಟ್ರೋಜನ್ ಸ್ಥಿರೀಕರಿಸುವ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಯಾವುದು?",
+   "q_en": "Which bacterium living in root nodules of legumes fixes atmospheric nitrogen?",
+   "opt_kn": [
+    "ಯೀಸ್ಟ್",
+    "ರೈಜೋಬಿಯಂ",
+    "ಲ್ಯಾಕ್ಟೋಬ್ಯಾಸಿಲಸ್",
+    "ಬೂಷ್ಟು"
+   ],
+   "opt_en": [
+    "Yeast",
+    "Rhizobium",
+    "Lactobacillus",
+    "Mould"
+   ],
+   "ans": "B",
+   "exp_kn": "ರೈಜೋಬಿಯಂ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚಿಸುತ್ತದೆ; ಆದ್ದರಿಂದ ರೈತರು ದ್ವಿದಳ ಬೆಳೆ ಬೆಳೆಸುತ್ತಾರೆ."
+  },
+  {
+   "id": "8SCI-C02-13",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಅಗೋಚರ ಜೀವ ಜಗತ್ತು: ನಮ್ಮ ಬರಿಗಣ್ಣಿನ ಆಚೆ",
+   "ch_en": "The Invisible Living World: Beyond Our Naked Eye",
+   "diff": "medium",
+   "q_kn": "ಆರೋಗ್ಯ ಪ್ರಯೋಜನಗಳಿಂದಾಗಿ “ಅದ್ಭುತ ಆಹಾರ” ಎನಿಸಿರುವ ಸೂಕ್ಷ್ಮಶೈವಲ ಯಾವುದು?",
+   "q_en": "Which microalga is called a \"wonder food\" due to its health benefits?",
+   "opt_kn": [
+    "ಬೂಷ್ಟು",
+    "ಲ್ಯಾಕ್ಟೋಬ್ಯಾಸಿಲಸ್",
+    "ಅಮೀಬಾ",
+    "ಸ್ಪಿರುಲಿನಾ"
+   ],
+   "opt_en": [
+    "Mould",
+    "Lactobacillus",
+    "Amoeba",
+    "Spirulina"
+   ],
+   "ans": "D",
+   "exp_kn": "ಸ್ಪಿರುಲಿನಾ ಜೀವಸತ್ವ B-12ರ ಉತ್ತಮ ಆಕರ."
+  },
+  {
+   "id": "8SCI-C02-14",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಅಗೋಚರ ಜೀವ ಜಗತ್ತು: ನಮ್ಮ ಬರಿಗಣ್ಣಿನ ಆಚೆ",
+   "ch_en": "The Invisible Living World: Beyond Our Naked Eye",
+   "diff": "medium",
+   "q_kn": "ಸಮುದ್ರದ ಸೂಕ್ಷ್ಮಶೈವಲಗಳು ಭೂಮಿಯ ಆಕ್ಸಿಜನ್ ಪೂರೈಕೆಯಲ್ಲಿ ಎಷ್ಟು ಭಾಗ ಉತ್ಪಾದಿಸುತ್ತವೆ?",
+   "q_en": "Microscopic algae produce how much of Earth's oxygen supply?",
+   "opt_kn": [
+    "ಏನೂ ಇಲ್ಲ",
+    "ಹತ್ತನೇ ಒಂದು ಭಾಗ",
+    "ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು",
+    "ಕಾಲು ಭಾಗಕ್ಕಿಂತ ಕಡಿಮೆ"
+   ],
+   "opt_en": [
+    "None",
+    "One-tenth",
+    "More than half",
+    "Less than a quarter"
+   ],
+   "ans": "C",
+   "exp_kn": "ಸೂಕ್ಷ್ಮ ಶೈವಲಗಳು ಭೂಮಿಯ ಆಕ್ಸಿಜನ್‌ನ ಅರ್ಧಕ್ಕಿಂತ ಹೆಚ್ಚು ಉತ್ಪಾದಿಸುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C02-15",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಅಗೋಚರ ಜೀವ ಜಗತ್ತು: ನಮ್ಮ ಬರಿಗಣ್ಣಿನ ಆಚೆ",
+   "ch_en": "The Invisible Living World: Beyond Our Naked Eye",
+   "diff": "medium",
+   "q_kn": "ಸರಿಯಾದ ಜೋಡಿ ಯಾವುದು?",
+   "q_en": "Which pair is correctly matched?",
+   "opt_kn": [
+    "ಯೀಸ್ಟ್ – ಏಕಕೋಶೀಯ ಶಿಲೀಂಧ್ರ",
+    "ಬೂಷ್ಟು – ಏಕಕೋಶೀಯ ಬ್ಯಾಕ್ಟೀರಿಯಾ",
+    "ಅಮೀಬಾ – ಬಹುಕೋಶೀಯ ಸಸ್ಯ",
+    "ವೈರಸ್ – ಸ್ವತಂತ್ರವಾಗಿ ಸಂತಾನೋತ್ಪತ್ತಿ"
+   ],
+   "opt_en": [
+    "Yeast – unicellular fungus",
+    "Mould – unicellular bacterium",
+    "Amoeba – multicellular plant",
+    "Virus – reproduces independently"
+   ],
+   "ans": "A",
+   "exp_kn": "ಯೀಸ್ಟ್ ಏಕಕೋಶೀಯ ಶಿಲೀಂಧ್ರ; ಬೂಷ್ಟು ಬಹುಕೋಶೀಯ ಶಿಲೀಂಧ್ರ."
+  },
+  {
+   "id": "8SCI-C02-16",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಅಗೋಚರ ಜೀವ ಜಗತ್ತು: ನಮ್ಮ ಬರಿಗಣ್ಣಿನ ಆಚೆ",
+   "ch_en": "The Invisible Living World: Beyond Our Naked Eye",
+   "diff": "hard",
+   "q_kn": "ಕಡಿಮೆ ಬೆಲೆಯ, ಕಾಗದದಿಂದ ಮಾಡಿದ ಮಡಚಬಹುದಾದ ಸೂಕ್ಷ್ಮದರ್ಶಕ ಯಾವುದು?",
+   "q_en": "What is the low-cost, foldable microscope made of paper called?",
+   "opt_kn": [
+    "ಟೆಲಿಸ್ಕೋಪ್",
+    "ಫೋಲ್ಡ್‌ಸ್ಕೋಪ್",
+    "ಪೆರಿಸ್ಕೋಪ್",
+    "ಸ್ಟೆತೊಸ್ಕೋಪ್"
+   ],
+   "opt_en": [
+    "Telescope",
+    "Foldscope",
+    "Periscope",
+    "Stethoscope"
+   ],
+   "ans": "B",
+   "exp_kn": "ಫೋಲ್ಡ್‌ಸ್ಕೋಪ್ ಕಾಗದದಿಂದ ಮಾಡಿದ ಅಗ್ಗದ ಸೂಕ್ಷ್ಮದರ್ಶಕ."
+  },
+  {
+   "id": "8SCI-C02-17",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಅಗೋಚರ ಜೀವ ಜಗತ್ತು: ನಮ್ಮ ಬರಿಗಣ್ಣಿನ ಆಚೆ",
+   "ch_en": "The Invisible Living World: Beyond Our Naked Eye",
+   "diff": "medium",
+   "q_kn": "ಹೇಳಿಕೆ (A): ಸೂಕ್ಷ್ಮಜೀವಿಗಳು ಪರಿಸರವನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸುತ್ತವೆ. ಕಾರಣ (R): ಅವು ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿ ತ್ಯಾಜ್ಯವನ್ನು ಸರಳ ಪದಾರ್ಥಗಳಾಗಿ ವಿಭಜಿಸುತ್ತವೆ.",
+   "q_en": "Assertion (A): Microorganisms clean the environment. Reason (R): They break down plant and animal waste into simple substances.",
+   "opt_kn": [
+    "A ಮತ್ತು R ಸರಿ; R, A ಗೆ ಸರಿಯಾದ ವಿವರಣೆ",
+    "A ಮತ್ತು R ಸರಿ; R, A ಗೆ ವಿವರಣೆಯಲ್ಲ",
+    "A ಸರಿ, R ತಪ್ಪು",
+    "A ತಪ್ಪು, R ಸರಿ"
+   ],
+   "opt_en": [
+    "Both A and R true; R explains A",
+    "Both true; R does not explain A",
+    "A true, R false",
+    "A false, R true"
+   ],
+   "ans": "A",
+   "exp_kn": "ತ್ಯಾಜ್ಯವನ್ನು ವಿಭಜಿಸುವುದರಿಂದಲೇ ಸೂಕ್ಷ್ಮಜೀವಿಗಳು ಪರಿಸರ ಸ್ವಚ್ಛಗೊಳಿಸುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C03-01",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಆರೋಗ್ಯ: ಅನನ್ಯ ನಿಧಿ",
+   "ch_en": "Health: The Ultimate Treasure",
+   "diff": "easy",
+   "q_kn": "ಆರೋಗ್ಯ ಎಂದರೆ…",
+   "q_en": "Health means…",
+   "opt_kn": [
+    "ಸಂಪೂರ್ಣ ದೈಹಿಕ, ಮಾನಸಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಯೋಗಕ್ಷೇಮ",
+    "ಕೇವಲ ದೈಹಿಕ ಶಕ್ತಿ",
+    "ಕೇವಲ ರೋಗ ಇಲ್ಲದಿರುವುದು",
+    "ಕೇವಲ ಉತ್ತಮ ಆಹಾರ"
+   ],
+   "opt_en": [
+    "Complete physical, mental and social well-being",
+    "Only physical strength",
+    "Only absence of disease",
+    "Only good food"
+   ],
+   "ans": "A",
+   "exp_kn": "ಆರೋಗ್ಯ ಕೇವಲ ರೋಗಮುಕ್ತ ಸ್ಥಿತಿಯಲ್ಲ; ಸಂಪೂರ್ಣ ದೈಹಿಕ, ಮಾನಸಿಕ, ಸಾಮಾಜಿಕ ಯೋಗಕ್ಷೇಮ."
+  },
+  {
+   "id": "8SCI-C03-02",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಆರೋಗ್ಯ: ಅನನ್ಯ ನಿಧಿ",
+   "ch_en": "Health: The Ultimate Treasure",
+   "diff": "medium",
+   "q_kn": "ಇವುಗಳಲ್ಲಿ “ಚಿಹ್ನೆ” (sign) ಯಾವುದು – ಅಂದರೆ ನೋಡಬಹುದಾದ/ಅಳೆಯಬಹುದಾದದ್ದು?",
+   "q_en": "Which of these is a \"sign\" – something that can be seen or measured?",
+   "opt_kn": [
+    "ಆಯಾಸ",
+    "ಜ್ವರ",
+    "ಹೊಟ್ಟೆನೋವು",
+    "ತಲೆನೋವು"
+   ],
+   "opt_en": [
+    "Tiredness",
+    "Fever",
+    "Stomach pain",
+    "Headache"
+   ],
+   "ans": "B",
+   "exp_kn": "ನಾವು ಅನುಭವಿಸುವುದು ರೋಗಲಕ್ಷಣ (ನೋವು, ಆಯಾಸ); ಅಳೆಯಬಹುದಾದ ಜ್ವರ, ದದ್ದು ಚಿಹ್ನೆಗಳು."
+  },
+  {
+   "id": "8SCI-C03-03",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಆರೋಗ್ಯ: ಅನನ್ಯ ನಿಧಿ",
+   "ch_en": "Health: The Ultimate Treasure",
+   "diff": "easy",
+   "q_kn": "ಇವುಗಳಲ್ಲಿ ಸಾಂಕ್ರಾಮಿಕವಲ್ಲದ ರೋಗ ಯಾವುದು?",
+   "q_en": "Which of these is a non-communicable disease?",
+   "opt_kn": [
+    "ಡೆಂಗ್ಯೂ",
+    "ವಿಷಮಶೀತಜ್ವರ",
+    "ಮಲೇರಿಯಾ",
+    "ಮಧುಮೇಹ"
+   ],
+   "opt_en": [
+    "Dengue",
+    "Typhoid",
+    "Malaria",
+    "Diabetes"
+   ],
+   "ans": "D",
+   "exp_kn": "ಮಧುಮೇಹ, ಹೃದ್ರೋಗ ರೋಗಕಾರಕಗಳಿಂದ ಬರುವುದಿಲ್ಲ; ಜೀವನಶೈಲಿಯಿಂದ ಉಂಟಾಗುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C03-04",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಆರೋಗ್ಯ: ಅನನ್ಯ ನಿಧಿ",
+   "ch_en": "Health: The Ultimate Treasure",
+   "diff": "easy",
+   "q_kn": "ರೋಗ ಉಂಟುಮಾಡುವ ಸೂಕ್ಷ್ಮಜೀವಿಗಳನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "Disease-causing microorganisms are called?",
+   "opt_kn": [
+    "ಲಸಿಕೆಗಳು",
+    "ಉತ್ಪಾದಕರು",
+    "ರೋಗಕಾರಕಗಳು",
+    "ವಿಘಟಕರು"
+   ],
+   "opt_en": [
+    "Vaccines",
+    "Producers",
+    "Pathogens",
+    "Decomposers"
+   ],
+   "ans": "C",
+   "exp_kn": "ಬ್ಯಾಕ್ಟೀರಿಯಾ, ವೈರಸ್, ಹುಳುಗಳಂತಹ ರೋಗ ಉಂಟುಮಾಡುವವು ರೋಗಕಾರಕಗಳು."
+  },
+  {
+   "id": "8SCI-C03-05",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಆರೋಗ್ಯ: ಅನನ್ಯ ನಿಧಿ",
+   "ch_en": "Health: The Ultimate Treasure",
+   "diff": "easy",
+   "q_kn": "ಮಲೇರಿಯಾ ರೋಗವನ್ನು ಹರಡುವ ವಾಹಕ ಯಾವುದು?",
+   "q_en": "Which vector spreads malaria?",
+   "opt_kn": [
+    "ನೊಣ",
+    "ಇಲಿ",
+    "ಸೊಳ್ಳೆ",
+    "ಜಿರಳೆ"
+   ],
+   "opt_en": [
+    "Housefly",
+    "Rat",
+    "Mosquito",
+    "Cockroach"
+   ],
+   "ans": "C",
+   "exp_kn": "ಮಲೇರಿಯಾ ಪ್ರೋಟೋಜೋವಾದಿಂದ ಬರುತ್ತದೆ ಮತ್ತು ಸೊಳ್ಳೆಯಿಂದ ಹರಡುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C03-06",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಆರೋಗ್ಯ: ಅನನ್ಯ ನಿಧಿ",
+   "ch_en": "Health: The Ultimate Treasure",
+   "diff": "medium",
+   "q_kn": "ಮಲೇರಿಯಾ ರೋಗಕ್ಕೆ ಕಾರಣವಾದ ರೋಗಕಾರಕ ಯಾವ ಗುಂಪಿಗೆ ಸೇರಿದೆ?",
+   "q_en": "The pathogen of malaria belongs to which group?",
+   "opt_kn": [
+    "ವೈರಸ್",
+    "ಹುಳು",
+    "ಶಿಲೀಂಧ್ರ",
+    "ಪ್ರೋಟೋಜೋವಾ"
+   ],
+   "opt_en": [
+    "Virus",
+    "Worm",
+    "Fungus",
+    "Protozoa"
+   ],
+   "ans": "D",
+   "exp_kn": "ಮಲೇರಿಯಾ ಪ್ರೋಟೋಜೋವಾದಿಂದ ಉಂಟಾಗುವ ಕೀಟಜನ್ಯ ರೋಗ."
+  },
+  {
+   "id": "8SCI-C03-07",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಆರೋಗ್ಯ: ಅನನ್ಯ ನಿಧಿ",
+   "ch_en": "Health: The Ultimate Treasure",
+   "diff": "medium",
+   "q_kn": "ರೇಬಿಸ್ ರೋಗ ಸಾಮಾನ್ಯವಾಗಿ ಹೇಗೆ ಹರಡುತ್ತದೆ?",
+   "q_en": "How does rabies usually spread?",
+   "opt_kn": [
+    "ಸೊಳ್ಳೆ ಕಡಿತದಿಂದ",
+    "ಸೋಂಕಿತ ಪ್ರಾಣಿಯ ಕಡಿತದಿಂದ",
+    "ಗಾಳಿಯಿಂದ",
+    "ಕಲುಷಿತ ನೀರಿನಿಂದ"
+   ],
+   "opt_en": [
+    "Mosquito bite",
+    "Bite of an infected animal",
+    "Air",
+    "Contaminated water"
+   ],
+   "ans": "B",
+   "exp_kn": "ರೇಬಿಸ್ ಸೋಂಕಿತ ಪ್ರಾಣಿ (ಉದಾ: ನಾಯಿ) ಕಡಿತದಿಂದ ಹರಡುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C03-08",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಆರೋಗ್ಯ: ಅನನ್ಯ ನಿಧಿ",
+   "ch_en": "Health: The Ultimate Treasure",
+   "diff": "medium",
+   "q_kn": "ಲಸಿಕೆಗಳು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತವೆ?",
+   "q_en": "How do vaccines work?",
+   "opt_kn": [
+    "ರೋಗಾಣುವಿನ ಸತ್ತ/ದುರ್ಬಲ ಭಾಗಗಳಿಂದ ರೋಗನಿರೋಧಕ ವ್ಯವಸ್ಥೆಗೆ ತರಬೇತಿ ನೀಡಿ",
+    "ರೋಗಾಣುಗಳನ್ನು ನೇರವಾಗಿ ಕೊಂದು",
+    "ದೇಹದ ಉಷ್ಣತೆ ಕಡಿಮೆ ಮಾಡಿ",
+    "ರಕ್ತವನ್ನು ಶುದ್ಧೀಕರಿಸಿ"
+   ],
+   "opt_en": [
+    "By training the immune system using dead/weakened parts of germs",
+    "By directly killing germs",
+    "By lowering body temperature",
+    "By purifying blood"
+   ],
+   "ans": "A",
+   "exp_kn": "ಲಸಿಕೆಗಳು ರೋಗಾಣುವಿನ ಸತ್ತ, ದುರ್ಬಲ ಅಥವಾ ನಿರುಪದ್ರವಿ ಭಾಗಗಳಿಂದ ತರಬೇತಿ ನೀಡುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C03-09",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಆರೋಗ್ಯ: ಅನನ್ಯ ನಿಧಿ",
+   "ch_en": "Health: The Ultimate Treasure",
+   "diff": "medium",
+   "q_kn": "ಕೌಪಾಕ್ಸ್ ಬಳಸಿ ಸಿಡುಬು ಲಸಿಕೆ ಕಂಡುಹಿಡಿದ ಇಂಗ್ಲಿಷ್ ವೈದ್ಯ ಯಾರು?",
+   "q_en": "Which English doctor developed the smallpox vaccine using cowpox?",
+   "opt_kn": [
+    "ರಾಬರ್ಟ್ ಹುಕ್",
+    "ಅಲೆಕ್ಸಾಂಡರ್ ಫ್ಲೆಮಿಂಗ್",
+    "ಲ್ಯೂವೆನ್‌ಹುಕ್",
+    "ಎಡ್ವರ್ಡ್ ಜೆನ್ನರ್"
+   ],
+   "opt_en": [
+    "Robert Hooke",
+    "Alexander Fleming",
+    "Leeuwenhoek",
+    "Edward Jenner"
+   ],
+   "ans": "D",
+   "exp_kn": "1700ರ ದಶಕದ ಉತ್ತರಾರ್ಧದಲ್ಲಿ ಎಡ್ವರ್ಡ್ ಜೆನ್ನರ್ ಸಿಡುಬು ಲಸಿಕೆ ಕಂಡುಹಿಡಿದರು."
+  },
+  {
+   "id": "8SCI-C03-10",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಆರೋಗ್ಯ: ಅನನ್ಯ ನಿಧಿ",
+   "ch_en": "Health: The Ultimate Treasure",
+   "diff": "medium",
+   "q_kn": "ಮೊದಲ ಪ್ರತಿಜೈವಿಕ (antibiotic) ಯಾವುದು?",
+   "q_en": "Which was the first antibiotic?",
+   "opt_kn": [
+    "ಪೆನ್ಸಿಲಿನ್",
+    "ಇನ್ಸುಲಿನ್",
+    "ಆಸ್ಪಿರಿನ್",
+    "ಕ್ವಿನೈನ್"
+   ],
+   "opt_en": [
+    "Penicillin",
+    "Insulin",
+    "Aspirin",
+    "Quinine"
+   ],
+   "ans": "A",
+   "exp_kn": "ಅಲೆಕ್ಸಾಂಡರ್ ಫ್ಲೆಮಿಂಗ್ 1928ರಲ್ಲಿ ಪೆನ್ಸಿಲಿನ್ ಕಂಡುಹಿಡಿದರು."
+  },
+  {
+   "id": "8SCI-C03-11",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಆರೋಗ್ಯ: ಅನನ್ಯ ನಿಧಿ",
+   "ch_en": "Health: The Ultimate Treasure",
+   "diff": "hard",
+   "q_kn": "ಅಲೆಕ್ಸಾಂಡರ್ ಫ್ಲೆಮಿಂಗ್ ಪೆನ್ಸಿಲಿನ್ ಕಂಡುಹಿಡಿದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year did Alexander Fleming discover penicillin?",
+   "opt_kn": [
+    "1820",
+    "1665",
+    "1928",
+    "1796"
+   ],
+   "opt_en": [
+    "1820",
+    "1665",
+    "1928",
+    "1796"
+   ],
+   "ans": "C",
+   "exp_kn": "ಪೆನ್ಸಿಲಿನ್ ಆವಿಷ್ಕಾರ 1928ರಲ್ಲಿ ಲಂಡನ್‌ನಲ್ಲಿ ಆಯಿತು."
+  },
+  {
+   "id": "8SCI-C03-12",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಆರೋಗ್ಯ: ಅನನ್ಯ ನಿಧಿ",
+   "ch_en": "Health: The Ultimate Treasure",
+   "diff": "medium",
+   "q_kn": "ಪ್ರತಿಜೈವಿಕಗಳು ಯಾವುದರಿಂದ ಉಂಟಾಗುವ ರೋಗಗಳ ವಿರುದ್ಧ ಕೆಲಸ ಮಾಡುವುದಿಲ್ಲ?",
+   "q_en": "Antibiotics do NOT work against diseases caused by?",
+   "opt_kn": [
+    "ಎಲ್ಲ ಸೂಕ್ಷ್ಮಜೀವಿಗಳು",
+    "ವೈರಸ್‌ಗಳು",
+    "ಯಾವುದೂ ಅಲ್ಲ",
+    "ಬ್ಯಾಕ್ಟೀರಿಯಾ"
+   ],
+   "opt_en": [
+    "All microbes",
+    "Viruses",
+    "None",
+    "Bacteria"
+   ],
+   "ans": "B",
+   "exp_kn": "ಪ್ರತಿಜೈವಿಕಗಳು ಬ್ಯಾಕ್ಟೀರಿಯಾ ವಿರುದ್ಧ; ವೈರಸ್ ರೋಗಗಳ ವಿರುದ್ಧ ಕೆಲಸ ಮಾಡುವುದಿಲ್ಲ."
+  },
+  {
+   "id": "8SCI-C03-13",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಆರೋಗ್ಯ: ಅನನ್ಯ ನಿಧಿ",
+   "ch_en": "Health: The Ultimate Treasure",
+   "diff": "medium",
+   "q_kn": "ಪ್ರತಿಜೈವಿಕಗಳ ಅನಗತ್ಯ/ಅತಿಯಾದ ಬಳಕೆಯಿಂದ ಏನು ಉಂಟಾಗುತ್ತದೆ?",
+   "q_en": "What results from unnecessary or overuse of antibiotics?",
+   "opt_kn": [
+    "ಪ್ರತಿಜೈವಿಕ ನಿರೋಧಕತೆ",
+    "ಶಾಶ್ವತ ರೋಗನಿರೋಧಕ ಶಕ್ತಿ",
+    "ವೈರಸ್ ನಾಶ",
+    "ಲಸಿಕೆ ಅಗತ್ಯವಿಲ್ಲದಿರುವುದು"
+   ],
+   "opt_en": [
+    "Antibiotic resistance",
+    "Permanent immunity",
+    "Destruction of viruses",
+    "No need of vaccines"
+   ],
+   "ans": "A",
+   "exp_kn": "ಅತಿಯಾದ ಬಳಕೆಯಿಂದ ಬ್ಯಾಕ್ಟೀರಿಯಾ ನಿರೋಧಕತೆ ಬೆಳೆಸಿಕೊಳ್ಳುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C03-14",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಆರೋಗ್ಯ: ಅನನ್ಯ ನಿಧಿ",
+   "ch_en": "Health: The Ultimate Treasure",
+   "diff": "medium",
+   "q_kn": "ಜೀವಸತ್ವ/ಪೋಷಕಾಂಶ ಕೊರತೆಯಿಂದ ಬರುವ ರೋಗಗಳು ಯಾವ ವರ್ಗಕ್ಕೆ ಸೇರುತ್ತವೆ?",
+   "q_en": "Deficiency diseases belong to which category?",
+   "opt_kn": [
+    "ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳು",
+    "ಸಾಂಕ್ರಾಮಿಕವಲ್ಲದ ರೋಗಗಳು",
+    "ಕೀಟಜನ್ಯ ರೋಗಗಳು",
+    "ವೈರಸ್ ರೋಗಗಳು"
+   ],
+   "opt_en": [
+    "Communicable diseases",
+    "Non-communicable diseases",
+    "Vector-borne diseases",
+    "Viral diseases"
+   ],
+   "ans": "B",
+   "exp_kn": "ಕೊರತೆಯ ರೋಗಗಳು ಒಬ್ಬರಿಂದ ಇನ್ನೊಬ್ಬರಿಗೆ ಹರಡುವುದಿಲ್ಲ."
+  },
+  {
+   "id": "8SCI-C03-15",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಆರೋಗ್ಯ: ಅನನ್ಯ ನಿಧಿ",
+   "ch_en": "Health: The Ultimate Treasure",
+   "diff": "hard",
+   "q_kn": "ರೋಟಾವೈರಸ್ ಲಸಿಕೆ ಅಭಿವೃದ್ಧಿಗೆ ಕೊಡುಗೆ ನೀಡಿದ ಭಾರತೀಯ ವಿಜ್ಞಾನಿ ಯಾರು?",
+   "q_en": "Which Indian scientist contributed to developing the rotavirus vaccine?",
+   "opt_kn": [
+    "ಅಸಿಮಾ ಚಟರ್ಜಿ",
+    "ಹೋಮಿ ಭಾಭಾ",
+    "ಎಂ.ಕೆ. ಭಾನ್",
+    "ಸಿ.ವಿ. ರಾಮನ್"
+   ],
+   "opt_en": [
+    "Asima Chatterjee",
+    "Homi Bhabha",
+    "M.K. Bhan",
+    "C.V. Raman"
+   ],
+   "ans": "C",
+   "exp_kn": "ಎಂ.ಕೆ. ಭಾನ್ ಮಕ್ಕಳ ಅತಿಸಾರಕ್ಕೆ ಕಾರಣವಾದ ರೋಟಾವೈರಸ್ ಲಸಿಕೆಗೆ ಕೊಡುಗೆ ನೀಡಿದರು."
+  },
+  {
+   "id": "8SCI-C03-16",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಆರೋಗ್ಯ: ಅನನ್ಯ ನಿಧಿ",
+   "ch_en": "Health: The Ultimate Treasure",
+   "diff": "medium",
+   "q_kn": "ಹೇಳಿಕೆ (A): ಉತ್ತಮ ನೈರ್ಮಲ್ಯದಿಂದ ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳು ಕಡಿಮೆಯಾಗುತ್ತವೆ. ಕಾರಣ (R): ಸ್ವಚ್ಛತೆಯು ರೋಗಕಾರಕಗಳ ಹರಡುವಿಕೆಯನ್ನು ತಡೆಯುತ್ತದೆ.",
+   "q_en": "Assertion (A): Good sanitation reduces infectious diseases. Reason (R): Cleanliness prevents the spread of pathogens.",
+   "opt_kn": [
+    "A ಮತ್ತು R ಸರಿ; R, A ಗೆ ಸರಿಯಾದ ವಿವರಣೆ",
+    "A ಮತ್ತು R ಸರಿ; R, A ಗೆ ವಿವರಣೆಯಲ್ಲ",
+    "A ಸರಿ, R ತಪ್ಪು",
+    "A ತಪ್ಪು, R ಸರಿ"
+   ],
+   "opt_en": [
+    "Both A and R true; R explains A",
+    "Both true; R does not explain A",
+    "A true, R false",
+    "A false, R true"
+   ],
+   "ans": "A",
+   "exp_kn": "ನೈರ್ಮಲ್ಯದಂತಹ ಸರಳ ಕ್ರಮಗಳು ರೋಗ ಹರಡುವಿಕೆಯನ್ನು ತಡೆಯುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C03-17",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಆರೋಗ್ಯ: ಅನನ್ಯ ನಿಧಿ",
+   "ch_en": "Health: The Ultimate Treasure",
+   "diff": "easy",
+   "q_kn": "ಸೊಳ್ಳೆಯಿಂದ ಹರಡುವ ರೋಗಗಳನ್ನು ತಡೆಯಲು ಉತ್ತಮ ಕ್ರಮ ಯಾವುದು?",
+   "q_en": "Best way to prevent mosquito-borne diseases?",
+   "opt_kn": [
+    "ಹೆಚ್ಚು ಸಿಹಿ ತಿನ್ನುವುದು",
+    "ಪ್ರತಿಜೈವಿಕ ಸೇವಿಸುವುದು",
+    "ಬಿಸಿಲಿನಲ್ಲಿ ಕೂರುವುದು",
+    "ಸೊಳ್ಳೆ ಪರದೆ ಬಳಸುವುದು ಮತ್ತು ನೀರು ನಿಲ್ಲದಂತೆ ಮಾಡುವುದು"
+   ],
+   "opt_en": [
+    "Eating more sweets",
+    "Taking antibiotics",
+    "Sitting in the sun",
+    "Using mosquito nets and not letting water stagnate"
+   ],
+   "ans": "D",
+   "exp_kn": "ಸೊಳ್ಳೆ ಪರದೆ, ನಿವಾರಕಗಳು ಮತ್ತು ನಿಂತ ನೀರು ತೆಗೆಯುವುದು ಉತ್ತಮ ತಡೆ."
+  },
+  {
+   "id": "8SCI-C04-01",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಕಾಂತೀಯ ಮತ್ತು ಉಷ್ಣದ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Electricity: Magnetic and Heating Effects",
+   "diff": "easy",
+   "q_kn": "ತಂತಿಯ ಮೂಲಕ ವಿದ್ಯುತ್ ಪ್ರವಹಿಸಿದಾಗ ಅದರ ಸುತ್ತ ಏನು ಉಂಟಾಗುತ್ತದೆ?",
+   "q_en": "When current flows through a wire, what is produced around it?",
+   "opt_kn": [
+    "ಕಾಂತಕ್ಷೇತ್ರ",
+    "ಶಬ್ದ",
+    "ನೀರು",
+    "ಬೆಳಕು ಮಾತ್ರ"
+   ],
+   "opt_en": [
+    "Magnetic field",
+    "Sound",
+    "Water",
+    "Only light"
+   ],
+   "ans": "A",
+   "exp_kn": "ಇದನ್ನು ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ಕಾಂತೀಯ ಪರಿಣಾಮ ಎನ್ನುವರು."
+  },
+  {
+   "id": "8SCI-C04-02",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಕಾಂತೀಯ ಮತ್ತು ಉಷ್ಣದ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Electricity: Magnetic and Heating Effects",
+   "diff": "medium",
+   "q_kn": "1820ರಲ್ಲಿ ವಿದ್ಯುತ್ ಪ್ರವಾಹದಿಂದ ದಿಕ್ಸೂಚಿ ಸೂಜಿ ವಿಚಲಿಸುವುದನ್ನು ಗಮನಿಸಿದ ವಿಜ್ಞಾನಿ ಯಾರು?",
+   "q_en": "Which scientist observed in 1820 that electric current deflects a compass needle?",
+   "opt_kn": [
+    "ಅಲೆಸಾಂಡ್ರೊ ವೋಲ್ಟಾ",
+    "ಹ್ಯಾನ್ಸ್ ಕ್ರಿಶ್ಚಿಯನ್ ಆರ್ಸ್ಟೆಡ್",
+    "ಐಸಾಕ್ ನ್ಯೂಟನ್",
+    "ರಾಬರ್ಟ್ ಹುಕ್"
+   ],
+   "opt_en": [
+    "Alessandro Volta",
+    "Hans Christian Oersted",
+    "Isaac Newton",
+    "Robert Hooke"
+   ],
+   "ans": "B",
+   "exp_kn": "ಆರ್ಸ್ಟೆಡ್ 1820ರಲ್ಲಿ ವಿದ್ಯುತ್ ಮತ್ತು ಕಾಂತತ್ವದ ಸಂಬಂಧ ಕಂಡುಹಿಡಿದರು."
+  },
+  {
+   "id": "8SCI-C04-03",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಕಾಂತೀಯ ಮತ್ತು ಉಷ್ಣದ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Electricity: Magnetic and Heating Effects",
+   "diff": "easy",
+   "q_kn": "ಕಾಂತದಂತೆ ವರ್ತಿಸುವ ವಿದ್ಯುತ್ ಪ್ರವಾಹವಿರುವ ಸುರುಳಿಯನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "A current-carrying coil that behaves like a magnet is called?",
+   "opt_kn": [
+    "ಶಾಶ್ವತ ಕಾಂತ",
+    "ವಿದ್ಯುತ್ ಕೋಶ",
+    "ಫ್ಯೂಸ್",
+    "ವಿದ್ಯುತ್ಕಾಂತ"
+   ],
+   "opt_en": [
+    "Permanent magnet",
+    "Electric cell",
+    "Fuse",
+    "Electromagnet"
+   ],
+   "ans": "D",
+   "exp_kn": "ವಿದ್ಯುತ್ ಹರಿಯುವವರೆಗೆ ಮಾತ್ರ ಸುರುಳಿ ಕಾಂತದಂತೆ ವರ್ತಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C04-04",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಕಾಂತೀಯ ಮತ್ತು ಉಷ್ಣದ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Electricity: Magnetic and Heating Effects",
+   "diff": "medium",
+   "q_kn": "ವಿದ್ಯುತ್ಕಾಂತವನ್ನು ಬಲಯುತವಾಗಿಸಲು ಅದರ ಒಳಗೆ ಏನನ್ನು ಇಡುತ್ತಾರೆ?",
+   "q_en": "What is placed inside an electromagnet to make it stronger?",
+   "opt_kn": [
+    "ಪ್ಲಾಸ್ಟಿಕ್ ಕೊಳವೆ",
+    "ಗಾಜಿನ ಕಡ್ಡಿ",
+    "ಕಬ್ಬಿಣದ ತಿರುಳು",
+    "ಮರದ ಕಡ್ಡಿ"
+   ],
+   "opt_en": [
+    "Plastic tube",
+    "Glass rod",
+    "Iron core",
+    "Wooden stick"
+   ],
+   "ans": "C",
+   "exp_kn": "ಕಬ್ಬಿಣದ ತಿರುಳು ವಿದ್ಯುತ್ಕಾಂತದ ಬಲ ಹೆಚ್ಚಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C04-05",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಕಾಂತೀಯ ಮತ್ತು ಉಷ್ಣದ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Electricity: Magnetic and Heating Effects",
+   "diff": "medium",
+   "q_kn": "ವಿದ್ಯುತ್ ಪ್ರವಾಹ ನಿಂತಾಗ ವಿದ್ಯುತ್ಕಾಂತದ ಕಾಂತಕ್ಷೇತ್ರಕ್ಕೆ ಏನಾಗುತ್ತದೆ?",
+   "q_en": "What happens to the magnetic field of an electromagnet when current stops?",
+   "opt_kn": [
+    "ದ್ವಿಗುಣಗೊಳ್ಳುತ್ತದೆ",
+    "ಶಾಶ್ವತವಾಗಿ ಉಳಿಯುತ್ತದೆ",
+    "ದಿಕ್ಕು ಬದಲಿಸುತ್ತದೆ ಮಾತ್ರ",
+    "ಇಲ್ಲವಾಗುತ್ತದೆ"
+   ],
+   "opt_en": [
+    "It doubles",
+    "It stays permanently",
+    "It only reverses",
+    "It disappears"
+   ],
+   "ans": "D",
+   "exp_kn": "ವಿದ್ಯುತ್ ಪ್ರವಾಹ ನಿಂತಾಗ ಕಾಂತಕ್ಷೇತ್ರ ಇಲ್ಲವಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C04-06",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಕಾಂತೀಯ ಮತ್ತು ಉಷ್ಣದ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Electricity: Magnetic and Heating Effects",
+   "diff": "easy",
+   "q_kn": "ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ಕಾಂತೀಯ ಪರಿಣಾಮದ ಮೇಲೆ ಕೆಲಸ ಮಾಡುವ ಸಾಧನ ಯಾವುದು?",
+   "q_en": "Which device works on the magnetic effect of electric current?",
+   "opt_kn": [
+    "ವಿದ್ಯುತ್ ಇಸ್ತ್ರಿಪೆಟ್ಟಿಗೆ",
+    "ವಿದ್ಯುತ್ ಹೀಟರ್",
+    "ವಿದ್ಯುತ್ ಗಂಟೆ",
+    "ಟೋಸ್ಟರ್"
+   ],
+   "opt_en": [
+    "Electric iron",
+    "Electric heater",
+    "Electric bell",
+    "Toaster"
+   ],
+   "ans": "C",
+   "exp_kn": "ವಿದ್ಯುತ್ ಗಂಟೆ, ಮೋಟಾರ್‌ಗಳು ಕಾಂತೀಯ ಪರಿಣಾಮ ಬಳಸುತ್ತವೆ; ಇಸ್ತ್ರಿ, ಹೀಟರ್ ಉಷ್ಣ ಪರಿಣಾಮ."
+  },
+  {
+   "id": "8SCI-C04-07",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಕಾಂತೀಯ ಮತ್ತು ಉಷ್ಣದ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Electricity: Magnetic and Heating Effects",
+   "diff": "easy",
+   "q_kn": "ವಿದ್ಯುತ್ ಇಸ್ತ್ರಿಪೆಟ್ಟಿಗೆ ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ಯಾವ ಪರಿಣಾಮ ಬಳಸುತ್ತದೆ?",
+   "q_en": "An electric iron uses which effect of electric current?",
+   "opt_kn": [
+    "ಉಷ್ಣೋತ್ಪಾದನಾ ಪರಿಣಾಮ",
+    "ಶಬ್ದ ಪರಿಣಾಮ",
+    "ರಾಸಾಯನಿಕ ಪರಿಣಾಮ ಮಾತ್ರ",
+    "ಕಾಂತೀಯ ಪರಿಣಾಮ"
+   ],
+   "opt_en": [
+    "Heating effect",
+    "Sound effect",
+    "Only chemical effect",
+    "Magnetic effect"
+   ],
+   "ans": "A",
+   "exp_kn": "ವಾಹಕದಲ್ಲಿ ವಿದ್ಯುತ್ ಹರಿದಾಗ ಉಷ್ಣ ಉತ್ಪತ್ತಿಯಾಗುವುದು ಉಷ್ಣೋತ್ಪಾದನಾ ಪರಿಣಾಮ."
+  },
+  {
+   "id": "8SCI-C04-08",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಕಾಂತೀಯ ಮತ್ತು ಉಷ್ಣದ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Electricity: Magnetic and Heating Effects",
+   "diff": "medium",
+   "q_kn": "ಒಂದೇ ಉದ್ದ ಮತ್ತು ದಪ್ಪದ ತಾಮ್ರದ ತಂತಿಗೆ ಹೋಲಿಸಿದರೆ ನೈಕ್ರೋಮ್ ತಂತಿ…",
+   "q_en": "Compared to a copper wire of the same length and thickness, a nichrome wire…",
+   "opt_kn": [
+    "ಕಾಂತವಾಗುತ್ತದೆ",
+    "ಹೆಚ್ಚು ರೋಧ ಒಡ್ಡಿ ಹೆಚ್ಚು ಬಿಸಿಯಾಗುತ್ತದೆ",
+    "ಕಡಿಮೆ ರೋಧ ಒಡ್ಡುತ್ತದೆ",
+    "ವಿದ್ಯುತ್ ಹರಿಸುವುದೇ ಇಲ್ಲ"
+   ],
+   "opt_en": [
+    "Becomes a magnet",
+    "Offers more resistance and heats more",
+    "Offers less resistance",
+    "Does not conduct at all"
+   ],
+   "ans": "B",
+   "exp_kn": "ನೈಕ್ರೋಮ್‌ನ ರೋಧ ಹೆಚ್ಚು; ಆದ್ದರಿಂದ ಹೀಟರ್‌ಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ."
+  },
+  {
+   "id": "8SCI-C04-09",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಕಾಂತೀಯ ಮತ್ತು ಉಷ್ಣದ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Electricity: Magnetic and Heating Effects",
+   "diff": "medium",
+   "q_kn": "ವಿದ್ಯುತ್ ಕೋಶ ಅಥವಾ ಬ್ಯಾಟರಿ ವಿದ್ಯುತ್ ಪ್ರವಾಹವನ್ನು ಹೇಗೆ ಉತ್ಪಾದಿಸುತ್ತದೆ?",
+   "q_en": "How does an electric cell or battery produce current?",
+   "opt_kn": [
+    "ಗಾಳಿಯಿಂದ",
+    "ಒಳಗಿನ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಗಳಿಂದ",
+    "ಕಾಂತದ ತಿರುಗುವಿಕೆಯಿಂದ",
+    "ಸೂರ್ಯನ ಬೆಳಕಿನಿಂದ ಮಾತ್ರ"
+   ],
+   "opt_en": [
+    "From wind",
+    "Through chemical reactions inside",
+    "By rotating magnets",
+    "Only from sunlight"
+   ],
+   "ans": "B",
+   "exp_kn": "ಕೋಶದೊಳಗಿನ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಗಳಿಂದ ವಿದ್ಯುತ್ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C04-10",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಕಾಂತೀಯ ಮತ್ತು ಉಷ್ಣದ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Electricity: Magnetic and Heating Effects",
+   "diff": "medium",
+   "q_kn": "ವೋಲ್ಟಾಯಿಕ್ (ಗ್ಯಾಲ್ವಾನಿಕ್) ಕೋಶಗಳಿಗೆ ಯಾರ ಹೆಸರನ್ನು ಇಡಲಾಗಿದೆ?",
+   "q_en": "Voltaic (galvanic) cells are named after whom?",
+   "opt_kn": [
+    "ಜೆನ್ನರ್ ಮತ್ತು ಫ್ಲೆಮಿಂಗ್",
+    "ಆರ್ಸ್ಟೆಡ್ ಮತ್ತು ಫ್ಯಾರಡೆ",
+    "ವೋಲ್ಟಾ ಮತ್ತು ಗ್ಯಾಲ್ವನಿ",
+    "ನ್ಯೂಟನ್ ಮತ್ತು ಹುಕ್"
+   ],
+   "opt_en": [
+    "Jenner and Fleming",
+    "Oersted and Faraday",
+    "Volta and Galvani",
+    "Newton and Hooke"
+   ],
+   "ans": "C",
+   "exp_kn": "ಅಲೆಸಾಂಡ್ರೊ ವೋಲ್ಟಾ ಮತ್ತು ಲುಯಿಗಿ ಗ್ಯಾಲ್ವನಿಯವರ ಹೆಸರು ಇಡಲಾಗಿದೆ."
+  },
+  {
+   "id": "8SCI-C04-11",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಕಾಂತೀಯ ಮತ್ತು ಉಷ್ಣದ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Electricity: Magnetic and Heating Effects",
+   "diff": "medium",
+   "q_kn": "ಟಾರ್ಚ್‌ಗಳಲ್ಲಿ ಬಳಸುವ ಶುಷ್ಕಕೋಶದಲ್ಲಿ ವಿದ್ಯುದ್ವಿಭಾಜ್ಯ ಯಾವ ರೂಪದಲ್ಲಿರುತ್ತದೆ?",
+   "q_en": "In a dry cell used in torches, the electrolyte is in which form?",
+   "opt_kn": [
+    "ಲೇಪನ (ಪೇಸ್ಟ್)",
+    "ಕೇವಲ ದ್ರವ",
+    "ಮಂಜುಗಡ್ಡೆ",
+    "ಅನಿಲ"
+   ],
+   "opt_en": [
+    "Paste",
+    "Only liquid",
+    "Ice",
+    "Gas"
+   ],
+   "ans": "A",
+   "exp_kn": "ಶುಷ್ಕಕೋಶದಲ್ಲಿ ದ್ರವದ ಬದಲು ಪೇಸ್ಟ್ ರೂಪದ ವಿದ್ಯುದ್ವಿಭಾಜ್ಯ ಇರುತ್ತದೆ; ಹೀಗಾಗಿ ಸೋರುವುದಿಲ್ಲ."
+  },
+  {
+   "id": "8SCI-C04-12",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಕಾಂತೀಯ ಮತ್ತು ಉಷ್ಣದ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Electricity: Magnetic and Heating Effects",
+   "diff": "easy",
+   "q_kn": "ಮೊಬೈಲ್ ಫೋನ್‌ಗಳಲ್ಲಿ ಬಳಸುವ, ಹಲವು ಬಾರಿ ಚಾರ್ಜ್ ಮಾಡಬಹುದಾದ ಬ್ಯಾಟರಿ ಯಾವುದು?",
+   "q_en": "Which battery, used in mobile phones, can be charged many times?",
+   "opt_kn": [
+    "ನಿಂಬೆ ಕೋಶ",
+    "ಸೌರ ಫಲಕ",
+    "ಒಮ್ಮೆ ಬಳಸುವ ಶುಷ್ಕಕೋಶ",
+    "ಪುನಃಶ್ಚೇತನಗೊಳಿಸಬಹುದಾದ ಬ್ಯಾಟರಿ"
+   ],
+   "opt_en": [
+    "Lemon cell",
+    "Solar panel",
+    "Single-use dry cell",
+    "Rechargeable battery"
+   ],
+   "ans": "D",
+   "exp_kn": "ಪುನಃಶ್ಚೇತನಗೊಳಿಸಬಹುದಾದ ಬ್ಯಾಟರಿಗಳನ್ನು ಹಲವು ಬಾರಿ ಮರುಬಳಕೆ ಮಾಡಬಹುದು."
+  },
+  {
+   "id": "8SCI-C04-13",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಕಾಂತೀಯ ಮತ್ತು ಉಷ್ಣದ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Electricity: Magnetic and Heating Effects",
+   "diff": "hard",
+   "q_kn": "ಹೇಳಿಕೆ (A): ವಿದ್ಯುತ್ ಹೀಟರ್‌ನಲ್ಲಿ ನೈಕ್ರೋಮ್ ತಂತಿಯನ್ನು ಬಳಸುತ್ತಾರೆ. ಕಾರಣ (R): ನೈಕ್ರೋಮ್ ತಾಮ್ರಕ್ಕಿಂತ ಹೆಚ್ಚು ರೋಧ ಹೊಂದಿದೆ.",
+   "q_en": "Assertion (A): Nichrome wire is used in electric heaters. Reason (R): Nichrome has higher resistance than copper.",
+   "opt_kn": [
+    "A ಮತ್ತು R ಸರಿ; R, A ಗೆ ಸರಿಯಾದ ವಿವರಣೆ",
+    "A ಮತ್ತು R ಸರಿ; R, A ಗೆ ವಿವರಣೆಯಲ್ಲ",
+    "A ಸರಿ, R ತಪ್ಪು",
+    "A ತಪ್ಪು, R ಸರಿ"
+   ],
+   "opt_en": [
+    "Both A and R true; R explains A",
+    "Both true; R does not explain A",
+    "A true, R false",
+    "A false, R true"
+   ],
+   "ans": "A",
+   "exp_kn": "ಹೆಚ್ಚು ರೋಧದಿಂದ ಹೆಚ್ಚು ಉಷ್ಣ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C04-14",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಕಾಂತೀಯ ಮತ್ತು ಉಷ್ಣದ ಪರಿಣಾಮಗಳು",
+   "ch_en": "Electricity: Magnetic and Heating Effects",
+   "diff": "medium",
+   "q_kn": "ಎರಡು ಕಾಂತಗಳ ವಿಜಾತೀಯ ಧ್ರುವಗಳನ್ನು ಹತ್ತಿರ ತಂದಾಗ ಏನಾಗುತ್ತದೆ?",
+   "q_en": "What happens when unlike poles of two magnets are brought close?",
+   "opt_kn": [
+    "ಪರಸ್ಪರ ಆಕರ್ಷಿಸುತ್ತವೆ",
+    "ಪರಸ್ಪರ ವಿಕರ್ಷಿಸುತ್ತವೆ",
+    "ಕಾಂತತ್ವ ಕಳೆದುಕೊಳ್ಳುತ್ತವೆ",
+    "ಏನೂ ಆಗುವುದಿಲ್ಲ"
+   ],
+   "opt_en": [
+    "They attract",
+    "They repel",
+    "They lose magnetism",
+    "Nothing happens"
+   ],
+   "ans": "A",
+   "exp_kn": "ವಿಜಾತೀಯ ಧ್ರುವಗಳು (ಉತ್ತರ-ದಕ್ಷಿಣ) ಆಕರ್ಷಿಸುತ್ತವೆ; ಸಜಾತೀಯ ಧ್ರುವಗಳು ವಿಕರ್ಷಿಸುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C05-01",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬಲಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Forces",
+   "diff": "easy",
+   "q_kn": "ಬಲದ SI ಏಕಮಾನ ಯಾವುದು?",
+   "q_en": "What is the SI unit of force?",
+   "opt_kn": [
+    "ಪ್ಯಾಸ್ಕಲ್ (Pa)",
+    "ಕಿಲೋಗ್ರಾಂ (kg)",
+    "ನ್ಯೂಟನ್ (N)",
+    "ಜೂಲ್ (J)"
+   ],
+   "opt_en": [
+    "Pascal (Pa)",
+    "Kilogram (kg)",
+    "Newton (N)",
+    "Joule (J)"
+   ],
+   "ans": "C",
+   "exp_kn": "ಬಲದ SI ಏಕಮಾನ ನ್ಯೂಟನ್; ಸಂಕೇತ N."
+  },
+  {
+   "id": "8SCI-C05-02",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬಲಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Forces",
+   "diff": "easy",
+   "q_kn": "ಬಲ ಎಂದರೆ…",
+   "q_en": "Force is…",
+   "opt_kn": [
+    "ವಸ್ತುವಿನ ತಾಪ",
+    "ಪರಸ್ಪರ ಕ್ರಿಯೆಯಿಂದ ಉಂಟಾಗುವ ತಳ್ಳುವಿಕೆ ಅಥವಾ ಎಳೆಯುವಿಕೆ",
+    "ವಸ್ತುವಿನ ಗಾತ್ರ",
+    "ವಸ್ತುವಿನ ಬಣ್ಣ"
+   ],
+   "opt_en": [
+    "Temperature of an object",
+    "A push or pull due to interaction",
+    "Size of an object",
+    "Colour of an object"
+   ],
+   "ans": "B",
+   "exp_kn": "ಒಂದು ವಸ್ತು ಇನ್ನೊಂದರ ಮೇಲೆ ಕ್ರಿಯೆ ನಡೆಸಿದಾಗ ಉಂಟಾಗುವ ತಳ್ಳುವಿಕೆ/ಎಳೆಯುವಿಕೆ ಬಲ."
+  },
+  {
+   "id": "8SCI-C05-03",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬಲಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Forces",
+   "diff": "medium",
+   "q_kn": "ಇವುಗಳಲ್ಲಿ ಸಂಪರ್ಕ ಬಲ ಯಾವುದು?",
+   "q_en": "Which of these is a contact force?",
+   "opt_kn": [
+    "ಗುರುತ್ವಾಕರ್ಷಣ ಬಲ",
+    "ಕಾಂತೀಯ ಬಲ",
+    "ಸ್ಥಾಯಿವಿದ್ಯುತ್ ಬಲ",
+    "ಘರ್ಷಣಾ ಬಲ"
+   ],
+   "opt_en": [
+    "Gravitational force",
+    "Magnetic force",
+    "Electrostatic force",
+    "Frictional force"
+   ],
+   "ans": "D",
+   "exp_kn": "ಸ್ನಾಯುಬಲ ಮತ್ತು ಘರ್ಷಣೆ ಸಂಪರ್ಕ ಬಲಗಳು; ಉಳಿದವು ಸಂಪರ್ಕರಹಿತ."
+  },
+  {
+   "id": "8SCI-C05-04",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬಲಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Forces",
+   "diff": "medium",
+   "q_kn": "ಇವುಗಳಲ್ಲಿ ಸಂಪರ್ಕರಹಿತ ಬಲ ಯಾವುದು?",
+   "q_en": "Which of these is a non-contact force?",
+   "opt_kn": [
+    "ಘರ್ಷಣಾ ಬಲ",
+    "ಗುರುತ್ವಾಕರ್ಷಣ ಬಲ",
+    "ತಳ್ಳುವ ಕೈ ಬಲ",
+    "ಸ್ನಾಯುಬಲ"
+   ],
+   "opt_en": [
+    "Frictional force",
+    "Gravitational force",
+    "Push by hand",
+    "Muscular force"
+   ],
+   "ans": "B",
+   "exp_kn": "ಕಾಂತೀಯ, ಸ್ಥಾಯಿವಿದ್ಯುತ್, ಗುರುತ್ವಾಕರ್ಷಣ ಬಲಗಳು ಸಂಪರ್ಕವಿಲ್ಲದೆ ಕೆಲಸ ಮಾಡುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C05-05",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬಲಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Forces",
+   "diff": "medium",
+   "q_kn": "ಘರ್ಷಣಾ ಬಲವು ಯಾವ ದಿಕ್ಕಿನಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ?",
+   "q_en": "In which direction does friction act?",
+   "opt_kn": [
+    "ಚಲನೆಯ ದಿಕ್ಕಿನಲ್ಲೇ",
+    "ಯಾವುದೇ ದಿಕ್ಕಿಲ್ಲ",
+    "ಮೇಲ್ಮುಖವಾಗಿ ಮಾತ್ರ",
+    "ಚಲನೆಯ ದಿಕ್ಕಿಗೆ ವಿರುದ್ಧವಾಗಿ"
+   ],
+   "opt_en": [
+    "Along the motion",
+    "No direction",
+    "Only upward",
+    "Opposite to the motion"
+   ],
+   "ans": "D",
+   "exp_kn": "ಘರ್ಷಣೆ ವಸ್ತು ಚಲಿಸುವ/ಚಲಿಸಲು ಯತ್ನಿಸುವ ದಿಕ್ಕಿಗೆ ವಿರುದ್ಧವಾಗಿ ವರ್ತಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C05-06",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬಲಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Forces",
+   "diff": "medium",
+   "q_kn": "ಬಾಚಣಿಗೆಯನ್ನು ಕೂದಲಿಗೆ ಉಜ್ಜಿ ಕಾಗದದ ಚೂರುಗಳ ಹತ್ತಿರ ತಂದಾಗ ಅವು ಆಕರ್ಷಿತವಾಗುತ್ತವೆ. ಇಲ್ಲಿ ವರ್ತಿಸುವ ಬಲ ಯಾವುದು?",
+   "q_en": "A comb rubbed on hair attracts bits of paper. Which force acts here?",
+   "opt_kn": [
+    "ಸ್ಥಾಯಿವಿದ್ಯುತ್ ಬಲ",
+    "ಸ್ನಾಯುಬಲ",
+    "ಘರ್ಷಣಾ ಬಲ",
+    "ಕಾಂತೀಯ ಬಲ"
+   ],
+   "opt_en": [
+    "Electrostatic force",
+    "Muscular force",
+    "Frictional force",
+    "Magnetic force"
+   ],
+   "ans": "A",
+   "exp_kn": "ಆವೇಶಯುಕ್ತ ಕಾಯ ಉಂಟುಮಾಡುವ ಬಲ ಸ್ಥಾಯಿವಿದ್ಯುತ್ ಬಲ."
+  },
+  {
+   "id": "8SCI-C05-07",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬಲಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Forces",
+   "diff": "easy",
+   "q_kn": "ಬಲವು ವಸ್ತುವಿನ ಮೇಲೆ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲದ ಬದಲಾವಣೆ ಯಾವುದು?",
+   "q_en": "Which change can a force NOT bring about in an object?",
+   "opt_kn": [
+    "ಚಲನೆಯ ದಿಕ್ಕು ಬದಲಿಸುವುದು",
+    "ಜವ ಬದಲಿಸುವುದು",
+    "ವಸ್ತುವಿನ ದ್ರವ್ಯರಾಶಿಯನ್ನು ಬದಲಿಸುವುದು",
+    "ಆಕಾರ ಬದಲಿಸುವುದು"
+   ],
+   "opt_en": [
+    "Change direction of motion",
+    "Change its speed",
+    "Change its mass",
+    "Change its shape"
+   ],
+   "ans": "C",
+   "exp_kn": "ಬಲವು ಜವ, ದಿಕ್ಕು, ಆಕಾರ ಬದಲಿಸಬಹುದು; ದ್ರವ್ಯರಾಶಿ ಬದಲಾಗದು."
+  },
+  {
+   "id": "8SCI-C05-08",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬಲಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Forces",
+   "diff": "medium",
+   "q_kn": "ಭೂಮಿಯು ಒಂದು ವಸ್ತುವನ್ನು ತನ್ನ ಕಡೆಗೆ ಸೆಳೆಯುವ ಬಲವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The force with which the Earth pulls an object towards itself is called?",
+   "opt_kn": [
+    "ದ್ರವ್ಯರಾಶಿ",
+    "ಸಾಂದ್ರತೆ",
+    "ಒತ್ತಡ",
+    "ತೂಕ"
+   ],
+   "opt_en": [
+    "Mass",
+    "Density",
+    "Pressure",
+    "Weight"
+   ],
+   "ans": "D",
+   "exp_kn": "ವಸ್ತುವಿನ ತೂಕ = ಭೂಮಿ ಅದನ್ನು ಸೆಳೆಯುವ ಬಲ; ಏಕಮಾನ ನ್ಯೂಟನ್."
+  },
+  {
+   "id": "8SCI-C05-09",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬಲಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Forces",
+   "diff": "medium",
+   "q_kn": "ಒಂದು ವಸ್ತುವನ್ನು ಭೂಮಿಯಿಂದ ಚಂದ್ರನಿಗೆ ಕೊಂಡೊಯ್ದರೆ ಏನು ಬದಲಾಗುತ್ತದೆ?",
+   "q_en": "If an object is taken from Earth to the Moon, what changes?",
+   "opt_kn": [
+    "ತೂಕ ಮತ್ತು ದ್ರವ್ಯರಾಶಿ ಎರಡೂ",
+    "ತೂಕ ಮಾತ್ರ",
+    "ಯಾವುದೂ ಇಲ್ಲ",
+    "ದ್ರವ್ಯರಾಶಿ ಮಾತ್ರ"
+   ],
+   "opt_en": [
+    "Both weight and mass",
+    "Only weight",
+    "Nothing",
+    "Only mass"
+   ],
+   "ans": "B",
+   "exp_kn": "ದ್ರವ್ಯರಾಶಿ ಸ್ಥಿರ; ತೂಕವು ಸ್ಥಳದಿಂದ ಸ್ಥಳಕ್ಕೆ ಬದಲಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C05-10",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬಲಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Forces",
+   "diff": "medium",
+   "q_kn": "ದ್ರವದಲ್ಲಿ ಇರಿಸಿದ ವಸ್ತುವಿನ ಮೇಲೆ ದ್ರವ ಪ್ರಯೋಗಿಸುವ ಮೇಲ್ಮುಖ ಬಲವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The upward force exerted by a liquid on an object placed in it is called?",
+   "opt_kn": [
+    "ತೇಲುಬಲ (ಮೇಲ್ಮುಖ ಒತ್ತಡ)",
+    "ಸ್ನಾಯುಬಲ",
+    "ಘರ್ಷಣೆ",
+    "ಗುರುತ್ವಾಕರ್ಷಣೆ"
+   ],
+   "opt_en": [
+    "Buoyant force (upthrust)",
+    "Muscular force",
+    "Friction",
+    "Gravity"
+   ],
+   "ans": "A",
+   "exp_kn": "ದ್ರವ ಪ್ರಯೋಗಿಸುವ ಮೇಲ್ಮುಖ ಬಲವೇ ತೇಲುಬಲ."
+  },
+  {
+   "id": "8SCI-C05-11",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬಲಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Forces",
+   "diff": "medium",
+   "q_kn": "ಗುರುತ್ವಾಕರ್ಷಣ ಬಲದ ಬಗ್ಗೆ ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
+   "q_en": "Which statement about gravitational force is correct?",
+   "opt_kn": [
+    "ಅದು ಸಂಪರ್ಕ ಬಲ",
+    "ಅದು ಕಾಂತಗಳ ನಡುವೆ ಮಾತ್ರ",
+    "ಅದು ಯಾವಾಗಲೂ ಆಕರ್ಷಣ ಬಲ",
+    "ಅದು ಯಾವಾಗಲೂ ವಿಕರ್ಷಣ ಬಲ"
+   ],
+   "opt_en": [
+    "It is a contact force",
+    "It acts only between magnets",
+    "It is always attractive",
+    "It is always repulsive"
+   ],
+   "ans": "C",
+   "exp_kn": "ಗುರುತ್ವಾಕರ್ಷಣೆ ಯಾವಾಗಲೂ ಆಕರ್ಷಣ ಬಲ."
+  },
+  {
+   "id": "8SCI-C05-12",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬಲಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Forces",
+   "diff": "medium",
+   "q_kn": "ಒದ್ದೆಯಾದ ನೆಲದ ಮೇಲೆ ಜಾರುವುದು ಸುಲಭ. ಏಕೆ?",
+   "q_en": "It is easy to slip on a wet floor. Why?",
+   "opt_kn": [
+    "ಘರ್ಷಣೆ ಹೆಚ್ಚಾಗುತ್ತದೆ",
+    "ತೂಕ ಕಡಿಮೆಯಾಗುತ್ತದೆ",
+    "ಘರ್ಷಣೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ",
+    "ಗುರುತ್ವ ಹೆಚ್ಚಾಗುತ್ತದೆ"
+   ],
+   "opt_en": [
+    "Friction increases",
+    "Weight decreases",
+    "Friction decreases",
+    "Gravity increases"
+   ],
+   "ans": "C",
+   "exp_kn": "ನೀರು ಮೇಲ್ಮೈಗಳ ನಡುವಿನ ಘರ್ಷಣೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C05-13",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬಲಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Forces",
+   "diff": "hard",
+   "q_kn": "60 kg ದ್ರವ್ಯರಾಶಿಯ ವ್ಯಕ್ತಿಯ ದ್ರವ್ಯರಾಶಿ ಚಂದ್ರನ ಮೇಲೆ ಎಷ್ಟು?",
+   "q_en": "A person has a mass of 60 kg. What is his mass on the Moon?",
+   "opt_kn": [
+    "360 kg",
+    "10 kg",
+    "0 kg",
+    "60 kg"
+   ],
+   "opt_en": [
+    "360 kg",
+    "10 kg",
+    "0 kg",
+    "60 kg"
+   ],
+   "ans": "D",
+   "exp_kn": "ದ್ರವ್ಯರಾಶಿ ಎಲ್ಲೆಡೆ ಬದಲಾಗುವುದಿಲ್ಲ; ತೂಕ ಮಾತ್ರ ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C05-14",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಬಲಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Forces",
+   "diff": "medium",
+   "q_kn": "ಕಾಂತವು ಆಕರ್ಷಿಸುವ ವಸ್ತು ಯಾವುದು?",
+   "q_en": "Which object is attracted by a magnet?",
+   "opt_kn": [
+    "ಮರದ ತುಂಡು",
+    "ಕಬ್ಬಿಣದ ಮೊಳೆ",
+    "ರಬ್ಬರ್",
+    "ಕಾಗದ"
+   ],
+   "opt_en": [
+    "Piece of wood",
+    "Iron nail",
+    "Rubber",
+    "Paper"
+   ],
+   "ans": "B",
+   "exp_kn": "ಕಾಂತೀಯ ಬಲ ಕಬ್ಬಿಣದಂತಹ ಕಾಂತೀಯ ವಸ್ತುಗಳ ಮೇಲೆ ವರ್ತಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C06-01",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಒತ್ತಡ, ಮಾರುತಗಳು, ಬಿರುಗಾಳಿಗಳು ಮತ್ತು ಚಂಡಮಾರುತಗಳು",
+   "ch_en": "Pressure, Winds, Storms and Cyclones",
+   "diff": "easy",
+   "q_kn": "ಒತ್ತಡ ಎಂದರೆ…",
+   "q_en": "Pressure is…",
+   "opt_kn": [
+    "ಏಕಮಾನ ವಿಸ್ತೀರ್ಣದ ಮೇಲೆ ವರ್ತಿಸುವ ಬಲ",
+    "ಏಕಮಾನ ಗಾತ್ರದ ರಾಶಿ",
+    "ದ್ರವ್ಯರಾಶಿ × ವೇಗ",
+    "ಬಲ × ವಿಸ್ತೀರ್ಣ"
+   ],
+   "opt_en": [
+    "Force acting per unit area",
+    "Mass per unit volume",
+    "Mass × speed",
+    "Force × area"
+   ],
+   "ans": "A",
+   "exp_kn": "ಒತ್ತಡ = ಬಲ / ವಿಸ್ತೀರ್ಣ."
+  },
+  {
+   "id": "8SCI-C06-02",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಒತ್ತಡ, ಮಾರುತಗಳು, ಬಿರುಗಾಳಿಗಳು ಮತ್ತು ಚಂಡಮಾರುತಗಳು",
+   "ch_en": "Pressure, Winds, Storms and Cyclones",
+   "diff": "easy",
+   "q_kn": "ಒತ್ತಡದ SI ಏಕಮಾನ ಯಾವುದು?",
+   "q_en": "What is the SI unit of pressure?",
+   "opt_kn": [
+    "kg/m³",
+    "ಮೀಟರ್",
+    "ಪ್ಯಾಸ್ಕಲ್ (N/m²)",
+    "ನ್ಯೂಟನ್"
+   ],
+   "opt_en": [
+    "kg/m³",
+    "Metre",
+    "Pascal (N/m²)",
+    "Newton"
+   ],
+   "ans": "C",
+   "exp_kn": "ಒತ್ತಡದ SI ಏಕಮಾನ N/m²; ಇದನ್ನು ಪ್ಯಾಸ್ಕಲ್ (Pa) ಎನ್ನುವರು."
+  },
+  {
+   "id": "8SCI-C06-03",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಒತ್ತಡ, ಮಾರುತಗಳು, ಬಿರುಗಾಳಿಗಳು ಮತ್ತು ಚಂಡಮಾರುತಗಳು",
+   "ch_en": "Pressure, Winds, Storms and Cyclones",
+   "diff": "medium",
+   "q_kn": "ಹರಿತವಾದ ಚಾಕುವಿನಿಂದ ತರಕಾರಿ ಕತ್ತರಿಸುವುದು ಸುಲಭ. ಏಕೆ?",
+   "q_en": "It is easier to cut vegetables with a sharp knife. Why?",
+   "opt_kn": [
+    "ಹೆಚ್ಚು ವಿಸ್ತೀರ್ಣದಿಂದ ಹೆಚ್ಚು ಒತ್ತಡ",
+    "ಕಡಿಮೆ ವಿಸ್ತೀರ್ಣದಿಂದ ಹೆಚ್ಚು ಒತ್ತಡ ಬೀಳುತ್ತದೆ",
+    "ಚಾಕು ಭಾರವಾಗಿರುತ್ತದೆ",
+    "ಘರ್ಷಣೆ ಹೆಚ್ಚಾಗುತ್ತದೆ"
+   ],
+   "opt_en": [
+    "Larger area gives more pressure",
+    "Smaller area gives more pressure",
+    "The knife is heavy",
+    "Friction increases"
+   ],
+   "ans": "B",
+   "exp_kn": "ಒಂದೇ ಬಲಕ್ಕೆ ವಿಸ್ತೀರ್ಣ ಕಡಿಮೆಯಾದಂತೆ ಒತ್ತಡ ಹೆಚ್ಚುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C06-04",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಒತ್ತಡ, ಮಾರುತಗಳು, ಬಿರುಗಾಳಿಗಳು ಮತ್ತು ಚಂಡಮಾರುತಗಳು",
+   "ch_en": "Pressure, Winds, Storms and Cyclones",
+   "diff": "medium",
+   "q_kn": "ಹೊರೆ ಹೊರುವವರು ತಲೆಯ ಮೇಲೆ ಬಟ್ಟೆಯ ಸಿಂಬೆ ಇಡುತ್ತಾರೆ. ಏಕೆ?",
+   "q_en": "Porters place a cloth roll on their head. Why?",
+   "opt_kn": [
+    "ಭಾರ ಹೆಚ್ಚಿಸಲು",
+    "ಒತ್ತಡ ಹೆಚ್ಚಿಸಲು",
+    "ಅಲಂಕಾರಕ್ಕಾಗಿ",
+    "ವಿಸ್ತೀರ್ಣ ಹೆಚ್ಚಿಸಿ ಒತ್ತಡ ಕಡಿಮೆ ಮಾಡಲು"
+   ],
+   "opt_en": [
+    "To increase load",
+    "To increase pressure",
+    "For decoration",
+    "To increase area and reduce pressure"
+   ],
+   "ans": "D",
+   "exp_kn": "ಸಿಂಬೆ ಸಂಪರ್ಕ ವಿಸ್ತೀರ್ಣ ಹೆಚ್ಚಿಸಿ ತಲೆಯ ಮೇಲಿನ ಒತ್ತಡ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C06-05",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಒತ್ತಡ, ಮಾರುತಗಳು, ಬಿರುಗಾಳಿಗಳು ಮತ್ತು ಚಂಡಮಾರುತಗಳು",
+   "ch_en": "Pressure, Winds, Storms and Cyclones",
+   "diff": "medium",
+   "q_kn": "ಗಾಳಿಯ ಒತ್ತಡದ ಪ್ರಾಯೋಗಿಕ ಏಕಮಾನ ಮಿಲಿಬಾರ್ (mb) ಎಷ್ಟು ಪ್ಯಾಸ್ಕಲ್‌ಗೆ ಸಮ?",
+   "q_en": "The practical unit of air pressure, millibar (mb), equals how many pascals?",
+   "opt_kn": [
+    "100 Pa",
+    "1000 Pa",
+    "1 Pa",
+    "10 Pa"
+   ],
+   "opt_en": [
+    "100 Pa",
+    "1000 Pa",
+    "1 Pa",
+    "10 Pa"
+   ],
+   "ans": "A",
+   "exp_kn": "1 ಮಿಲಿಬಾರ್ = 100 Pa."
+  },
+  {
+   "id": "8SCI-C06-06",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಒತ್ತಡ, ಮಾರುತಗಳು, ಬಿರುಗಾಳಿಗಳು ಮತ್ತು ಚಂಡಮಾರುತಗಳು",
+   "ch_en": "Pressure, Winds, Storms and Cyclones",
+   "diff": "easy",
+   "q_kn": "ಗಾಳಿ ಯಾವ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸುತ್ತದೆ?",
+   "q_en": "In which direction does air move?",
+   "opt_kn": [
+    "ಹೆಚ್ಚಿನ ಒತ್ತಡದಿಂದ ಕಡಿಮೆ ಒತ್ತಡದ ಕಡೆಗೆ",
+    "ಯಾವಾಗಲೂ ಪೂರ್ವಕ್ಕೆ",
+    "ಕಡಿಮೆ ಒತ್ತಡದಿಂದ ಹೆಚ್ಚಿನ ಒತ್ತಡದ ಕಡೆಗೆ",
+    "ಚಲಿಸುವುದಿಲ್ಲ"
+   ],
+   "opt_en": [
+    "From high pressure to low pressure",
+    "Always to the east",
+    "From low to high pressure",
+    "Does not move"
+   ],
+   "ans": "A",
+   "exp_kn": "ಒತ್ತಡದ ವ್ಯತ್ಯಾಸಗಳು ಗಾಳಿ ಬೀಸಲು ಕಾರಣ."
+  },
+  {
+   "id": "8SCI-C06-07",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಒತ್ತಡ, ಮಾರುತಗಳು, ಬಿರುಗಾಳಿಗಳು ಮತ್ತು ಚಂಡಮಾರುತಗಳು",
+   "ch_en": "Pressure, Winds, Storms and Cyclones",
+   "diff": "medium",
+   "q_kn": "ಬಿಸಿ ಗಾಳಿ ಮೇಲೇರಿದಾಗ ಆ ಸ್ಥಳದಲ್ಲಿ ಏನಾಗುತ್ತದೆ?",
+   "q_en": "When hot air rises, what forms at that place?",
+   "opt_kn": [
+    "ಹೆಚ್ಚಿನ ಒತ್ತಡದ ಪ್ರದೇಶ",
+    "ಮಂಜುಗಡ್ಡೆ",
+    "ನಿರ್ವಾತ",
+    "ಕಡಿಮೆ ಒತ್ತಡದ ಪ್ರದೇಶ"
+   ],
+   "opt_en": [
+    "A high-pressure area",
+    "Ice",
+    "Vacuum",
+    "A low-pressure area"
+   ],
+   "ans": "D",
+   "exp_kn": "ಬಿಸಿ ಗಾಳಿ ಮೇಲೇರಿ ಕಡಿಮೆ ಒತ್ತಡ ಉಂಟಾಗಿ ಸುತ್ತಲಿನ ತಂಪು ಗಾಳಿ ಆ ಜಾಗ ತುಂಬುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C06-08",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಒತ್ತಡ, ಮಾರುತಗಳು, ಬಿರುಗಾಳಿಗಳು ಮತ್ತು ಚಂಡಮಾರುತಗಳು",
+   "ch_en": "Pressure, Winds, Storms and Cyclones",
+   "diff": "medium",
+   "q_kn": "ಭೂ ಮಾರುತ ಮತ್ತು ಸಮುದ್ರ ಮಾರುತಗಳಿಗೆ ಮುಖ್ಯ ಕಾರಣ ಯಾವುದು?",
+   "q_en": "The main cause of land and sea breezes is?",
+   "opt_kn": [
+    "ಭೂಕಂಪ",
+    "ಚಂದ್ರನ ಆಕರ್ಷಣೆ",
+    "ಭೂಮಿ ಮತ್ತು ಸಮುದ್ರದ ಮೇಲಿನ ಗಾಳಿಯ ಒತ್ತಡದ ವ್ಯತ್ಯಾಸ",
+    "ಮಿಂಚು"
+   ],
+   "opt_en": [
+    "Earthquake",
+    "Moon's pull",
+    "Difference in air pressure over land and sea",
+    "Lightning"
+   ],
+   "ans": "C",
+   "exp_kn": "ಭೂಮಿ-ಸಮುದ್ರ ಬಿಸಿಯಾಗುವ ವ್ಯತ್ಯಾಸದಿಂದ ಒತ್ತಡ ವ್ಯತ್ಯಾಸ ಉಂಟಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C06-09",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಒತ್ತಡ, ಮಾರುತಗಳು, ಬಿರುಗಾಳಿಗಳು ಮತ್ತು ಚಂಡಮಾರುತಗಳು",
+   "ch_en": "Pressure, Winds, Storms and Cyclones",
+   "diff": "medium",
+   "q_kn": "ಕರ್ನಾಟಕ, ಕೇರಳ, ತಮಿಳುನಾಡಿನಲ್ಲಿ ಮಾವು ಪಕ್ವವಾಗಲು ಸಹಾಯಕವಾಗುವ ಗುಡುಗು ಸಹಿತ ಮಳೆಯನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The thunderstorms that help mangoes ripen in Karnataka, Kerala and Tamil Nadu are called?",
+   "opt_kn": [
+    "ಕಾಲ್‌ಬೊಯಿಶಾಖಿ",
+    "ಮಾವಿನ ಮಳೆ",
+    "ಬೊರ್ಡೊಯಿಸಿಲಾ",
+    "ಲೂ"
+   ],
+   "opt_en": [
+    "Kalbaisakhi",
+    "Mango showers",
+    "Bordoisila",
+    "Loo"
+   ],
+   "ans": "B",
+   "exp_kn": "ಪ.ಬಂಗಾಳದಲ್ಲಿ ಕಾಲ್‌ಬೊಯಿಶಾಖಿ, ಅಸ್ಸಾಂನಲ್ಲಿ ಬೊರ್ಡೊಯಿಸಿಲಾ ಎನ್ನುವರು."
+  },
+  {
+   "id": "8SCI-C06-10",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಒತ್ತಡ, ಮಾರುತಗಳು, ಬಿರುಗಾಳಿಗಳು ಮತ್ತು ಚಂಡಮಾರುತಗಳು",
+   "ch_en": "Pressure, Winds, Storms and Cyclones",
+   "diff": "medium",
+   "q_kn": "ಮೋಡಗಳಲ್ಲಿ ಮಿಂಚು ಉಂಟಾಗಲು ಕಾರಣವೇನು?",
+   "q_en": "What causes lightning in clouds?",
+   "opt_kn": [
+    "ಸೂರ್ಯನ ಬೆಳಕು ಪ್ರತಿಫಲಿಸುವುದು",
+    "ಚಂದ್ರನ ಬೆಳಕು",
+    "ಧನ ಮತ್ತು ಋಣ ವಿದ್ಯುದಾವೇಶಗಳು ಸಂಧಿಸುವುದು",
+    "ಮೋಡ ಸುಡುವುದು"
+   ],
+   "opt_en": [
+    "Reflection of sunlight",
+    "Moonlight",
+    "Meeting of positive and negative charges",
+    "Burning of clouds"
+   ],
+   "ans": "C",
+   "exp_kn": "ಮೋಡಗಳಲ್ಲಿ ಆವೇಶ ಪ್ರತ್ಯೇಕಗೊಂಡು ಧನ-ಋಣ ಆವೇಶಗಳು ಸಂಧಿಸಿದಾಗ ಮಿಂಚು ಉಂಟಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C06-11",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಒತ್ತಡ, ಮಾರುತಗಳು, ಬಿರುಗಾಳಿಗಳು ಮತ್ತು ಚಂಡಮಾರುತಗಳು",
+   "ch_en": "Pressure, Winds, Storms and Cyclones",
+   "diff": "medium",
+   "q_kn": "ಕಟ್ಟಡಗಳನ್ನು ಮಿಂಚಿನಿಂದ ರಕ್ಷಿಸುವ ಸಾಧನ ಯಾವುದು?",
+   "q_en": "Which device protects buildings from lightning?",
+   "opt_kn": [
+    "ವಾಯುಭಾರ ಮಾಪಕ",
+    "ವಿದ್ಯುತ್ ಗಂಟೆ",
+    "ಫ್ಯಾನ್",
+    "ಮಿಂಚು ಬಂಧಕ (ಮಿಂಚು ವಾಹಕ)"
+   ],
+   "opt_en": [
+    "Barometer",
+    "Electric bell",
+    "Fan",
+    "Lightning conductor"
+   ],
+   "ans": "D",
+   "exp_kn": "ಮಿಂಚು ಬಂಧಕಗಳು ಆವೇಶವನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ನೆಲಕ್ಕೆ ಹರಿಸುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C06-12",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಒತ್ತಡ, ಮಾರುತಗಳು, ಬಿರುಗಾಳಿಗಳು ಮತ್ತು ಚಂಡಮಾರುತಗಳು",
+   "ch_en": "Pressure, Winds, Storms and Cyclones",
+   "diff": "medium",
+   "q_kn": "ಭಾರತದಲ್ಲಿ ಚಂಡಮಾರುತಗಳು ಮತ್ತು ಗುಡುಗು ಸಹಿತ ಮಳೆಗಳನ್ನು ನಿರಂತರ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡುವ ಸಂಸ್ಥೆ ಯಾವುದು?",
+   "q_en": "Which organisation continuously monitors cyclones and thunderstorms in India?",
+   "opt_kn": [
+    "ಇಸ್ರೋ",
+    "ಭಾರತೀಯ ಹವಾಮಾನ ಇಲಾಖೆ (IMD)",
+    "ಭಾರತೀಯ ರೈಲ್ವೆ",
+    "ಡಿಆರ್‌ಡಿಒ"
+   ],
+   "opt_en": [
+    "ISRO",
+    "India Meteorological Department (IMD)",
+    "Indian Railways",
+    "DRDO"
+   ],
+   "ans": "B",
+   "exp_kn": "IMD ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ ಮತ್ತು ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ ನೀಡುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C06-13",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಒತ್ತಡ, ಮಾರುತಗಳು, ಬಿರುಗಾಳಿಗಳು ಮತ್ತು ಚಂಡಮಾರುತಗಳು",
+   "ch_en": "Pressure, Winds, Storms and Cyclones",
+   "diff": "hard",
+   "q_kn": "2020ರಲ್ಲಿ ಗಂಟೆಗೆ ಸುಮಾರು 270 km ವೇಗದ ಗಾಳಿ ಹೊಂದಿದ್ದ ಚಂಡಮಾರುತ ಯಾವುದು?",
+   "q_en": "Which cyclone of 2020 had winds of about 270 km/h?",
+   "opt_kn": [
+    "ಅಂಫಾನ್",
+    "ಹುದ್‌ಹುದ್",
+    "ಫೈಲಿನ್",
+    "ಓಖಿ"
+   ],
+   "opt_en": [
+    "Amphan",
+    "Hudhud",
+    "Phailin",
+    "Ockhi"
+   ],
+   "ans": "A",
+   "exp_kn": "2020ರ ಅಂಫಾನ್ ಚಂಡಮಾರುತದ ಗಾಳಿ ಗಂಟೆಗೆ 270 km ವೇಗ ಹೊಂದಿತ್ತು."
+  },
+  {
+   "id": "8SCI-C06-14",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಒತ್ತಡ, ಮಾರುತಗಳು, ಬಿರುಗಾಳಿಗಳು ಮತ್ತು ಚಂಡಮಾರುತಗಳು",
+   "ch_en": "Pressure, Winds, Storms and Cyclones",
+   "diff": "medium",
+   "q_kn": "ಮಿಂಚಿನ ನಂತರ ಗಾಳಿ ದಿಢೀರನೆ ವ್ಯಾಕೋಚಿಸುವುದರಿಂದ ಉಂಟಾಗುವ ದೊಡ್ಡ ಶಬ್ದ ಯಾವುದು?",
+   "q_en": "The loud sound produced by the sudden expansion of air after lightning is?",
+   "opt_kn": [
+    "ಸಂಗೀತ",
+    "ಗುಡುಗು",
+    "ಭೂಕಂಪ",
+    "ಪ್ರತಿಧ್ವನಿ"
+   ],
+   "opt_en": [
+    "Music",
+    "Thunder",
+    "Earthquake",
+    "Echo"
+   ],
+   "ans": "B",
+   "exp_kn": "ಮಿಂಚಿನ ಉಷ್ಣದಿಂದ ಗಾಳಿ ವ್ಯಾಕೋಚಿಸಿ ಗುಡುಗು ಉಂಟಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C07-01",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ದ್ರವ್ಯದ ಕಣಗಳ ಸ್ವಭಾವ",
+   "ch_en": "Particulate Nature of Matter",
+   "diff": "easy",
+   "q_kn": "ಅಂತರಕಣ ಆಕರ್ಷಣೆ ಅತ್ಯಂತ ಪ್ರಬಲವಾಗಿರುವುದು ಯಾವುದರಲ್ಲಿ?",
+   "q_en": "Interparticle attraction is strongest in?",
+   "opt_kn": [
+    "ಎಲ್ಲದರಲ್ಲೂ ಸಮ",
+    "ದ್ರವ",
+    "ಘನ",
+    "ಅನಿಲ"
+   ],
+   "opt_en": [
+    "Equal in all",
+    "Liquid",
+    "Solid",
+    "Gas"
+   ],
+   "ans": "C",
+   "exp_kn": "ಘನ > ದ್ರವ > ಅನಿಲ."
+  },
+  {
+   "id": "8SCI-C07-02",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ದ್ರವ್ಯದ ಕಣಗಳ ಸ್ವಭಾವ",
+   "ch_en": "Particulate Nature of Matter",
+   "diff": "easy",
+   "q_kn": "ನಿರ್ದಿಷ್ಟ ಗಾತ್ರ ಇದ್ದು ನಿರ್ದಿಷ್ಟ ಆಕಾರ ಇಲ್ಲದ ದ್ರವ್ಯದ ಸ್ಥಿತಿ ಯಾವುದು?",
+   "q_en": "Which state of matter has a definite volume but no definite shape?",
+   "opt_kn": [
+    "ದ್ರವ",
+    "ಅನಿಲ",
+    "ಯಾವುದೂ ಇಲ್ಲ",
+    "ಘನ"
+   ],
+   "opt_en": [
+    "Liquid",
+    "Gas",
+    "None",
+    "Solid"
+   ],
+   "ans": "A",
+   "exp_kn": "ದ್ರವ ಪಾತ್ರೆಯ ಆಕಾರ ಪಡೆಯುತ್ತದೆ, ಆದರೆ ಗಾತ್ರ ನಿರ್ದಿಷ್ಟ."
+  },
+  {
+   "id": "8SCI-C07-03",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ದ್ರವ್ಯದ ಕಣಗಳ ಸ್ವಭಾವ",
+   "ch_en": "Particulate Nature of Matter",
+   "diff": "medium",
+   "q_kn": "ನಿರ್ದಿಷ್ಟ ಆಕಾರ ಮತ್ತು ಗಾತ್ರ ಎರಡೂ ಇಲ್ಲದ ಸ್ಥಿತಿ ಯಾವುದು?",
+   "q_en": "Which state has neither definite shape nor definite volume?",
+   "opt_kn": [
+    "ಘನ",
+    "ಮಂಜುಗಡ್ಡೆ",
+    "ದ್ರವ",
+    "ಅನಿಲ"
+   ],
+   "opt_en": [
+    "Solid",
+    "Ice",
+    "Liquid",
+    "Gas"
+   ],
+   "ans": "D",
+   "exp_kn": "ಅನಿಲಗಳಲ್ಲಿ ಅಂತರಕಣ ಆಕರ್ಷಣೆ ನಗಣ್ಯ; ಕಣಗಳು ಮುಕ್ತವಾಗಿ ಚಲಿಸುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C07-04",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ದ್ರವ್ಯದ ಕಣಗಳ ಸ್ವಭಾವ",
+   "ch_en": "Particulate Nature of Matter",
+   "diff": "medium",
+   "q_kn": "ಕಣಗಳ ನಡುವಿನ ಖಾಲಿ ಸ್ಥಳಗಳನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The spaces between particles are called?",
+   "opt_kn": [
+    "ಅಂತರಕಣ ಆಕರ್ಷಣೆ",
+    "ಘಟಕಕಣಗಳು",
+    "ಅಂತರಕಣ ಸ್ಥಳಾವಕಾಶಗಳು",
+    "ಅಣುಗಳು"
+   ],
+   "opt_en": [
+    "Interparticle attraction",
+    "Constituent particles",
+    "Interparticle spaces",
+    "Molecules"
+   ],
+   "ans": "C",
+   "exp_kn": "ಕಣಗಳ ನಡುವಿನ ಸ್ಥಳ = ಅಂತರಕಣ ಸ್ಥಳಾವಕಾಶ."
+  },
+  {
+   "id": "8SCI-C07-05",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ದ್ರವ್ಯದ ಕಣಗಳ ಸ್ವಭಾವ",
+   "ch_en": "Particulate Nature of Matter",
+   "diff": "medium",
+   "q_kn": "ವಾತಾವರಣದ ಒತ್ತಡದಲ್ಲಿ ಘನವು ಕರಗಿ ದ್ರವವಾಗಲು ಬೇಕಾದ ಕನಿಷ್ಠ ತಾಪವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The minimum temperature at which a solid melts into a liquid at atmospheric pressure is?",
+   "opt_kn": [
+    "ದ್ರವನ ಬಿಂದು",
+    "ಕುದಿಯುವ ಬಿಂದು",
+    "ಘನೀಕರಣ",
+    "ಆವೀಕರಣ"
+   ],
+   "opt_en": [
+    "Melting point",
+    "Boiling point",
+    "Condensation",
+    "Evaporation"
+   ],
+   "ans": "A",
+   "exp_kn": "ಘನ ಕರಗುವ ತಾಪ ದ್ರವನ ಬಿಂದು."
+  },
+  {
+   "id": "8SCI-C07-06",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ದ್ರವ್ಯದ ಕಣಗಳ ಸ್ವಭಾವ",
+   "ch_en": "Particulate Nature of Matter",
+   "diff": "medium",
+   "q_kn": "ದ್ರವವು ಕುದಿಯುವ ಬಿಂದುವಿಗಿಂತ ಕಡಿಮೆ ತಾಪದಲ್ಲಿ ನಿಧಾನವಾಗಿ ಆವಿಯಾಗುವ ಪ್ರಕ್ರಿಯೆ ಯಾವುದು?",
+   "q_en": "The slow process of a liquid changing into vapour below its boiling point is?",
+   "opt_kn": [
+    "ದ್ರವನ",
+    "ಕುದಿಯುವಿಕೆ",
+    "ಘನೀಭವನ",
+    "ಆವೀಕರಣ"
+   ],
+   "opt_en": [
+    "Melting",
+    "Boiling",
+    "Freezing",
+    "Evaporation"
+   ],
+   "ans": "D",
+   "exp_kn": "ಮೇಲ್ಮೈಯಿಂದ ನಿಧಾನ ಆವಿಯಾಗುವಿಕೆ ಆವೀಕರಣ."
+  },
+  {
+   "id": "8SCI-C07-07",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ದ್ರವ್ಯದ ಕಣಗಳ ಸ್ವಭಾವ",
+   "ch_en": "Particulate Nature of Matter",
+   "diff": "medium",
+   "q_kn": "ಕೊಠಡಿಯ ಒಂದು ಮೂಲೆಯಲ್ಲಿ ಸುಗಂಧ ದ್ರವ್ಯ ಸಿಂಪಡಿಸಿದರೆ ಇಡೀ ಕೊಠಡಿಗೆ ವಾಸನೆ ಹರಡುತ್ತದೆ. ಏಕೆ?",
+   "q_en": "Perfume sprayed in one corner spreads to the whole room. Why?",
+   "opt_kn": [
+    "ಗಾಳಿ ಇಲ್ಲದಿರುವುದರಿಂದ",
+    "ಅನಿಲ ಕಣಗಳು ಮುಕ್ತವಾಗಿ ಚಲಿಸಿ ಹರಡುತ್ತವೆ",
+    "ಕಣಗಳು ಸ್ಥಿರವಾಗಿರುತ್ತವೆ",
+    "ಸುಗಂಧ ಘನವಾಗುವುದರಿಂದ"
+   ],
+   "opt_en": [
+    "Because there is no air",
+    "Gas particles move freely and spread",
+    "Particles are fixed",
+    "Perfume becomes solid"
+   ],
+   "ans": "B",
+   "exp_kn": "ಸುಗಂಧದ ಕಣಗಳು ಹರಡಿ ಕೊಠಡಿಯನ್ನು ತುಂಬುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C07-08",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ದ್ರವ್ಯದ ಕಣಗಳ ಸ್ವಭಾವ",
+   "ch_en": "Particulate Nature of Matter",
+   "diff": "medium",
+   "q_kn": "ನೀರಿನಲ್ಲಿ ಹಾಕಿದ ಪೊಟ್ಯಾಸಿಯಂ ಪರ್ಮಾಂಗನೇಟ್ ಹರಳಿನ ಗುಲಾಬಿ ಬಣ್ಣ ತಾನಾಗಿಯೇ ಹರಡುತ್ತದೆ. ಇದು ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+   "q_en": "The pink colour of a potassium permanganate crystal spreads in water by itself. This shows?",
+   "opt_kn": [
+    "ಬಣ್ಣ ಕರಗುವುದಿಲ್ಲ",
+    "ನೀರಿನ ಕಣಗಳು ನಿರಂತರ ಚಲನೆಯಲ್ಲಿವೆ",
+    "ನೀರಿನ ಕಣಗಳು ಸ್ಥಿರವಾಗಿವೆ",
+    "ನೀರು ಘನ"
+   ],
+   "opt_en": [
+    "Colour does not dissolve",
+    "Water particles are in constant motion",
+    "Water particles are fixed",
+    "Water is solid"
+   ],
+   "ans": "B",
+   "exp_kn": "ಕಣಗಳ ನಿರಂತರ ಚಲನೆಯಿಂದ ಬಣ್ಣ ಏಕರೂಪವಾಗಿ ಹರಡುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C07-09",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ದ್ರವ್ಯದ ಕಣಗಳ ಸ್ವಭಾವ",
+   "ch_en": "Particulate Nature of Matter",
+   "diff": "medium",
+   "q_kn": "ಎಲ್ಲಾ ದ್ರವ್ಯಗಳನ್ನು ರೂಪಿಸುವ ಅತಿ ಸಣ್ಣ ಕಣಗಳು ಯಾವುವು?",
+   "q_en": "The tiny particles that make up all matter are?",
+   "opt_kn": [
+    "ಹರಳುಗಳು",
+    "ಧೂಳು",
+    "ಪರಮಾಣುಗಳು ಮತ್ತು ಅಣುಗಳು",
+    "ಜೀವಕೋಶಗಳು"
+   ],
+   "opt_en": [
+    "Crystals",
+    "Dust",
+    "Atoms and molecules",
+    "Cells"
+   ],
+   "ans": "C",
+   "exp_kn": "ದ್ರವ್ಯವು ಪರಮಾಣು ಮತ್ತು ಅಣುಗಳಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ."
+  },
+  {
+   "id": "8SCI-C07-10",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ದ್ರವ್ಯದ ಕಣಗಳ ಸ್ವಭಾವ",
+   "ch_en": "Particulate Nature of Matter",
+   "diff": "medium",
+   "q_kn": "ಹೈಡ್ರೋಜನ್‌ನ ಎಷ್ಟು ಪರಮಾಣುಗಳು ಸೇರಿ ಒಂದು ಹೈಡ್ರೋಜನ್ ಅಣು ರೂಪಿಸುತ್ತವೆ?",
+   "q_en": "How many hydrogen atoms combine to form one hydrogen molecule?",
+   "opt_kn": [
+    "3",
+    "1",
+    "4",
+    "2"
+   ],
+   "opt_en": [
+    "3",
+    "1",
+    "4",
+    "2"
+   ],
+   "ans": "D",
+   "exp_kn": "ಎರಡು ಹೈಡ್ರೋಜನ್ ಪರಮಾಣುಗಳು ಸೇರಿ H₂ ಅಣು ರೂಪಿಸುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C07-11",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ದ್ರವ್ಯದ ಕಣಗಳ ಸ್ವಭಾವ",
+   "ch_en": "Particulate Nature of Matter",
+   "diff": "hard",
+   "q_kn": "ಹೇಳಿಕೆ (A): ಘನಗಳು ನಿರ್ದಿಷ್ಟ ಆಕಾರ ಹೊಂದಿವೆ. ಕಾರಣ (R): ಘನಗಳಲ್ಲಿ ಅಂತರಕಣ ಆಕರ್ಷಣೆ ಪ್ರಬಲ ಮತ್ತು ಅಂತರಕಣ ಸ್ಥಳಾವಕಾಶ ಕನಿಷ್ಠ.",
+   "q_en": "Assertion (A): Solids have a definite shape. Reason (R): In solids interparticle attraction is strong and interparticle space is minimum.",
+   "opt_kn": [
+    "A ಮತ್ತು R ಸರಿ; R, A ಗೆ ಸರಿಯಾದ ವಿವರಣೆ",
+    "A ಮತ್ತು R ಸರಿ; R, A ಗೆ ವಿವರಣೆಯಲ್ಲ",
+    "A ಸರಿ, R ತಪ್ಪು",
+    "A ತಪ್ಪು, R ಸರಿ"
+   ],
+   "opt_en": [
+    "Both A and R true; R explains A",
+    "Both true; R does not explain A",
+    "A true, R false",
+    "A false, R true"
+   ],
+   "ans": "A",
+   "exp_kn": "ಪ್ರಬಲ ಆಕರ್ಷಣೆ ಮತ್ತು ಕನಿಷ್ಠ ಸ್ಥಳಾವಕಾಶದಿಂದ ಘನಕ್ಕೆ ನಿರ್ದಿಷ್ಟ ಆಕಾರ."
+  },
+  {
+   "id": "8SCI-C07-12",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ದ್ರವ್ಯದ ಕಣಗಳ ಸ್ವಭಾವ",
+   "ch_en": "Particulate Nature of Matter",
+   "diff": "medium",
+   "q_kn": "ವಾಯುಮಾಲಿನ್ಯದ ಸಂದರ್ಭದಲ್ಲಿ ಬಳಸುವ SPM ಎಂದರೆ…",
+   "q_en": "In air pollution, SPM stands for…",
+   "opt_kn": [
+    "ನಿಲಂಬಿತ ದ್ರವ್ಯ ಕಣಗಳು (Suspended Particulate Matter)",
+    "ವಿಶೇಷ ಪ್ಲಾಸ್ಟಿಕ್ ವಸ್ತು",
+    "ಸಮುದ್ರ ಮಟ್ಟದ ಒತ್ತಡ",
+    "ಸೌರ ಶಕ್ತಿ ಮಾಪಕ"
+   ],
+   "opt_en": [
+    "Suspended Particulate Matter",
+    "Special Plastic Material",
+    "Sea-level Pressure Measure",
+    "Solar Power Meter"
+   ],
+   "ans": "A",
+   "exp_kn": "ಗಾಳಿಯಲ್ಲಿ ತೇಲುವ ಸಣ್ಣ ಕಣಗಳು SPM."
+  },
+  {
+   "id": "8SCI-C08-01",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ದ್ರವ್ಯದ ಸ್ವಭಾವ: ಧಾತುಗಳು, ಸಂಯುಕ್ತಗಳು ಮತ್ತು ಮಿಶ್ರಣಗಳು",
+   "ch_en": "Nature of Matter: Elements, Compounds and Mixtures",
+   "diff": "easy",
+   "q_kn": "ಘಟಕಗಳು ತಮ್ಮ ಗುಣಗಳನ್ನು ಉಳಿಸಿಕೊಂಡು ಬೆರೆತಿರುವ ವಸ್ತುವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "A substance in which components are mixed but keep their own properties is called?",
+   "opt_kn": [
+    "ಅಣು",
+    "ಮಿಶ್ರಣ",
+    "ಸಂಯುಕ್ತ",
+    "ಧಾತು"
+   ],
+   "opt_en": [
+    "Molecule",
+    "Mixture",
+    "Compound",
+    "Element"
+   ],
+   "ans": "B",
+   "exp_kn": "ಮಿಶ್ರಣದಲ್ಲಿ ವಸ್ತುಗಳು ರಾಸಾಯನಿಕವಾಗಿ ಪ್ರತಿವರ್ತಿಸುವುದಿಲ್ಲ."
+  },
+  {
+   "id": "8SCI-C08-02",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ದ್ರವ್ಯದ ಸ್ವಭಾವ: ಧಾತುಗಳು, ಸಂಯುಕ್ತಗಳು ಮತ್ತು ಮಿಶ್ರಣಗಳು",
+   "ch_en": "Nature of Matter: Elements, Compounds and Mixtures",
+   "diff": "easy",
+   "q_kn": "ಇನ್ನೂ ಸರಳ ವಸ್ತುಗಳಾಗಿ ವಿಭಜಿಸಲಾಗದ ಅತ್ಯಂತ ಸರಳ ಶುದ್ಧ ವಸ್ತು ಯಾವುದು?",
+   "q_en": "The simplest pure substance that cannot be broken into simpler substances is?",
+   "opt_kn": [
+    "ಧಾತು",
+    "ಮಿಶ್ರಣ",
+    "ಸಂಯುಕ್ತ",
+    "ದ್ರಾವಣ"
+   ],
+   "opt_en": [
+    "Element",
+    "Mixture",
+    "Compound",
+    "Solution"
+   ],
+   "ans": "A",
+   "exp_kn": "ಧಾತುಗಳು ಎಲ್ಲಾ ದ್ರವ್ಯದ ಮೂಲ ಘಟಕಗಳು."
+  },
+  {
+   "id": "8SCI-C08-03",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ದ್ರವ್ಯದ ಸ್ವಭಾವ: ಧಾತುಗಳು, ಸಂಯುಕ್ತಗಳು ಮತ್ತು ಮಿಶ್ರಣಗಳು",
+   "ch_en": "Nature of Matter: Elements, Compounds and Mixtures",
+   "diff": "medium",
+   "q_kn": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಧಾತುಗಳು ಸ್ಥಿರ ಅನುಪಾತದಲ್ಲಿ ರಾಸಾಯನಿಕವಾಗಿ ಸಂಯೋಜಿಸಿ ಉಂಟಾಗುವ ವಸ್ತು ಯಾವುದು?",
+   "q_en": "A substance formed when two or more elements combine chemically in a fixed ratio is?",
+   "opt_kn": [
+    "ಮಿಶ್ರಲೋಹ",
+    "ದ್ರಾವಣ",
+    "ಸಂಯುಕ್ತ",
+    "ಮಿಶ್ರಣ"
+   ],
+   "opt_en": [
+    "Alloy",
+    "Solution",
+    "Compound",
+    "Mixture"
+   ],
+   "ans": "C",
+   "exp_kn": "ಸಂಯುಕ್ತದ ಗುಣಗಳು ಘಟಕ ಧಾತುಗಳಿಗಿಂತ ಭಿನ್ನ."
+  },
+  {
+   "id": "8SCI-C08-04",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ದ್ರವ್ಯದ ಸ್ವಭಾವ: ಧಾತುಗಳು, ಸಂಯುಕ್ತಗಳು ಮತ್ತು ಮಿಶ್ರಣಗಳು",
+   "ch_en": "Nature of Matter: Elements, Compounds and Mixtures",
+   "diff": "medium",
+   "q_kn": "ಶುದ್ಧ ವಸ್ತುವು ಯಾವುದಾಗಿರಬಹುದು?",
+   "q_en": "A pure substance can be?",
+   "opt_kn": [
+    "ದ್ರಾವಣ ಮಾತ್ರ",
+    "ಮಿಶ್ರಣ ಮಾತ್ರ",
+    "ಮಿಶ್ರಲೋಹ ಮಾತ್ರ",
+    "ಧಾತು ಅಥವಾ ಸಂಯುಕ್ತ"
+   ],
+   "opt_en": [
+    "Only a solution",
+    "Only a mixture",
+    "Only an alloy",
+    "An element or a compound"
+   ],
+   "ans": "D",
+   "exp_kn": "ಶುದ್ಧ ವಸ್ತು ಒಂದೇ ರೀತಿಯ ಕಣಗಳನ್ನು ಹೊಂದಿದೆ."
+  },
+  {
+   "id": "8SCI-C08-05",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ದ್ರವ್ಯದ ಸ್ವಭಾವ: ಧಾತುಗಳು, ಸಂಯುಕ್ತಗಳು ಮತ್ತು ಮಿಶ್ರಣಗಳು",
+   "ch_en": "Nature of Matter: Elements, Compounds and Mixtures",
+   "diff": "medium",
+   "q_kn": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಲೋಹಗಳ ಏಕರೂಪ ಮಿಶ್ರಣವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "A homogeneous mixture of two or more metals is called?",
+   "opt_kn": [
+    "ಖನಿಜ",
+    "ಮಿಶ್ರಲೋಹ",
+    "ಸಂಯುಕ್ತ",
+    "ಲೋಹಾಭ"
+   ],
+   "opt_en": [
+    "Mineral",
+    "Alloy",
+    "Compound",
+    "Metalloid"
+   ],
+   "ans": "B",
+   "exp_kn": "ಉದಾ: ಕಂಚು, ಕಲೆರಹಿತ ಉಕ್ಕು."
+  },
+  {
+   "id": "8SCI-C08-06",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ದ್ರವ್ಯದ ಸ್ವಭಾವ: ಧಾತುಗಳು, ಸಂಯುಕ್ತಗಳು ಮತ್ತು ಮಿಶ್ರಣಗಳು",
+   "ch_en": "Nature of Matter: Elements, Compounds and Mixtures",
+   "diff": "hard",
+   "q_kn": "ಕಂಚು (ಕಂಸ್ಯ) ಯಾವ ಲೋಹಗಳ ಮಿಶ್ರಲೋಹ?",
+   "q_en": "Bronze (kansya) is an alloy of which metals?",
+   "opt_kn": [
+    "ತಾಮ್ರ ಮತ್ತು ಸತು",
+    "ಕಬ್ಬಿಣ ಮತ್ತು ಇಂಗಾಲ",
+    "ಚಿನ್ನ ಮತ್ತು ಬೆಳ್ಳಿ",
+    "ತಾಮ್ರ ಮತ್ತು ತವರ"
+   ],
+   "opt_en": [
+    "Copper and zinc",
+    "Iron and carbon",
+    "Gold and silver",
+    "Copper and tin"
+   ],
+   "ans": "D",
+   "exp_kn": "ಕಂಚು = ತಾಮ್ರ 4 ಭಾಗ + ತವರ 1 ಭಾಗ."
+  },
+  {
+   "id": "8SCI-C08-07",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ದ್ರವ್ಯದ ಸ್ವಭಾವ: ಧಾತುಗಳು, ಸಂಯುಕ್ತಗಳು ಮತ್ತು ಮಿಶ್ರಣಗಳು",
+   "ch_en": "Nature of Matter: Elements, Compounds and Mixtures",
+   "diff": "medium",
+   "q_kn": "ಸುಣ್ಣದ ತಿಳಿನೀರು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಸಂಪರ್ಕದಲ್ಲಿ ಹೇಗೆ ಬದಲಾಗುತ್ತದೆ?",
+   "q_en": "How does lime water change in the presence of carbon dioxide?",
+   "opt_kn": [
+    "ಯಾವುದೇ ಬದಲಾವಣೆ ಇಲ್ಲ",
+    "ಕೆಂಪಾಗುತ್ತದೆ",
+    "ಹಾಲಿನಂತೆ ಬಿಳಿಯಾಗುತ್ತದೆ",
+    "ನೀಲಿ ಆಗುತ್ತದೆ"
+   ],
+   "opt_en": [
+    "No change",
+    "Turns red",
+    "Turns milky",
+    "Turns blue"
+   ],
+   "ans": "C",
+   "exp_kn": "CO₂ ಕ್ಯಾಲ್ಸಿಯಂ ಹೈಡ್ರಾಕ್ಸೈಡ್ ಜೊತೆ ಪ್ರತಿವರ್ತಿಸಿ ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್ ಉಂಟಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C08-08",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ದ್ರವ್ಯದ ಸ್ವಭಾವ: ಧಾತುಗಳು, ಸಂಯುಕ್ತಗಳು ಮತ್ತು ಮಿಶ್ರಣಗಳು",
+   "ch_en": "Nature of Matter: Elements, Compounds and Mixtures",
+   "diff": "medium",
+   "q_kn": "ಮೃದು ಲೋಹ ಸೋಡಿಯಂ ಮತ್ತು ಅಪಾಯಕಾರಿ ಅನಿಲ ಕ್ಲೋರಿನ್ ಸೇರಿ ಉಂಟಾಗುವ ನಿರುಪದ್ರವಿ ಸಂಯುಕ್ತ ಯಾವುದು?",
+   "q_en": "Soft metal sodium and dangerous gas chlorine combine to form which harmless compound?",
+   "opt_kn": [
+    "ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ (ಉಪ್ಪು)",
+    "ಸುಣ್ಣ",
+    "ಸಕ್ಕರೆ",
+    "ನೀರು"
+   ],
+   "opt_en": [
+    "Sodium chloride (salt)",
+    "Lime",
+    "Sugar",
+    "Water"
+   ],
+   "ans": "A",
+   "exp_kn": "ಇದು ಸಂಯುಕ್ತದ ಗುಣ ಘಟಕ ಧಾತುಗಳಿಗಿಂತ ಭಿನ್ನ ಎಂಬುದಕ್ಕೆ ಉದಾಹರಣೆ."
+  },
+  {
+   "id": "8SCI-C08-09",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ದ್ರವ್ಯದ ಸ್ವಭಾವ: ಧಾತುಗಳು, ಸಂಯುಕ್ತಗಳು ಮತ್ತು ಮಿಶ್ರಣಗಳು",
+   "ch_en": "Nature of Matter: Elements, Compounds and Mixtures",
+   "diff": "medium",
+   "q_kn": "ಲೋಹ ಮತ್ತು ಅಲೋಹ ಎರಡರ ಗುಣಗಳನ್ನೂ ಹೊಂದಿರುವ ಧಾತುಗಳನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "Elements showing properties of both metals and non-metals are called?",
+   "opt_kn": [
+    "ಖನಿಜಗಳು",
+    "ಮಿಶ್ರಲೋಹಗಳು",
+    "ಸಂಯುಕ್ತಗಳು",
+    "ಲೋಹಾಭಗಳು (ಮೆಟಲಾಯ್ಡ್)"
+   ],
+   "opt_en": [
+    "Minerals",
+    "Alloys",
+    "Compounds",
+    "Metalloids"
+   ],
+   "ans": "D",
+   "exp_kn": "ಲೋಹ-ಅಲೋಹಗಳ ನಡುವಿನ ಗುಣ ಹೊಂದಿದವು ಲೋಹಾಭಗಳು."
+  },
+  {
+   "id": "8SCI-C08-10",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ದ್ರವ್ಯದ ಸ್ವಭಾವ: ಧಾತುಗಳು, ಸಂಯುಕ್ತಗಳು ಮತ್ತು ಮಿಶ್ರಣಗಳು",
+   "ch_en": "Nature of Matter: Elements, Compounds and Mixtures",
+   "diff": "medium",
+   "q_kn": "ಶುದ್ಧ ಕಬ್ಬಿಣಕ್ಕಿಂತ ಬಲಯುತವಾದ, ಹೆಚ್ಚು ಬಾಳಿಕೆಯ ಮಿಶ್ರಲೋಹ ಯಾವುದು?",
+   "q_en": "Which alloy is stronger and more durable than pure iron?",
+   "opt_kn": [
+    "ಗ್ರಾಫೈಟ್",
+    "ಪ್ಲಾಸ್ಟಿಕ್",
+    "ಕಲೆರಹಿತ ಉಕ್ಕು (ಸ್ಟೇನ್‌ಲೆಸ್ ಸ್ಟೀಲ್)",
+    "ಗಾಜು"
+   ],
+   "opt_en": [
+    "Graphite",
+    "Plastic",
+    "Stainless steel",
+    "Glass"
+   ],
+   "ans": "C",
+   "exp_kn": "ವಸ್ತು ವಿಜ್ಞಾನಿಗಳು ಕಲೆರಹಿತ ಉಕ್ಕು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದರು."
+  },
+  {
+   "id": "8SCI-C08-11",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ದ್ರವ್ಯದ ಸ್ವಭಾವ: ಧಾತುಗಳು, ಸಂಯುಕ್ತಗಳು ಮತ್ತು ಮಿಶ್ರಣಗಳು",
+   "ch_en": "Nature of Matter: Elements, Compounds and Mixtures",
+   "diff": "hard",
+   "q_kn": "ತೈಲ ಸೋರಿಕೆಯನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಲು ಬಳಸಬಹುದಾದ ‘ಅದ್ಭುತ’ ಹಗುರ ವಸ್ತು ಯಾವುದು?",
+   "q_en": "Which \"wonder\" lightweight material can be used to clean oil spills?",
+   "opt_kn": [
+    "ಗ್ರಾಫೀನ್ ಏರೋಜೆಲ್",
+    "ಕಂಚು",
+    "ಸಿಮೆಂಟ್",
+    "ಸುಣ್ಣ"
+   ],
+   "opt_en": [
+    "Graphene aerogel",
+    "Bronze",
+    "Cement",
+    "Lime"
+   ],
+   "ans": "A",
+   "exp_kn": "ಗ್ರಾಫೀನ್ ಏರೋಜೆಲ್ ಸಮುದ್ರ/ಭೂಮಿಯ ತೈಲ ಸೋರಿಕೆ ಸ್ವಚ್ಛಗೊಳಿಸಲು ಬಳಕೆ."
+  },
+  {
+   "id": "8SCI-C08-12",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ದ್ರವ್ಯದ ಸ್ವಭಾವ: ಧಾತುಗಳು, ಸಂಯುಕ್ತಗಳು ಮತ್ತು ಮಿಶ್ರಣಗಳು",
+   "ch_en": "Nature of Matter: Elements, Compounds and Mixtures",
+   "diff": "medium",
+   "q_kn": "ಖನಿಜಗಳ ಬಗ್ಗೆ ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
+   "q_en": "Which statement about minerals is correct?",
+   "opt_kn": [
+    "ಎಲ್ಲ ಖನಿಜಗಳು ದ್ರವಗಳು",
+    "ಬಹುತೇಕ ಖನಿಜಗಳು ಸಂಯುಕ್ತಗಳು; ಕೆಲವು ಶುದ್ಧ ಧಾತುಗಳು",
+    "ಖನಿಜಗಳಿಗೆ ಸ್ಥಿರ ಸಂಯೋಜನೆ ಇಲ್ಲ",
+    "ಖನಿಜಗಳು ಮಾನವ ನಿರ್ಮಿತ"
+   ],
+   "opt_en": [
+    "All minerals are liquids",
+    "Most minerals are compounds; a few are pure elements",
+    "Minerals have no fixed composition",
+    "Minerals are man-made"
+   ],
+   "ans": "B",
+   "exp_kn": "ಖನಿಜಗಳು ನೈಸರ್ಗಿಕ ಘನಗಳು; ಸ್ಥಿರ ರಾಸಾಯನಿಕ ಸಂಯೋಜನೆ ಹೊಂದಿವೆ."
+  },
+  {
+   "id": "8SCI-C08-13",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ದ್ರವ್ಯದ ಸ್ವಭಾವ: ಧಾತುಗಳು, ಸಂಯುಕ್ತಗಳು ಮತ್ತು ಮಿಶ್ರಣಗಳು",
+   "ch_en": "Nature of Matter: Elements, Compounds and Mixtures",
+   "diff": "hard",
+   "q_kn": "ಹೇಳಿಕೆ (A): ನೀರು ಒಂದು ಸಂಯುಕ್ತ. ಕಾರಣ (R): ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಆಕ್ಸಿಜನ್ ಸ್ಥಿರ ಅನುಪಾತದಲ್ಲಿ ರಾಸಾಯನಿಕವಾಗಿ ಸಂಯೋಜಿಸಿ ನೀರು ಉಂಟಾಗುತ್ತದೆ.",
+   "q_en": "Assertion (A): Water is a compound. Reason (R): Water forms when hydrogen and oxygen combine chemically in a fixed ratio.",
+   "opt_kn": [
+    "A ಮತ್ತು R ಸರಿ; R, A ಗೆ ಸರಿಯಾದ ವಿವರಣೆ",
+    "A ಮತ್ತು R ಸರಿ; R, A ಗೆ ವಿವರಣೆಯಲ್ಲ",
+    "A ಸರಿ, R ತಪ್ಪು",
+    "A ತಪ್ಪು, R ಸರಿ"
+   ],
+   "opt_en": [
+    "Both A and R true; R explains A",
+    "Both true; R does not explain A",
+    "A true, R false",
+    "A false, R true"
+   ],
+   "ans": "A",
+   "exp_kn": "ಸ್ಥಿರ ಅನುಪಾತದ ರಾಸಾಯನಿಕ ಸಂಯೋಗದಿಂದಲೇ ನೀರು ಸಂಯುಕ್ತ."
+  },
+  {
+   "id": "8SCI-C09-01",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ದ್ರಾವ್ಯ, ದ್ರಾವಕ ಮತ್ತು ದ್ರಾವಣಗಳ ಅದ್ಭುತ ಜಗತ್ತು",
+   "ch_en": "The Amazing World of Solutes, Solvents and Solutions",
+   "diff": "easy",
+   "q_kn": "ಉಪ್ಪು ಮತ್ತು ನೀರಿನಂತಹ ಏಕರೂಪದ ಮಿಶ್ರಣವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "A homogeneous mixture like salt and water is called?",
+   "opt_kn": [
+    "ಧಾತು",
+    "ಏಕರೂಪವಲ್ಲದ ಮಿಶ್ರಣ",
+    "ಸಂಯುಕ್ತ",
+    "ದ್ರಾವಣ"
+   ],
+   "opt_en": [
+    "Element",
+    "Heterogeneous mixture",
+    "Compound",
+    "Solution"
+   ],
+   "ans": "D",
+   "exp_kn": "ದ್ರಾವಣದ ಘಟಕಗಳು ಪ್ರತ್ಯೇಕವಾಗಿ ಗೋಚರಿಸುವುದಿಲ್ಲ."
+  },
+  {
+   "id": "8SCI-C09-02",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ದ್ರಾವ್ಯ, ದ್ರಾವಕ ಮತ್ತು ದ್ರಾವಣಗಳ ಅದ್ಭುತ ಜಗತ್ತು",
+   "ch_en": "The Amazing World of Solutes, Solvents and Solutions",
+   "diff": "easy",
+   "q_kn": "ಉಪ್ಪಿನ ನೀರಿನಲ್ಲಿ ಉಪ್ಪು ಏನು?",
+   "q_en": "In salt water, salt is the?",
+   "opt_kn": [
+    "ದ್ರಾವಣ",
+    "ದ್ರಾವ್ಯ",
+    "ದ್ರಾವಕ",
+    "ಮಿಶ್ರಲೋಹ"
+   ],
+   "opt_en": [
+    "Solution",
+    "Solute",
+    "Solvent",
+    "Alloy"
+   ],
+   "ans": "B",
+   "exp_kn": "ಕರಗುವ ಘನ ಘಟಕ ದ್ರಾವ್ಯ; ನೀರು ದ್ರಾವಕ."
+  },
+  {
+   "id": "8SCI-C09-03",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ದ್ರಾವ್ಯ, ದ್ರಾವಕ ಮತ್ತು ದ್ರಾವಣಗಳ ಅದ್ಭುತ ಜಗತ್ತು",
+   "ch_en": "The Amazing World of Solutes, Solvents and Solutions",
+   "diff": "medium",
+   "q_kn": "ಮರಳು ಮತ್ತು ನೀರಿನ ಮಿಶ್ರಣ ಯಾವ ರೀತಿಯದು?",
+   "q_en": "A mixture of sand and water is a?",
+   "opt_kn": [
+    "ಏಕರೂಪ ಮಿಶ್ರಣ",
+    "ದ್ರಾವಣ",
+    "ಏಕರೂಪವಲ್ಲದ ಮಿಶ್ರಣ",
+    "ಸಂಯುಕ್ತ"
+   ],
+   "opt_en": [
+    "Homogeneous mixture",
+    "Solution",
+    "Heterogeneous mixture",
+    "Compound"
+   ],
+   "ans": "C",
+   "exp_kn": "ಮರಳು ಕರಗದೆ ಪ್ರತ್ಯೇಕವಾಗಿ ಕಾಣುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C09-04",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ದ್ರಾವ್ಯ, ದ್ರಾವಕ ಮತ್ತು ದ್ರಾವಣಗಳ ಅದ್ಭುತ ಜಗತ್ತು",
+   "ch_en": "The Amazing World of Solutes, Solvents and Solutions",
+   "diff": "medium",
+   "q_kn": "ಗಾಳಿಯಲ್ಲಿ ದ್ರಾವಕ ಎಂದು ಯಾವ ಅನಿಲವನ್ನು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ?",
+   "q_en": "Which gas is considered the solvent in air?",
+   "opt_kn": [
+    "ನೈಟ್ರೋಜನ್",
+    "ಆಕ್ಸಿಜನ್",
+    "ಆರ್ಗಾನ್",
+    "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್"
+   ],
+   "opt_en": [
+    "Nitrogen",
+    "Oxygen",
+    "Argon",
+    "Carbon dioxide"
+   ],
+   "ans": "A",
+   "exp_kn": "ಗಾಳಿಯಲ್ಲಿ ಹೆಚ್ಚು ಪ್ರಮಾಣದಲ್ಲಿರುವ ನೈಟ್ರೋಜನ್ ದ್ರಾವಕ; ಉಳಿದವು ದ್ರಾವ್ಯಗಳು."
+  },
+  {
+   "id": "8SCI-C09-05",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ದ್ರಾವ್ಯ, ದ್ರಾವಕ ಮತ್ತು ದ್ರಾವಣಗಳ ಅದ್ಭುತ ಜಗತ್ತು",
+   "ch_en": "The Amazing World of Solutes, Solvents and Solutions",
+   "diff": "medium",
+   "q_kn": "ನಿರ್ದಿಷ್ಟ ತಾಪದಲ್ಲಿ ಇನ್ನು ಹೆಚ್ಚು ದ್ರಾವ್ಯ ಕರಗಿಸಲಾಗದ ದ್ರಾವಣ ಯಾವುದು?",
+   "q_en": "A solution in which no more solute can dissolve at a given temperature is?",
+   "opt_kn": [
+    "ಪರ್ಯಾಪ್ತ (ಸಂತೃಪ್ತ) ದ್ರಾವಣ",
+    "ಅಪರ್ಯಾಪ್ತ ದ್ರಾವಣ",
+    "ಮಿಶ್ರಲೋಹ",
+    "ಏಕರೂಪವಲ್ಲದ ಮಿಶ್ರಣ"
+   ],
+   "opt_en": [
+    "Saturated solution",
+    "Unsaturated solution",
+    "Alloy",
+    "Heterogeneous mixture"
+   ],
+   "ans": "A",
+   "exp_kn": "ಹೆಚ್ಚುವರಿ ದ್ರಾವ್ಯ ತಳದಲ್ಲಿ ಉಳಿಯುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C09-06",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ದ್ರಾವ್ಯ, ದ್ರಾವಕ ಮತ್ತು ದ್ರಾವಣಗಳ ಅದ್ಭುತ ಜಗತ್ತು",
+   "ch_en": "The Amazing World of Solutes, Solvents and Solutions",
+   "diff": "medium",
+   "q_kn": "ದ್ರಾವಣಶೀಲತೆಯನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಎಷ್ಟು ಪ್ರಮಾಣದ ದ್ರಾವಕಕ್ಕೆ ಹೇಳಲಾಗುತ್ತದೆ?",
+   "q_en": "Solubility is usually expressed for how much solvent?",
+   "opt_kn": [
+    "1 mL",
+    "10 L",
+    "100 mL",
+    "1000 L"
+   ],
+   "opt_en": [
+    "1 mL",
+    "10 L",
+    "100 mL",
+    "1000 L"
+   ],
+   "ans": "C",
+   "exp_kn": "ನಿರ್ದಿಷ್ಟ ತಾಪದಲ್ಲಿ 100 mL ನಲ್ಲಿ ಕರಗಬಹುದಾದ ಗರಿಷ್ಠ ದ್ರಾವ್ಯ."
+  },
+  {
+   "id": "8SCI-C09-07",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ದ್ರಾವ್ಯ, ದ್ರಾವಕ ಮತ್ತು ದ್ರಾವಣಗಳ ಅದ್ಭುತ ಜಗತ್ತು",
+   "ch_en": "The Amazing World of Solutes, Solvents and Solutions",
+   "diff": "medium",
+   "q_kn": "ತಾಪ ಹೆಚ್ಚಾದಂತೆ ನೀರಿನಲ್ಲಿ ಘನವಸ್ತುಗಳ ದ್ರಾವಣಶೀಲತೆ ಸಾಮಾನ್ಯವಾಗಿ…",
+   "q_en": "As temperature increases, the solubility of solids in water generally…",
+   "opt_kn": [
+    "ಶೂನ್ಯವಾಗುತ್ತದೆ",
+    "ಹೆಚ್ಚಾಗುತ್ತದೆ",
+    "ಕಡಿಮೆಯಾಗುತ್ತದೆ",
+    "ಬದಲಾಗುವುದಿಲ್ಲ"
+   ],
+   "opt_en": [
+    "Becomes zero",
+    "Increases",
+    "Decreases",
+    "Does not change"
+   ],
+   "ans": "B",
+   "exp_kn": "ಬಿಸಿ ನೀರಿನಲ್ಲಿ ಸಕ್ಕರೆ ಹೆಚ್ಚು ಕರಗುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C09-08",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ದ್ರಾವ್ಯ, ದ್ರಾವಕ ಮತ್ತು ದ್ರಾವಣಗಳ ಅದ್ಭುತ ಜಗತ್ತು",
+   "ch_en": "The Amazing World of Solutes, Solvents and Solutions",
+   "diff": "hard",
+   "q_kn": "ತಾಪ ಹೆಚ್ಚಾದಂತೆ ನೀರಿನಲ್ಲಿ ಅನಿಲಗಳ ದ್ರಾವಣಶೀಲತೆ…",
+   "q_en": "As temperature increases, the solubility of gases in water…",
+   "opt_kn": [
+    "ಬದಲಾಗುವುದಿಲ್ಲ",
+    "ಹೆಚ್ಚಾಗುತ್ತದೆ",
+    "ದ್ವಿಗುಣಗೊಳ್ಳುತ್ತದೆ",
+    "ಕಡಿಮೆಯಾಗುತ್ತದೆ"
+   ],
+   "opt_en": [
+    "Does not change",
+    "Increases",
+    "Doubles",
+    "Decreases"
+   ],
+   "ans": "D",
+   "exp_kn": "ಬೆಚ್ಚಗಿನ ನೀರಿನಲ್ಲಿ ಆಕ್ಸಿಜನ್ ಕಡಿಮೆ ಕರಗುತ್ತದೆ – ಜಲಚರಗಳಿಗೆ ತೊಂದರೆ."
+  },
+  {
+   "id": "8SCI-C09-09",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ದ್ರಾವ್ಯ, ದ್ರಾವಕ ಮತ್ತು ದ್ರಾವಣಗಳ ಅದ್ಭುತ ಜಗತ್ತು",
+   "ch_en": "The Amazing World of Solutes, Solvents and Solutions",
+   "diff": "easy",
+   "q_kn": "ಸಾಂದ್ರತೆ ಎಂದರೆ…",
+   "q_en": "Density is…",
+   "opt_kn": [
+    "ಬಲ ÷ ವಿಸ್ತೀರ್ಣ",
+    "ಗಾತ್ರ ÷ ರಾಶಿ",
+    "ರಾಶಿ × ಗಾತ್ರ",
+    "ರಾಶಿ ÷ ಗಾತ್ರ"
+   ],
+   "opt_en": [
+    "Force ÷ Area",
+    "Volume ÷ Mass",
+    "Mass × Volume",
+    "Mass ÷ Volume"
+   ],
+   "ans": "D",
+   "exp_kn": "ಏಕಮಾನ ಗಾತ್ರದಲ್ಲಿನ ರಾಶಿ ಸಾಂದ್ರತೆ."
+  },
+  {
+   "id": "8SCI-C09-10",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ದ್ರಾವ್ಯ, ದ್ರಾವಕ ಮತ್ತು ದ್ರಾವಣಗಳ ಅದ್ಭುತ ಜಗತ್ತು",
+   "ch_en": "The Amazing World of Solutes, Solvents and Solutions",
+   "diff": "medium",
+   "q_kn": "ಸಾಂದ್ರತೆಯ SI ಏಕಮಾನ ಯಾವುದು?",
+   "q_en": "What is the SI unit of density?",
+   "opt_kn": [
+    "kg/m³",
+    "N/m²",
+    "g",
+    "m³"
+   ],
+   "opt_en": [
+    "kg/m³",
+    "N/m²",
+    "g",
+    "m³"
+   ],
+   "ans": "A",
+   "exp_kn": "ರಾಶಿ (kg) ÷ ಗಾತ್ರ (m³) = kg/m³."
+  },
+  {
+   "id": "8SCI-C09-11",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ದ್ರಾವ್ಯ, ದ್ರಾವಕ ಮತ್ತು ದ್ರಾವಣಗಳ ಅದ್ಭುತ ಜಗತ್ತು",
+   "ch_en": "The Amazing World of Solutes, Solvents and Solutions",
+   "diff": "medium",
+   "q_kn": "ದ್ರವದ ಗಾತ್ರ ಅಳೆಯಲು ಬಳಸುವ ಸಾಧನ ಯಾವುದು?",
+   "q_en": "Which instrument is used to measure the volume of a liquid?",
+   "opt_kn": [
+    "ತಕ್ಕಡಿ",
+    "ಅಳತೆ ಜಾಡಿ",
+    "ಕೋನಮಾಪಕ",
+    "ತಾಪಮಾಪಕ"
+   ],
+   "opt_en": [
+    "Balance",
+    "Measuring cylinder",
+    "Protractor",
+    "Thermometer"
+   ],
+   "ans": "B",
+   "exp_kn": "ರಾಶಿಗೆ ತಕ್ಕಡಿ, ಗಾತ್ರಕ್ಕೆ ಅಳತೆ ಜಾಡಿ."
+  },
+  {
+   "id": "8SCI-C09-12",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ದ್ರಾವ್ಯ, ದ್ರಾವಕ ಮತ್ತು ದ್ರಾವಣಗಳ ಅದ್ಭುತ ಜಗತ್ತು",
+   "ch_en": "The Amazing World of Solutes, Solvents and Solutions",
+   "diff": "medium",
+   "q_kn": "ಅಳತೆ ಜಾಡಿಯಲ್ಲಿ ದ್ರವದ ಬಾಗಿದ ಮೇಲ್ಮೈಯನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The curved surface of a liquid in a measuring cylinder is called?",
+   "opt_kn": [
+    "ದರ್ಪಣ",
+    "ಪ್ರತಿಬಿಂಬ",
+    "ಮೆನಿಸ್ಕಸ್",
+    "ಮಸೂರ"
+   ],
+   "opt_en": [
+    "Mirror",
+    "Image",
+    "Meniscus",
+    "Lens"
+   ],
+   "ans": "C",
+   "exp_kn": "ಓದುವಾಗ ಕಣ್ಣನ್ನು ಮೆನಿಸ್ಕಸ್ ಮಟ್ಟದಲ್ಲಿ ಇಡಬೇಕು."
+  },
+  {
+   "id": "8SCI-C09-13",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ದ್ರಾವ್ಯ, ದ್ರಾವಕ ಮತ್ತು ದ್ರಾವಣಗಳ ಅದ್ಭುತ ಜಗತ್ತು",
+   "ch_en": "The Amazing World of Solutes, Solvents and Solutions",
+   "diff": "hard",
+   "q_kn": "ಅಲ್ಯೂಮಿನಿಯಂನ ಸಾಪೇಕ್ಷ ಸಾಂದ್ರತೆ 2.7. ಇದರ ಅರ್ಥ…",
+   "q_en": "The relative density of aluminium is 2.7. This means…",
+   "opt_kn": [
+    "ಅದು ನೀರಿಗಿಂತ 2.7 ಪಟ್ಟು ಹಗುರ",
+    "ಅದು ನೀರಿಗಿಂತ 2.7 ಪಟ್ಟು ಸಾಂದ್ರ",
+    "ಅದರ ಗಾತ್ರ 2.7 mL",
+    "ಅದರ ರಾಶಿ 2.7 kg"
+   ],
+   "opt_en": [
+    "It is 2.7 times lighter than water",
+    "It is 2.7 times denser than water",
+    "Its volume is 2.7 mL",
+    "Its mass is 2.7 kg"
+   ],
+   "ans": "B",
+   "exp_kn": "ಸಾಪೇಕ್ಷ ಸಾಂದ್ರತೆಗೆ ಏಕಮಾನವಿಲ್ಲ; ನೀರಿಗೆ ಹೋಲಿಕೆ."
+  },
+  {
+   "id": "8SCI-C09-14",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ದ್ರಾವ್ಯ, ದ್ರಾವಕ ಮತ್ತು ದ್ರಾವಣಗಳ ಅದ್ಭುತ ಜಗತ್ತು",
+   "ch_en": "The Amazing World of Solutes, Solvents and Solutions",
+   "diff": "medium",
+   "q_kn": "ಸಾಮಾನ್ಯವಾಗಿ ತಾಪ ಹೆಚ್ಚಾದಂತೆ ವಸ್ತುವಿನ ಸಾಂದ್ರತೆ…",
+   "q_en": "Generally, as temperature increases, density…",
+   "opt_kn": [
+    "ಹೆಚ್ಚಾಗುತ್ತದೆ",
+    "ಬದಲಾಗುವುದಿಲ್ಲ",
+    "ಕಡಿಮೆಯಾಗುತ್ತದೆ",
+    "ಶೂನ್ಯವಾಗುತ್ತದೆ"
+   ],
+   "opt_en": [
+    "Increases",
+    "Does not change",
+    "Decreases",
+    "Becomes zero"
+   ],
+   "ans": "C",
+   "exp_kn": "ಬಿಸಿಯಾದಾಗ ಗಾತ್ರ ಹೆಚ್ಚಿ ಸಾಂದ್ರತೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C09-15",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ದ್ರಾವ್ಯ, ದ್ರಾವಕ ಮತ್ತು ದ್ರಾವಣಗಳ ಅದ್ಭುತ ಜಗತ್ತು",
+   "ch_en": "The Amazing World of Solutes, Solvents and Solutions",
+   "diff": "hard",
+   "q_kn": "ಒಂದು ಕಲ್ಲಿನ ರಾಶಿ 50 g, ಗಾತ್ರ 20 mL. ಅದರ ಸಾಂದ್ರತೆ ಎಷ್ಟು?",
+   "q_en": "A stone has mass 50 g and volume 20 mL. What is its density?",
+   "opt_kn": [
+    "1000 g/mL",
+    "0.4 g/mL",
+    "70 g/mL",
+    "2.5 g/mL"
+   ],
+   "opt_en": [
+    "1000 g/mL",
+    "0.4 g/mL",
+    "70 g/mL",
+    "2.5 g/mL"
+   ],
+   "ans": "D",
+   "exp_kn": "ಸಾಂದ್ರತೆ = 50 ÷ 20 = 2.5 g/mL."
+  },
+  {
+   "id": "8SCI-C09-16",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ದ್ರಾವ್ಯ, ದ್ರಾವಕ ಮತ್ತು ದ್ರಾವಣಗಳ ಅದ್ಭುತ ಜಗತ್ತು",
+   "ch_en": "The Amazing World of Solutes, Solvents and Solutions",
+   "diff": "hard",
+   "q_kn": "ಅಪಸ್ಮಾರ ನಿರೋಧಕ ಮತ್ತು ಮಲೇರಿಯಾ ವಿರೋಧಿ ಔಷಧಗಳನ್ನು ಔಷಧೀಯ ಸಸ್ಯಗಳಿಂದ ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಭಾರತೀಯ ವಿಜ್ಞಾನಿ ಯಾರು?",
+   "q_en": "Which Indian scientist developed anti-epileptic and anti-malarial drugs from medicinal plants?",
+   "opt_kn": [
+    "ಅಸಿಮಾ ಚಟರ್ಜಿ",
+    "ಎಂ.ಕೆ. ಭಾನ್",
+    "ಸಿ.ವಿ. ರಾಮನ್",
+    "ಆನಂದ ಮೋಹನ್ ಚಕ್ರವರ್ತಿ"
+   ],
+   "opt_en": [
+    "Asima Chatterjee",
+    "M.K. Bhan",
+    "C.V. Raman",
+    "Ananda Mohan Chakrabarty"
+   ],
+   "ans": "A",
+   "exp_kn": "ಅಸಿಮಾ ಚಟರ್ಜಿ ಔಷಧೀಯ ಸಸ್ಯಗಳ ಮೇಲೆ ಕೆಲಸ ಮಾಡಿದರು."
+  },
+  {
+   "id": "8SCI-C10-01",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಬೆಳಕು - ದರ್ಪಣಗಳು ಮತ್ತು ಮಸೂರಗಳು",
+   "ch_en": "Light: Mirrors and Lenses",
+   "diff": "easy",
+   "q_kn": "ಪ್ರತಿಫಲನದ ನಿಯಮದ ಪ್ರಕಾರ ಪತನ ಕೋನವು…",
+   "q_en": "According to the law of reflection, the angle of incidence is…",
+   "opt_kn": [
+    "ಯಾವಾಗಲೂ 90°",
+    "ಪ್ರತಿಫಲನ ಕೋನದ ಎರಡರಷ್ಟು",
+    "ಪ್ರತಿಫಲನ ಕೋನಕ್ಕಿಂತ ಕಡಿಮೆ",
+    "ಪ್ರತಿಫಲನ ಕೋನಕ್ಕೆ ಸಮ"
+   ],
+   "opt_en": [
+    "Always 90°",
+    "Twice the angle of reflection",
+    "Less than the angle of reflection",
+    "Equal to the angle of reflection"
+   ],
+   "ans": "D",
+   "exp_kn": "ಪತನ ಕೋನ = ಪ್ರತಿಫಲನ ಕೋನ."
+  },
+  {
+   "id": "8SCI-C10-02",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಬೆಳಕು - ದರ್ಪಣಗಳು ಮತ್ತು ಮಸೂರಗಳು",
+   "ch_en": "Light: Mirrors and Lenses",
+   "diff": "medium",
+   "q_kn": "ಪ್ರತಿಫಲನದ ನಿಯಮಗಳು ಯಾವ ದರ್ಪಣಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತವೆ?",
+   "q_en": "The laws of reflection apply to which mirrors?",
+   "opt_kn": [
+    "ಸಮತಲ ದರ್ಪಣಕ್ಕೆ ಮಾತ್ರ",
+    "ಪೀನ ದರ್ಪಣಕ್ಕೆ ಮಾತ್ರ",
+    "ಸಮತಲ, ನಿಮ್ನ ಮತ್ತು ಪೀನ – ಎಲ್ಲಕ್ಕೂ",
+    "ನಿಮ್ನ ದರ್ಪಣಕ್ಕೆ ಮಾತ್ರ"
+   ],
+   "opt_en": [
+    "Only plane mirrors",
+    "Only convex mirrors",
+    "All – plane, concave and convex",
+    "Only concave mirrors"
+   ],
+   "ans": "C",
+   "exp_kn": "ಪ್ರತಿಫಲನದ ನಿಯಮಗಳು ಎಲ್ಲ ದರ್ಪಣಗಳಿಗೂ ಅನ್ವಯ."
+  },
+  {
+   "id": "8SCI-C10-03",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಬೆಳಕು - ದರ್ಪಣಗಳು ಮತ್ತು ಮಸೂರಗಳು",
+   "ch_en": "Light: Mirrors and Lenses",
+   "diff": "medium",
+   "q_kn": "ಯಾವಾಗಲೂ ನೇರವಾದ ಮತ್ತು ಚಿಕ್ಕದಾದ ಪ್ರತಿಬಿಂಬ ನೀಡುವ ದರ್ಪಣ ಯಾವುದು?",
+   "q_en": "Which mirror always forms an erect and diminished image?",
+   "opt_kn": [
+    "ಪೀನ ದರ್ಪಣ",
+    "ಸಮತಲ ದರ್ಪಣ",
+    "ನಿಮ್ನ ದರ್ಪಣ",
+    "ಯಾವುದೂ ಇಲ್ಲ"
+   ],
+   "opt_en": [
+    "Convex mirror",
+    "Plane mirror",
+    "Concave mirror",
+    "None"
+   ],
+   "ans": "A",
+   "exp_kn": "ಪೀನ ದರ್ಪಣದ ಪ್ರತಿಬಿಂಬ ಯಾವಾಗಲೂ ನೇರ ಮತ್ತು ಚಿಕ್ಕದು."
+  },
+  {
+   "id": "8SCI-C10-04",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಬೆಳಕು - ದರ್ಪಣಗಳು ಮತ್ತು ಮಸೂರಗಳು",
+   "ch_en": "Light: Mirrors and Lenses",
+   "diff": "medium",
+   "q_kn": "ರಸ್ತೆಯ ಕಡಿದಾದ ತಿರುವುಗಳಲ್ಲಿ ಮತ್ತು ವಾಹನಗಳ ಹಿಂನೋಟಕ್ಕೆ ಬಳಸುವ ದರ್ಪಣ ಯಾವುದು?",
+   "q_en": "Which mirror is used at sharp road bends and as rear-view mirrors in vehicles?",
+   "opt_kn": [
+    "ಪೀನ ಮಸೂರ",
+    "ಪೀನ ದರ್ಪಣ",
+    "ನಿಮ್ನ ದರ್ಪಣ",
+    "ಸಮತಲ ದರ್ಪಣ"
+   ],
+   "opt_en": [
+    "Convex lens",
+    "Convex mirror",
+    "Concave mirror",
+    "Plane mirror"
+   ],
+   "ans": "B",
+   "exp_kn": "ಪೀನ ದರ್ಪಣ ವಿಶಾಲ ನೋಟ ನೀಡುವುದರಿಂದ ಅಪಘಾತ ತಡೆಯಲು ಸಹಾಯಕ."
+  },
+  {
+   "id": "8SCI-C10-05",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಬೆಳಕು - ದರ್ಪಣಗಳು ಮತ್ತು ಮಸೂರಗಳು",
+   "ch_en": "Light: Mirrors and Lenses",
+   "diff": "medium",
+   "q_kn": "ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಕಾಗದದ ಮೇಲೆ ಒಂದು ಬಿಂದುವಿಗೆ ಕೇಂದ್ರೀಕರಿಸುವ ದರ್ಪಣ ಯಾವುದು?",
+   "q_en": "Which mirror can focus sunlight to a point on paper?",
+   "opt_kn": [
+    "ನಿಮ್ನ ಮಸೂರ",
+    "ನಿಮ್ನ ದರ್ಪಣ",
+    "ಪೀನ ದರ್ಪಣ",
+    "ಸಮತಲ ದರ್ಪಣ"
+   ],
+   "opt_en": [
+    "Concave lens",
+    "Concave mirror",
+    "Convex mirror",
+    "Plane mirror"
+   ],
+   "ans": "B",
+   "exp_kn": "ನಿಮ್ನ ದರ್ಪಣ ಕಿರಣಗಳನ್ನು ಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ; ಪೀನ ದರ್ಪಣ ವಿಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C10-06",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಬೆಳಕು - ದರ್ಪಣಗಳು ಮತ್ತು ಮಸೂರಗಳು",
+   "ch_en": "Light: Mirrors and Lenses",
+   "diff": "medium",
+   "q_kn": "ದರ್ಪಣದಿಂದ ವಸ್ತುವಿನ ದೂರ ಬದಲಾದಂತೆ ಪ್ರತಿಬಿಂಬವು ದೊಡ್ಡ/ಚಿಕ್ಕ, ನೇರ/ತಲೆಕೆಳಗಾಗುವ ದರ್ಪಣ ಯಾವುದು?",
+   "q_en": "In which mirror does the image change (large/small, erect/inverted) with object distance?",
+   "opt_kn": [
+    "ಪೀನ ದರ್ಪಣ",
+    "ಯಾವುದೂ ಅಲ್ಲ",
+    "ನಿಮ್ನ ದರ್ಪಣ",
+    "ಸಮತಲ ದರ್ಪಣ"
+   ],
+   "opt_en": [
+    "Convex mirror",
+    "None",
+    "Concave mirror",
+    "Plane mirror"
+   ],
+   "ans": "C",
+   "exp_kn": "ನಿಮ್ನ ದರ್ಪಣದ ಪ್ರತಿಬಿಂಬ ವಸ್ತುವಿನ ದೂರ ಅವಲಂಬಿಸಿ ಬದಲಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C10-07",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಬೆಳಕು - ದರ್ಪಣಗಳು ಮತ್ತು ಮಸೂರಗಳು",
+   "ch_en": "Light: Mirrors and Lenses",
+   "diff": "easy",
+   "q_kn": "ಅಂಚುಗಳಿಗಿಂತ ಮಧ್ಯದಲ್ಲಿ ದಪ್ಪವಾಗಿರುವ ಮಸೂರ ಯಾವುದು?",
+   "q_en": "A lens thicker at the middle than at the edges is a?",
+   "opt_kn": [
+    "ಪೀನ ಮಸೂರ",
+    "ಸಮತಲ ದರ್ಪಣ",
+    "ನಿಮ್ನ ಮಸೂರ",
+    "ಪೀನ ದರ್ಪಣ"
+   ],
+   "opt_en": [
+    "Convex lens",
+    "Plane mirror",
+    "Concave lens",
+    "Convex mirror"
+   ],
+   "ans": "A",
+   "exp_kn": "ಮಧ್ಯ ದಪ್ಪ – ಪೀನ; ಅಂಚು ದಪ್ಪ – ನಿಮ್ನ ಮಸೂರ."
+  },
+  {
+   "id": "8SCI-C10-08",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಬೆಳಕು - ದರ್ಪಣಗಳು ಮತ್ತು ಮಸೂರಗಳು",
+   "ch_en": "Light: Mirrors and Lenses",
+   "diff": "medium",
+   "q_kn": "ಬೆಳಕಿನ ಕಿರಣಗಳನ್ನು ವಿಕೇಂದ್ರೀಕರಿಸುವ (ಹರಡುವ) ಮಸೂರ ಯಾವುದು?",
+   "q_en": "Which lens diverges (spreads out) light rays?",
+   "opt_kn": [
+    "ಪೀನ ಮಸೂರ",
+    "ಯಾವುದೂ ಅಲ್ಲ",
+    "ಭೂತಗನ್ನಡಿ",
+    "ನಿಮ್ನ ಮಸೂರ"
+   ],
+   "opt_en": [
+    "Convex lens",
+    "None",
+    "Magnifying glass",
+    "Concave lens"
+   ],
+   "ans": "D",
+   "exp_kn": "ಪೀನ ಮಸೂರ ಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ; ನಿಮ್ನ ಮಸೂರ ವಿಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C10-09",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಬೆಳಕು - ದರ್ಪಣಗಳು ಮತ್ತು ಮಸೂರಗಳು",
+   "ch_en": "Light: Mirrors and Lenses",
+   "diff": "medium",
+   "q_kn": "ಭೂತಗನ್ನಡಿಯಾಗಿ (ವರ್ಧಕ) ಬಳಸುವ ಮಸೂರ ಯಾವುದು?",
+   "q_en": "Which lens is used as a magnifying glass?",
+   "opt_kn": [
+    "ಪೀನ ಮಸೂರ",
+    "ಸಮತಲ ದರ್ಪಣ",
+    "ಪೀನ ದರ್ಪಣ",
+    "ನಿಮ್ನ ಮಸೂರ"
+   ],
+   "opt_en": [
+    "Convex lens",
+    "Plane mirror",
+    "Convex mirror",
+    "Concave lens"
+   ],
+   "ans": "A",
+   "exp_kn": "ಹತ್ತಿರದ ವಸ್ತುವಿನ ದೊಡ್ಡ ನೇರ ಪ್ರತಿಬಿಂಬವನ್ನು ಪೀನ ಮಸೂರ ನೀಡುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C10-10",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಬೆಳಕು - ದರ್ಪಣಗಳು ಮತ್ತು ಮಸೂರಗಳು",
+   "ch_en": "Light: Mirrors and Lenses",
+   "diff": "medium",
+   "q_kn": "ಯಾವಾಗಲೂ ನೇರ ಮತ್ತು ಚಿಕ್ಕ ಪ್ರತಿಬಿಂಬ ನೀಡುವ ಮಸೂರ ಯಾವುದು?",
+   "q_en": "Which lens always forms an erect and diminished image?",
+   "opt_kn": [
+    "ಪೀನ ಮಸೂರ",
+    "ಯಾವುದೂ ಅಲ್ಲ",
+    "ಎರಡೂ",
+    "ನಿಮ್ನ ಮಸೂರ"
+   ],
+   "opt_en": [
+    "Convex lens",
+    "Neither",
+    "Both",
+    "Concave lens"
+   ],
+   "ans": "D",
+   "exp_kn": "ನಿಮ್ನ ಮಸೂರದ ಪ್ರತಿಬಿಂಬ ಯಾವಾಗಲೂ ನೇರ ಮತ್ತು ಚಿಕ್ಕದು."
+  },
+  {
+   "id": "8SCI-C10-11",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಬೆಳಕು - ದರ್ಪಣಗಳು ಮತ್ತು ಮಸೂರಗಳು",
+   "ch_en": "Light: Mirrors and Lenses",
+   "diff": "hard",
+   "q_kn": "ಪತನ ಕೋನ 35° ಆದರೆ ಪ್ರತಿಫಲನ ಕೋನ ಎಷ್ಟು?",
+   "q_en": "If the angle of incidence is 35°, what is the angle of reflection?",
+   "opt_kn": [
+    "70°",
+    "55°",
+    "35°",
+    "90°"
+   ],
+   "opt_en": [
+    "70°",
+    "55°",
+    "35°",
+    "90°"
+   ],
+   "ans": "C",
+   "exp_kn": "ಪತನ ಕೋನ = ಪ್ರತಿಫಲನ ಕೋನ = 35°."
+  },
+  {
+   "id": "8SCI-C10-12",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಬೆಳಕು - ದರ್ಪಣಗಳು ಮತ್ತು ಮಸೂರಗಳು",
+   "ch_en": "Light: Mirrors and Lenses",
+   "diff": "hard",
+   "q_kn": "ಪತನ ಕಿರಣ, ಪತನ ಬಿಂದುವಿನಲ್ಲಿ ಎಳೆದ ಲಂಬರೇಖೆ ಮತ್ತು ಪ್ರತಿಫಲನ ಕಿರಣ…",
+   "q_en": "The incident ray, the normal at the point of incidence and the reflected ray…",
+   "opt_kn": [
+    "ಸಮಾಂತರವಾಗಿರುತ್ತವೆ",
+    "ಒಂದೇ ಸಮತಲದಲ್ಲಿರುತ್ತವೆ",
+    "ಬೇರೆ ಬೇರೆ ಸಮತಲಗಳಲ್ಲಿರುತ್ತವೆ",
+    "ಪರಸ್ಪರ ಲಂಬವಾಗಿರುತ್ತವೆ"
+   ],
+   "opt_en": [
+    "Are parallel",
+    "Lie in the same plane",
+    "Lie in different planes",
+    "Are perpendicular to each other"
+   ],
+   "ans": "B",
+   "exp_kn": "ಇದು ಪ್ರತಿಫಲನದ ಎರಡನೇ ನಿಯಮ."
+  },
+  {
+   "id": "8SCI-C10-13",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಬೆಳಕು - ದರ್ಪಣಗಳು ಮತ್ತು ಮಸೂರಗಳು",
+   "ch_en": "Light: Mirrors and Lenses",
+   "diff": "medium",
+   "q_kn": "ದೊಡ್ಡ ಮಳಿಗೆಗಳಲ್ಲಿ ಕಳ್ಳತನ ತಡೆಯಲು ಮತ್ತು ವಿಶಾಲ ಪ್ರದೇಶ ಗಮನಿಸಲು ಅಳವಡಿಸುವ ದರ್ಪಣ ಯಾವುದು?",
+   "q_en": "Which mirror is fitted in big shops to prevent theft and watch a wide area?",
+   "opt_kn": [
+    "ನಿಮ್ನ ದರ್ಪಣ",
+    "ಪೀನ ದರ್ಪಣ",
+    "ಸಮತಲ ದರ್ಪಣ",
+    "ನಿಮ್ನ ಮಸೂರ"
+   ],
+   "opt_en": [
+    "Concave mirror",
+    "Convex mirror",
+    "Plane mirror",
+    "Concave lens"
+   ],
+   "ans": "B",
+   "exp_kn": "ಪೀನ ದರ್ಪಣ ವಿಶಾಲ ದೃಶ್ಯಕ್ಷೇತ್ರ ನೀಡುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C11-01",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬಾನಂಗಳದ ಗಡಿಯಾರ",
+   "ch_en": "Keeping Time with the Skies",
+   "diff": "easy",
+   "q_kn": "ಚಂದ್ರನು ಸಂಪೂರ್ಣವಾಗಿ ಕಾಣಿಸದ ದಿನವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The day when the Moon is not visible at all is called?",
+   "opt_kn": [
+    "ಅಮಾವಾಸ್ಯೆ",
+    "ಬಾಲಚಂದ್ರ",
+    "ಹುಣ್ಣಿಮೆ",
+    "ಅಷ್ಟಮಿ"
+   ],
+   "opt_en": [
+    "New moon (Amavasya)",
+    "Crescent",
+    "Full moon",
+    "Ashtami"
+   ],
+   "ans": "A",
+   "exp_kn": "ಹುಣ್ಣಿಮೆಯಂದು ಪೂರ್ಣ ಚಂದ್ರ; ಅಮಾವಾಸ್ಯೆಯಂದು ಚಂದ್ರ ಕಾಣುವುದಿಲ್ಲ."
+  },
+  {
+   "id": "8SCI-C11-02",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬಾನಂಗಳದ ಗಡಿಯಾರ",
+   "ch_en": "Keeping Time with the Skies",
+   "diff": "medium",
+   "q_kn": "ಚಂದ್ರನ ಹಂತಗಳು ಉಂಟಾಗಲು ಕಾರಣವೇನು?",
+   "q_en": "Why do the phases of the Moon occur?",
+   "opt_kn": [
+    "ಭೂಮಿಯ ನೆರಳು ಪ್ರತಿದಿನ ಬೀಳುವುದರಿಂದ",
+    "ಮೋಡಗಳಿಂದ",
+    "ಚಂದ್ರನ ಆಕಾರ ನಿಜವಾಗಿ ಬದಲಾಗುವುದರಿಂದ",
+    "ಚಂದ್ರ ಭೂಮಿಯನ್ನು ಸುತ್ತುವಾಗ ಅದರ ಪ್ರಕಾಶಿತ ಭಾಗದ ವಿವಿಧ ಭಾಗಗಳು ಕಾಣುವುದರಿಂದ"
+   ],
+   "opt_en": [
+    "Earth's shadow falls on it daily",
+    "Because of clouds",
+    "The Moon actually changes shape",
+    "Different portions of its lit half are seen as it orbits Earth"
+   ],
+   "ans": "D",
+   "exp_kn": "ಗ್ರಹಣ ಅಪರೂಪ; ಹಂತಗಳು ಪ್ರಕಾಶಿತ ಭಾಗದ ನೋಟದ ಬದಲಾವಣೆಯಿಂದ."
+  },
+  {
+   "id": "8SCI-C11-03",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬಾನಂಗಳದ ಗಡಿಯಾರ",
+   "ch_en": "Keeping Time with the Skies",
+   "diff": "medium",
+   "q_kn": "ಚಂದ್ರನು ಬೆಳಗುವುದು ಹೇಗೆ?",
+   "q_en": "How does the Moon shine?",
+   "opt_kn": [
+    "ನಕ್ಷತ್ರಗಳ ಬೆಳಕಿನಿಂದ",
+    "ತನ್ನದೇ ಬೆಳಕಿನಿಂದ",
+    "ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಪ್ರತಿಫಲಿಸುವುದರಿಂದ",
+    "ಭೂಮಿಯ ವಿದ್ಯುತ್‌ನಿಂದ"
+   ],
+   "opt_en": [
+    "By starlight",
+    "By its own light",
+    "By reflecting sunlight",
+    "By Earth's electricity"
+   ],
+   "ans": "C",
+   "exp_kn": "ಚಂದ್ರ ಸ್ವಯಂಪ್ರಕಾಶಿತನಲ್ಲ."
+  },
+  {
+   "id": "8SCI-C11-04",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬಾನಂಗಳದ ಗಡಿಯಾರ",
+   "ch_en": "Keeping Time with the Skies",
+   "diff": "medium",
+   "q_kn": "ಹುಣ್ಣಿಮೆಯ ದಿನ ಸೂರ್ಯ ಪಶ್ಚಿಮದಲ್ಲಿ ಮುಳುಗುವಾಗ ಚಂದ್ರ ಎಲ್ಲಿ ಉದಯಿಸುತ್ತಾನೆ?",
+   "q_en": "On a full moon day, when the Sun sets in the west, where does the Moon rise?",
+   "opt_kn": [
+    "ಉತ್ತರದಲ್ಲಿ",
+    "ಪಶ್ಚಿಮದಲ್ಲಿ",
+    "ಪೂರ್ವದಲ್ಲಿ",
+    "ತಲೆಯ ಮೇಲೆ"
+   ],
+   "opt_en": [
+    "In the north",
+    "In the west",
+    "In the east",
+    "Overhead"
+   ],
+   "ans": "C",
+   "exp_kn": "ಹುಣ್ಣಿಮೆಯಂದು ಚಂದ್ರ ಸೂರ್ಯನಿಗೆ ವಿರುದ್ಧ ದಿಕ್ಕಿನಲ್ಲಿರುತ್ತಾನೆ."
+  },
+  {
+   "id": "8SCI-C11-05",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬಾನಂಗಳದ ಗಡಿಯಾರ",
+   "ch_en": "Keeping Time with the Skies",
+   "diff": "easy",
+   "q_kn": "ಚಂದ್ರನ ಹಂತಗಳ ಒಂದು ಪೂರ್ಣ ಚಕ್ರಕ್ಕೆ ಸರಿಸುಮಾರು ಎಷ್ಟು ಕಾಲ ಬೇಕು?",
+   "q_en": "About how long does one full cycle of Moon phases take?",
+   "opt_kn": [
+    "ಒಂದು ವರ್ಷ",
+    "ಒಂದು ವಾರ",
+    "ಒಂದು ದಿನ",
+    "ಸುಮಾರು ಒಂದು ತಿಂಗಳು"
+   ],
+   "opt_en": [
+    "One year",
+    "One week",
+    "One day",
+    "About one month"
+   ],
+   "ans": "D",
+   "exp_kn": "ಸುಮಾರು 29.5 ದಿನಗಳು."
+  },
+  {
+   "id": "8SCI-C11-06",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬಾನಂಗಳದ ಗಡಿಯಾರ",
+   "ch_en": "Keeping Time with the Skies",
+   "diff": "medium",
+   "q_kn": "ಚಾಂದ್ರಮಾನ ತಿಂಗಳಲ್ಲಿ ಸುಮಾರು ಎಷ್ಟು ದಿನಗಳಿರುತ್ತವೆ?",
+   "q_en": "About how many days are there in a lunar month?",
+   "opt_kn": [
+    "30.5",
+    "29.5",
+    "28",
+    "31"
+   ],
+   "opt_en": [
+    "30.5",
+    "29.5",
+    "28",
+    "31"
+   ],
+   "ans": "B",
+   "exp_kn": "ಒಂದು ಚಾಂದ್ರಮಾನ ತಿಂಗಳು ಸುಮಾರು 29.5 ದಿನ."
+  },
+  {
+   "id": "8SCI-C11-07",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬಾನಂಗಳದ ಗಡಿಯಾರ",
+   "ch_en": "Keeping Time with the Skies",
+   "diff": "hard",
+   "q_kn": "ಒಂದು ಚಾಂದ್ರಮಾನ ವರ್ಷದಲ್ಲಿ (12 ತಿಂಗಳು) ಸುಮಾರು ಎಷ್ಟು ದಿನಗಳಿರುತ್ತವೆ?",
+   "q_en": "About how many days are there in a lunar year (12 months)?",
+   "opt_kn": [
+    "354",
+    "365",
+    "366",
+    "300"
+   ],
+   "opt_en": [
+    "354",
+    "365",
+    "366",
+    "300"
+   ],
+   "ans": "A",
+   "exp_kn": "ಚಾಂದ್ರಮಾನ ವರ್ಷ 354 ದಿನ; ಋತುಗಳು 365 ದಿನಕ್ಕೊಮ್ಮೆ ಪುನರಾವರ್ತಿಸುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C11-08",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬಾನಂಗಳದ ಗಡಿಯಾರ",
+   "ch_en": "Keeping Time with the Skies",
+   "diff": "medium",
+   "q_kn": "ಋತುಮಾನಗಳ ಚಕ್ರವನ್ನು ಅನುಸರಿಸುವ ಕ್ಯಾಲೆಂಡರ್ ಯಾವುದು?",
+   "q_en": "Which calendar follows the cycle of seasons?",
+   "opt_kn": [
+    "ನಕ್ಷತ್ರ ಕ್ಯಾಲೆಂಡರ್ ಮಾತ್ರ",
+    "ಎರಡೂ ಅಲ್ಲ",
+    "ಚಾಂದ್ರಮಾನ ಕ್ಯಾಲೆಂಡರ್",
+    "ಸೌರಮಾನ ಕ್ಯಾಲೆಂಡರ್"
+   ],
+   "opt_en": [
+    "Only star calendar",
+    "Neither",
+    "Lunar calendar",
+    "Solar calendar"
+   ],
+   "ans": "D",
+   "exp_kn": "ಕೃಷಿಗೆ ಋತುಗಳ ತಿಳಿವಳಿಕೆ ಮುಖ್ಯವಾದ್ದರಿಂದ ಸೌರಮಾನ ಕ್ಯಾಲೆಂಡರ್."
+  },
+  {
+   "id": "8SCI-C11-09",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬಾನಂಗಳದ ಗಡಿಯಾರ",
+   "ch_en": "Keeping Time with the Skies",
+   "diff": "medium",
+   "q_kn": "ಚಂದ್ರನ ಚಕ್ರ ಮತ್ತು ಋತುಗಳ ಚಕ್ರ – ಎರಡಕ್ಕೂ ಹೊಂದಿಕೊಳ್ಳುವ, ಭಾರತದಲ್ಲಿ ಬಳಕೆಯಲ್ಲಿರುವ ಕ್ಯಾಲೆಂಡರ್ ಯಾವುದು?",
+   "q_en": "Which calendar, used in India, fits both the Moon's cycle and the seasons?",
+   "opt_kn": [
+    "ಚಾಂದ್ರ-ಸೌರ ಕ್ಯಾಲೆಂಡರ್",
+    "ಸೌರಮಾನ ಮಾತ್ರ",
+    "ಗ್ರಿಗೋರಿಯನ್ ಮಾತ್ರ",
+    "ಚಾಂದ್ರಮಾನ ಮಾತ್ರ"
+   ],
+   "opt_en": [
+    "Lunisolar calendar",
+    "Only solar",
+    "Only Gregorian",
+    "Only lunar"
+   ],
+   "ans": "A",
+   "exp_kn": "ಚಾಂದ್ರ-ಸೌರ ಕ್ಯಾಲೆಂಡರ್‌ಗಳು ಕೆಲವು ವರ್ಷಗಳಿಗೊಮ್ಮೆ ಅಧಿಕ ಮಾಸ ಸೇರಿಸುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C11-10",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬಾನಂಗಳದ ಗಡಿಯಾರ",
+   "ch_en": "Keeping Time with the Skies",
+   "diff": "medium",
+   "q_kn": "ಗ್ರಿಗೋರಿಯನ್ ಕ್ಯಾಲೆಂಡರ್‌ನಲ್ಲಿ ಅಧಿಕ ವರ್ಷದ ಫೆಬ್ರವರಿಯಲ್ಲಿ ಎಷ್ಟು ದಿನಗಳಿರುತ್ತವೆ?",
+   "q_en": "In the Gregorian calendar, how many days does February have in a leap year?",
+   "opt_kn": [
+    "30",
+    "31",
+    "29",
+    "28"
+   ],
+   "opt_en": [
+    "30",
+    "31",
+    "29",
+    "28"
+   ],
+   "ans": "C",
+   "exp_kn": "4ರಿಂದ ಭಾಗವಾಗುವ ವರ್ಷಕ್ಕೆ ಒಂದು ಅಧಿಕ ದಿನ ಸೇರಿಸಲಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C11-11",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬಾನಂಗಳದ ಗಡಿಯಾರ",
+   "ch_en": "Keeping Time with the Skies",
+   "diff": "hard",
+   "q_kn": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಅಧಿಕ ವರ್ಷ ಅಲ್ಲ?",
+   "q_en": "Which of these is NOT a leap year?",
+   "opt_kn": [
+    "2028",
+    "1900",
+    "2000",
+    "2024"
+   ],
+   "opt_en": [
+    "2028",
+    "1900",
+    "2000",
+    "2024"
+   ],
+   "ans": "B",
+   "exp_kn": "ಪ್ರತಿ 100 ವರ್ಷಕ್ಕೊಮ್ಮೆ ಅಧಿಕ ವರ್ಷ ಕೈಬಿಡುತ್ತಾರೆ (1700, 1800, 1900); 400ರಿಂದ ಭಾಗವಾಗುವ 2000 ಅಧಿಕ ವರ್ಷ."
+  },
+  {
+   "id": "8SCI-C11-12",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬಾನಂಗಳದ ಗಡಿಯಾರ",
+   "ch_en": "Keeping Time with the Skies",
+   "diff": "medium",
+   "q_kn": "ಭೂಮಿಯ ನೈಸರ್ಗಿಕ ಉಪಗ್ರಹ ಯಾವುದು?",
+   "q_en": "What is Earth's natural satellite?",
+   "opt_kn": [
+    "ಚಂದ್ರ",
+    "ಕೃತಕ ಉಪಗ್ರಹ",
+    "ಮಂಗಳ",
+    "ಸೂರ್ಯ"
+   ],
+   "opt_en": [
+    "The Moon",
+    "Artificial satellite",
+    "Mars",
+    "The Sun"
+   ],
+   "ans": "A",
+   "exp_kn": "ಚಂದ್ರ ನೈಸರ್ಗಿಕ; ಮಾನವ ನಿರ್ಮಿತವು ಕೃತಕ ಉಪಗ್ರಹಗಳು."
+  },
+  {
+   "id": "8SCI-C11-13",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬಾನಂಗಳದ ಗಡಿಯಾರ",
+   "ch_en": "Keeping Time with the Skies",
+   "diff": "hard",
+   "q_kn": "ರಾತ್ರಿ ಆಕಾಶದಲ್ಲಿ ಚಲಿಸುವ ಚುಕ್ಕೆಗಳಂತೆ ಕಾಣುವ ಹೆಚ್ಚಿನ ಕೃತಕ ಉಪಗ್ರಹಗಳು ಭೂಮಿಯಿಂದ ಸುಮಾರು ಎಷ್ಟು ಎತ್ತರದಲ್ಲಿ ಸುತ್ತುತ್ತವೆ?",
+   "q_en": "Most artificial satellites seen as moving dots in the night sky orbit at about what height?",
+   "opt_kn": [
+    "ಸುಮಾರು 80 m",
+    "ಸುಮಾರು 8 km",
+    "ಸುಮಾರು 8 ಲಕ್ಷ km",
+    "ಸುಮಾರು 800 km"
+   ],
+   "opt_en": [
+    "About 80 m",
+    "About 8 km",
+    "About 8 lakh km",
+    "About 800 km"
+   ],
+   "ans": "D",
+   "exp_kn": "ಇವು ಸುಮಾರು 800 ಕಿ.ಮೀ ಎತ್ತರದಲ್ಲಿ ಭೂಮಿಯನ್ನು ಪರಿಭ್ರಮಿಸುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C12-01",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ನಿಸರ್ಗ ಸಾಮರಸ್ಯದಿಂದ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ",
+   "ch_en": "How Nature Works in Harmony",
+   "diff": "easy",
+   "q_kn": "ಜೀವಿಯು ವಾಸಿಸಲು ಮತ್ತು ಬೆಳೆಯಲು ಅನುಕೂಲ ಪರಿಸ್ಥಿತಿ ಒದಗಿಸುವ ಸ್ಥಳವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The place providing suitable conditions for an organism to live and grow is its?",
+   "opt_kn": [
+    "ವಾತಾವರಣ",
+    "ಆಹಾರ ಸರಪಳಿ",
+    "ಆವಾಸಸ್ಥಾನ",
+    "ಪೋಷಣಾ ಸ್ತರ"
+   ],
+   "opt_en": [
+    "Atmosphere",
+    "Food chain",
+    "Habitat",
+    "Trophic level"
+   ],
+   "ans": "C",
+   "exp_kn": "ಆವಾಸಸ್ಥಾನದಲ್ಲಿ ಜೈವಿಕ ಮತ್ತು ಅಜೈವಿಕ ಘಟಕಗಳಿವೆ."
+  },
+  {
+   "id": "8SCI-C12-02",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ನಿಸರ್ಗ ಸಾಮರಸ್ಯದಿಂದ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ",
+   "ch_en": "How Nature Works in Harmony",
+   "diff": "easy",
+   "q_kn": "ಇವುಗಳಲ್ಲಿ ಅಜೈವಿಕ ಘಟಕ ಯಾವುದು?",
+   "q_en": "Which of these is an abiotic component?",
+   "opt_kn": [
+    "ಬ್ಯಾಕ್ಟೀರಿಯಾ",
+    "ಮಣ್ಣು",
+    "ಸಸ್ಯ",
+    "ಪ್ರಾಣಿ"
+   ],
+   "opt_en": [
+    "Bacteria",
+    "Soil",
+    "Plant",
+    "Animal"
+   ],
+   "ans": "B",
+   "exp_kn": "ಗಾಳಿ, ನೀರು, ಮಣ್ಣು, ತಾಪ ಅಜೈವಿಕ ಘಟಕಗಳು."
+  },
+  {
+   "id": "8SCI-C12-03",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ನಿಸರ್ಗ ಸಾಮರಸ್ಯದಿಂದ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ",
+   "ch_en": "How Nature Works in Harmony",
+   "diff": "medium",
+   "q_kn": "ಒಂದು ಪ್ರದೇಶದ ಜೈವಿಕ ಮತ್ತು ಅಜೈವಿಕ ಘಟಕಗಳು ಪರಸ್ಪರ ಪ್ರತಿವರ್ತಿಸಿ ರೂಪಿಸುವುದು…",
+   "q_en": "Biotic and abiotic components of an area interacting together form a/an…",
+   "opt_kn": [
+    "ಪರಿಸರ ವ್ಯವಸ್ಥೆ",
+    "ಜನಸಂಖ್ಯೆ",
+    "ಆಹಾರ ಸರಪಳಿ",
+    "ಜೀವಕೋಶ"
+   ],
+   "opt_en": [
+    "Ecosystem",
+    "Population",
+    "Food chain",
+    "Cell"
+   ],
+   "ans": "A",
+   "exp_kn": "ಜೈವಿಕ + ಅಜೈವಿಕ ಘಟಕಗಳ ಪರಸ್ಪರ ಕ್ರಿಯೆ = ಪರಿಸರ ವ್ಯವಸ್ಥೆ."
+  },
+  {
+   "id": "8SCI-C12-04",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ನಿಸರ್ಗ ಸಾಮರಸ್ಯದಿಂದ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ",
+   "ch_en": "How Nature Works in Harmony",
+   "diff": "easy",
+   "q_kn": "ಇವುಗಳಲ್ಲಿ ಜಲ ಪರಿಸರ ವ್ಯವಸ್ಥೆ ಯಾವುದು?",
+   "q_en": "Which of these is an aquatic ecosystem?",
+   "opt_kn": [
+    "ಹುಲ್ಲುಗಾವಲು",
+    "ಕಾಡು",
+    "ಕೊಳ",
+    "ಮರುಭೂಮಿ"
+   ],
+   "opt_en": [
+    "Grassland",
+    "Forest",
+    "Pond",
+    "Desert"
+   ],
+   "ans": "C",
+   "exp_kn": "ಕೊಳ, ಕೆರೆ, ಸಮುದ್ರ ಜಲ ಪರಿಸರ ವ್ಯವಸ್ಥೆಗಳು."
+  },
+  {
+   "id": "8SCI-C12-05",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ನಿಸರ್ಗ ಸಾಮರಸ್ಯದಿಂದ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ",
+   "ch_en": "How Nature Works in Harmony",
+   "diff": "easy",
+   "q_kn": "ತಮ್ಮ ಆಹಾರವನ್ನು ತಾವೇ ತಯಾರಿಸುವ ಜೀವಿಗಳನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "Organisms that make their own food are called?",
+   "opt_kn": [
+    "ಪರಾವಲಂಬಿಗಳು",
+    "ಉತ್ಪಾದಕರು",
+    "ವಿಘಟಕರು",
+    "ಭಕ್ಷಕರು"
+   ],
+   "opt_en": [
+    "Parasites",
+    "Producers",
+    "Decomposers",
+    "Consumers"
+   ],
+   "ans": "B",
+   "exp_kn": "ಹಸಿರು ಸಸ್ಯಗಳು ಉತ್ಪಾದಕರು."
+  },
+  {
+   "id": "8SCI-C12-06",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ನಿಸರ್ಗ ಸಾಮರಸ್ಯದಿಂದ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ",
+   "ch_en": "How Nature Works in Harmony",
+   "diff": "medium",
+   "q_kn": "ಸತ್ತ ಜೀವಿಗಳನ್ನು ವಿಘಟಿಸಿ ಪೋಷಕಾಂಶಗಳನ್ನು ಮಣ್ಣಿಗೆ ಮರಳಿಸುವವು ಯಾವುವು?",
+   "q_en": "Which organisms break down dead organisms and return nutrients to the soil?",
+   "opt_kn": [
+    "ಉತ್ಪಾದಕರು",
+    "ಮಾಂಸಾಹಾರಿಗಳು",
+    "ಸಸ್ಯಾಹಾರಿಗಳು",
+    "ವಿಘಟಕರು (ಬ್ಯಾಕ್ಟೀರಿಯಾ, ಶಿಲೀಂಧ್ರ)"
+   ],
+   "opt_en": [
+    "Producers",
+    "Carnivores",
+    "Herbivores",
+    "Decomposers (bacteria, fungi)"
+   ],
+   "ans": "D",
+   "exp_kn": "ವಿಘಟಕರು ಪೋಷಕಾಂಶಗಳನ್ನು ಮರುಚಕ್ರೀಕರಿಸುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C12-07",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ನಿಸರ್ಗ ಸಾಮರಸ್ಯದಿಂದ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ",
+   "ch_en": "How Nature Works in Harmony",
+   "diff": "medium",
+   "q_kn": "ಸರಿಯಾದ ಆಹಾರ ಸರಪಳಿ ಯಾವುದು?",
+   "q_en": "Which is a correct food chain?",
+   "opt_kn": [
+    "ಮಿಡತೆ → ಹಾವು → ಹುಲ್ಲು → ಕಪ್ಪೆ",
+    "ಹುಲ್ಲು → ಮಿಡತೆ → ಕಪ್ಪೆ → ಹಾವು",
+    "ಕಪ್ಪೆ → ಹುಲ್ಲು → ಹಾವು → ಮಿಡತೆ",
+    "ಹಾವು → ಕಪ್ಪೆ → ಮಿಡತೆ → ಹುಲ್ಲು"
+   ],
+   "opt_en": [
+    "Grasshopper → Snake → Grass → Frog",
+    "Grass → Grasshopper → Frog → Snake",
+    "Frog → Grass → Snake → Grasshopper",
+    "Snake → Frog → Grasshopper → Grass"
+   ],
+   "ans": "B",
+   "exp_kn": "ಆಹಾರ ಸರಪಳಿ ಉತ್ಪಾದಕರಿಂದ ಆರಂಭವಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C12-08",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ನಿಸರ್ಗ ಸಾಮರಸ್ಯದಿಂದ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ",
+   "ch_en": "How Nature Works in Harmony",
+   "diff": "medium",
+   "q_kn": "ಆಹಾರ ಸರಪಳಿಯಲ್ಲಿ ಜೀವಿಗಳು ಆಕ್ರಮಿಸುವ ಸ್ಥಾನಗಳನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The positions occupied by organisms in a food chain are called?",
+   "opt_kn": [
+    "ಆವಾಸಸ್ಥಾನಗಳು",
+    "ಜೀವಗೋಳ",
+    "ಆಹಾರ ಜಾಲ",
+    "ಪೋಷಣಾ ಸ್ತರಗಳು"
+   ],
+   "opt_en": [
+    "Habitats",
+    "Biosphere",
+    "Food web",
+    "Trophic levels"
+   ],
+   "ans": "D",
+   "exp_kn": "ಉತ್ಪಾದಕರು ಮೊದಲ ಪೋಷಣಾ ಸ್ತರ."
+  },
+  {
+   "id": "8SCI-C12-09",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ನಿಸರ್ಗ ಸಾಮರಸ್ಯದಿಂದ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ",
+   "ch_en": "How Nature Works in Harmony",
+   "diff": "medium",
+   "q_kn": "ಅನೇಕ ಆಹಾರ ಸರಪಳಿಗಳು ಪರಸ್ಪರ ಸಂಬಂಧ ಹೊಂದಿ ರೂಪಿಸುವ ಜಾಲವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The network formed by many interconnected food chains is called?",
+   "opt_kn": [
+    "ಆಹಾರ ಜಾಲ",
+    "ಆವಾಸಸ್ಥಾನ",
+    "ಪೋಷಣಾ ಸ್ತರ",
+    "ಪರಿಸರ ಪಿರಮಿಡ್"
+   ],
+   "opt_en": [
+    "Food web",
+    "Habitat",
+    "Trophic level",
+    "Ecological pyramid"
+   ],
+   "ans": "A",
+   "exp_kn": "ಆಹಾರ ಜಾಲ ಸರಪಳಿಗಳ ಅಂತರ್‌ಸಂಬಂಧ ತೋರಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C12-10",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ನಿಸರ್ಗ ಸಾಮರಸ್ಯದಿಂದ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ",
+   "ch_en": "How Nature Works in Harmony",
+   "diff": "medium",
+   "q_kn": "ಜೇನುನೊಣಗಳು ಮತ್ತು ಹೂವುಗಳ ನಡುವಿನ ಸಂಬಂಧದಲ್ಲಿ…",
+   "q_en": "In the relationship between honeybees and flowers…",
+   "opt_kn": [
+    "ಯಾವುದಕ್ಕೂ ಪ್ರಯೋಜನವಿಲ್ಲ",
+    "ಒಂದಕ್ಕೆ ಮಾತ್ರ ಪ್ರಯೋಜನ, ಇನ್ನೊಂದಕ್ಕೆ ಹಾನಿ",
+    "ಎರಡೂ ಜೀವಿಗಳು ಪ್ರಯೋಜನ ಪಡೆಯುತ್ತವೆ",
+    "ಎರಡಕ್ಕೂ ಹಾನಿ"
+   ],
+   "opt_en": [
+    "Neither benefits",
+    "One benefits, the other is harmed",
+    "Both organisms benefit",
+    "Both are harmed"
+   ],
+   "ans": "C",
+   "exp_kn": "ಜೇನುನೊಣಕ್ಕೆ ಮಕರಂದ, ಹೂವಿಗೆ ಪರಾಗಸ್ಪರ್ಶ."
+  },
+  {
+   "id": "8SCI-C12-11",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ನಿಸರ್ಗ ಸಾಮರಸ್ಯದಿಂದ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ",
+   "ch_en": "How Nature Works in Harmony",
+   "diff": "medium",
+   "q_kn": "ಒಂದು ಜೀವಿಗೆ ಪ್ರಯೋಜನ ಮತ್ತು ಇನ್ನೊಂದು ಜೀವಿಗೆ ಹಾನಿಯಾಗುವ ಸಂಬಂಧ ಯಾವುದು?",
+   "q_en": "A relationship where one organism benefits and the other is harmed is?",
+   "opt_kn": [
+    "ಉತ್ಪಾದನೆ",
+    "ಪರಾವಲಂಬನೆ",
+    "ವಿಘಟನೆ",
+    "ಸ್ಪರ್ಧೆ ಇಲ್ಲದ ಸಹಬಾಳ್ವೆ"
+   ],
+   "opt_en": [
+    "Production",
+    "Parasitism",
+    "Decomposition",
+    "Coexistence without competition"
+   ],
+   "ans": "B",
+   "exp_kn": "ಪರಾವಲಂಬನೆಯಲ್ಲಿ ಆತಿಥೇಯ ಜೀವಿಗೆ ಹಾನಿ."
+  },
+  {
+   "id": "8SCI-C12-12",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ನಿಸರ್ಗ ಸಾಮರಸ್ಯದಿಂದ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ",
+   "ch_en": "How Nature Works in Harmony",
+   "diff": "medium",
+   "q_kn": "ಮರಗಳ ಮೇಲೆ ಬೆಳೆಯುವ ಆರ್ಕಿಡ್‌ಗಳಲ್ಲಿ ಮರಕ್ಕೆ ಏನಾಗುತ್ತದೆ?",
+   "q_en": "In orchids growing on trees, what happens to the tree?",
+   "opt_kn": [
+    "ಮರಕ್ಕೆ ಯಾವುದೇ ಹಾನಿ ಇಲ್ಲ",
+    "ಮರ ಸಾಯುತ್ತದೆ",
+    "ಮರ ಆರ್ಕಿಡ್ ತಿನ್ನುತ್ತದೆ",
+    "ಮರಕ್ಕೆ ಆಹಾರ ಸಿಗುತ್ತದೆ"
+   ],
+   "opt_en": [
+    "The tree is not harmed",
+    "The tree dies",
+    "The tree eats the orchid",
+    "The tree gets food"
+   ],
+   "ans": "A",
+   "exp_kn": "ಆರ್ಕಿಡ್‌ಗೆ ಪ್ರಯೋಜನ, ಮರಕ್ಕೆ ಹಾನಿ ಇಲ್ಲ."
+  },
+  {
+   "id": "8SCI-C12-13",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ನಿಸರ್ಗ ಸಾಮರಸ್ಯದಿಂದ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ",
+   "ch_en": "How Nature Works in Harmony",
+   "diff": "medium",
+   "q_kn": "ಪರಿಸರ ವ್ಯವಸ್ಥೆಗಳನ್ನು ರಕ್ಷಿಸುವ ಸಂರಕ್ಷಣಾ ಪ್ರಯತ್ನ ಯಾವುದು?",
+   "q_en": "Which is a conservation effort to protect ecosystems?",
+   "opt_kn": [
+    "ಸಂಪನ್ಮೂಲಗಳ ಅತಿಬಳಕೆ",
+    "ಅರಣ್ಯನಾಶ",
+    "ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನಗಳು ಮತ್ತು ಅಭಯಾರಣ್ಯಗಳು",
+    "ಆಕ್ರಮಣಕಾರಿ ಪ್ರಭೇದಗಳನ್ನು ತರುವುದು"
+   ],
+   "opt_en": [
+    "Overuse of resources",
+    "Deforestation",
+    "National parks and sanctuaries",
+    "Introducing invasive species"
+   ],
+   "ans": "C",
+   "exp_kn": "ಉದಾ: ಕರ್ನಾಟಕದ ಬಂಡೀಪುರ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನ."
+  },
+  {
+   "id": "8SCI-C12-14",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ನಿಸರ್ಗ ಸಾಮರಸ್ಯದಿಂದ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ",
+   "ch_en": "How Nature Works in Harmony",
+   "diff": "hard",
+   "q_kn": "ಹೇಳಿಕೆ (A): ಕೆರೆ ಕಲುಷಿತವಾದಾಗ ಮೀನುಗಳು ಸಾಯಬಹುದು. ಕಾರಣ (R): ಮಾಲಿನ್ಯದಿಂದ ಸಸ್ಯಗಳು ಸತ್ತು ನೀರಿನಲ್ಲಿ ಆಕ್ಸಿಜನ್ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+   "q_en": "Assertion (A): Fish may die when a lake is polluted. Reason (R): Pollution kills plants and reduces oxygen in water.",
+   "opt_kn": [
+    "A ಮತ್ತು R ಸರಿ; R, A ಗೆ ಸರಿಯಾದ ವಿವರಣೆ",
+    "A ಮತ್ತು R ಸರಿ; R, A ಗೆ ವಿವರಣೆಯಲ್ಲ",
+    "A ಸರಿ, R ತಪ್ಪು",
+    "A ತಪ್ಪು, R ಸರಿ"
+   ],
+   "opt_en": [
+    "Both A and R true; R explains A",
+    "Both true; R does not explain A",
+    "A true, R false",
+    "A false, R true"
+   ],
+   "ans": "A",
+   "exp_kn": "ಕಡಿಮೆ ಸಸ್ಯಗಳು → ಕಡಿಮೆ ಆಕ್ಸಿಜನ್ → ಜಲಚರಗಳಿಗೆ ಅಪಾಯ."
+  },
+  {
+   "id": "8SCI-C13-01",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ನಮ್ಮ ಮನೆ: ಭೂಮಿ, ಜೀವಸಂಕುಲಗಳನ್ನು ಪೋಷಿಸುವ ಒಂದು ಅನನ್ಯ ಗ್ರಹ",
+   "ch_en": "Our Home: Earth, a Unique Life-Sustaining Planet",
+   "diff": "medium",
+   "q_kn": "ನೀರು ದ್ರವ ರೂಪದಲ್ಲಿರಲು ಸಾಧ್ಯವಾಗುವ, ನಕ್ಷತ್ರದಿಂದ ಇರುವ ದೂರದ ವ್ಯಾಪ್ತಿಯನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The range of distance from a star where water can stay liquid is called?",
+   "opt_kn": [
+    "ಓಜೋನ್ ಪದರ",
+    "ಕಕ್ಷೆ",
+    "ಜೀವಗೋಳ",
+    "ವಾಸಯೋಗ್ಯ (ಗೋಲ್ಡಿಲಾಕ್ಸ್) ವಲಯ"
+   ],
+   "opt_en": [
+    "Ozone layer",
+    "Orbit",
+    "Biosphere",
+    "Habitable (Goldilocks) zone"
+   ],
+   "ans": "D",
+   "exp_kn": "ಭೂಮಿ ವಾಸಯೋಗ್ಯ ವಲಯದಲ್ಲಿರುವುದರಿಂದ ತುಂಬಾ ಬಿಸಿಯೂ ಅಲ್ಲ, ತಂಪೂ ಅಲ್ಲ."
+  },
+  {
+   "id": "8SCI-C13-02",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ನಮ್ಮ ಮನೆ: ಭೂಮಿ, ಜೀವಸಂಕುಲಗಳನ್ನು ಪೋಷಿಸುವ ಒಂದು ಅನನ್ಯ ಗ್ರಹ",
+   "ch_en": "Our Home: Earth, a Unique Life-Sustaining Planet",
+   "diff": "medium",
+   "q_kn": "ಹಾನಿಕಾರಕ ನೇರಳಾತೀತ (UV) ಕಿರಣಗಳು ಭೂಮಿಯನ್ನು ತಲುಪದಂತೆ ತಡೆಯುವುದು ಯಾವುದು?",
+   "q_en": "What prevents harmful ultraviolet (UV) rays from reaching Earth's surface?",
+   "opt_kn": [
+    "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್",
+    "ನೈಟ್ರೋಜನ್",
+    "ನೀರಾವಿ",
+    "ಓಜೋನ್"
+   ],
+   "opt_en": [
+    "Carbon dioxide",
+    "Nitrogen",
+    "Water vapour",
+    "Ozone"
+   ],
+   "ans": "D",
+   "exp_kn": "ವಾತಾವರಣದ ಓಜೋನ್ UV ಕಿರಣಗಳನ್ನು ತಡೆಯುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C13-03",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ನಮ್ಮ ಮನೆ: ಭೂಮಿ, ಜೀವಸಂಕುಲಗಳನ್ನು ಪೋಷಿಸುವ ಒಂದು ಅನನ್ಯ ಗ್ರಹ",
+   "ch_en": "Our Home: Earth, a Unique Life-Sustaining Planet",
+   "diff": "hard",
+   "q_kn": "ಓಜೋನ್ ಅಣುವಿನಲ್ಲಿ ಆಕ್ಸಿಜನ್‌ನ ಎಷ್ಟು ಪರಮಾಣುಗಳಿವೆ?",
+   "q_en": "How many oxygen atoms are there in an ozone molecule?",
+   "opt_kn": [
+    "3",
+    "4",
+    "1",
+    "2"
+   ],
+   "opt_en": [
+    "3",
+    "4",
+    "1",
+    "2"
+   ],
+   "ans": "A",
+   "exp_kn": "ಓಜೋನ್ = ಮೂರು ಪರಮಾಣುಗಳ ಆಕ್ಸಿಜನ್ ಅಣು (O₃)."
+  },
+  {
+   "id": "8SCI-C13-04",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ನಮ್ಮ ಮನೆ: ಭೂಮಿ, ಜೀವಸಂಕುಲಗಳನ್ನು ಪೋಷಿಸುವ ಒಂದು ಅನನ್ಯ ಗ್ರಹ",
+   "ch_en": "Our Home: Earth, a Unique Life-Sustaining Planet",
+   "diff": "medium",
+   "q_kn": "ಹೆಚ್ಚಿನ ಶಕ್ತಿಯ ಆವೇಶಯುಕ್ತ ಕಣಗಳಿಂದ ಭೂಮಿಯನ್ನು ರಕ್ಷಿಸುವುದು ಯಾವುದು?",
+   "q_en": "What protects Earth from high-energy charged particles?",
+   "opt_kn": [
+    "ಮೋಡಗಳು",
+    "ಸಾಗರಗಳು",
+    "ಭೂಮಿಯ ಕಾಂತಕ್ಷೇತ್ರ",
+    "ಪರ್ವತಗಳು"
+   ],
+   "opt_en": [
+    "Clouds",
+    "Oceans",
+    "Earth's magnetic field",
+    "Mountains"
+   ],
+   "ans": "C",
+   "exp_kn": "ಕಾಂತಕ್ಷೇತ್ರ ಇಲ್ಲದಿದ್ದರೆ ಆ ಕಣಗಳು ಜೀವ ನಾಶಪಡಿಸುತ್ತಿದ್ದವು."
+  },
+  {
+   "id": "8SCI-C13-05",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ನಮ್ಮ ಮನೆ: ಭೂಮಿ, ಜೀವಸಂಕುಲಗಳನ್ನು ಪೋಷಿಸುವ ಒಂದು ಅನನ್ಯ ಗ್ರಹ",
+   "ch_en": "Our Home: Earth, a Unique Life-Sustaining Planet",
+   "diff": "medium",
+   "q_kn": "ಭೂಮಿಯ ವಾತಾವರಣ ಬಾಹ್ಯಾಕಾಶಕ್ಕೆ ತಪ್ಪಿಸಿಕೊಳ್ಳದಂತೆ ತಡೆಯುವುದು ಯಾವುದು?",
+   "q_en": "What keeps Earth's atmosphere from escaping into space?",
+   "opt_kn": [
+    "ತೇಲುಬಲ",
+    "ಗುರುತ್ವಾಕರ್ಷಣೆ",
+    "ಕಾಂತೀಯ ಬಲ",
+    "ಘರ್ಷಣೆ"
+   ],
+   "opt_en": [
+    "Buoyant force",
+    "Gravity",
+    "Magnetic force",
+    "Friction"
+   ],
+   "ans": "B",
+   "exp_kn": "ಭೂಮಿಯ ಗುರುತ್ವ ವಾತಾವರಣವನ್ನು ಹಿಡಿದಿಡಲು ಸಾಕಷ್ಟಿದೆ, ಅತಿಯಾಗಿಯೂ ಇಲ್ಲ."
+  },
+  {
+   "id": "8SCI-C13-06",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ನಮ್ಮ ಮನೆ: ಭೂಮಿ, ಜೀವಸಂಕುಲಗಳನ್ನು ಪೋಷಿಸುವ ಒಂದು ಅನನ್ಯ ಗ್ರಹ",
+   "ch_en": "Our Home: Earth, a Unique Life-Sustaining Planet",
+   "diff": "easy",
+   "q_kn": "ಭೂಮಿಯ ನೀರನ್ನು ಒಳಗೊಂಡ ಭಾಗ ಯಾವುದು?",
+   "q_en": "Which part of Earth contains water?",
+   "opt_kn": [
+    "ಜಲಗೋಳ",
+    "ಭೂಗೋಳ (ಶಿಲಾಗೋಳ)",
+    "ವಾಯುಗೋಳ",
+    "ಜೀವಗೋಳ"
+   ],
+   "opt_en": [
+    "Hydrosphere",
+    "Lithosphere",
+    "Atmosphere",
+    "Biosphere"
+   ],
+   "ans": "A",
+   "exp_kn": "ವಾಯುಗೋಳ – ಗಾಳಿ, ಜಲಗೋಳ – ನೀರು, ಭೂಗೋಳ – ಘನ ಭಾಗ, ಜೀವಗೋಳ – ಜೀವರಾಶಿ."
+  },
+  {
+   "id": "8SCI-C13-07",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ನಮ್ಮ ಮನೆ: ಭೂಮಿ, ಜೀವಸಂಕುಲಗಳನ್ನು ಪೋಷಿಸುವ ಒಂದು ಅನನ್ಯ ಗ್ರಹ",
+   "ch_en": "Our Home: Earth, a Unique Life-Sustaining Planet",
+   "diff": "medium",
+   "q_kn": "ಭೂಮಿಯು ವರ್ಷವಿಡೀ ಅತಿಯಾಗಿ ಬಿಸಿ ಅಥವಾ ತಣ್ಣಗಾಗದಿರಲು ಒಂದು ಕಾರಣ…",
+   "q_en": "One reason Earth does not become extremely hot or cold during the year is…",
+   "opt_kn": [
+    "ಭೂಕಂಪಗಳು",
+    "ಚಂದ್ರನ ಬೆಳಕು",
+    "ಸೂರ್ಯನ ಸುತ್ತ ಸರಿಸುಮಾರು ವೃತ್ತಾಕಾರದ ಕಕ್ಷೆ",
+    "ಮಿಂಚು"
+   ],
+   "opt_en": [
+    "Earthquakes",
+    "Moonlight",
+    "Its nearly circular orbit around the Sun",
+    "Lightning"
+   ],
+   "ans": "C",
+   "exp_kn": "ವೃತ್ತಾಕಾರದ ಕಕ್ಷೆ ದೂರವನ್ನು ಬಹುತೇಕ ಸ್ಥಿರವಾಗಿಡುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C13-08",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ನಮ್ಮ ಮನೆ: ಭೂಮಿ, ಜೀವಸಂಕುಲಗಳನ್ನು ಪೋಷಿಸುವ ಒಂದು ಅನನ್ಯ ಗ್ರಹ",
+   "ch_en": "Our Home: Earth, a Unique Life-Sustaining Planet",
+   "diff": "medium",
+   "q_kn": "ಒಂದೇ ಪೋಷಕ ಜೀವಿಯು ತನ್ನಂತೆಯೇ ಇರುವ ಹೊಸ ಜೀವಿಗಳನ್ನು ಉತ್ಪಾದಿಸುವ ಸಂತಾನೋತ್ಪತ್ತಿ ಯಾವುದು?",
+   "q_en": "Reproduction in which a single parent produces offspring identical to itself is?",
+   "opt_kn": [
+    "ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ",
+    "ಪರಾಗಸ್ಪರ್ಶ",
+    "ನಿಶೇಚನ",
+    "ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ"
+   ],
+   "opt_en": [
+    "Sexual reproduction",
+    "Pollination",
+    "Fertilisation",
+    "Asexual reproduction"
+   ],
+   "ans": "D",
+   "exp_kn": "ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಯಲ್ಲಿ ಒಬ್ಬನೇ ಪೋಷಕ."
+  },
+  {
+   "id": "8SCI-C13-09",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ನಮ್ಮ ಮನೆ: ಭೂಮಿ, ಜೀವಸಂಕುಲಗಳನ್ನು ಪೋಷಿಸುವ ಒಂದು ಅನನ್ಯ ಗ್ರಹ",
+   "ch_en": "Our Home: Earth, a Unique Life-Sustaining Planet",
+   "diff": "medium",
+   "q_kn": "ಹೈಡ್ರಾ ತನ್ನ ದೇಹದ ಮೇಲೆ ಏನು ಬೆಳೆಸಿ ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡುತ್ತದೆ?",
+   "q_en": "Hydra reproduces by growing what on its body?",
+   "opt_kn": [
+    "ಹೂವುಗಳು",
+    "ಸಣ್ಣ ಮೊಗ್ಗುಗಳು",
+    "ಬೀಜಗಳು",
+    "ಮೊಟ್ಟೆಗಳು"
+   ],
+   "opt_en": [
+    "Flowers",
+    "Small buds",
+    "Seeds",
+    "Eggs"
+   ],
+   "ans": "B",
+   "exp_kn": "ಮೊಗ್ಗುವಿಕೆ ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಯ ಒಂದು ವಿಧ."
+  },
+  {
+   "id": "8SCI-C13-10",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ನಮ್ಮ ಮನೆ: ಭೂಮಿ, ಜೀವಸಂಕುಲಗಳನ್ನು ಪೋಷಿಸುವ ಒಂದು ಅನನ್ಯ ಗ್ರಹ",
+   "ch_en": "Our Home: Earth, a Unique Life-Sustaining Planet",
+   "diff": "medium",
+   "q_kn": "ಗಂಡು ಮತ್ತು ಹೆಣ್ಣು ಲಿಂಗಾಣುಗಳು ಸೇರಿ ಉಂಟಾಗುವ ಹೊಸ ಕೋಶ ಯಾವುದು?",
+   "q_en": "The new cell formed when male and female gametes fuse is?",
+   "opt_kn": [
+    "ಮೊಗ್ಗು",
+    "ಬೀಜ",
+    "ಭ್ರೂಣ",
+    "ಯುಗ್ಮಜ"
+   ],
+   "opt_en": [
+    "Bud",
+    "Seed",
+    "Embryo",
+    "Zygote"
+   ],
+   "ans": "D",
+   "exp_kn": "ಯುಗ್ಮಜ ಮುಂದೆ ಭ್ರೂಣವಾಗಿ ಬೆಳೆಯುತ್ತದೆ."
+  },
+  {
+   "id": "8SCI-C13-11",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ನಮ್ಮ ಮನೆ: ಭೂಮಿ, ಜೀವಸಂಕುಲಗಳನ್ನು ಪೋಷಿಸುವ ಒಂದು ಅನನ್ಯ ಗ್ರಹ",
+   "ch_en": "Our Home: Earth, a Unique Life-Sustaining Planet",
+   "diff": "medium",
+   "q_kn": "ಕಪ್ಪೆ ಮತ್ತು ಮೀನುಗಳಲ್ಲಿ ನಿಶೇಚನ ಎಲ್ಲಿ ನಡೆಯುತ್ತದೆ?",
+   "q_en": "Where does fertilisation take place in frogs and fish?",
+   "opt_kn": [
+    "ಮಣ್ಣಿನಲ್ಲಿ",
+    "ಗಾಳಿಯಲ್ಲಿ",
+    "ದೇಹದ ಹೊರಗೆ (ನೀರಿನಲ್ಲಿ)",
+    "ದೇಹದ ಒಳಗೆ"
+   ],
+   "opt_en": [
+    "In soil",
+    "In air",
+    "Outside the body (in water)",
+    "Inside the body"
+   ],
+   "ans": "C",
+   "exp_kn": "ಅವು ವೀರ್ಯಾಣು-ಅಂಡಾಣುಗಳನ್ನು ನೀರಿನಲ್ಲಿ ವಿಸರ್ಜಿಸುತ್ತವೆ."
+  },
+  {
+   "id": "8SCI-C13-12",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ನಮ್ಮ ಮನೆ: ಭೂಮಿ, ಜೀವಸಂಕುಲಗಳನ್ನು ಪೋಷಿಸುವ ಒಂದು ಅನನ್ಯ ಗ್ರಹ",
+   "ch_en": "Our Home: Earth, a Unique Life-Sustaining Planet",
+   "diff": "medium",
+   "q_kn": "ಮುಂದಿನ ಪೀಳಿಗೆಯಲ್ಲಿ ಹೊಸ ಗುಣಗಳು ಕಾಣಿಸಲು ಸಾಧ್ಯವಾಗಿಸುವ ಸಂತಾನೋತ್ಪತ್ತಿ ಯಾವುದು?",
+   "q_en": "Which reproduction allows new traits to appear in the next generation?",
+   "opt_kn": [
+    "ಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ",
+    "ವಿಭಜನೆ",
+    "ಅಲೈಂಗಿಕ ಸಂತಾನೋತ್ಪತ್ತಿ",
+    "ಮೊಗ್ಗುವಿಕೆ"
+   ],
+   "opt_en": [
+    "Sexual reproduction",
+    "Fission",
+    "Asexual reproduction",
+    "Budding"
+   ],
+   "ans": "A",
+   "exp_kn": "ಇಬ್ಬರು ಪೋಷಕರ ಅನುವಂಶಿಕ ವಸ್ತು ಸೇರುವುದರಿಂದ ಹೊಸ ಗುಣಗಳು."
+  },
+  {
+   "id": "8SCI-C13-13",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ನಮ್ಮ ಮನೆ: ಭೂಮಿ, ಜೀವಸಂಕುಲಗಳನ್ನು ಪೋಷಿಸುವ ಒಂದು ಅನನ್ಯ ಗ್ರಹ",
+   "ch_en": "Our Home: Earth, a Unique Life-Sustaining Planet",
+   "diff": "hard",
+   "q_kn": "“ಭೂಮಿಯ ತ್ರಿವಳಿ ಬಿಕ್ಕಟ್ಟು”ನಲ್ಲಿ ಸೇರದಿರುವುದು ಯಾವುದು?",
+   "q_en": "Which is NOT part of the \"triple planetary crisis\" of Earth?",
+   "opt_kn": [
+    "ಜೀವವೈವಿಧ್ಯ ನಾಶ",
+    "ಭೂಕಂಪ",
+    "ಮಾಲಿನ್ಯ",
+    "ಹವಾಮಾನ ವೈಪರೀತ್ಯ"
+   ],
+   "opt_en": [
+    "Biodiversity loss",
+    "Earthquakes",
+    "Pollution",
+    "Climate change"
+   ],
+   "ans": "B",
+   "exp_kn": "ತ್ರಿವಳಿ ಬಿಕ್ಕಟ್ಟು = ಹವಾಮಾನ ವೈಪರೀತ್ಯ, ಜೀವವೈವಿಧ್ಯ ನಾಶ, ಮಾಲಿನ್ಯ."
+  }
+ ]
+}
