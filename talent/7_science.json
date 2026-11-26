@@ -1,0 +1,3703 @@
+{
+ "subject": "science",
+ "class": 7,
+ "source": "ಕುತೂಹಲ 7ನೇ ತರಗತಿ ವಿಜ್ಞಾನ ಭಾಗ-1, ಭಾಗ-2 (2026-27)",
+ "questions": [
+  {
+   "id": "7SCI-C01-01",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ನಿರಂತರವಾಗಿ ಬದಲಾಗುತ್ತಿರುವ ವಿಜ್ಞಾನದ ಜಗತ್ತು",
+   "ch_en": "The Ever-Evolving World of Science",
+   "diff": "easy",
+   "q_kn": "ವಿಜ್ಞಾನವನ್ನು ಉತ್ತಮವಾಗಿ ವಿವರಿಸುವ ಹೇಳಿಕೆ ಯಾವುದು?",
+   "q_en": "Which statement best describes science?",
+   "opt_kn": [
+    "ಕೇವಲ ತಥ್ಯಗಳನ್ನು ಕಂಠಪಾಠ ಮಾಡುವುದು",
+    "ಒಮ್ಮೆ ಕಂಡುಹಿಡಿದದ್ದು ಎಂದಿಗೂ ಬದಲಾಗದ ಜ್ಞಾನ",
+    "ಪ್ರಶ್ನಿಸುವ, ಪ್ರಯೋಗಿಸುವ ಮತ್ತು ಅನ್ವೇಷಿಸುವ ವಿಧಾನ",
+    "ಪ್ರಯೋಗಾಲಯದಲ್ಲಿ ಮಾತ್ರ ನಡೆಯುವ ಕೆಲಸ"
+   ],
+   "opt_en": [
+    "Memorising facts only",
+    "Knowledge that never changes once found",
+    "A way of questioning, experimenting and exploring",
+    "Work done only in laboratories"
+   ],
+   "ans": "C",
+   "exp_kn": "ವಿಜ್ಞಾನವು ತಥ್ಯಗಳ ಸಂಗ್ರಹ ಮಾತ್ರವಲ್ಲ; ಅದು ಪ್ರಶ್ನಿಸಿ, ಪ್ರಯೋಗಿಸಿ ಅರಿಯುವ ವಿಧಾನ."
+  },
+  {
+   "id": "7SCI-C01-02",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ನಿರಂತರವಾಗಿ ಬದಲಾಗುತ್ತಿರುವ ವಿಜ್ಞಾನದ ಜಗತ್ತು",
+   "ch_en": "The Ever-Evolving World of Science",
+   "diff": "medium",
+   "q_kn": "ವೈಜ್ಞಾನಿಕ ವಿಧಾನದ ಸರಿಯಾದ ಕ್ರಮ ಯಾವುದು?",
+   "q_en": "What is the correct order of the scientific method?",
+   "opt_kn": [
+    "ಪ್ರಯೋಗ → ವೀಕ್ಷಣೆ → ತೀರ್ಮಾನ → ಪ್ರಶ್ನೆ",
+    "ವೀಕ್ಷಣೆ → ಪ್ರಶ್ನೆ → ಊಹೆ → ಪ್ರಯೋಗ → ತೀರ್ಮಾನ",
+    "ಪ್ರಶ್ನೆ → ತೀರ್ಮಾನ → ಪ್ರಯೋಗ → ವೀಕ್ಷಣೆ",
+    "ಊಹೆ → ತೀರ್ಮಾನ → ವೀಕ್ಷಣೆ → ಪ್ರಯೋಗ"
+   ],
+   "opt_en": [
+    "Experiment → Observation → Conclusion → Question",
+    "Observation → Question → Hypothesis → Experiment → Conclusion",
+    "Question → Conclusion → Experiment → Observation",
+    "Hypothesis → Conclusion → Observation → Experiment"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C01-03",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ನಿರಂತರವಾಗಿ ಬದಲಾಗುತ್ತಿರುವ ವಿಜ್ಞಾನದ ಜಗತ್ತು",
+   "ch_en": "The Ever-Evolving World of Science",
+   "diff": "easy",
+   "q_kn": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ವಿಜ್ಞಾನದ ಶಾಖೆ ಅಲ್ಲದ್ದು ಯಾವುದು?",
+   "q_en": "Which of the following is NOT a branch of science?",
+   "opt_kn": [
+    "ವ್ಯಾಕರಣ",
+    "ರಸಾಯನಶಾಸ್ತ್ರ",
+    "ಭೌತಶಾಸ್ತ್ರ",
+    "ಭೂವಿಜ್ಞಾನ"
+   ],
+   "opt_en": [
+    "Grammar",
+    "Chemistry",
+    "Physics",
+    "Earth science"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C01-04",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ನಿರಂತರವಾಗಿ ಬದಲಾಗುತ್ತಿರುವ ವಿಜ್ಞಾನದ ಜಗತ್ತು",
+   "ch_en": "The Ever-Evolving World of Science",
+   "diff": "medium",
+   "q_kn": "ವೈಜ್ಞಾನಿಕ ಜ್ಞಾನ \"ನಿರಂತರವಾಗಿ ಬದಲಾಗುತ್ತಿರುತ್ತದೆ\" ಎನ್ನಲು ಕಾರಣ:",
+   "q_en": "Scientific knowledge is called \"ever-evolving\" because:",
+   "opt_kn": [
+    "ವಿಜ್ಞಾನಿಗಳು ಒಬ್ಬರನ್ನೊಬ್ಬರು ಒಪ್ಪುವುದಿಲ್ಲ",
+    "ಪ್ರಕೃತಿಯ ನಿಯಮಗಳು ಪ್ರತಿದಿನ ಬದಲಾಗುತ್ತವೆ",
+    "ಪುಸ್ತಕಗಳು ಪ್ರತಿ ವರ್ಷ ಬದಲಾಗುತ್ತವೆ",
+    "ಹೊಸ ವೀಕ್ಷಣೆ ಮತ್ತು ಪುರಾವೆ ಸಿಕ್ಕಂತೆ ತಿದ್ದಿಕೊಳ್ಳುತ್ತದೆ"
+   ],
+   "opt_en": [
+    "Scientists never agree",
+    "Laws of nature change daily",
+    "Books change every year",
+    "It is corrected as new observations and evidence appear"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C02-01",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ವಸ್ತುಗಳ ಅನ್ವೇಷಣೆ: ಆಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮತ್ತು ತಟಸ್ಥ",
+   "ch_en": "Exploring Substances: Acidic, Basic and Neutral",
+   "diff": "easy",
+   "q_kn": "ಲಿಟ್ಮಸ್ ಸೂಚಕವನ್ನು ಯಾವುದರಿಂದ ಪಡೆಯಲಾಗುತ್ತದೆ?",
+   "q_en": "Litmus indicator is obtained from:",
+   "opt_kn": [
+    "ಅರಿಶಿಣ",
+    "ಕಲ್ಲುಹೂ",
+    "ಕೆಂಪು ಗುಲಾಬಿ",
+    "ಕೆಂಪು ಎಲೆಕೋಸು"
+   ],
+   "opt_en": [
+    "Turmeric",
+    "Lichens",
+    "Red rose",
+    "Red cabbage"
+   ],
+   "ans": "B",
+   "exp_kn": "ಲಿಟ್ಮಸ್ ಕಲ್ಲುಹೂಗಳಿಂದ (lichens) ದೊರೆಯುತ್ತದೆ."
+  },
+  {
+   "id": "7SCI-C02-02",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ವಸ್ತುಗಳ ಅನ್ವೇಷಣೆ: ಆಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮತ್ತು ತಟಸ್ಥ",
+   "ch_en": "Exploring Substances: Acidic, Basic and Neutral",
+   "diff": "easy",
+   "q_kn": "ನೀಲಿ ಲಿಟ್ಮಸ್ ಕಾಗದವನ್ನು ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿಸುವ ದ್ರಾವಣ:",
+   "q_en": "A solution that turns blue litmus red is:",
+   "opt_kn": [
+    "ಆಮ್ಲೀಯ",
+    "ತಟಸ್ಥ",
+    "ಪ್ರತ್ಯಾಮ್ಲೀಯ",
+    "ಲವಣ ದ್ರಾವಣ"
+   ],
+   "opt_en": [
+    "Acidic",
+    "Neutral",
+    "Basic",
+    "Salt solution"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C02-03",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ವಸ್ತುಗಳ ಅನ್ವೇಷಣೆ: ಆಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮತ್ತು ತಟಸ್ಥ",
+   "ch_en": "Exploring Substances: Acidic, Basic and Neutral",
+   "diff": "easy",
+   "q_kn": "ಒಂದು ದ್ರಾವಣವು ನೀಲಿ ಮತ್ತು ಕೆಂಪು ಎರಡೂ ಲಿಟ್ಮಸ್ ಕಾಗದಗಳ ಬಣ್ಣವನ್ನು ಬದಲಿಸುವುದಿಲ್ಲ. ಅದರ ಸ್ವಭಾವ:",
+   "q_en": "A solution does not change the colour of either blue or red litmus. Its nature is:",
+   "opt_kn": [
+    "ಆಮ್ಲೀಯ",
+    "ಪ್ರತ್ಯಾಮ್ಲೀಯ",
+    "ತಟಸ್ಥ",
+    "ಹೇಳಲು ಸಾಧ್ಯವಿಲ್ಲ"
+   ],
+   "opt_en": [
+    "Acidic",
+    "Basic",
+    "Neutral",
+    "Cannot be said"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C02-04",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ವಸ್ತುಗಳ ಅನ್ವೇಷಣೆ: ಆಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮತ್ತು ತಟಸ್ಥ",
+   "ch_en": "Exploring Substances: Acidic, Basic and Neutral",
+   "diff": "medium",
+   "q_kn": "ಅರಿಶಿಣ ಕಾಗದವು ಯಾವುದರಲ್ಲಿ ಅದ್ದಿದಾಗ ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ?",
+   "q_en": "Turmeric paper turns red when dipped in:",
+   "opt_kn": [
+    "ನಿಂಬೆ ರಸ",
+    "ವಿನೆಗರ್",
+    "ಸಕ್ಕರೆ ದ್ರಾವಣ",
+    "ಸಾಬೂನು ದ್ರಾವಣ"
+   ],
+   "opt_en": [
+    "Lemon juice",
+    "Vinegar",
+    "Sugar solution",
+    "Soap solution"
+   ],
+   "ans": "D",
+   "exp_kn": "ಅರಿಶಿಣ ಪ್ರತ್ಯಾಮ್ಲೀಯ ದ್ರಾವಣದಲ್ಲಿ ಮಾತ್ರ ಕೆಂಪಾಗುತ್ತದೆ; ಸಾಬೂನು ದ್ರಾವಣ ಪ್ರತ್ಯಾಮ್ಲೀಯ."
+  },
+  {
+   "id": "7SCI-C02-05",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ವಸ್ತುಗಳ ಅನ್ವೇಷಣೆ: ಆಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮತ್ತು ತಟಸ್ಥ",
+   "ch_en": "Exploring Substances: Acidic, Basic and Neutral",
+   "diff": "medium",
+   "q_kn": "ಕೆಂಪು ಗುಲಾಬಿ ಸಾರವನ್ನು ಪ್ರತ್ಯಾಮ್ಲೀಯ ದ್ರಾವಣಕ್ಕೆ ಸೇರಿಸಿದಾಗ ಕಾಣುವ ಬಣ್ಣ:",
+   "q_en": "Red rose extract added to a basic solution shows the colour:",
+   "opt_kn": [
+    "ಹಳದಿ",
+    "ಕೆಂಪು",
+    "ಹಸಿರು",
+    "ನೀಲಿ"
+   ],
+   "opt_en": [
+    "Yellow",
+    "Red",
+    "Green",
+    "Blue"
+   ],
+   "ans": "C",
+   "exp_kn": "ಗುಲಾಬಿ ಸಾರ: ಆಮ್ಲದಲ್ಲಿ ಕೆಂಪು, ಪ್ರತ್ಯಾಮ್ಲದಲ್ಲಿ ಹಸಿರು."
+  },
+  {
+   "id": "7SCI-C02-06",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ವಸ್ತುಗಳ ಅನ್ವೇಷಣೆ: ಆಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮತ್ತು ತಟಸ್ಥ",
+   "ch_en": "Exploring Substances: Acidic, Basic and Neutral",
+   "diff": "easy",
+   "q_kn": "ಹುಣಸೆಯಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಇರುವ ಆಮ್ಲ:",
+   "q_en": "The acid commonly present in tamarind is:",
+   "opt_kn": [
+    "ಸಿಟ್ರಿಕ್ ಆಮ್ಲ",
+    "ಟಾರ್ಟಾರಿಕ್ ಆಮ್ಲ",
+    "ಫಾರ್ಮಿಕ್ ಆಮ್ಲ",
+    "ಆಕ್ಸಾಲಿಕ್ ಆಮ್ಲ"
+   ],
+   "opt_en": [
+    "Citric acid",
+    "Tartaric acid",
+    "Formic acid",
+    "Oxalic acid"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C02-07",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ವಸ್ತುಗಳ ಅನ್ವೇಷಣೆ: ಆಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮತ್ತು ತಟಸ್ಥ",
+   "ch_en": "Exploring Substances: Acidic, Basic and Neutral",
+   "diff": "medium",
+   "q_kn": "ಇರುವೆ ಕಡಿದಾಗ ಚರ್ಮಕ್ಕೆ ಸೇರುವ ಆಮ್ಲ ಮತ್ತು ಅದರ ಉಪಶಮನಕ್ಕೆ ಸವರುವ ವಸ್ತು – ಸರಿಯಾದ ಜೋಡಿ:",
+   "q_en": "Acid injected by an ant bite and the substance applied for relief – correct pair:",
+   "opt_kn": [
+    "ಫಾರ್ಮಿಕ್ ಆಮ್ಲ – ತೇವದ ಅಡುಗೆ ಸೋಡಾ",
+    "ಫಾರ್ಮಿಕ್ ಆಮ್ಲ – ವಿನೆಗರ್",
+    "ಸಿಟ್ರಿಕ್ ಆಮ್ಲ – ನಿಂಬೆ ರಸ",
+    "ಟಾರ್ಟಾರಿಕ್ ಆಮ್ಲ – ಉಪ್ಪು"
+   ],
+   "opt_en": [
+    "Formic acid – moist baking soda",
+    "Formic acid – vinegar",
+    "Citric acid – lemon juice",
+    "Tartaric acid – salt"
+   ],
+   "ans": "A",
+   "exp_kn": "ಪ್ರತ್ಯಾಮ್ಲವಾದ ಅಡುಗೆ ಸೋಡಾ ಆಮ್ಲವನ್ನು ತಟಸ್ಥಗೊಳಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "7SCI-C02-08",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ವಸ್ತುಗಳ ಅನ್ವೇಷಣೆ: ಆಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮತ್ತು ತಟಸ್ಥ",
+   "ch_en": "Exploring Substances: Acidic, Basic and Neutral",
+   "diff": "easy",
+   "q_kn": "ಆಮ್ಲ ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲ ಪರಸ್ಪರ ತಟಸ್ಥಗೊಂಡಾಗ ಉಂಟಾಗುವವು:",
+   "q_en": "When an acid and a base neutralise each other, they form:",
+   "opt_kn": [
+    "ಹೊಸ ಆಮ್ಲ",
+    "ಆಕ್ಸಿಜನ್ ಮತ್ತು ನೀರು",
+    "ಕೇವಲ ಅನಿಲ",
+    "ಲವಣ ಮತ್ತು ನೀರು"
+   ],
+   "opt_en": [
+    "A new acid",
+    "Oxygen and water",
+    "Only a gas",
+    "Salt and water"
+   ],
+   "ans": "D",
+   "exp_kn": "ಜೊತೆಗೆ ಉಷ್ಣವೂ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "7SCI-C02-09",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ವಸ್ತುಗಳ ಅನ್ವೇಷಣೆ: ಆಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮತ್ತು ತಟಸ್ಥ",
+   "ch_en": "Exploring Substances: Acidic, Basic and Neutral",
+   "diff": "medium",
+   "q_kn": "ಹೈಡ್ರಾಂಜಿಯಾ ಸಸ್ಯ ಆಮ್ಲೀಯ ಮಣ್ಣಿನಲ್ಲಿ ಯಾವ ಬಣ್ಣದ ಹೂ ಬಿಡುತ್ತದೆ?",
+   "q_en": "In acidic soil, the hydrangea plant bears flowers of colour:",
+   "opt_kn": [
+    "ಕೆಂಪು",
+    "ನೀಲಿ",
+    "ಗುಲಾಬಿ",
+    "ಹಳದಿ"
+   ],
+   "opt_en": [
+    "Red",
+    "Blue",
+    "Pink",
+    "Yellow"
+   ],
+   "ans": "B",
+   "exp_kn": "ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮಣ್ಣಿನಲ್ಲಿ ಗುಲಾಬಿ ಅಥವಾ ಕೆಂಪು ಹೂಗಳು."
+  },
+  {
+   "id": "7SCI-C02-10",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ವಸ್ತುಗಳ ಅನ್ವೇಷಣೆ: ಆಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮತ್ತು ತಟಸ್ಥ",
+   "ch_en": "Exploring Substances: Acidic, Basic and Neutral",
+   "diff": "medium",
+   "q_kn": "ಆಮ್ಲೀಯ ಅಥವಾ ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮಾಧ್ಯಮದಲ್ಲಿ ವಾಸನೆ ಬದಲಾಗುವ ಸೂಚಕಗಳನ್ನು ಏನೆಂದು ಕರೆಯುವರು?",
+   "q_en": "Indicators whose smell changes in acidic or basic medium are called:",
+   "opt_kn": [
+    "ತಟಸ್ಥ ಸೂಚಕಗಳು",
+    "ನೈಸರ್ಗಿಕ ಬಣ್ಣಗಳು",
+    "ಘ್ರಾಣ ಸೂಚಕಗಳು",
+    "ಲವಣ ಸೂಚಕಗಳು"
+   ],
+   "opt_en": [
+    "Neutral indicators",
+    "Natural dyes",
+    "Olfactory indicators",
+    "Salt indicators"
+   ],
+   "ans": "C",
+   "exp_kn": "ಉದಾ: ಈರುಳ್ಳಿ."
+  },
+  {
+   "id": "7SCI-C02-11",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ವಸ್ತುಗಳ ಅನ್ವೇಷಣೆ: ಆಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮತ್ತು ತಟಸ್ಥ",
+   "ch_en": "Exploring Substances: Acidic, Basic and Neutral",
+   "diff": "easy",
+   "q_kn": "\"ಆಧುನಿಕ ಭಾರತೀಯ ರಸಾಯನವಿಜ್ಞಾನದ ಪಿತಾಮಹ\" ಎಂದು ಕರೆಯಲ್ಪಡುವವರು:",
+   "q_en": "Who is called the \"Father of Modern Indian Chemistry\"?",
+   "opt_kn": [
+    "ಆಚಾರ್ಯ ಪ್ರಫುಲ್ಲ ಚಂದ್ರ ರೇ",
+    "ಸಿ.ವಿ. ರಾಮನ್",
+    "ಹೋಮಿ ಭಾಭಾ",
+    "ಜಗದೀಶ್ ಚಂದ್ರ ಬೋಸ್"
+   ],
+   "opt_en": [
+    "Acharya Prafulla Chandra Ray",
+    "C.V. Raman",
+    "Homi Bhabha",
+    "Jagadish Chandra Bose"
+   ],
+   "ans": "A",
+   "exp_kn": "ಇವರು 1901ರಲ್ಲಿ ಭಾರತದ ಮೊದಲ ಔಷಧ ಕಂಪನಿ ಸ್ಥಾಪಿಸಿದರು."
+  },
+  {
+   "id": "7SCI-C02-12",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ವಸ್ತುಗಳ ಅನ್ವೇಷಣೆ: ಆಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮತ್ತು ತಟಸ್ಥ",
+   "ch_en": "Exploring Substances: Acidic, Basic and Neutral",
+   "diff": "easy",
+   "q_kn": "ರಾಷ್ಟ್ರೀಯ ವಿಜ್ಞಾನ ದಿನವನ್ನು ಆಚರಿಸುವ ದಿನಾಂಕ:",
+   "q_en": "National Science Day is celebrated on:",
+   "opt_kn": [
+    "ಜನವರಿ 26",
+    "ಫೆಬ್ರವರಿ 28",
+    "ಸೆಪ್ಟೆಂಬರ್ 5",
+    "ನವೆಂಬರ್ 14"
+   ],
+   "opt_en": [
+    "26 January",
+    "28 February",
+    "5 September",
+    "14 November"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C02-13",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ವಸ್ತುಗಳ ಅನ್ವೇಷಣೆ: ಆಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮತ್ತು ತಟಸ್ಥ",
+   "ch_en": "Exploring Substances: Acidic, Basic and Neutral",
+   "diff": "hard",
+   "q_kn": "ಒಂದು ದ್ರಾವಣವು ಕೆಂಪು ಲಿಟ್ಮಸ್ ಅನ್ನು ನೀಲಿಗೆ ತಿರುಗಿಸುತ್ತದೆ. ಈ ಬದಲಾವಣೆಯನ್ನು ಹಿಮ್ಮುಖಗೊಳಿಸಲು ಹೆಚ್ಚುವರಿಯಾಗಿ ಸೇರಿಸಬೇಕಾದ್ದು:",
+   "q_en": "A solution turns red litmus blue. To reverse this change, we should add an excess of:",
+   "opt_kn": [
+    "ಸುಣ್ಣದ ತಿಳಿನೀರು",
+    "ಅಡುಗೆ ಸೋಡಾ",
+    "ಸಾಮಾನ್ಯ ಉಪ್ಪಿನ ದ್ರಾವಣ",
+    "ವಿನೆಗರ್"
+   ],
+   "opt_en": [
+    "Lime water",
+    "Baking soda",
+    "Common salt solution",
+    "Vinegar"
+   ],
+   "ans": "D",
+   "exp_kn": "ದ್ರಾವಣ ಪ್ರತ್ಯಾಮ್ಲೀಯ; ಆಮ್ಲವಾದ ವಿನೆಗರ್ ಅದನ್ನು ತಟಸ್ಥಗೊಳಿಸಿ ಆಮ್ಲೀಯವಾಗಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "7SCI-C02-14",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ವಸ್ತುಗಳ ಅನ್ವೇಷಣೆ: ಆಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮತ್ತು ತಟಸ್ಥ",
+   "ch_en": "Exploring Substances: Acidic, Basic and Neutral",
+   "diff": "hard",
+   "q_kn": "ದ್ರಾವಣ A ಕೆಂಪು ಲಿಟ್ಮಸ್ ಅನ್ನು ನೀಲಿಯಾಗಿಸುತ್ತದೆ, B ಅರಿಶಿಣವನ್ನು ಕೆಂಪಾಗಿಸುತ್ತದೆ, C ಗುಲಾಬಿ ಸಾರವನ್ನು ಹಸಿರಾಗಿಸುತ್ತದೆ. A, B, C ಗಳ ಸ್ವಭಾವ:",
+   "q_en": "Solution A turns red litmus blue, B turns turmeric red, C turns rose extract green. The nature of A, B, C is:",
+   "opt_kn": [
+    "ಆಮ್ಲೀಯ, ಆಮ್ಲೀಯ, ಆಮ್ಲೀಯ",
+    "ತಟಸ್ಥ, ಪ್ರತ್ಯಾಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ",
+    "ಪ್ರತ್ಯಾಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ",
+    "ಪ್ರತ್ಯಾಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ, ಆಮ್ಲೀಯ"
+   ],
+   "opt_en": [
+    "Acidic, acidic, acidic",
+    "Neutral, basic, basic",
+    "Basic, basic, basic",
+    "Basic, basic, acidic"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C02-15",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ವಸ್ತುಗಳ ಅನ್ವೇಷಣೆ: ಆಮ್ಲೀಯ, ಪ್ರತ್ಯಾಮ್ಲೀಯ ಮತ್ತು ತಟಸ್ಥ",
+   "ch_en": "Exploring Substances: Acidic, Basic and Neutral",
+   "diff": "hard",
+   "q_kn": "ಹೇಳಿಕೆ I: ಅರಿಶಿಣ ಆಮ್ಲೀಯ ದ್ರಾವಣದಲ್ಲಿ ಬಣ್ಣ ಬದಲಿಸುವುದಿಲ್ಲ. ಹೇಳಿಕೆ II: ಸುಣ್ಣದ ತಿಳಿನೀರು ಆಮ್ಲೀಯ ಸ್ವಭಾವದ್ದು. ಸರಿಯಾದ ಆಯ್ಕೆ:",
+   "q_en": "Statement I: Turmeric does not change colour in an acidic solution. Statement II: Lime water is acidic. Choose:",
+   "opt_kn": [
+    "I ಮತ್ತು II ಎರಡೂ ಸರಿ",
+    "I ಮಾತ್ರ ಸರಿ",
+    "II ಮಾತ್ರ ಸರಿ",
+    "ಎರಡೂ ತಪ್ಪು"
+   ],
+   "opt_en": [
+    "Both I and II are correct",
+    "Only I is correct",
+    "Only II is correct",
+    "Both are wrong"
+   ],
+   "ans": "B",
+   "exp_kn": "ಸುಣ್ಣದ ತಿಳಿನೀರು ಪ್ರತ್ಯಾಮ್ಲೀಯ."
+  },
+  {
+   "id": "7SCI-C03-01",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಮಂಡಲಗಳು ಮತ್ತು ಅದರ ಘಟಕಗಳು",
+   "ch_en": "Electricity: Circuits and their Components",
+   "diff": "easy",
+   "q_kn": "ವಿದ್ಯುತ್ ಕೋಶವು:",
+   "q_en": "An electric cell is:",
+   "opt_kn": [
+    "ವಿದ್ಯುತ್ ಶಕ್ತಿಯ ಕೊಂಡೊಯ್ಯಬಲ್ಲ ಆಕರ",
+    "ಬೆಳಕಿನ ಆಕರ ಮಾತ್ರ",
+    "ವಿದ್ಯುತ್ ಅವಾಹಕ",
+    "ವಿದ್ಯುತ್ ನಿಲ್ಲಿಸುವ ಸಾಧನ"
+   ],
+   "opt_en": [
+    "A portable source of electrical energy",
+    "Only a source of light",
+    "An electrical insulator",
+    "A device that stops current"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C03-02",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಮಂಡಲಗಳು ಮತ್ತು ಅದರ ಘಟಕಗಳು",
+   "ch_en": "Electricity: Circuits and their Components",
+   "diff": "easy",
+   "q_kn": "ವಿದ್ಯುತ್ ಕೋಶದ ಚಿಹ್ನೆಯಲ್ಲಿ ಉದ್ದವಾದ ರೇಖೆ ಸೂಚಿಸುವುದು:",
+   "q_en": "In the symbol of an electric cell, the longer line represents:",
+   "opt_kn": [
+    "ಋಣ ತುದಿ",
+    "ಧನ ತುದಿ",
+    "ಒತ್ತುಗುಂಡಿ",
+    "ವಿದ್ಯುದ್ದೀಪ"
+   ],
+   "opt_en": [
+    "Negative terminal",
+    "Positive terminal",
+    "Switch",
+    "Bulb"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C03-03",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಮಂಡಲಗಳು ಮತ್ತು ಅದರ ಘಟಕಗಳು",
+   "ch_en": "Electricity: Circuits and their Components",
+   "diff": "easy",
+   "q_kn": "ತಾಪದೀಪ್ತ ವಿದ್ಯುದ್ದೀಪದಲ್ಲಿ ಬಿಸಿಯಾಗಿ ಬೆಳಕು ನೀಡುವ ತೆಳು ತಂತಿಯನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The thin wire in an incandescent bulb that heats up and glows is called:",
+   "opt_kn": [
+    "ತುದಿ",
+    "ಕೋಶ",
+    "ಧಾರಕ",
+    "ತಂತು"
+   ],
+   "opt_en": [
+    "Terminal",
+    "Cell",
+    "Holder",
+    "Filament"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C03-04",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಮಂಡಲಗಳು ಮತ್ತು ಅದರ ಘಟಕಗಳು",
+   "ch_en": "Electricity: Circuits and their Components",
+   "diff": "medium",
+   "q_kn": "LED ಯ ಉದ್ದವಾದ ತಂತಿ (ಕಾಲು) ಯಾವುದಕ್ಕೆ ಜೋಡಣೆಯಾದಾಗ ಅದು ಬೆಳಗುತ್ತದೆ?",
+   "q_en": "An LED glows when its longer lead is connected to:",
+   "opt_kn": [
+    "ಬ್ಯಾಟರಿಯ ಋಣ ತುದಿ",
+    "ಬ್ಯಾಟರಿಯ ಧನ ತುದಿ",
+    "ಯಾವುದಾದರೂ ತುದಿ",
+    "ಒತ್ತುಗುಂಡಿಯ ಮಧ್ಯಭಾಗ"
+   ],
+   "opt_en": [
+    "Negative terminal of the battery",
+    "Positive terminal of the battery",
+    "Either terminal",
+    "Middle of the switch"
+   ],
+   "ans": "B",
+   "exp_kn": "LED ಯಲ್ಲಿ ವಿದ್ಯುತ್ ಒಂದೇ ದಿಕ್ಕಿನಲ್ಲಿ ಹರಿಯುತ್ತದೆ."
+  },
+  {
+   "id": "7SCI-C03-05",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಮಂಡಲಗಳು ಮತ್ತು ಅದರ ಘಟಕಗಳು",
+   "ch_en": "Electricity: Circuits and their Components",
+   "diff": "medium",
+   "q_kn": "ತಾಪದೀಪ್ತ ದೀಪ ಮತ್ತು LED ನಡುವಿನ ಒಂದು ವ್ಯತ್ಯಾಸ:",
+   "q_en": "One difference between an incandescent bulb and an LED is:",
+   "opt_kn": [
+    "LED ಯಲ್ಲಿ ವಿದ್ಯುತ್ ಒಂದೇ ದಿಕ್ಕಿನಲ್ಲಿ ಮಾತ್ರ ಹರಿಯುತ್ತದೆ",
+    "LED ಗೆ ವಿದ್ಯುತ್ ಬೇಕಿಲ್ಲ",
+    "ತಾಪದೀಪ್ತ ದೀಪಕ್ಕೆ ತುದಿಗಳಿಲ್ಲ",
+    "ಎರಡರಲ್ಲೂ ತಂತು ಇದೆ"
+   ],
+   "opt_en": [
+    "Current flows only in one direction in an LED",
+    "An LED needs no electricity",
+    "An incandescent bulb has no terminals",
+    "Both have a filament"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C03-06",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಮಂಡಲಗಳು ಮತ್ತು ಅದರ ಘಟಕಗಳು",
+   "ch_en": "Electricity: Circuits and their Components",
+   "diff": "easy",
+   "q_kn": "ವಿದ್ಯುನ್ಮಂಡಲವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಅಥವಾ ಕಡಿತಗೊಳಿಸಲು ಬಳಸುವ ಸರಳ ಸಾಧನ:",
+   "q_en": "A simple device used to complete or break an electric circuit is:",
+   "opt_kn": [
+    "ತಂತು",
+    "ಪರೀಕ್ಷಕ",
+    "ಬ್ಯಾಟರಿ",
+    "ಒತ್ತುಗುಂಡಿ (ಸ್ವಿಚ್)"
+   ],
+   "opt_en": [
+    "Filament",
+    "Tester",
+    "Battery",
+    "Switch"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C03-07",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಮಂಡಲಗಳು ಮತ್ತು ಅದರ ಘಟಕಗಳು",
+   "ch_en": "Electricity: Circuits and their Components",
+   "diff": "medium",
+   "q_kn": "ಒತ್ತುಗುಂಡಿ \"ಸಂಪರ್ಕ ರಹಿತ (OFF)\" ಸ್ಥಾನದಲ್ಲಿದ್ದಾಗ ವಿದ್ಯುನ್ಮಂಡಲವು:",
+   "q_en": "When the switch is in the OFF position, the circuit is:",
+   "opt_kn": [
+    "ಮುಚ್ಚಿದ ಮಂಡಲ",
+    "ಪೂರ್ಣ ಮಂಡಲ",
+    "ತೆರೆದ ಮಂಡಲ",
+    "ಸಣ್ಣ ಮಂಡಲ"
+   ],
+   "opt_en": [
+    "Closed circuit",
+    "Complete circuit",
+    "Open circuit",
+    "Short circuit"
+   ],
+   "ans": "C",
+   "exp_kn": "ತೆರೆದ ಮಂಡಲದಲ್ಲಿ ವಿದ್ಯುತ್ ಹರಿಯುವುದಿಲ್ಲ; ದೀಪ ಬೆಳಗುವುದಿಲ್ಲ."
+  },
+  {
+   "id": "7SCI-C03-08",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಮಂಡಲಗಳು ಮತ್ತು ಅದರ ಘಟಕಗಳು",
+   "ch_en": "Electricity: Circuits and their Components",
+   "diff": "medium",
+   "q_kn": "ಮುಚ್ಚಿದ ವಿದ್ಯುನ್ಮಂಡಲದಲ್ಲಿ ವಿದ್ಯುತ್ ಪ್ರವಾಹದ ದಿಕ್ಕನ್ನು ಹೀಗೆ ತೆಗೆದುಕೊಳ್ಳಲಾಗುತ್ತದೆ:",
+   "q_en": "In a closed circuit, the direction of electric current is taken as:",
+   "opt_kn": [
+    "ಋಣ ತುದಿಯಿಂದ ಧನ ತುದಿಗೆ",
+    "ಧನ ತುದಿಯಿಂದ ಋಣ ತುದಿಗೆ",
+    "ಎರಡೂ ದಿಕ್ಕುಗಳಲ್ಲಿ",
+    "ದೀಪದಿಂದ ಒತ್ತುಗುಂಡಿಗೆ ಮಾತ್ರ"
+   ],
+   "opt_en": [
+    "From negative to positive terminal",
+    "From positive to negative terminal",
+    "In both directions",
+    "Only from bulb to switch"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C03-09",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಮಂಡಲಗಳು ಮತ್ತು ಅದರ ಘಟಕಗಳು",
+   "ch_en": "Electricity: Circuits and their Components",
+   "diff": "medium",
+   "q_kn": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ವಿದ್ಯುತ್ ಕೋಶಗಳನ್ನು ಸರಿಯಾಗಿ ಜೋಡಿಸಲು ಒಂದು ಕೋಶದ ಧನ ತುದಿಯನ್ನು ಮುಂದಿನ ಕೋಶದ ಯಾವ ತುದಿಗೆ ಜೋಡಿಸಬೇಕು?",
+   "q_en": "To make a battery, the positive terminal of one cell is joined to which terminal of the next cell?",
+   "opt_kn": [
+    "ಧನ ತುದಿ",
+    "ಋಣ ತುದಿ",
+    "ಯಾವುದಾದರೂ ತುದಿ",
+    "ಜೋಡಿಸಬಾರದು"
+   ],
+   "opt_en": [
+    "Positive",
+    "Negative",
+    "Any terminal",
+    "Should not be joined"
+   ],
+   "ans": "B",
+   "exp_kn": "ಕೋಶಗಳ ಈ ಜೋಡಣೆಯೇ ಬ್ಯಾಟರಿ."
+  },
+  {
+   "id": "7SCI-C03-10",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಮಂಡಲಗಳು ಮತ್ತು ಅದರ ಘಟಕಗಳು",
+   "ch_en": "Electricity: Circuits and their Components",
+   "diff": "easy",
+   "q_kn": "ಪರೀಕ್ಷಕದ (tester) ಬಲ್ಬ್ ಬೆಳಗುವಂತೆ ಮಾಡುವ ವಸ್ತು:",
+   "q_en": "Which object will make the bulb of a tester glow?",
+   "opt_kn": [
+    "ಪ್ಲಾಸ್ಟಿಕ್ ಸ್ಕೇಲ್",
+    "ರಬ್ಬರ್",
+    "ಒಣ ಮರದ ಕಡ್ಡಿ",
+    "ಕಬ್ಬಿಣದ ಮೊಳೆ"
+   ],
+   "opt_en": [
+    "Plastic scale",
+    "Rubber",
+    "Dry wooden stick",
+    "Iron nail"
+   ],
+   "ans": "D",
+   "exp_kn": "ಕಬ್ಬಿಣ ವಿದ್ಯುತ್ತಿನ ಉತ್ತಮ ವಾಹಕ."
+  },
+  {
+   "id": "7SCI-C03-11",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಮಂಡಲಗಳು ಮತ್ತು ಅದರ ಘಟಕಗಳು",
+   "ch_en": "Electricity: Circuits and their Components",
+   "diff": "medium",
+   "q_kn": "ಎಲೆಕ್ಟ್ರಿಷಿಯನ್ ಬಳಸುವ ಸಾಧನಗಳ ಹಿಡಿಕೆಗಳಿಗೆ ಪ್ಲಾಸ್ಟಿಕ್ ಅಥವಾ ರಬ್ಬರ್ ಹೊದಿಕೆ ಇರಲು ಕಾರಣ:",
+   "q_en": "Handles of an electrician's tools are covered with plastic or rubber because these are:",
+   "opt_kn": [
+    "ಉತ್ತಮ ವಾಹಕಗಳು",
+    "ಕಾಂತೀಯ ವಸ್ತುಗಳು",
+    "ವಿದ್ಯುತ್ ಅವಾಹಕಗಳು",
+    "ಹೊಳಪುಳ್ಳ ವಸ್ತುಗಳು"
+   ],
+   "opt_en": [
+    "Good conductors",
+    "Magnetic materials",
+    "Electrical insulators",
+    "Shiny materials"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C03-12",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಮಂಡಲಗಳು ಮತ್ತು ಅದರ ಘಟಕಗಳು",
+   "ch_en": "Electricity: Circuits and their Components",
+   "diff": "hard",
+   "q_kn": "ಒಂದು ಟಾರ್ಚ್‌ನಲ್ಲಿ ಹೊಸ ಕೋಶಗಳನ್ನು ಸರಿಯಾಗಿ ಹಾಕಿದರೂ ದೀಪ ಬೆಳಗುತ್ತಿಲ್ಲ. ಹೆಚ್ಚು ಸಂಭವನೀಯ ಕಾರಣ:",
+   "q_en": "A torch with fresh, correctly placed cells does not glow. The most likely reason is:",
+   "opt_kn": [
+    "ದೀಪದ ತಂತು ತುಂಡಾಗಿದೆ",
+    "ಕೋಶಗಳು ತುಂಬಾ ಹೊಸವು",
+    "ಟಾರ್ಚ್ ಲೋಹದ್ದು",
+    "ಹಗಲು ಹೊತ್ತು"
+   ],
+   "opt_en": [
+    "The filament of the bulb is broken",
+    "The cells are too new",
+    "The torch is made of metal",
+    "It is daytime"
+   ],
+   "ans": "A",
+   "exp_kn": "ತಂತು ತುಂಡಾದರೆ ಮಂಡಲ ಅಪೂರ್ಣವಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "7SCI-C03-13",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಮಂಡಲಗಳು ಮತ್ತು ಅದರ ಘಟಕಗಳು",
+   "ch_en": "Electricity: Circuits and their Components",
+   "diff": "hard",
+   "q_kn": "ಹೇಳಿಕೆ (A): ಪ್ರಯೋಗಗಳಿಗೆ ಮನೆಯ ಗೋಡೆಯ ಸಾಕೆಟ್‌ನ ವಿದ್ಯುತ್ ಬಳಸಬಾರದು. ಕಾರಣ (R): ಅದು ಕೋಶಕ್ಕಿಂತ ಬಹಳ ಹೆಚ್ಚು ಶಕ್ತಿಯುತವಾಗಿದ್ದು ಅಪಾಯಕಾರಿ.",
+   "q_en": "Assertion (A): Mains electricity from a wall socket must not be used for experiments. Reason (R): It is far more powerful than a cell and is dangerous.",
+   "opt_kn": [
+    "A ಮತ್ತು R ಸರಿ; R, A ಗೆ ಸರಿಯಾದ ವಿವರಣೆ",
+    "A ಮತ್ತು R ಸರಿ; R, A ಗೆ ವಿವರಣೆ ಅಲ್ಲ",
+    "A ಸರಿ, R ತಪ್ಪು",
+    "A ತಪ್ಪು, R ಸರಿ"
+   ],
+   "opt_en": [
+    "A and R true; R explains A",
+    "A and R true; R does not explain A",
+    "A true, R false",
+    "A false, R true"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C03-14",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ವಿದ್ಯುಚ್ಛಕ್ತಿ: ಮಂಡಲಗಳು ಮತ್ತು ಅದರ ಘಟಕಗಳು",
+   "ch_en": "Electricity: Circuits and their Components",
+   "diff": "medium",
+   "q_kn": "ಈ ಕೆಳಗಿನ ಯಾವ ಜೋಡಣೆಯಲ್ಲಿ ದೀಪ ಬೆಳಗುತ್ತದೆ?",
+   "q_en": "In which arrangement will the bulb glow?",
+   "opt_kn": [
+    "ಕೋಶದ ಒಂದೇ ತುದಿಗೆ ದೀಪದ ಎರಡೂ ತಂತಿಗಳು",
+    "ಕೋಶದ ಎರಡು ತುದಿಗಳಿಗೆ ದೀಪದ ಎರಡು ತುದಿಗಳು ಸೇರಿ ಮುಚ್ಚಿದ ಮಾರ್ಗ",
+    "ದೀಪ ಮತ್ತು ಕೋಶದ ನಡುವೆ ಪ್ಲಾಸ್ಟಿಕ್ ದಾರ",
+    "ಒತ್ತುಗುಂಡಿ OFF ಸ್ಥಾನದಲ್ಲಿ"
+   ],
+   "opt_en": [
+    "Both bulb wires to the same terminal of the cell",
+    "Bulb terminals joined to both cell terminals forming a closed path",
+    "A plastic thread between bulb and cell",
+    "Switch in OFF position"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C04-01",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಲೋಹಗಳು ಮತ್ತು ಅಲೋಹಗಳ ಜಗತ್ತು",
+   "ch_en": "The World of Metals and Non-metals",
+   "diff": "easy",
+   "q_kn": "ಲೋಹವನ್ನು ಸುತ್ತಿಗೆಯಿಂದ ಬಡಿದು ತೆಳು ಹಾಳೆಗಳನ್ನಾಗಿ ಮಾಡಬಹುದಾದ ಗುಣ:",
+   "q_en": "The property by which metals can be beaten into thin sheets is:",
+   "opt_kn": [
+    "ಕುಟ್ಯತೆ",
+    "ತನ್ಯತೆ",
+    "ಶಾಬ್ದನ",
+    "ವಾಹಕತೆ"
+   ],
+   "opt_en": [
+    "Malleability",
+    "Ductility",
+    "Sonority",
+    "Conductivity"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C04-02",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಲೋಹಗಳು ಮತ್ತು ಅಲೋಹಗಳ ಜಗತ್ತು",
+   "ch_en": "The World of Metals and Non-metals",
+   "diff": "easy",
+   "q_kn": "ಲೋಹವನ್ನು ಎಳೆದು ತೆಳು ತಂತಿಗಳನ್ನಾಗಿ ಮಾಡಬಹುದಾದ ಗುಣ:",
+   "q_en": "The property by which metals can be drawn into thin wires is:",
+   "opt_kn": [
+    "ಸಂಕ್ಷಾರಣ",
+    "ಕುಟ್ಯತೆ",
+    "ಹೊಳಪು",
+    "ತನ್ಯತೆ"
+   ],
+   "opt_en": [
+    "Corrosion",
+    "Malleability",
+    "Lustre",
+    "Ductility"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C04-03",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಲೋಹಗಳು ಮತ್ತು ಅಲೋಹಗಳ ಜಗತ್ತು",
+   "ch_en": "The World of Metals and Non-metals",
+   "diff": "easy",
+   "q_kn": "ಶಾಲೆಯ ಗಂಟೆಯನ್ನು ಲೋಹದಿಂದ ಮಾಡಲು ಕಾರಣವಾದ ಗುಣ:",
+   "q_en": "School bells are made of metal because metals are:",
+   "opt_kn": [
+    "ಕುಟ್ಯ",
+    "ಶಾಬ್ದನ (ನಾದ ಹೊರಡಿಸುವ)",
+    "ಮೆದು",
+    "ಅವಾಹಕ"
+   ],
+   "opt_en": [
+    "Malleable",
+    "Sonorous",
+    "Soft",
+    "Insulators"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C04-04",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಲೋಹಗಳು ಮತ್ತು ಅಲೋಹಗಳ ಜಗತ್ತು",
+   "ch_en": "The World of Metals and Non-metals",
+   "diff": "medium",
+   "q_kn": "ಸೋಡಿಯಂ ಅನ್ನು ಸೀಮೆಎಣ್ಣೆಯಲ್ಲಿ ಸಂಗ್ರಹಿಸಲು ಕಾರಣ:",
+   "q_en": "Sodium is stored in kerosene because:",
+   "opt_kn": [
+    "ಅದು ಸೀಮೆಎಣ್ಣೆಯಲ್ಲಿ ಕರಗುತ್ತದೆ",
+    "ಅದು ಬಹಳ ಭಾರ",
+    "ಅದು ಆಕ್ಸಿಜನ್ ಮತ್ತು ನೀರಿನೊಂದಿಗೆ ತೀವ್ರವಾಗಿ ವರ್ತಿಸುತ್ತದೆ",
+    "ಅದು ಅಲೋಹ"
+   ],
+   "opt_en": [
+    "It dissolves in kerosene",
+    "It is very heavy",
+    "It reacts vigorously with oxygen and water",
+    "It is a non-metal"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C04-05",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಲೋಹಗಳು ಮತ್ತು ಅಲೋಹಗಳ ಜಗತ್ತು",
+   "ch_en": "The World of Metals and Non-metals",
+   "diff": "medium",
+   "q_kn": "ಮೆಗ್ನೀಸಿಯಂ ರಿಬ್ಬನ್ ಉರಿಸಿ ಸಿಕ್ಕ ಬೂದಿಯನ್ನು ನೀರಿನಲ್ಲಿ ಕರಗಿಸಿದರೆ ಆ ದ್ರಾವಣ:",
+   "q_en": "Ash from burnt magnesium ribbon dissolved in water gives a solution that is:",
+   "opt_kn": [
+    "ಆಮ್ಲೀಯ – ನೀಲಿ ಲಿಟ್ಮಸ್ ಕೆಂಪಾಗುತ್ತದೆ",
+    "ಹೇಳಲಾಗದು",
+    "ತಟಸ್ಥ",
+    "ಪ್ರತ್ಯಾಮ್ಲೀಯ – ಕೆಂಪು ಲಿಟ್ಮಸ್ ನೀಲಿಯಾಗುತ್ತದೆ"
+   ],
+   "opt_en": [
+    "Acidic – blue litmus turns red",
+    "Cannot say",
+    "Neutral",
+    "Basic – red litmus turns blue"
+   ],
+   "ans": "D",
+   "exp_kn": "ಲೋಹದ ಆಕ್ಸೈಡ್‌ಗಳು ಪ್ರತ್ಯಾಮ್ಲೀಯ."
+  },
+  {
+   "id": "7SCI-C04-06",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಲೋಹಗಳು ಮತ್ತು ಅಲೋಹಗಳ ಜಗತ್ತು",
+   "ch_en": "The World of Metals and Non-metals",
+   "diff": "medium",
+   "q_kn": "ಗಂಧಕವನ್ನು ಉರಿಸಿ ಬಂದ ಅನಿಲವನ್ನು ನೀರಿನಲ್ಲಿ ಕರಗಿಸಿದರೆ ಆ ದ್ರಾವಣ:",
+   "q_en": "Gas from burning sulphur, dissolved in water, gives a solution that is:",
+   "opt_kn": [
+    "ಆಮ್ಲೀಯ",
+    "ಪ್ರತ್ಯಾಮ್ಲೀಯ",
+    "ತಟಸ್ಥ",
+    "ಲೋಹೀಯ"
+   ],
+   "opt_en": [
+    "Acidic",
+    "Basic",
+    "Neutral",
+    "Metallic"
+   ],
+   "ans": "A",
+   "exp_kn": "ಅಲೋಹಗಳ ಆಕ್ಸೈಡ್‌ಗಳು ಆಮ್ಲೀಯ."
+  },
+  {
+   "id": "7SCI-C04-07",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಲೋಹಗಳು ಮತ್ತು ಅಲೋಹಗಳ ಜಗತ್ತು",
+   "ch_en": "The World of Metals and Non-metals",
+   "diff": "easy",
+   "q_kn": "ಕಬ್ಬಿಣಕ್ಕೆ ತುಕ್ಕು ಹಿಡಿಯಲು ಬೇಕಾದವು:",
+   "q_en": "Iron needs which of the following to rust?",
+   "opt_kn": [
+    "ಗಾಳಿ ಮಾತ್ರ",
+    "ನೀರು ಮಾತ್ರ",
+    "ಗಾಳಿ ಮತ್ತು ನೀರು ಎರಡೂ",
+    "ಬೆಳಕು ಮಾತ್ರ"
+   ],
+   "opt_en": [
+    "Air only",
+    "Water only",
+    "Both air and water",
+    "Light only"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C04-08",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಲೋಹಗಳು ಮತ್ತು ಅಲೋಹಗಳ ಜಗತ್ತು",
+   "ch_en": "The World of Metals and Non-metals",
+   "diff": "medium",
+   "q_kn": "ಕಬ್ಬಿಣದ ಮೇಲೆ ಸತುವಿನ ಪದರ ಲೇಪಿಸಿ ತುಕ್ಕು ತಡೆಯುವ ವಿಧಾನ:",
+   "q_en": "Coating iron with a layer of zinc to prevent rusting is called:",
+   "opt_kn": [
+    "ಸಂಕ್ಷಾರಣ",
+    "ತಟಸ್ಥೀಕರಣ",
+    "ಗ್ಯಾಲ್ವನೀಕರಣ",
+    "ಸವಕಳಿ"
+   ],
+   "opt_en": [
+    "Corrosion",
+    "Neutralisation",
+    "Galvanisation",
+    "Erosion"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C04-09",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಲೋಹಗಳು ಮತ್ತು ಅಲೋಹಗಳ ಜಗತ್ತು",
+   "ch_en": "The World of Metals and Non-metals",
+   "diff": "medium",
+   "q_kn": "ತೇವಾಂಶಯುಕ್ತ ಗಾಳಿಗೆ ಒಡ್ಡಿದಾಗ ಲೋಹದ ವಸ್ತುಗಳು ಹಾನಿಗೊಳಗಾಗುವ ಪ್ರಕ್ರಿಯೆ:",
+   "q_en": "Damage of metal objects on exposure to moist air is called:",
+   "opt_kn": [
+    "ದಹನ",
+    "ಸಂಕ್ಷಾರಣ",
+    "ಕುಟ್ಯತೆ",
+    "ಘನೀಕರಣ"
+   ],
+   "opt_en": [
+    "Combustion",
+    "Corrosion",
+    "Malleability",
+    "Solidification"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C04-10",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಲೋಹಗಳು ಮತ್ತು ಅಲೋಹಗಳ ಜಗತ್ತು",
+   "ch_en": "The World of Metals and Non-metals",
+   "diff": "easy",
+   "q_kn": "ಆಹಾರ ಪೊಟ್ಟಣ ಕಟ್ಟಲು ಬಳಸುವ ಅಗ್ಗದ, ಸುಲಭವಾಗಿ ಮಡಚಬಹುದಾದ ಲೋಹದ ಹಾಳೆ:",
+   "q_en": "A cheap metal foil that folds easily and is used for packing food is of:",
+   "opt_kn": [
+    "ತಾಮ್ರ",
+    "ಅಲ್ಯುಮಿನಿಯಂ",
+    "ಕಬ್ಬಿಣ",
+    "ಚಿನ್ನ"
+   ],
+   "opt_en": [
+    "Copper",
+    "Aluminium",
+    "Iron",
+    "Gold"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C04-11",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಲೋಹಗಳು ಮತ್ತು ಅಲೋಹಗಳ ಜಗತ್ತು",
+   "ch_en": "The World of Metals and Non-metals",
+   "diff": "medium",
+   "q_kn": "ದೆಹಲಿಯ ಕಬ್ಬಿಣದ ಸ್ತಂಭದ ವಿಶೇಷತೆ:",
+   "q_en": "The special feature of the Iron Pillar of Delhi is:",
+   "opt_kn": [
+    "ಅದು ಚಿನ್ನದಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ",
+    "ಸುಮಾರು 1600 ವರ್ಷಗಳಾದರೂ ತುಕ್ಕು ಹಿಡಿದಿಲ್ಲ",
+    "ಅದು ಕಾಂತ",
+    "ಅದನ್ನು ಕಳೆದ ಶತಮಾನದಲ್ಲಿ ನಿರ್ಮಿಸಲಾಯಿತು"
+   ],
+   "opt_en": [
+    "It is made of gold",
+    "It has not rusted in about 1600 years",
+    "It is a magnet",
+    "It was built last century"
+   ],
+   "ans": "B",
+   "exp_kn": "ಎರಡನೇ ಚಂದ್ರಗುಪ್ತನ ಕಾಲದಲ್ಲಿ ನಿರ್ಮಿತ – ಪ್ರಾಚೀನ ಭಾರತೀಯ ಲೋಹಶಾಸ್ತ್ರದ ಅದ್ಭುತ."
+  },
+  {
+   "id": "7SCI-C04-12",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಲೋಹಗಳು ಮತ್ತು ಅಲೋಹಗಳ ಜಗತ್ತು",
+   "ch_en": "The World of Metals and Non-metals",
+   "diff": "medium",
+   "q_kn": "ಗುಂಪಿಗೆ ಸೇರದ್ದನ್ನು ಗುರುತಿಸಿ:",
+   "q_en": "Find the odd one out:",
+   "opt_kn": [
+    "ಗಂಧಕ",
+    "ಅಲ್ಯುಮಿನಿಯಂ",
+    "ತಾಮ್ರ",
+    "ಕಬ್ಬಿಣ"
+   ],
+   "opt_en": [
+    "Sulphur",
+    "Aluminium",
+    "Copper",
+    "Iron"
+   ],
+   "ans": "A",
+   "exp_kn": "ಗಂಧಕ ಅಲೋಹ; ಉಳಿದವು ಲೋಹಗಳು."
+  },
+  {
+   "id": "7SCI-C04-13",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಲೋಹಗಳು ಮತ್ತು ಅಲೋಹಗಳ ಜಗತ್ತು",
+   "ch_en": "The World of Metals and Non-metals",
+   "diff": "hard",
+   "q_kn": "ಈ ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳಲ್ಲಿ ತಪ್ಪಾದದ್ದು:",
+   "q_en": "Which statement is INCORRECT?",
+   "opt_kn": [
+    "ಲೋಹಗಳು ಶಾಖ ಮತ್ತು ವಿದ್ಯುತ್ತಿನ ಉತ್ತಮ ವಾಹಕಗಳು",
+    "ಸಾಮಾನ್ಯವಾಗಿ ಅಲೋಹಗಳು ನೀರಿನೊಂದಿಗೆ ವರ್ತಿಸುವುದಿಲ್ಲ",
+    "ಅಲೋಹಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಕುಟ್ಯ ಮತ್ತು ತನ್ಯ",
+    "ಲೋಹಗಳಿಗೆ ಸಾಮಾನ್ಯವಾಗಿ ಮೇಲ್ಮೈ ಹೊಳಪು ಇದೆ"
+   ],
+   "opt_en": [
+    "Metals are good conductors of heat and electricity",
+    "Non-metals generally do not react with water",
+    "Non-metals are generally malleable and ductile",
+    "Metals generally have surface lustre"
+   ],
+   "ans": "C",
+   "exp_kn": "ಅಲೋಹಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಬಿರುಸು; ಬಡಿದರೆ ಚೂರಾಗುತ್ತವೆ."
+  },
+  {
+   "id": "7SCI-C04-14",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಲೋಹಗಳು ಮತ್ತು ಅಲೋಹಗಳ ಜಗತ್ತು",
+   "ch_en": "The World of Metals and Non-metals",
+   "diff": "hard",
+   "q_kn": "ತಾಮ್ರದ ಪಾತ್ರೆಯನ್ನು ತೇವದ ಗಾಳಿಯಲ್ಲಿ ಬಹಳ ದಿನ ಇಟ್ಟರೆ ಅದರ ಮೇಲೆ ಕಾಣುವುದು:",
+   "q_en": "A copper vessel left in moist air for many days develops:",
+   "opt_kn": [
+    "ಕಂದು ಬಣ್ಣದ ತುಕ್ಕು",
+    "ಕಪ್ಪು ಹೊಗೆ",
+    "ಬಿಳಿ ಹೊಳಪು",
+    "ಹಸಿರು ಬಣ್ಣದ ಪದರ"
+   ],
+   "opt_en": [
+    "Brown rust",
+    "Black smoke",
+    "White shine",
+    "A green coating"
+   ],
+   "ans": "D",
+   "exp_kn": "ಇದೂ ಒಂದು ರೀತಿಯ ಸಂಕ್ಷಾರಣ."
+  },
+  {
+   "id": "7SCI-C05-01",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ನಮ್ಮ ಸುತ್ತಲಿನ ಬದಲಾವಣೆಗಳು: ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ",
+   "ch_en": "Changes Around Us: Physical and Chemical",
+   "diff": "easy",
+   "q_kn": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಭೌತ ಬದಲಾವಣೆ:",
+   "q_en": "Which of these is a physical change?",
+   "opt_kn": [
+    "ಕಾಗದ ಉರಿಯುವುದು",
+    "ಮಂಜುಗಡ್ಡೆ ಕರಗುವುದು",
+    "ಹಾಲು ಮೊಸರಾಗುವುದು",
+    "ಕಬ್ಬಿಣ ತುಕ್ಕು ಹಿಡಿಯುವುದು"
+   ],
+   "opt_en": [
+    "Burning of paper",
+    "Melting of ice",
+    "Milk turning into curd",
+    "Rusting of iron"
+   ],
+   "ans": "B",
+   "exp_kn": "ಹೊಸ ವಸ್ತು ಉಂಟಾಗುವುದಿಲ್ಲ."
+  },
+  {
+   "id": "7SCI-C05-02",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ನಮ್ಮ ಸುತ್ತಲಿನ ಬದಲಾವಣೆಗಳು: ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ",
+   "ch_en": "Changes Around Us: Physical and Chemical",
+   "diff": "easy",
+   "q_kn": "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆಯ ಮುಖ್ಯ ಲಕ್ಷಣ:",
+   "q_en": "The main feature of a chemical change is:",
+   "opt_kn": [
+    "ಆಕಾರ ಮಾತ್ರ ಬದಲಾಗುತ್ತದೆ",
+    "ಸ್ಥಿತಿ ಮಾತ್ರ ಬದಲಾಗುತ್ತದೆ",
+    "ಒಂದು ಅಥವಾ ಹೆಚ್ಚು ಹೊಸ ವಸ್ತುಗಳು ಉಂಟಾಗುತ್ತವೆ",
+    "ಯಾವಾಗಲೂ ಹಿಮ್ಮುಖಗೊಳ್ಳುತ್ತದೆ"
+   ],
+   "opt_en": [
+    "Only the shape changes",
+    "Only the state changes",
+    "One or more new substances are formed",
+    "It can always be reversed"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C05-03",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ನಮ್ಮ ಸುತ್ತಲಿನ ಬದಲಾವಣೆಗಳು: ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ",
+   "ch_en": "Changes Around Us: Physical and Chemical",
+   "diff": "medium",
+   "q_kn": "ಅಡುಗೆ ಸೋಡಾಗೆ ವಿನೆಗರ್ ಸೇರಿಸಿದಾಗ ಬರುವ ಅನಿಲವನ್ನು ಸುಣ್ಣದ ತಿಳಿನೀರಿನ ಮೂಲಕ ಹಾಯಿಸಿದರೆ ತಿಳಿನೀರು ಹಾಲಿನಂತಾಗುತ್ತದೆ. ಆ ಅನಿಲ:",
+   "q_en": "Gas from vinegar + baking soda turns lime water milky. The gas is:",
+   "opt_kn": [
+    "ಆಕ್ಸಿಜನ್",
+    "ಹೈಡ್ರೋಜನ್",
+    "ನೈಟ್ರೋಜನ್",
+    "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್"
+   ],
+   "opt_en": [
+    "Oxygen",
+    "Hydrogen",
+    "Nitrogen",
+    "Carbon dioxide"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C05-04",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ನಮ್ಮ ಸುತ್ತಲಿನ ಬದಲಾವಣೆಗಳು: ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ",
+   "ch_en": "Changes Around Us: Physical and Chemical",
+   "diff": "medium",
+   "q_kn": "ಒಂದು ವಸ್ತುವು ಬೆಂಕಿ ಹೊತ್ತಿಕೊಂಡು ಉರಿಯಲು ಬೇಕಾದ ಕನಿಷ್ಠ ತಾಪ:",
+   "q_en": "The minimum temperature at which a substance catches fire and burns is its:",
+   "opt_kn": [
+    "ಜ್ವಲನ ತಾಪ",
+    "ದ್ರವನ ಬಿಂದು",
+    "ಕುದಿಯುವ ಬಿಂದು",
+    "ಸಾಮಾನ್ಯ ತಾಪ"
+   ],
+   "opt_en": [
+    "Ignition temperature",
+    "Melting point",
+    "Boiling point",
+    "Room temperature"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C05-05",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ನಮ್ಮ ಸುತ್ತಲಿನ ಬದಲಾವಣೆಗಳು: ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ",
+   "ch_en": "Changes Around Us: Physical and Chemical",
+   "diff": "medium",
+   "q_kn": "ದಹನ ನಡೆಯಲು ಬೇಕಾದ ಮೂರು ಅಂಶಗಳು:",
+   "q_en": "The three things needed for combustion are:",
+   "opt_kn": [
+    "ಇಂಧನ, ಗಾಳಿ (ಆಕ್ಸಿಜನ್), ಜ್ವಲನ ತಾಪ",
+    "ನೀರು, ಗಾಳಿ, ಬೆಳಕು",
+    "ಇಂಧನ, ನೀರು, ಮಣ್ಣು",
+    "ಗಾಳಿ, ಬೆಳಕು, ಶಬ್ದ"
+   ],
+   "opt_en": [
+    "Fuel, air (oxygen), ignition temperature",
+    "Water, air, light",
+    "Fuel, water, soil",
+    "Air, light, sound"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C05-06",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ನಮ್ಮ ಸುತ್ತಲಿನ ಬದಲಾವಣೆಗಳು: ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ",
+   "ch_en": "Changes Around Us: Physical and Chemical",
+   "diff": "medium",
+   "q_kn": "ಮೇಣದಬತ್ತಿ ಉರಿಯುವಾಗ ನಡೆಯುವ ಬದಲಾವಣೆ(ಗಳು):",
+   "q_en": "When a candle burns, the change(s) involved:",
+   "opt_kn": [
+    "ಭೌತ ಬದಲಾವಣೆ ಮಾತ್ರ",
+    "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ ಮಾತ್ರ",
+    "ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ ಎರಡೂ",
+    "ಯಾವ ಬದಲಾವಣೆಯೂ ಇಲ್ಲ"
+   ],
+   "opt_en": [
+    "Only physical",
+    "Only chemical",
+    "Both physical and chemical",
+    "No change"
+   ],
+   "ans": "C",
+   "exp_kn": "ಮೇಣ ಕರಗುವುದು ಭೌತ; ಆವಿಯ ದಹನ ರಾಸಾಯನಿಕ."
+  },
+  {
+   "id": "7SCI-C05-07",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ನಮ್ಮ ಸುತ್ತಲಿನ ಬದಲಾವಣೆಗಳು: ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ",
+   "ch_en": "Changes Around Us: Physical and Chemical",
+   "diff": "easy",
+   "q_kn": "\"ಮೇಣದಬತ್ತಿಯ ರಾಸಾಯನಿಕ ಚರಿತ್ರೆ\" ಉಪನ್ಯಾಸ ಮಾಲೆ ನೀಡಿದ ವಿಜ್ಞಾನಿ:",
+   "q_en": "The scientist who gave the lecture series \"The Chemical History of a Candle\":",
+   "opt_kn": [
+    "ಐಸಾಕ್ ನ್ಯೂಟನ್",
+    "ಸಿ.ವಿ. ರಾಮನ್",
+    "ಗೆಲಿಲಿಯೋ",
+    "ಮೈಕಲ್ ಫ್ಯಾರಡೆ"
+   ],
+   "opt_en": [
+    "Isaac Newton",
+    "C.V. Raman",
+    "Galileo",
+    "Michael Faraday"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C05-08",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ನಮ್ಮ ಸುತ್ತಲಿನ ಬದಲಾವಣೆಗಳು: ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ",
+   "ch_en": "Changes Around Us: Physical and Chemical",
+   "diff": "medium",
+   "q_kn": "ಹಿಮ್ಮುಖಗೊಳಿಸಲಾಗದ ಬದಲಾವಣೆ:",
+   "q_en": "Which change cannot be reversed?",
+   "opt_kn": [
+    "ಮೇಣ ಕರಗುವುದು",
+    "ನೀರು ಆವಿಯಾಗುವುದು",
+    "ಚಪಾತಿ ಬೇಯಿಸುವುದು",
+    "ಉಪ್ಪು ನೀರಿನಲ್ಲಿ ಕರಗುವುದು"
+   ],
+   "opt_en": [
+    "Melting of wax",
+    "Evaporation of water",
+    "Cooking a chapati",
+    "Dissolving salt in water"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C05-09",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ನಮ್ಮ ಸುತ್ತಲಿನ ಬದಲಾವಣೆಗಳು: ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ",
+   "ch_en": "Changes Around Us: Physical and Chemical",
+   "diff": "medium",
+   "q_kn": "ಅಪೇಕ್ಷಣೀಯವಲ್ಲದ (ಬೇಡವಾದ) ಬದಲಾವಣೆ:",
+   "q_en": "Which is an undesirable change?",
+   "opt_kn": [
+    "ಹಣ್ಣು ಮಾಗುವುದು",
+    "ಕಬ್ಬಿಣದ ಗೇಟು ತುಕ್ಕು ಹಿಡಿಯುವುದು",
+    "ಹಾಲು ಮೊಸರಾಗುವುದು",
+    "ಅನ್ನ ಬೇಯುವುದು"
+   ],
+   "opt_en": [
+    "Ripening of fruit",
+    "Rusting of an iron gate",
+    "Milk setting into curd",
+    "Cooking rice"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C05-10",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ನಮ್ಮ ಸುತ್ತಲಿನ ಬದಲಾವಣೆಗಳು: ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ",
+   "ch_en": "Changes Around Us: Physical and Chemical",
+   "diff": "easy",
+   "q_kn": "ಮೆಗ್ನೀಸಿಯಂ ರಿಬ್ಬನ್ ಉರಿಯುವಾಗ ಕಾಣುವುದು:",
+   "q_en": "When a magnesium ribbon burns, we see:",
+   "opt_kn": [
+    "ಕೆಂಪು ಜ್ವಾಲೆ ಮತ್ತು ಕಪ್ಪು ಹೊಗೆ",
+    "ನೀಲಿ ದ್ರವ",
+    "ಪ್ರಕಾಶಮಾನ ಬಿಳಿ ಬೆಳಕು ಮತ್ತು ಬಿಳಿ ಬೂದಿ",
+    "ಯಾವ ಬದಲಾವಣೆಯೂ ಇಲ್ಲ"
+   ],
+   "opt_en": [
+    "Red flame and black smoke",
+    "Blue liquid",
+    "Dazzling white light and white ash",
+    "No change"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C05-11",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ನಮ್ಮ ಸುತ್ತಲಿನ ಬದಲಾವಣೆಗಳು: ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ",
+   "ch_en": "Changes Around Us: Physical and Chemical",
+   "diff": "medium",
+   "q_kn": "ಹರಿಯುವ ನೀರು ಮತ್ತು ಗಾಳಿಯಿಂದ ಮಣ್ಣು, ಬಂಡೆಯ ಕಣಗಳು ಸಾಗಿಸಲ್ಪಡುವುದು (ಸವಕಳಿ) ಒಂದು:",
+   "q_en": "Erosion by flowing water and wind is a:",
+   "opt_kn": [
+    "ಭೌತ ಬದಲಾವಣೆ",
+    "ರಾಸಾಯನಿಕ ಬದಲಾವಣೆ",
+    "ದಹನ ಕ್ರಿಯೆ",
+    "ತಟಸ್ಥೀಕರಣ"
+   ],
+   "opt_en": [
+    "Physical change",
+    "Chemical change",
+    "Combustion",
+    "Neutralisation"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C05-12",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ನಮ್ಮ ಸುತ್ತಲಿನ ಬದಲಾವಣೆಗಳು: ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ",
+   "ch_en": "Changes Around Us: Physical and Chemical",
+   "diff": "medium",
+   "q_kn": "ಬಂಡೆಗಳು ದೀರ್ಘಕಾಲದಲ್ಲಿ ಒಡೆದು ಮಣ್ಣಾಗುವ ನಿಧಾನ ನೈಸರ್ಗಿಕ ಪ್ರಕ್ರಿಯೆ:",
+   "q_en": "The slow natural process by which rocks break down to form soil is:",
+   "opt_kn": [
+    "ಆವಿಯಾಗುವಿಕೆ",
+    "ದಹನ",
+    "ತುಕ್ಕು",
+    "ಬಂಡೆಗಳ ಹವಾಮಾನ (weathering)"
+   ],
+   "opt_en": [
+    "Evaporation",
+    "Combustion",
+    "Rusting",
+    "Weathering of rocks"
+   ],
+   "ans": "D",
+   "exp_kn": "ಇದರಲ್ಲಿ ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ ಎರಡೂ ಬದಲಾವಣೆಗಳಿವೆ."
+  },
+  {
+   "id": "7SCI-C05-13",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ನಮ್ಮ ಸುತ್ತಲಿನ ಬದಲಾವಣೆಗಳು: ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ",
+   "ch_en": "Changes Around Us: Physical and Chemical",
+   "diff": "hard",
+   "q_kn": "ಹೇಳಿಕೆಗಳು: (i) ಸ್ಥಿತಿ ಬದಲಾಗಬಹುದು ಅಥವಾ ಬದಲಾಗದಿರಬಹುದು (ii) ವಿಭಿನ್ನ ಗುಣಗಳ ಹೊಸ ವಸ್ತು ಉಂಟಾಗುತ್ತದೆ (iii) ಹೊಸ ವಸ್ತು ಉಂಟಾಗುವುದಿಲ್ಲ (iv) ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ನಡೆಯುತ್ತದೆ. ಭೌತ ಬದಲಾವಣೆಯ ಗುಣಗಳು:",
+   "q_en": "Statements: (i) state may or may not change (ii) a new substance with different properties forms (iii) no new substance forms (iv) a chemical reaction occurs. Features of a physical change:",
+   "opt_kn": [
+    "(i) ಮತ್ತು (ii)",
+    "(ii) ಮತ್ತು (iii)",
+    "(i) ಮತ್ತು (iii)",
+    "(iii) ಮತ್ತು (iv)"
+   ],
+   "opt_en": [
+    "(i) and (ii)",
+    "(ii) and (iii)",
+    "(i) and (iii)",
+    "(iii) and (iv)"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C05-14",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ನಮ್ಮ ಸುತ್ತಲಿನ ಬದಲಾವಣೆಗಳು: ಭೌತ ಮತ್ತು ರಾಸಾಯನಿಕ",
+   "ch_en": "Changes Around Us: Physical and Chemical",
+   "diff": "hard",
+   "q_kn": "ಬೆಂಕಿಕಡ್ಡಿಯಿಂದ ಕಾಗದಕ್ಕೆ ಬೆಂಕಿ ಹಚ್ಚಿದರೆ ತಕ್ಷಣ ಉರಿಯುತ್ತದೆ, ಆದರೆ ಮರದ ದಿಮ್ಮಿ ಉರಿಯುವುದಿಲ್ಲ. ಕಾರಣ:",
+   "q_en": "A matchstick lights paper at once but not a wooden log. Reason:",
+   "opt_kn": [
+    "ಮರದಲ್ಲಿ ಆಕ್ಸಿಜನ್ ಇಲ್ಲ",
+    "ಕಾಗದದ ಜ್ವಲನ ತಾಪ ಮರದ ದಿಮ್ಮಿಗಿಂತ ಕಡಿಮೆ",
+    "ಕಾಗದ ಲೋಹ",
+    "ಮರ ದಹ್ಯ ವಸ್ತುವಲ್ಲ"
+   ],
+   "opt_en": [
+    "Wood has no oxygen",
+    "Paper has a lower ignition temperature than the log",
+    "Paper is a metal",
+    "Wood is not combustible"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C06-01",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಹದಿಹರೆಯ: ಬೆಳವಣಿಗೆ ಮತ್ತು ಬದಲಾವಣೆಯ ಒಂದು ಹಂತ",
+   "ch_en": "Adolescence: A Stage of Growth and Change",
+   "diff": "easy",
+   "q_kn": "ಹದಿಹರೆಯ ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ವಯಸ್ಸಿನ ಅವಧಿ?",
+   "q_en": "Adolescence is generally the period of age:",
+   "opt_kn": [
+    "1 ರಿಂದ 5 ವರ್ಷ",
+    "5 ರಿಂದ 9 ವರ್ಷ",
+    "10 ರಿಂದ 19 ವರ್ಷ",
+    "20 ರಿಂದ 30 ವರ್ಷ"
+   ],
+   "opt_en": [
+    "1 to 5 years",
+    "5 to 9 years",
+    "10 to 19 years",
+    "20 to 30 years"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C06-02",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಹದಿಹರೆಯ: ಬೆಳವಣಿಗೆ ಮತ್ತು ಬದಲಾವಣೆಯ ಒಂದು ಹಂತ",
+   "ch_en": "Adolescence: A Stage of Growth and Change",
+   "diff": "easy",
+   "q_kn": "ಹದಿಹರೆಯದಲ್ಲಿ ದೇಹದಲ್ಲಾಗುವ ಬದಲಾವಣೆಗಳನ್ನು ಮುಖ್ಯವಾಗಿ ನಿಯಂತ್ರಿಸುವ ರಾಸಾಯನಿಕಗಳು:",
+   "q_en": "The chemicals that mainly control body changes during adolescence are:",
+   "opt_kn": [
+    "ಕಿಣ್ವಗಳು",
+    "ಖನಿಜಗಳು",
+    "ಜೀವಸತ್ವಗಳು",
+    "ಹಾರ್ಮೋನುಗಳು"
+   ],
+   "opt_en": [
+    "Enzymes",
+    "Minerals",
+    "Vitamins",
+    "Hormones"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C06-03",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಹದಿಹರೆಯ: ಬೆಳವಣಿಗೆ ಮತ್ತು ಬದಲಾವಣೆಯ ಒಂದು ಹಂತ",
+   "ch_en": "Adolescence: A Stage of Growth and Change",
+   "diff": "medium",
+   "q_kn": "ಹದಿಹರೆಯದಲ್ಲಿ ಹುಡುಗರಲ್ಲಿ ಕಾಣುವ ದ್ವಿತೀಯಕ ಲಕ್ಷಣಕ್ಕೆ ಉದಾಹರಣೆ:",
+   "q_en": "An example of a secondary characteristic seen in boys during adolescence:",
+   "opt_kn": [
+    "ಧ್ವನಿ ಗಡುಸಾಗುವುದು",
+    "ಹಾಲು ಹಲ್ಲು ಬರುವುದು",
+    "ಕಣ್ಣಿನ ಬಣ್ಣ ಬದಲಾಗುವುದು",
+    "ರಕ್ತದ ಗುಂಪು ಬದಲಾಗುವುದು"
+   ],
+   "opt_en": [
+    "Voice becoming deeper",
+    "Milk teeth appearing",
+    "Change of eye colour",
+    "Change of blood group"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C06-04",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಹದಿಹರೆಯ: ಬೆಳವಣಿಗೆ ಮತ್ತು ಬದಲಾವಣೆಯ ಒಂದು ಹಂತ",
+   "ch_en": "Adolescence: A Stage of Growth and Change",
+   "diff": "medium",
+   "q_kn": "ಹದಿಹರೆಯದವರಲ್ಲಿ ರಕ್ತಹೀನತೆ ತಡೆಯಲು ಆಹಾರದಲ್ಲಿ ಹೆಚ್ಚಾಗಿ ಇರಬೇಕಾದ ಖನಿಜ:",
+   "q_en": "To prevent anaemia, adolescents should take food rich in:",
+   "opt_kn": [
+    "ಅಯೋಡಿನ್",
+    "ಸೋಡಿಯಂ",
+    "ಕಬ್ಬಿಣ",
+    "ಗಂಧಕ"
+   ],
+   "opt_en": [
+    "Iodine",
+    "Sodium",
+    "Iron",
+    "Sulphur"
+   ],
+   "ans": "C",
+   "exp_kn": "ಉದಾ: ಹಸಿರು ಸೊಪ್ಪು, ಬೆಲ್ಲ, ನೆಲ್ಲಿಕಾಯಿ."
+  },
+  {
+   "id": "7SCI-C06-05",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಹದಿಹರೆಯ: ಬೆಳವಣಿಗೆ ಮತ್ತು ಬದಲಾವಣೆಯ ಒಂದು ಹಂತ",
+   "ch_en": "Adolescence: A Stage of Growth and Change",
+   "diff": "medium",
+   "q_kn": "ಜೀವಸತ್ವ B-12 ರ ರಚನೆಯನ್ನು ಅಧ್ಯಯನ ಮಾಡಿ 1964 ರಲ್ಲಿ ರಸಾಯನ ವಿಜ್ಞಾನದ ನೊಬೆಲ್ ಪಡೆದ ವಿಜ್ಞಾನಿ:",
+   "q_en": "The scientist who studied the structure of vitamin B-12 and won the 1964 Nobel Prize in Chemistry:",
+   "opt_kn": [
+    "ಮೇರಿ ಕ್ಯೂರಿ",
+    "ಡೊರೊಥಿ ಹಾಡ್ಜ್‌ಕಿನ್",
+    "ಕಮಲಾ ಸೊಹೋನಿ",
+    "ಜಾನಕಿ ಅಮ್ಮಾಳ್"
+   ],
+   "opt_en": [
+    "Marie Curie",
+    "Dorothy Hodgkin",
+    "Kamala Sohonie",
+    "Janaki Ammal"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C06-06",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಹದಿಹರೆಯ: ಬೆಳವಣಿಗೆ ಮತ್ತು ಬದಲಾವಣೆಯ ಒಂದು ಹಂತ",
+   "ch_en": "Adolescence: A Stage of Growth and Change",
+   "diff": "easy",
+   "q_kn": "ಹದಿಹರೆಯದಲ್ಲಿ ಬೆವರು ಹೆಚ್ಚಾಗುವುದರಿಂದ ಅತ್ಯಗತ್ಯ ಅಭ್ಯಾಸ:",
+   "q_en": "Since sweating increases during adolescence, an essential habit is:",
+   "opt_kn": [
+    "ನೀರು ಕಡಿಮೆ ಕುಡಿಯುವುದು",
+    "ವಾರಕ್ಕೊಮ್ಮೆ ಸ್ನಾನ",
+    "ಪ್ರತಿದಿನ ಸ್ನಾನ ಮಾಡಿ ಸ್ವಚ್ಛ ಬಟ್ಟೆ ಧರಿಸುವುದು",
+    "ಆಟ ನಿಲ್ಲಿಸುವುದು"
+   ],
+   "opt_en": [
+    "Drinking less water",
+    "Bathing once a week",
+    "Bathing daily and wearing clean clothes",
+    "Stopping play"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C06-07",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಹದಿಹರೆಯ: ಬೆಳವಣಿಗೆ ಮತ್ತು ಬದಲಾವಣೆಯ ಒಂದು ಹಂತ",
+   "ch_en": "Adolescence: A Stage of Growth and Change",
+   "diff": "easy",
+   "q_kn": "ತಂಬಾಕು, ಮದ್ಯ ಅಥವಾ ಮಾದಕ ವಸ್ತು ನೀಡಿದಾಗ ಹದಿಹರೆಯದವರು ಮಾಡಬೇಕಾದ್ದು:",
+   "q_en": "When offered tobacco, alcohol or drugs, an adolescent should:",
+   "opt_kn": [
+    "ಒಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ ನೋಡುವುದು",
+    "ದೃಢವಾಗಿ \"ಬೇಡ\" ಎಂದು ಹೇಳಿ ದೂರವಿರುವುದು",
+    "ಸ್ನೇಹಿತರು ಹೇಳಿದಂತೆ ಮಾಡುವುದು",
+    "ರಹಸ್ಯವಾಗಿ ಬಳಸುವುದು"
+   ],
+   "opt_en": [
+    "Try it once",
+    "Firmly say \"No\" and stay away",
+    "Do as friends say",
+    "Use it secretly"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C06-08",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಹದಿಹರೆಯ: ಬೆಳವಣಿಗೆ ಮತ್ತು ಬದಲಾವಣೆಯ ಒಂದು ಹಂತ",
+   "ch_en": "Adolescence: A Stage of Growth and Change",
+   "diff": "medium",
+   "q_kn": "ಹದಿಹರೆಯದಲ್ಲಿ ಭಾವನೆಗಳಲ್ಲಿ ಏರುಪೇರು, ಗೊಂದಲ ಉಂಟಾದಾಗ ಸರಿಯಾದ ಮಾರ್ಗ:",
+   "q_en": "When adolescents feel mood swings or confusion, the right step is:",
+   "opt_kn": [
+    "ನಂಬಿಕೆಯ ಹಿರಿಯರು, ಪೋಷಕರು ಅಥವಾ ಶಿಕ್ಷಕರೊಂದಿಗೆ ಮಾತನಾಡುವುದು",
+    "ಯಾರೊಂದಿಗೂ ಮಾತನಾಡದಿರುವುದು",
+    "ಊಟ ಬಿಡುವುದು",
+    "ಶಾಲೆ ತಪ್ಪಿಸುವುದು"
+   ],
+   "opt_en": [
+    "Talking to trusted elders, parents or teachers",
+    "Talking to nobody",
+    "Skipping meals",
+    "Skipping school"
+   ],
+   "ans": "A",
+   "exp_kn": "ಇಂತಹ ಬದಲಾವಣೆಗಳು ಸಹಜ."
+  },
+  {
+   "id": "7SCI-C06-09",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಹದಿಹರೆಯ: ಬೆಳವಣಿಗೆ ಮತ್ತು ಬದಲಾವಣೆಯ ಒಂದು ಹಂತ",
+   "ch_en": "Adolescence: A Stage of Growth and Change",
+   "diff": "medium",
+   "q_kn": "ಹದಿಹರೆಯದವರು ಆರೋಗ್ಯವಾಗಿರಲು ಸಹಾಯ ಮಾಡದ ಅಭ್ಯಾಸ:",
+   "q_en": "Which habit does NOT help adolescents stay healthy?",
+   "opt_kn": [
+    "ಸಂತುಲಿತ ಆಹಾರ",
+    "ವೈಯಕ್ತಿಕ ನೈರ್ಮಲ್ಯ",
+    "ದಿನನಿತ್ಯ ದೈಹಿಕ ಚಟುವಟಿಕೆ",
+    "ಹೆಚ್ಚು ಜಂಕ್ ಫುಡ್ ಸೇವನೆ"
+   ],
+   "opt_en": [
+    "Balanced diet",
+    "Personal hygiene",
+    "Daily physical activity",
+    "Eating a lot of junk food"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C07-01",
+   "part": 2,
+   "ch": 7,
+   "ch_kn": "ನಿಸರ್ಗದಲ್ಲಿ ಉಷ್ಣ ವರ್ಗಾವಣೆ",
+   "ch_en": "Heat Transfer in Nature",
+   "diff": "easy",
+   "q_kn": "ಉಷ್ಣ ವರ್ಗಾವಣೆಯ ಮೂರು ವಿಧಾನಗಳು:",
+   "q_en": "The three modes of heat transfer are:",
+   "opt_kn": [
+    "ಪ್ರತಿಫಲನ, ವಕ್ರೀಭವನ, ವಹನ",
+    "ಆವಿಯಾಗುವಿಕೆ, ಘನೀಕರಣ, ಕರಗುವಿಕೆ",
+    "ವಹನ, ಸಂವಹನ, ವಿಕಿರಣ",
+    "ದಹನ, ವಿಕಿರಣ, ತುಕ್ಕು"
+   ],
+   "opt_en": [
+    "Reflection, refraction, conduction",
+    "Evaporation, condensation, melting",
+    "Conduction, convection, radiation",
+    "Combustion, radiation, rusting"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C07-02",
+   "part": 2,
+   "ch": 7,
+   "ch_kn": "ನಿಸರ್ಗದಲ್ಲಿ ಉಷ್ಣ ವರ್ಗಾವಣೆ",
+   "ch_en": "Heat Transfer in Nature",
+   "diff": "easy",
+   "q_kn": "ಘನವಸ್ತುಗಳಲ್ಲಿ ಉಷ್ಣವು ಮುಖ್ಯವಾಗಿ ವರ್ಗಾವಣೆಯಾಗುವ ವಿಧಾನ:",
+   "q_en": "In solids, heat is mainly transferred by:",
+   "opt_kn": [
+    "ಸಂವಹನ",
+    "ಆವಿಯಾಗುವಿಕೆ",
+    "ವಿಕಿರಣ",
+    "ವಹನ"
+   ],
+   "opt_en": [
+    "Convection",
+    "Evaporation",
+    "Radiation",
+    "Conduction"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C07-03",
+   "part": 2,
+   "ch": 7,
+   "ch_kn": "ನಿಸರ್ಗದಲ್ಲಿ ಉಷ್ಣ ವರ್ಗಾವಣೆ",
+   "ch_en": "Heat Transfer in Nature",
+   "diff": "easy",
+   "q_kn": "ಸೂರ್ಯನಿಂದ ಉಷ್ಣವು ಭೂಮಿಯನ್ನು ತಲುಪುವ ವಿಧಾನ:",
+   "q_en": "Heat from the Sun reaches the Earth by:",
+   "opt_kn": [
+    "ವಿಕಿರಣ",
+    "ಸಂವಹನ",
+    "ವಹನ",
+    "ಮೂರೂ"
+   ],
+   "opt_en": [
+    "Radiation",
+    "Convection",
+    "Conduction",
+    "All three"
+   ],
+   "ans": "A",
+   "exp_kn": "ವಿಕಿರಣಕ್ಕೆ ಮಾಧ್ಯಮ ಬೇಕಿಲ್ಲ."
+  },
+  {
+   "id": "7SCI-C07-04",
+   "part": 2,
+   "ch": 7,
+   "ch_kn": "ನಿಸರ್ಗದಲ್ಲಿ ಉಷ್ಣ ವರ್ಗಾವಣೆ",
+   "ch_en": "Heat Transfer in Nature",
+   "diff": "medium",
+   "q_kn": "ಉಷ್ಣ ವರ್ಗಾವಣೆಗೆ ಯಾವುದೇ ಮಾಧ್ಯಮದ ಅಗತ್ಯವಿಲ್ಲದ ವಿಧಾನ:",
+   "q_en": "The mode of heat transfer that needs no medium is:",
+   "opt_kn": [
+    "ವಹನ",
+    "ವಿಕಿರಣ",
+    "ಸಂವಹನ",
+    "ವಹನ ಮತ್ತು ಸಂವಹನ"
+   ],
+   "opt_en": [
+    "Conduction",
+    "Radiation",
+    "Convection",
+    "Conduction and convection"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C07-05",
+   "part": 2,
+   "ch": 7,
+   "ch_kn": "ನಿಸರ್ಗದಲ್ಲಿ ಉಷ್ಣ ವರ್ಗಾವಣೆ",
+   "ch_en": "Heat Transfer in Nature",
+   "diff": "medium",
+   "q_kn": "ಸಂವಹನದಲ್ಲಿ ಉಷ್ಣ ವರ್ಗಾವಣೆ ಆಗುವುದು:",
+   "q_en": "In convection, heat is transferred by:",
+   "opt_kn": [
+    "ಕಣಗಳು ಸ್ಥಾನ ಬಿಡದೆ",
+    "ಬೆಳಕಿನ ಮೂಲಕ ಮಾತ್ರ",
+    "ಮಾಧ್ಯಮವಿಲ್ಲದೆ",
+    "ಕಣಗಳು ಸ್ವತಃ ಚಲಿಸುವ ಮೂಲಕ"
+   ],
+   "opt_en": [
+    "Particles not leaving their place",
+    "Only through light",
+    "Without any medium",
+    "The particles themselves moving"
+   ],
+   "ans": "D",
+   "exp_kn": "ದ್ರವ ಮತ್ತು ಅನಿಲಗಳಲ್ಲಿ ಸಂವಹನ ನಡೆಯುತ್ತದೆ."
+  },
+  {
+   "id": "7SCI-C07-06",
+   "part": 2,
+   "ch": 7,
+   "ch_kn": "ನಿಸರ್ಗದಲ್ಲಿ ಉಷ್ಣ ವರ್ಗಾವಣೆ",
+   "ch_en": "Heat Transfer in Nature",
+   "diff": "medium",
+   "q_kn": "ಹಗಲಿನಲ್ಲಿ ಕರಾವಳಿಯಲ್ಲಿ ಸಮುದ್ರದಿಂದ ನೆಲದ ಕಡೆಗೆ ಬೀಸುವ ಗಾಳಿ:",
+   "q_en": "During the day, wind blowing from the sea towards the land in coastal areas is:",
+   "opt_kn": [
+    "ನೆಲಗಾಳಿ",
+    "ಚಂಡಮಾರುತ",
+    "ಕಡಲ್ಗಾಳಿ",
+    "ಮಾನ್ಸೂನ್ ಮಾತ್ರ"
+   ],
+   "opt_en": [
+    "Land breeze",
+    "Cyclone",
+    "Sea breeze",
+    "Only monsoon"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C07-07",
+   "part": 2,
+   "ch": 7,
+   "ch_kn": "ನಿಸರ್ಗದಲ್ಲಿ ಉಷ್ಣ ವರ್ಗಾವಣೆ",
+   "ch_en": "Heat Transfer in Nature",
+   "diff": "hard",
+   "q_kn": "ಹಗಲಿನಲ್ಲಿ ಕಡಲ್ಗಾಳಿ ಬೀಸಲು ಕಾರಣ:",
+   "q_en": "The sea breeze blows during the day because:",
+   "opt_kn": [
+    "ನೆಲ ನೀರಿಗಿಂತ ಬೇಗ ಬಿಸಿಯಾಗಿ, ಅದರ ಮೇಲಿನ ಬಿಸಿಗಾಳಿ ಮೇಲೇರುತ್ತದೆ",
+    "ನೀರು ನೆಲಕ್ಕಿಂತ ಬೇಗ ಬಿಸಿಯಾಗುತ್ತದೆ",
+    "ಸಮುದ್ರದ ಮೇಲೆ ಗಾಳಿ ಇರುವುದಿಲ್ಲ",
+    "ಚಂದ್ರನ ಆಕರ್ಷಣೆ"
+   ],
+   "opt_en": [
+    "Land heats faster than water, and the warm air above it rises",
+    "Water heats faster than land",
+    "There is no air over the sea",
+    "Attraction of the Moon"
+   ],
+   "ans": "A",
+   "exp_kn": "ತಂಪಾದ ಗಾಳಿ ಸಮುದ್ರದಿಂದ ಆ ಸ್ಥಳಕ್ಕೆ ಬರುತ್ತದೆ (ಸಂವಹನ)."
+  },
+  {
+   "id": "7SCI-C07-08",
+   "part": 2,
+   "ch": 7,
+   "ch_kn": "ನಿಸರ್ಗದಲ್ಲಿ ಉಷ್ಣ ವರ್ಗಾವಣೆ",
+   "ch_en": "Heat Transfer in Nature",
+   "diff": "easy",
+   "q_kn": "ರಾತ್ರಿಯಲ್ಲಿ ಕರಾವಳಿಯಲ್ಲಿ ನೆಲದಿಂದ ಸಮುದ್ರದ ಕಡೆಗೆ ಬೀಸುವ ಗಾಳಿ:",
+   "q_en": "At night, wind blowing from the land towards the sea is:",
+   "opt_kn": [
+    "ಕಡಲ್ಗಾಳಿ",
+    "ನೆಲಗಾಳಿ",
+    "ಬಿಸಿಗಾಳಿ",
+    "ಸುಂಟರಗಾಳಿ"
+   ],
+   "opt_en": [
+    "Sea breeze",
+    "Land breeze",
+    "Hot wind",
+    "Whirlwind"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C07-09",
+   "part": 2,
+   "ch": 7,
+   "ch_kn": "ನಿಸರ್ಗದಲ್ಲಿ ಉಷ್ಣ ವರ್ಗಾವಣೆ",
+   "ch_en": "Heat Transfer in Nature",
+   "diff": "easy",
+   "q_kn": "ಉಷ್ಣದ ದುರ್ಬಲ ವಾಹಕ (ಉಷ್ಣ ನಿರೋಧಕ):",
+   "q_en": "A poor conductor of heat (insulator) is:",
+   "opt_kn": [
+    "ತಾಮ್ರ",
+    "ಮರ",
+    "ಅಲ್ಯುಮಿನಿಯಂ",
+    "ಕಬ್ಬಿಣ"
+   ],
+   "opt_en": [
+    "Copper",
+    "Wood",
+    "Aluminium",
+    "Iron"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C07-10",
+   "part": 2,
+   "ch": 7,
+   "ch_kn": "ನಿಸರ್ಗದಲ್ಲಿ ಉಷ್ಣ ವರ್ಗಾವಣೆ",
+   "ch_en": "Heat Transfer in Nature",
+   "diff": "medium",
+   "q_kn": "ಚಳಿಗಾಲದಲ್ಲಿ ಉಣ್ಣೆಯ ಬಟ್ಟೆ ನಮ್ಮನ್ನು ಬೆಚ್ಚಗಿಡಲು ಕಾರಣ:",
+   "q_en": "Woollen clothes keep us warm in winter because:",
+   "opt_kn": [
+    "ಉಣ್ಣೆ ಉಷ್ಣ ಉತ್ಪಾದಿಸುತ್ತದೆ",
+    "ಉಣ್ಣೆ ಉಷ್ಣದ ಉತ್ತಮ ವಾಹಕ",
+    "ನಾರುಗಳ ನಡುವೆ ಸಿಲುಕಿದ ಗಾಳಿ ಉಷ್ಣದ ದುರ್ಬಲ ವಾಹಕ",
+    "ಉಣ್ಣೆ ಸೂರ್ಯನ ಬೆಳಕು ಹೀರುತ್ತದೆ"
+   ],
+   "opt_en": [
+    "Wool produces heat",
+    "Wool is a good conductor of heat",
+    "Air trapped between the fibres is a poor conductor of heat",
+    "Wool absorbs sunlight"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C07-11",
+   "part": 2,
+   "ch": 7,
+   "ch_kn": "ನಿಸರ್ಗದಲ್ಲಿ ಉಷ್ಣ ವರ್ಗಾವಣೆ",
+   "ch_en": "Heat Transfer in Nature",
+   "diff": "medium",
+   "q_kn": "ಬೇಸಿಗೆಯಲ್ಲಿ ತಿಳಿ ಬಣ್ಣದ ಬಟ್ಟೆ ಧರಿಸಲು ಕಾರಣ:",
+   "q_en": "Light-coloured clothes are preferred in summer because they:",
+   "opt_kn": [
+    "ಹೆಚ್ಚು ಉಷ್ಣ ಹೀರುತ್ತವೆ",
+    "ಭಾರವಾಗಿರುತ್ತವೆ",
+    "ಉಷ್ಣ ಉತ್ಪಾದಿಸುತ್ತವೆ",
+    "ಕಡಿಮೆ ಉಷ್ಣ ಹೀರುತ್ತವೆ"
+   ],
+   "opt_en": [
+    "Absorb more heat",
+    "Are heavier",
+    "Produce heat",
+    "Absorb less heat"
+   ],
+   "ans": "D",
+   "exp_kn": "ಗಾಢ ಬಣ್ಣಗಳು ವಿಕಿರಣ ಉಷ್ಣವನ್ನು ಹೆಚ್ಚು ಹೀರುತ್ತವೆ."
+  },
+  {
+   "id": "7SCI-C07-12",
+   "part": 2,
+   "ch": 7,
+   "ch_kn": "ನಿಸರ್ಗದಲ್ಲಿ ಉಷ್ಣ ವರ್ಗಾವಣೆ",
+   "ch_en": "Heat Transfer in Nature",
+   "diff": "easy",
+   "q_kn": "ನೀರು ಆವಿಯಾಗಿ ಮೇಲೇರಿ, ಮಳೆಯಾಗಿ ಇಳಿದು, ಮತ್ತೆ ಜಲಮೂಲಗಳಿಗೆ ಸೇರುವ ನಿರಂತರ ಚಲನೆ:",
+   "q_en": "The continuous movement of water – evaporating, falling as rain and returning to water bodies – is:",
+   "opt_kn": [
+    "ಜಲಚಕ್ರ",
+    "ಆಹಾರ ಸರಪಳಿ",
+    "ಸಂವಹನ ಪ್ರವಾಹ",
+    "ಸವಕಳಿ"
+   ],
+   "opt_en": [
+    "Water cycle",
+    "Food chain",
+    "Convection current",
+    "Erosion"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C07-13",
+   "part": 2,
+   "ch": 7,
+   "ch_kn": "ನಿಸರ್ಗದಲ್ಲಿ ಉಷ್ಣ ವರ್ಗಾವಣೆ",
+   "ch_en": "Heat Transfer in Nature",
+   "diff": "medium",
+   "q_kn": "ಮಳೆನೀರು ಮಣ್ಣು ಮತ್ತು ಬಂಡೆಗಳ ಮೂಲಕ ನೆಲದೊಳಗೆ ಇಂಗುವ ಪ್ರಕ್ರಿಯೆ:",
+   "q_en": "The process by which rainwater seeps through soil and rocks into the ground is:",
+   "opt_kn": [
+    "ಆವಿಯಾಗುವಿಕೆ",
+    "ಬಾಷ್ಪವಿಸರ್ಜನೆ",
+    "ಘನೀಕರಣ",
+    "ಒಳನುಸುಳುವಿಕೆ"
+   ],
+   "opt_en": [
+    "Evaporation",
+    "Transpiration",
+    "Condensation",
+    "Infiltration"
+   ],
+   "ans": "D",
+   "exp_kn": "ಇದರಿಂದ ಅಂತರ್ಜಲ ಮರುಪೂರಣವಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "7SCI-C07-14",
+   "part": 2,
+   "ch": 7,
+   "ch_kn": "ನಿಸರ್ಗದಲ್ಲಿ ಉಷ್ಣ ವರ್ಗಾವಣೆ",
+   "ch_en": "Heat Transfer in Nature",
+   "diff": "medium",
+   "q_kn": "6ನೇ ಶತಮಾನದಲ್ಲಿ ಉಜ್ಜಯಿನಿಯಲ್ಲಿದ್ದ ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ ಮತ್ತು ಗಣಿತಜ್ಞ:",
+   "q_en": "The 6th-century astronomer and mathematician of Ujjain was:",
+   "opt_kn": [
+    "ಆರ್ಯಭಟ",
+    "ಭಾಸ್ಕರಾಚಾರ್ಯ",
+    "ವರಾಹಮಿಹಿರ",
+    "ಚರಕ"
+   ],
+   "opt_en": [
+    "Aryabhata",
+    "Bhaskaracharya",
+    "Varahamihira",
+    "Charaka"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C07-15",
+   "part": 2,
+   "ch": 7,
+   "ch_kn": "ನಿಸರ್ಗದಲ್ಲಿ ಉಷ್ಣ ವರ್ಗಾವಣೆ",
+   "ch_en": "Heat Transfer in Nature",
+   "diff": "hard",
+   "q_kn": "ಬಿಸಿ ಚಹಾದಲ್ಲಿ ಸ್ಟೀಲ್ ಚಮಚ ಮತ್ತು ಮರದ ಚಮಚ ಇಟ್ಟರೆ ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ:",
+   "q_en": "A steel spoon and a wooden spoon are kept in hot tea. After some time:",
+   "opt_kn": [
+    "ಎರಡರ ಹಿಡಿಕೆಯೂ ಸಮಾನ ಬಿಸಿ",
+    "ಸ್ಟೀಲ್ ಚಮಚದ ಹಿಡಿಕೆ ಹೆಚ್ಚು ಬಿಸಿ",
+    "ಮರದ ಚಮಚದ ಹಿಡಿಕೆ ಹೆಚ್ಚು ಬಿಸಿ",
+    "ಎರಡೂ ತಣ್ಣಗಿರುತ್ತವೆ"
+   ],
+   "opt_en": [
+    "Both handles equally hot",
+    "Handle of the steel spoon is hotter",
+    "Handle of the wooden spoon is hotter",
+    "Both remain cold"
+   ],
+   "ans": "B",
+   "exp_kn": "ಲೋಹ ಉಷ್ಣದ ಉತ್ತಮ ವಾಹಕ."
+  },
+  {
+   "id": "7SCI-C08-01",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
+   "ch_en": "Measurement of Time and Motion",
+   "diff": "easy",
+   "q_kn": "ಕಾಲದ SI ಏಕಮಾನ:",
+   "q_en": "The SI unit of time is:",
+   "opt_kn": [
+    "ಸೆಕೆಂಡ್ (s)",
+    "ಗಂಟೆ",
+    "ನಿಮಿಷ",
+    "ದಿನ"
+   ],
+   "opt_en": [
+    "Second (s)",
+    "Hour",
+    "Minute",
+    "Day"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C08-02",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
+   "ch_en": "Measurement of Time and Motion",
+   "diff": "easy",
+   "q_kn": "ಲೋಲಕವು ಒಂದು ಆಂದೋಲನ ಪೂರ್ಣಗೊಳಿಸಲು ತೆಗೆದುಕೊಳ್ಳುವ ಕಾಲ:",
+   "q_en": "The time taken by a pendulum to complete one oscillation is its:",
+   "opt_kn": [
+    "ಜವ",
+    "ಆಂದೋಲನ ಅವಧಿ",
+    "ದೂರ",
+    "ಆವೃತ್ತಿ ದೂರ"
+   ],
+   "opt_en": [
+    "Speed",
+    "Time period",
+    "Distance",
+    "Amplitude distance"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C08-03",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
+   "ch_en": "Measurement of Time and Motion",
+   "diff": "medium",
+   "q_kn": "ಒಂದು ಲೋಲಕ 20 ಆಂದೋಲನಗಳನ್ನು 32 ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಪೂರ್ಣಗೊಳಿಸುತ್ತದೆ. ಅದರ ಆಂದೋಲನ ಅವಧಿ:",
+   "q_en": "A pendulum completes 20 oscillations in 32 seconds. Its time period is:",
+   "opt_kn": [
+    "0.6 s",
+    "1.6 s",
+    "16 s",
+    "640 s"
+   ],
+   "opt_en": [
+    "0.6 s",
+    "1.6 s",
+    "16 s",
+    "640 s"
+   ],
+   "ans": "B",
+   "exp_kn": "32 ÷ 20 = 1.6 s"
+  },
+  {
+   "id": "7SCI-C08-04",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
+   "ch_en": "Measurement of Time and Motion",
+   "diff": "medium",
+   "q_kn": "ಒಂದು ಸ್ಥಳದಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಉದ್ದದ ಸರಳ ಲೋಲಕದ ಆಂದೋಲನ ಅವಧಿ:",
+   "q_en": "At a given place, the time period of a simple pendulum of fixed length:",
+   "opt_kn": [
+    "ಪ್ರತಿ ಆಂದೋಲನಕ್ಕೂ ಬದಲಾಗುತ್ತದೆ",
+    "ಸೊನ್ನೆಯಾಗುತ್ತದೆ",
+    "ಕ್ರಮೇಣ ಹೆಚ್ಚುತ್ತದೆ",
+    "ಸ್ಥಿರವಾಗಿರುತ್ತದೆ"
+   ],
+   "opt_en": [
+    "Changes every oscillation",
+    "Becomes zero",
+    "Keeps increasing",
+    "Remains constant"
+   ],
+   "ans": "D",
+   "exp_kn": "ಇದೇ ಕಾರಣಕ್ಕೆ ಲೋಲಕವನ್ನು ಗಡಿಯಾರಗಳಲ್ಲಿ ಬಳಸಲಾಯಿತು."
+  },
+  {
+   "id": "7SCI-C08-05",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
+   "ch_en": "Measurement of Time and Motion",
+   "diff": "easy",
+   "q_kn": "ಸರಾಸರಿ ಜವ =",
+   "q_en": "Average speed =",
+   "opt_kn": [
+    "ಒಟ್ಟು ದೂರ ÷ ಒಟ್ಟು ಕಾಲ",
+    "ಒಟ್ಟು ದೂರ × ಒಟ್ಟು ಕಾಲ",
+    "ಒಟ್ಟು ಕಾಲ ÷ ಒಟ್ಟು ದೂರ",
+    "ಒಟ್ಟು ದೂರ + ಒಟ್ಟು ಕಾಲ"
+   ],
+   "opt_en": [
+    "Total distance ÷ total time",
+    "Total distance × total time",
+    "Total time ÷ total distance",
+    "Total distance + total time"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C08-06",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
+   "ch_en": "Measurement of Time and Motion",
+   "diff": "easy",
+   "q_kn": "10 ಸೆಕೆಂಡುಗಳಲ್ಲಿ 150 ಮೀಟರ್ ಕ್ರಮಿಸುವ ಕಾರಿನ ಜವ:",
+   "q_en": "A car covers 150 m in 10 s. Its speed is:",
+   "opt_kn": [
+    "15 m/s",
+    "1.5 m/s",
+    "150 m/s",
+    "1500 m/s"
+   ],
+   "opt_en": [
+    "15 m/s",
+    "1.5 m/s",
+    "150 m/s",
+    "1500 m/s"
+   ],
+   "ans": "A",
+   "exp_kn": "150 ÷ 10 = 15 m/s"
+  },
+  {
+   "id": "7SCI-C08-07",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
+   "ch_en": "Measurement of Time and Motion",
+   "diff": "medium",
+   "q_kn": "ಒಂದು ರೈಲು 3 ಗಂಟೆಗಳಲ್ಲಿ 180 ಕಿಮೀ ಕ್ರಮಿಸುತ್ತದೆ. ಅದೇ ಜವದಲ್ಲಿ 4 ಗಂಟೆಗಳಲ್ಲಿ ಕ್ರಮಿಸುವ ದೂರ:",
+   "q_en": "A train covers 180 km in 3 hours. At the same speed, distance covered in 4 hours is:",
+   "opt_kn": [
+    "200 km",
+    "240 km",
+    "260 km",
+    "720 km"
+   ],
+   "opt_en": [
+    "200 km",
+    "240 km",
+    "260 km",
+    "720 km"
+   ],
+   "ans": "B",
+   "exp_kn": "ಜವ = 60 km/h; 60 × 4 = 240 km"
+  },
+  {
+   "id": "7SCI-C08-08",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
+   "ch_en": "Measurement of Time and Motion",
+   "diff": "hard",
+   "q_kn": "72 km/h ಜವವನ್ನು m/s ನಲ್ಲಿ ಬರೆದರೆ:",
+   "q_en": "72 km/h expressed in m/s is:",
+   "opt_kn": [
+    "7.2 m/s",
+    "20 m/s",
+    "36 m/s",
+    "260 m/s"
+   ],
+   "opt_en": [
+    "7.2 m/s",
+    "20 m/s",
+    "36 m/s",
+    "260 m/s"
+   ],
+   "ans": "B",
+   "exp_kn": "72 × 1000 ÷ 3600 = 20 m/s"
+  },
+  {
+   "id": "7SCI-C08-09",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
+   "ch_en": "Measurement of Time and Motion",
+   "diff": "hard",
+   "q_kn": "ಓಟಗಾರ P 400 m ಅನ್ನು 50 s ನಲ್ಲಿ, ಓಟಗಾರ Q ಅದೇ ದೂರವನ್ನು 40 s ನಲ್ಲಿ ಓಡುತ್ತಾರೆ. ಸರಿಯಾದ ಹೇಳಿಕೆ:",
+   "q_en": "Runner P runs 400 m in 50 s and runner Q runs the same distance in 40 s. Which is correct?",
+   "opt_kn": [
+    "P ಜವ 10 m/s",
+    "Q ಜವ 8 m/s",
+    "Q ಯ ಜವ P ಗಿಂತ 2 m/s ಹೆಚ್ಚು",
+    "ಇಬ್ಬರ ಜವ ಸಮಾನ"
+   ],
+   "opt_en": [
+    "P's speed is 10 m/s",
+    "Q's speed is 8 m/s",
+    "Q is faster than P by 2 m/s",
+    "Both have equal speed"
+   ],
+   "ans": "C",
+   "exp_kn": "P = 8 m/s, Q = 10 m/s"
+  },
+  {
+   "id": "7SCI-C08-10",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
+   "ch_en": "Measurement of Time and Motion",
+   "diff": "medium",
+   "q_kn": "60 km/h ಜವದಲ್ಲಿ 360 km ದೂರ ಕ್ರಮಿಸಲು ಬೇಕಾದ ಕಾಲ:",
+   "q_en": "Time taken to cover 360 km at 60 km/h is:",
+   "opt_kn": [
+    "3 ಗಂಟೆ",
+    "5 ಗಂಟೆ",
+    "6 ಗಂಟೆ",
+    "9 ಗಂಟೆ"
+   ],
+   "opt_en": [
+    "3 hours",
+    "5 hours",
+    "6 hours",
+    "9 hours"
+   ],
+   "ans": "C",
+   "exp_kn": "ಕಾಲ = ದೂರ ÷ ಜವ = 360 ÷ 60"
+  },
+  {
+   "id": "7SCI-C08-11",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
+   "ch_en": "Measurement of Time and Motion",
+   "diff": "medium",
+   "q_kn": "ಸರಳ ರೇಖೆಯಲ್ಲಿ ಸ್ಥಿರ ಜವದಲ್ಲಿ ಚಲಿಸುವ ಕಾಯದ ಚಲನೆ:",
+   "q_en": "Motion of an object moving in a straight line with constant speed is:",
+   "opt_kn": [
+    "ಆಂದೋಲನ ಚಲನೆ",
+    "ಏಕರೂಪವಲ್ಲದ ಚಲನೆ",
+    "ಏಕರೂಪದ ಸರಳ ರೇಖಾ ಚಲನೆ",
+    "ವೃತ್ತೀಯ ಚಲನೆ"
+   ],
+   "opt_en": [
+    "Oscillatory motion",
+    "Non-uniform motion",
+    "Uniform linear motion",
+    "Circular motion"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C08-12",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
+   "ch_en": "Measurement of Time and Motion",
+   "diff": "easy",
+   "q_kn": "ಏಕರೂಪವಲ್ಲದ ಚಲನೆಗೆ ಉದಾಹರಣೆ:",
+   "q_en": "An example of non-uniform motion:",
+   "opt_kn": [
+    "ನೇರ ಹಳಿಯಲ್ಲಿ ಸ್ಥಿರ ಜವದ ರೈಲು",
+    "ನಗರದ ಸಂಚಾರದಲ್ಲಿ ಚಲಿಸುವ ಬಸ್",
+    "ಗಡಿಯಾರದ ಲೋಲಕದ ಅವಧಿ",
+    "ಸ್ಥಿರವಾಗಿ ನಿಂತ ಕಲ್ಲು"
+   ],
+   "opt_en": [
+    "A train at constant speed on a straight track",
+    "A bus in city traffic",
+    "Time period of a clock pendulum",
+    "A stone at rest"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C08-13",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
+   "ch_en": "Measurement of Time and Motion",
+   "diff": "medium",
+   "q_kn": "ಪ್ರಾಚೀನ ಭಾರತದ ಮುಳುಗುವ ಬಟ್ಟಲಿನ ಜಲ ಗಡಿಯಾರ (ಘಟಿಕಾ ಯಂತ್ರ) ಅಳೆಯುತ್ತಿದ್ದ ಒಂದು \"ಘಟಿಕ\" ಎಂದರೆ:",
+   "q_en": "One \"ghatika\", measured by the sinking-bowl water clock (ghatika yantra) of ancient India, equals:",
+   "opt_kn": [
+    "12 ನಿಮಿಷ",
+    "24 ನಿಮಿಷ",
+    "48 ನಿಮಿಷ",
+    "60 ನಿಮಿಷ"
+   ],
+   "opt_en": [
+    "12 minutes",
+    "24 minutes",
+    "48 minutes",
+    "60 minutes"
+   ],
+   "ans": "B",
+   "exp_kn": "ಇದನ್ನು ಮೊದಲು ಆರ್ಯಭಟರು ಉಲ್ಲೇಖಿಸಿದ್ದರು."
+  },
+  {
+   "id": "7SCI-C08-14",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
+   "ch_en": "Measurement of Time and Motion",
+   "diff": "medium",
+   "q_kn": "ಲೋಲಕ ಗಡಿಯಾರವನ್ನು 1656 ರಲ್ಲಿ ಕಂಡುಹಿಡಿದವರು:",
+   "q_en": "The pendulum clock was invented in 1656 by:",
+   "opt_kn": [
+    "ಕ್ರಿಸ್ಟಿಯಾನ್ ಹೈಗೆನ್ಸ್",
+    "ಗೆಲಿಲಿಯೋ ಗೆಲಿಲಿ",
+    "ಐಸಾಕ್ ನ್ಯೂಟನ್",
+    "ಆರ್ಯಭಟ"
+   ],
+   "opt_en": [
+    "Christiaan Huygens",
+    "Galileo Galilei",
+    "Isaac Newton",
+    "Aryabhata"
+   ],
+   "ans": "A",
+   "exp_kn": "ಅವರು ಗೆಲಿಲಿಯೋ ಅವರ ಲೋಲಕ ಸಂಶೋಧನೆಯಿಂದ ಸ್ಫೂರ್ತಿ ಪಡೆದರು."
+  },
+  {
+   "id": "7SCI-C08-15",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ಕಾಲ ಮತ್ತು ಚಲನೆಯ ಅಳತೆ",
+   "ch_en": "Measurement of Time and Motion",
+   "diff": "hard",
+   "q_kn": "ಒಂದು ಕುದುರೆ 18 m/s ಜವದಲ್ಲಿ ಓಡುತ್ತದೆ; ಒಂದು ರೈಲು 72 km/h ಜವದಲ್ಲಿ ಚಲಿಸುತ್ತದೆ. ಸರಿಯಾದ ಹೇಳಿಕೆ:",
+   "q_en": "A horse runs at 18 m/s and a train moves at 72 km/h. Which is correct?",
+   "opt_kn": [
+    "ರೈಲು ಕುದುರೆಗಿಂತ 2 m/s ಹೆಚ್ಚು ವೇಗ",
+    "ಕುದುರೆ ರೈಲಿಗಿಂತ 2 m/s ಹೆಚ್ಚು ವೇಗ",
+    "ಇಬ್ಬರ ಜವ ಸಮಾನ",
+    "ಕುದುರೆ ರೈಲಿನ ಎರಡರಷ್ಟು ವೇಗ"
+   ],
+   "opt_en": [
+    "Train is faster than the horse by 2 m/s",
+    "Horse is faster than the train by 2 m/s",
+    "Both have the same speed",
+    "Horse is twice as fast as the train"
+   ],
+   "ans": "A",
+   "exp_kn": "72 km/h = 72 × 1000 ÷ 3600 = 20 m/s; 20 − 18 = 2 m/s"
+  },
+  {
+   "id": "7SCI-C09-01",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಪ್ರಾಣಿಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Animals",
+   "diff": "easy",
+   "q_kn": "ಜೀರ್ಣನಾಳದಲ್ಲಿ ಆಹಾರ ಸಾಗುವ ಸರಿಯಾದ ಕ್ರಮ:",
+   "q_en": "The correct path of food in the alimentary canal is:",
+   "opt_kn": [
+    "ಬಾಯಿ → ಜಠರ → ಅನ್ನನಾಳ → ಸಣ್ಣ ಕರುಳು → ದೊಡ್ಡ ಕರುಳು",
+    "ಬಾಯಿ → ಅನ್ನನಾಳ → ಜಠರ → ಸಣ್ಣ ಕರುಳು → ದೊಡ್ಡ ಕರುಳು",
+    "ಬಾಯಿ → ಅನ್ನನಾಳ → ದೊಡ್ಡ ಕರುಳು → ಜಠರ → ಸಣ್ಣ ಕರುಳು",
+    "ಬಾಯಿ → ಸಣ್ಣ ಕರುಳು → ಜಠರ → ಅನ್ನನಾಳ → ದೊಡ್ಡ ಕರುಳು"
+   ],
+   "opt_en": [
+    "Mouth → stomach → food pipe → small intestine → large intestine",
+    "Mouth → food pipe → stomach → small intestine → large intestine",
+    "Mouth → food pipe → large intestine → stomach → small intestine",
+    "Mouth → small intestine → stomach → food pipe → large intestine"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C09-02",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಪ್ರಾಣಿಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Animals",
+   "diff": "easy",
+   "q_kn": "ಜೀರ್ಣವಾದ ಆಹಾರ ಪ್ರಧಾನವಾಗಿ ಹೀರಲ್ಪಡುವುದು:",
+   "q_en": "Digested food is mainly absorbed in the:",
+   "opt_kn": [
+    "ಜಠರ",
+    "ಅನ್ನನಾಳ",
+    "ದೊಡ್ಡ ಕರುಳು",
+    "ಸಣ್ಣ ಕರುಳು"
+   ],
+   "opt_en": [
+    "Stomach",
+    "Food pipe",
+    "Large intestine",
+    "Small intestine"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C09-03",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಪ್ರಾಣಿಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Animals",
+   "diff": "medium",
+   "q_kn": "ಜೀರ್ಣವಾಗದ ಆಹಾರದಿಂದ ನೀರು ಮತ್ತು ಕೆಲವು ಲವಣಗಳನ್ನು ಹೀರಿಕೊಳ್ಳುವ ಭಾಗ:",
+   "q_en": "The part that absorbs water and some salts from undigested food is:",
+   "opt_kn": [
+    "ಸಣ್ಣ ಕರುಳು",
+    "ಪಿತ್ತಜನಕಾಂಗ",
+    "ದೊಡ್ಡ ಕರುಳು",
+    "ಜಠರ"
+   ],
+   "opt_en": [
+    "Small intestine",
+    "Liver",
+    "Large intestine",
+    "Stomach"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C09-04",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಪ್ರಾಣಿಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Animals",
+   "diff": "medium",
+   "q_kn": "ಜೀರ್ಣನಾಳಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಗ್ರಂಥಿಗಳ ಸರಿಯಾದ ಜೋಡಿ:",
+   "q_en": "The correct pair of glands associated with the alimentary canal:",
+   "opt_kn": [
+    "ಮೆದುಳು ಮತ್ತು ಹೃದಯ",
+    "ಹೃದಯ ಮತ್ತು ಶ್ವಾಸಕೋಶ",
+    "ಪಿತ್ತಜನಕಾಂಗ ಮತ್ತು ಮೇದೋಜೀರಕ ಗ್ರಂಥಿ",
+    "ಶ್ವಾಸನಾಳ ಮತ್ತು ಗಾಳಿಗೂಡು"
+   ],
+   "opt_en": [
+    "Brain and heart",
+    "Heart and lungs",
+    "Liver and pancreas",
+    "Windpipe and air sacs"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C09-05",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಪ್ರಾಣಿಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Animals",
+   "diff": "medium",
+   "q_kn": "ಹಸು, ಆಡುಗಳು ಭಾಗಶಃ ಜೀರ್ಣವಾದ ಆಹಾರವನ್ನು ಬಾಯಿಗೆ ಮತ್ತೆ ತಂದು ನಿಧಾನವಾಗಿ ಜಗಿಯುವ ಕ್ರಿಯೆ:",
+   "q_en": "Cows and goats bring partly digested food back to the mouth and chew it slowly. This is called:",
+   "opt_kn": [
+    "ನುಂಗುವಿಕೆ",
+    "ಮೆಲುಕು ಹಾಕುವಿಕೆ",
+    "ಹೀರಿಕೆ",
+    "ವಿಸರ್ಜನೆ"
+   ],
+   "opt_en": [
+    "Swallowing",
+    "Rumination (chewing the cud)",
+    "Absorption",
+    "Excretion"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C09-06",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಪ್ರಾಣಿಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Animals",
+   "diff": "hard",
+   "q_kn": "ಜಗಿದ ಚಪಾತಿಗೆ ಅಯೋಡಿನ್ ಹಾಕಿದಾಗ ನೀಲಿ-ಕಪ್ಪು ಬಣ್ಣ ಕಡಿಮೆ ಕಾಣುತ್ತದೆ. ಕಾರಣ:",
+   "q_en": "Chewed chapati shows less blue-black colour with iodine. This is because:",
+   "opt_kn": [
+    "ಲಾಲಾರಸವು ಪಿಷ್ಟವನ್ನು ಸಕ್ಕರೆಯಾಗಿ ವಿಭಜಿಸಿದೆ",
+    "ಚಪಾತಿಯಲ್ಲಿ ಪಿಷ್ಟವೇ ಇಲ್ಲ",
+    "ಅಯೋಡಿನ್ ಹಾಳಾಗಿದೆ",
+    "ಜಗಿದಾಗ ಪಿಷ್ಟ ಹೆಚ್ಚಾಗುತ್ತದೆ"
+   ],
+   "opt_en": [
+    "Saliva has broken down starch into sugar",
+    "Chapati has no starch",
+    "Iodine is spoilt",
+    "Chewing increases starch"
+   ],
+   "ans": "A",
+   "exp_kn": "ಅಯೋಡಿನ್ ಪಿಷ್ಟದೊಂದಿಗೆ ನೀಲಿ-ಕಪ್ಪು ಬಣ್ಣ ನೀಡುತ್ತದೆ."
+  },
+  {
+   "id": "7SCI-C09-07",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಪ್ರಾಣಿಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Animals",
+   "diff": "medium",
+   "q_kn": "ಶ್ವಾಸಕೋಶದಲ್ಲಿ ಆಕ್ಸಿಜನ್ ಮತ್ತು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ವಿನಿಮಯ ನಡೆಯುವ ಸ್ಥಳ:",
+   "q_en": "Exchange of oxygen and carbon dioxide in the lungs takes place in the:",
+   "opt_kn": [
+    "ಶ್ವಾಸನಾಳ",
+    "ಗಂಟಲು",
+    "ನಾಸಿಕ ಮಾರ್ಗ",
+    "ಗಾಳಿಗೂಡುಗಳು"
+   ],
+   "opt_en": [
+    "Windpipe",
+    "Throat",
+    "Nasal passage",
+    "Air sacs (alveoli)"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C09-08",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಪ್ರಾಣಿಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Animals",
+   "diff": "medium",
+   "q_kn": "ಉಸಿರಾಟದ ಚಲನೆ (ಉಚ್ಛ್ವಾಸ–ನಿಶ್ವಾಸ) ಮತ್ತು ಉಸಿರಾಟ (ಶಕ್ತಿ ಬಿಡುಗಡೆ) – ಸರಿಯಾದ ಹೇಳಿಕೆ:",
+   "q_en": "Breathing (inhaling–exhaling) and respiration (release of energy) – the correct statement:",
+   "opt_kn": [
+    "ಎರಡೂ ಭೌತಿಕ ಪ್ರಕ್ರಿಯೆಗಳು",
+    "ಉಸಿರಾಟದ ಚಲನೆ ಭೌತಿಕ; ಉಸಿರಾಟ ರಾಸಾಯನಿಕ",
+    "ಉಸಿರಾಟದ ಚಲನೆ ರಾಸಾಯನಿಕ; ಉಸಿರಾಟ ಭೌತಿಕ",
+    "ಎರಡೂ ಒಂದೇ"
+   ],
+   "opt_en": [
+    "Both are physical processes",
+    "Breathing is physical; respiration is chemical",
+    "Breathing is chemical; respiration is physical",
+    "Both are the same"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C09-09",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಪ್ರಾಣಿಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Animals",
+   "diff": "medium",
+   "q_kn": "ಉಸಿರಾಟದಲ್ಲಿ ಗ್ಲುಕೋಸ್ ವಿಭಜನೆಯಾಗಿ ಉಂಟಾಗುವವು:",
+   "q_en": "In respiration, glucose breaks down to form:",
+   "opt_kn": [
+    "ಆಕ್ಸಿಜನ್ ಮತ್ತು ನೀರು",
+    "ಪಿಷ್ಟ ಮತ್ತು ಆಕ್ಸಿಜನ್",
+    "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್, ನೀರು ಮತ್ತು ಶಕ್ತಿ",
+    "ಪ್ರೋಟೀನ್ ಮತ್ತು ಶಕ್ತಿ"
+   ],
+   "opt_en": [
+    "Oxygen and water",
+    "Starch and oxygen",
+    "Carbon dioxide, water and energy",
+    "Protein and energy"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C09-10",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಪ್ರಾಣಿಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Animals",
+   "diff": "easy",
+   "q_kn": "ಮೀನು ನೀರಿನಲ್ಲಿ ಕರಗಿದ ಆಕ್ಸಿಜನ್ ಪಡೆಯಲು ಬಳಸುವ ಅಂಗ:",
+   "q_en": "Fish use which organ to take in oxygen dissolved in water?",
+   "opt_kn": [
+    "ಶ್ವಾಸಕೋಶ",
+    "ಮೂಗು",
+    "ಚರ್ಮ ಮಾತ್ರ",
+    "ಕಿವಿರುಗಳು"
+   ],
+   "opt_en": [
+    "Lungs",
+    "Nose",
+    "Only skin",
+    "Gills"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C09-11",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಪ್ರಾಣಿಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Animals",
+   "diff": "easy",
+   "q_kn": "ದೇಹದ ಎಲ್ಲಾ ಭಾಗಗಳಿಗೆ ರಕ್ತವನ್ನು ಪಂಪ್ ಮಾಡುವ ಅಂಗ:",
+   "q_en": "The organ that pumps blood to all parts of the body is the:",
+   "opt_kn": [
+    "ಶ್ವಾಸಕೋಶ",
+    "ಹೃದಯ",
+    "ಪಿತ್ತಜನಕಾಂಗ",
+    "ಜಠರ"
+   ],
+   "opt_en": [
+    "Lungs",
+    "Heart",
+    "Liver",
+    "Stomach"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C09-12",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಪ್ರಾಣಿಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Animals",
+   "diff": "hard",
+   "q_kn": "ಸಣ್ಣ ಕರುಳಿನ ಒಳಗೋಡೆಯಲ್ಲಿರುವ ಬೆರಳಿನಂಥ ಸಣ್ಣ ಚಾಚುಗಳ ಮುಖ್ಯ ಉಪಯೋಗ:",
+   "q_en": "The main use of the tiny finger-like projections on the inner wall of the small intestine is to:",
+   "opt_kn": [
+    "ಹೀರಿಕೆಯ ಮೇಲ್ಮೈ ವಿಸ್ತೀರ್ಣ ಹೆಚ್ಚಿಸುವುದು",
+    "ಆಹಾರವನ್ನು ಜಗಿಯುವುದು",
+    "ಪಿತ್ತರಸ ಉತ್ಪಾದನೆ",
+    "ಗಾಳಿ ಸಂಗ್ರಹ"
+   ],
+   "opt_en": [
+    "Increase the surface area for absorption",
+    "Chew food",
+    "Produce bile",
+    "Store air"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C09-13",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಪ್ರಾಣಿಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Animals",
+   "diff": "medium",
+   "q_kn": "ಗುಂಪಿಗೆ ಸೇರದ್ದು:",
+   "q_en": "Odd one out:",
+   "opt_kn": [
+    "ನಾಯಿ",
+    "ಆಡು",
+    "ಎಮ್ಮೆ",
+    "ಹಸು"
+   ],
+   "opt_en": [
+    "Dog",
+    "Goat",
+    "Buffalo",
+    "Cow"
+   ],
+   "ans": "A",
+   "exp_kn": "ಉಳಿದವು ಮೆಲುಕು ಹಾಕುವ ಪ್ರಾಣಿಗಳು."
+  },
+  {
+   "id": "7SCI-C10-01",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಸ್ಯಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Plants",
+   "diff": "easy",
+   "q_kn": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಗೆ ಬೇಕಾದ ಕಚ್ಚಾ ಸಾಮಗ್ರಿಗಳು:",
+   "q_en": "The raw materials for photosynthesis are:",
+   "opt_kn": [
+    "ಆಕ್ಸಿಜನ್ ಮತ್ತು ಗ್ಲುಕೋಸ್",
+    "ಪಿಷ್ಟ ಮತ್ತು ಆಕ್ಸಿಜನ್",
+    "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ಮತ್ತು ನೀರು",
+    "ನೈಟ್ರೋಜನ್ ಮತ್ತು ನೀರು"
+   ],
+   "opt_en": [
+    "Oxygen and glucose",
+    "Starch and oxygen",
+    "Carbon dioxide and water",
+    "Nitrogen and water"
+   ],
+   "ans": "C",
+   "exp_kn": "ಸೂರ್ಯನ ಬೆಳಕು ಮತ್ತು ಕ್ಲೋರೋಫಿಲ್ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ."
+  },
+  {
+   "id": "7SCI-C10-02",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಸ್ಯಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Plants",
+   "diff": "easy",
+   "q_kn": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯಲ್ಲಿ ಬಿಡುಗಡೆಯಾಗುವ ಅನಿಲ:",
+   "q_en": "The gas released during photosynthesis is:",
+   "opt_kn": [
+    "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್",
+    "ಆಕ್ಸಿಜನ್",
+    "ನೈಟ್ರೋಜನ್",
+    "ಹೈಡ್ರೋಜನ್"
+   ],
+   "opt_en": [
+    "Carbon dioxide",
+    "Oxygen",
+    "Nitrogen",
+    "Hydrogen"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C10-03",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಸ್ಯಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Plants",
+   "diff": "easy",
+   "q_kn": "ಸಸ್ಯದ \"ಆಹಾರ ಕಾರ್ಖಾನೆಗಳು\" ಎಂದು ಕರೆಯಲ್ಪಡುವ ಭಾಗ:",
+   "q_en": "Which part is called the \"food factory\" of a plant?",
+   "opt_kn": [
+    "ಬೇರು",
+    "ಕಾಂಡ",
+    "ಹೂ",
+    "ಎಲೆ"
+   ],
+   "opt_en": [
+    "Root",
+    "Stem",
+    "Flower",
+    "Leaf"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C10-04",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಸ್ಯಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Plants",
+   "diff": "medium",
+   "q_kn": "ಎಲೆಗಳ ಮೇಲ್ಮೈಯಲ್ಲಿ ಅನಿಲಗಳ ವಿನಿಮಯಕ್ಕೆ ಸಹಾಯ ಮಾಡುವ ಸೂಕ್ಷ್ಮ ರಂಧ್ರಗಳು:",
+   "q_en": "Tiny pores on leaves that help in exchange of gases are:",
+   "opt_kn": [
+    "ಪತ್ರರಂಧ್ರಗಳು",
+    "ಗಾಳಿಗೂಡುಗಳು",
+    "ಕಿವಿರುಗಳು",
+    "ಬೇರುಕೂದಲುಗಳು"
+   ],
+   "opt_en": [
+    "Stomata",
+    "Air sacs",
+    "Gills",
+    "Root hairs"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C10-05",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಸ್ಯಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Plants",
+   "diff": "medium",
+   "q_kn": "ಬೇರುಗಳಿಂದ ನೀರು ಮತ್ತು ಖನಿಜಗಳನ್ನು ಎಲೆಗಳಿಗೆ ಸಾಗಿಸುವ ಅಂಗಾಂಶ:",
+   "q_en": "The tissue that carries water and minerals from roots to leaves is:",
+   "opt_kn": [
+    "ಫ್ಲೋಯಮ್",
+    "ಪತ್ರರಂಧ್ರ",
+    "ಕ್ಲೋರೋಫಿಲ್",
+    "ಕ್ಸೈಲಮ್"
+   ],
+   "opt_en": [
+    "Phloem",
+    "Stomata",
+    "Chlorophyll",
+    "Xylem"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C10-06",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಸ್ಯಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Plants",
+   "diff": "medium",
+   "q_kn": "ಎಲೆಗಳಲ್ಲಿ ತಯಾರಾದ ಆಹಾರವನ್ನು ಸಸ್ಯದ ಎಲ್ಲಾ ಭಾಗಗಳಿಗೆ ಸಾಗಿಸುವುದು:",
+   "q_en": "Food made in the leaves is carried to all parts of the plant by:",
+   "opt_kn": [
+    "ಕ್ಸೈಲಮ್",
+    "ಫ್ಲೋಯಮ್",
+    "ಬೇರು",
+    "ಪತ್ರರಂಧ್ರ"
+   ],
+   "opt_en": [
+    "Xylem",
+    "Phloem",
+    "Root",
+    "Stomata"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C10-07",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಸ್ಯಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Plants",
+   "diff": "easy",
+   "q_kn": "ಎಲೆಯಲ್ಲಿ ಪಿಷ್ಟ ಇರುವುದನ್ನು ಪರೀಕ್ಷಿಸಲು ಅಯೋಡಿನ್ ಹಾಕಿದಾಗ ಕಾಣುವ ಬಣ್ಣ:",
+   "q_en": "When iodine is added to test starch in a leaf, the colour seen is:",
+   "opt_kn": [
+    "ಕೆಂಪು",
+    "ಹಳದಿ",
+    "ನೀಲಿ-ಕಪ್ಪು",
+    "ಹಸಿರು"
+   ],
+   "opt_en": [
+    "Red",
+    "Yellow",
+    "Blue-black",
+    "Green"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C10-08",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಸ್ಯಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Plants",
+   "diff": "hard",
+   "q_kn": "ಬಿಳಿ-ಹಸಿರು ಮಚ್ಚೆಗಳಿರುವ (ವೈವಿಧ್ಯಮಯ) ಎಲೆಗೆ ಅಯೋಡಿನ್ ಪರೀಕ್ಷೆ ಮಾಡಿದರೆ ನೀಲಿ-ಕಪ್ಪು ಬಣ್ಣ ಕಾಣುವುದು:",
+   "q_en": "In an iodine test on a variegated (green-white) leaf, blue-black colour appears:",
+   "opt_kn": [
+    "ಹಸಿರು ಭಾಗಗಳಲ್ಲಿ ಮಾತ್ರ",
+    "ಬಿಳಿ ಭಾಗಗಳಲ್ಲಿ ಮಾತ್ರ",
+    "ಎಲ್ಲಾ ಭಾಗಗಳಲ್ಲಿ",
+    "ಯಾವ ಭಾಗದಲ್ಲೂ ಇಲ್ಲ"
+   ],
+   "opt_en": [
+    "Only in green parts",
+    "Only in white parts",
+    "In all parts",
+    "In no part"
+   ],
+   "ans": "A",
+   "exp_kn": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಗೆ ಕ್ಲೋರೋಫಿಲ್ ಅಗತ್ಯ."
+  },
+  {
+   "id": "7SCI-C10-09",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಸ್ಯಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Plants",
+   "diff": "medium",
+   "q_kn": "ಸಸ್ಯಗಳು ಉಸಿರಾಡುವುದು:",
+   "q_en": "Plants respire:",
+   "opt_kn": [
+    "ಹಗಲು ಮಾತ್ರ",
+    "ರಾತ್ರಿ ಮಾತ್ರ",
+    "ಹಗಲು ಮತ್ತು ರಾತ್ರಿ ಎರಡೂ",
+    "ಉಸಿರಾಡುವುದೇ ಇಲ್ಲ"
+   ],
+   "opt_en": [
+    "Only during the day",
+    "Only at night",
+    "Both day and night",
+    "Never"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C10-10",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಸ್ಯಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Plants",
+   "diff": "medium",
+   "q_kn": "ಸಸ್ಯಗಳ ಉಸಿರಾಟದಲ್ಲಿ ಬಳಕೆಯಾಗುವ ಮತ್ತು ಬಿಡುಗಡೆಯಾಗುವ ಅನಿಲಗಳು ಕ್ರಮವಾಗಿ:",
+   "q_en": "In plant respiration, the gases used and released are respectively:",
+   "opt_kn": [
+    "ಆಕ್ಸಿಜನ್, ನೈಟ್ರೋಜನ್",
+    "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್, ಆಕ್ಸಿಜನ್",
+    "ನೈಟ್ರೋಜನ್, ಆಕ್ಸಿಜನ್",
+    "ಆಕ್ಸಿಜನ್, ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್"
+   ],
+   "opt_en": [
+    "Oxygen, nitrogen",
+    "Carbon dioxide, oxygen",
+    "Nitrogen, oxygen",
+    "Oxygen, carbon dioxide"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C10-11",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಸ್ಯಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Plants",
+   "diff": "hard",
+   "q_kn": "ಆಲೂಗಡ್ಡೆಯಲ್ಲಿ ಪಿಷ್ಟ ಸಂಗ್ರಹವಾಗಲು ಕಾರಣ:",
+   "q_en": "Starch is found in a potato because:",
+   "opt_kn": [
+    "ಆಲೂಗಡ್ಡೆ ಮಣ್ಣಿನಿಂದ ಪಿಷ್ಟ ಹೀರುತ್ತದೆ",
+    "ಎಲೆಗಳಲ್ಲಿ ತಯಾರಾದ ಆಹಾರ ಫ್ಲೋಯಮ್ ಮೂಲಕ ಬಂದು ಸಂಗ್ರಹವಾಗುತ್ತದೆ",
+    "ಆಲೂಗಡ್ಡೆ ತಾನೇ ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ಮಾಡುತ್ತದೆ",
+    "ಬೇರುಗಳು ಗಾಳಿಯಿಂದ ಪಿಷ್ಟ ತೆಗೆದುಕೊಳ್ಳುತ್ತವೆ"
+   ],
+   "opt_en": [
+    "Potato absorbs starch from soil",
+    "Food made in leaves comes through phloem and is stored",
+    "Potato itself carries out photosynthesis underground",
+    "Roots take starch from air"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C10-12",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಸ್ಯಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Plants",
+   "diff": "medium",
+   "q_kn": "ಸಸ್ಯಗಳ ಉಸಿರಾಟ ಕ್ಷೇತ್ರದಲ್ಲಿ ಗಮನಾರ್ಹ ಕೊಡುಗೆ ನೀಡಿದ ಭಾರತದ ಮಹಿಳಾ ವಿಜ್ಞಾನಿ:",
+   "q_en": "The Indian woman scientist known for notable contributions to plant respiration:",
+   "opt_kn": [
+    "ಕಲ್ಪನಾ ಚಾವ್ಲಾ",
+    "ಡೊರೊಥಿ ಹಾಡ್ಜ್‌ಕಿನ್",
+    "ಕಮಲಾ ಸೊಹೋನಿ",
+    "ಮೇರಿ ಕ್ಯೂರಿ"
+   ],
+   "opt_en": [
+    "Kalpana Chawla",
+    "Dorothy Hodgkin",
+    "Kamala Sohonie",
+    "Marie Curie"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C10-13",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಸ್ಯಗಳಲ್ಲಿ ಜೀವ ಕ್ರಿಯೆಗಳು",
+   "ch_en": "Life Processes in Plants",
+   "diff": "hard",
+   "q_kn": "ಎಲ್ಲಾ ಹಸಿರು ಸಸ್ಯಗಳು ಭೂಮಿಯಿಂದ ಕಣ್ಮರೆಯಾದರೆ ಮೊದಲು ಕಾಣುವ ಪರಿಣಾಮ:",
+   "q_en": "If all green plants disappeared from Earth, the first effect would be:",
+   "opt_kn": [
+    "ಭೂಮಿ ವೇಗವಾಗಿ ತಿರುಗುವುದು",
+    "ಹೆಚ್ಚು ಮಳೆ",
+    "ಪ್ರಾಣಿಗಳಿಗೆ ಆಹಾರ ಮತ್ತು ಆಕ್ಸಿಜನ್ ಕೊರತೆ",
+    "ಯಾವ ಪರಿಣಾಮವೂ ಇಲ್ಲ"
+   ],
+   "opt_en": [
+    "Earth rotating faster",
+    "More rainfall",
+    "Shortage of food and oxygen for animals",
+    "No effect"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C11-01",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬೆಳಕು: ನೆರಳುಗಳು ಮತ್ತು ಪ್ರತಿಫಲನಗಳು",
+   "ch_en": "Light: Shadows and Reflections",
+   "diff": "easy",
+   "q_kn": "ಸ್ವಯಂಪ್ರಕಾಶಿತ (ತಾನೇ ಬೆಳಕು ನೀಡುವ) ವಸ್ತು:",
+   "q_en": "A luminous object (gives its own light) is:",
+   "opt_kn": [
+    "ಚಂದ್ರ",
+    "ಸೂರ್ಯ",
+    "ದರ್ಪಣ",
+    "ಪುಸ್ತಕ"
+   ],
+   "opt_en": [
+    "Moon",
+    "Sun",
+    "Mirror",
+    "Book"
+   ],
+   "ans": "B",
+   "exp_kn": "ಚಂದ್ರನು ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಪ್ರತಿಫಲಿಸುತ್ತಾನೆ."
+  },
+  {
+   "id": "7SCI-C11-02",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬೆಳಕು: ನೆರಳುಗಳು ಮತ್ತು ಪ್ರತಿಫಲನಗಳು",
+   "ch_en": "Light: Shadows and Reflections",
+   "diff": "easy",
+   "q_kn": "ತನ್ನ ಮೂಲಕ ಬೆಳಕನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಹಾದುಹೋಗಲು ಬಿಡುವ ವಸ್ತು:",
+   "q_en": "A material that lets light pass through it completely is:",
+   "opt_kn": [
+    "ಪಾರದರ್ಶಕ",
+    "ಅರೆಪಾರದರ್ಶಕ",
+    "ಅಪಾರದರ್ಶಕ",
+    "ಪ್ರತಿಫಲಕ"
+   ],
+   "opt_en": [
+    "Transparent",
+    "Translucent",
+    "Opaque",
+    "Reflector"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C11-03",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬೆಳಕು: ನೆರಳುಗಳು ಮತ್ತು ಪ್ರತಿಫಲನಗಳು",
+   "ch_en": "Light: Shadows and Reflections",
+   "diff": "medium",
+   "q_kn": "ಬೆಣ್ಣೆ ಕಾಗದ (butter paper) ಯಾವ ರೀತಿಯ ವಸ್ತು?",
+   "q_en": "Butter paper is:",
+   "opt_kn": [
+    "ಪಾರದರ್ಶಕ",
+    "ಸ್ವಯಂಪ್ರಕಾಶಿತ",
+    "ಅಪಾರದರ್ಶಕ",
+    "ಅರೆಪಾರದರ್ಶಕ"
+   ],
+   "opt_en": [
+    "Transparent",
+    "Luminous",
+    "Opaque",
+    "Translucent"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C11-04",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬೆಳಕು: ನೆರಳುಗಳು ಮತ್ತು ಪ್ರತಿಫಲನಗಳು",
+   "ch_en": "Light: Shadows and Reflections",
+   "diff": "easy",
+   "q_kn": "ನೆರಳು ಉಂಟಾಗುವುದು:",
+   "q_en": "A shadow is formed when:",
+   "opt_kn": [
+    "ಅಪಾರದರ್ಶಕ ವಸ್ತು ಬೆಳಕಿನ ಮಾರ್ಗವನ್ನು ತಡೆದಾಗ",
+    "ಪಾರದರ್ಶಕ ವಸ್ತು ಬೆಳಕನ್ನು ಹಾಯಿಸಿದಾಗ",
+    "ಬೆಳಕು ಬಾಗಿದಾಗ",
+    "ಕತ್ತಲೆಯಲ್ಲಿ ಮಾತ್ರ"
+   ],
+   "opt_en": [
+    "An opaque object blocks the path of light",
+    "A transparent object lets light pass",
+    "Light bends",
+    "Only in darkness"
+   ],
+   "ans": "A",
+   "exp_kn": "ಬೆಳಕು ಸರಳ ರೇಖೆಯಲ್ಲಿ ಚಲಿಸುವುದರಿಂದ ನೆರಳು ಉಂಟಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "7SCI-C11-05",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬೆಳಕು: ನೆರಳುಗಳು ಮತ್ತು ಪ್ರತಿಫಲನಗಳು",
+   "ch_en": "Light: Shadows and Reflections",
+   "diff": "medium",
+   "q_kn": "ಕೆಂಪು ಬಣ್ಣದ ಚೆಂಡಿನ ನೆರಳಿನ ಬಣ್ಣ:",
+   "q_en": "The colour of the shadow of a red ball is:",
+   "opt_kn": [
+    "ಕೆಂಪು",
+    "ಕಪ್ಪು (ಗಾಢ)",
+    "ಗುಲಾಬಿ",
+    "ಬಿಳಿ"
+   ],
+   "opt_en": [
+    "Red",
+    "Black (dark)",
+    "Pink",
+    "White"
+   ],
+   "ans": "B",
+   "exp_kn": "ವಸ್ತುವಿನ ಬಣ್ಣ ಯಾವುದೇ ಇರಲಿ, ನೆರಳು ಗಾಢವಾಗಿರುತ್ತದೆ."
+  },
+  {
+   "id": "7SCI-C11-06",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬೆಳಕು: ನೆರಳುಗಳು ಮತ್ತು ಪ್ರತಿಫಲನಗಳು",
+   "ch_en": "Light: Shadows and Reflections",
+   "diff": "medium",
+   "q_kn": "ಪಿನ್‌ಹೋಲ್ ಕ್ಯಾಮೆರಾದಲ್ಲಿ ಉಂಟಾಗುವ ಪ್ರತಿಬಿಂಬ:",
+   "q_en": "The image formed in a pinhole camera is:",
+   "opt_kn": [
+    "ನೇರ",
+    "ಕಾಣುವುದೇ ಇಲ್ಲ",
+    "ಬಣ್ಣರಹಿತ",
+    "ತಲೆಕೆಳಗಾದ"
+   ],
+   "opt_en": [
+    "Upright",
+    "Not visible",
+    "Colourless",
+    "Inverted"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C11-07",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬೆಳಕು: ನೆರಳುಗಳು ಮತ್ತು ಪ್ರತಿಫಲನಗಳು",
+   "ch_en": "Light: Shadows and Reflections",
+   "diff": "medium",
+   "q_kn": "ಸಮತಲ ದರ್ಪಣದಲ್ಲಿ ಎಡ-ಬಲ ಹಿಮ್ಮುಖವಾಗಿ ಕಾಣುವುದನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "Left-right reversal of an image in a plane mirror is called:",
+   "opt_kn": [
+    "ನೆರಳು",
+    "ವಕ್ರೀಭವನ",
+    "ಪಾರ್ಶ್ವ ವಿಪರ್ಯಯ",
+    "ಪ್ರಸರಣ"
+   ],
+   "opt_en": [
+    "Shadow",
+    "Refraction",
+    "Lateral inversion",
+    "Dispersion"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C11-08",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬೆಳಕು: ನೆರಳುಗಳು ಮತ್ತು ಪ್ರತಿಫಲನಗಳು",
+   "ch_en": "Light: Shadows and Reflections",
+   "diff": "hard",
+   "q_kn": "ಆಂಬುಲೆನ್ಸ್‌ನ ಮುಂಭಾಗದಲ್ಲಿ \"AMBULANCE\" ಪದವನ್ನು ಹಿಮ್ಮುಖವಾಗಿ ಬರೆಯಲು ಕಾರಣ:",
+   "q_en": "The word \"AMBULANCE\" is written reversed on the front of an ambulance because:",
+   "opt_kn": [
+    "ಮುಂದಿನ ವಾಹನ ಚಾಲಕರು ಕನ್ನಡಿಯಲ್ಲಿ ಸರಿಯಾಗಿ ಓದಲು",
+    "ಅಲಂಕಾರಕ್ಕಾಗಿ",
+    "ರಾತ್ರಿ ಹೊಳೆಯಲು",
+    "ಕಾನೂನು ಇಲ್ಲದ ಕಾರಣ"
+   ],
+   "opt_en": [
+    "So drivers ahead can read it correctly in their mirrors",
+    "For decoration",
+    "To glow at night",
+    "No rule exists"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C11-09",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬೆಳಕು: ನೆರಳುಗಳು ಮತ್ತು ಪ್ರತಿಫಲನಗಳು",
+   "ch_en": "Light: Shadows and Reflections",
+   "diff": "medium",
+   "q_kn": "ಸಮತಲ ದರ್ಪಣದಿಂದ 2 m ದೂರದಲ್ಲಿ ನಿಂತ ವ್ಯಕ್ತಿ ಮತ್ತು ಅವನ ಪ್ರತಿಬಿಂಬದ ನಡುವಿನ ದೂರ:",
+   "q_en": "A person stands 2 m in front of a plane mirror. Distance between the person and the image is:",
+   "opt_kn": [
+    "1 m",
+    "2 m",
+    "4 m",
+    "8 m"
+   ],
+   "opt_en": [
+    "1 m",
+    "2 m",
+    "4 m",
+    "8 m"
+   ],
+   "ans": "C",
+   "exp_kn": "ಪ್ರತಿಬಿಂಬವು ದರ್ಪಣದ ಹಿಂದೆ ಅಷ್ಟೇ ದೂರದಲ್ಲಿರುತ್ತದೆ: 2 + 2 = 4 m"
+  },
+  {
+   "id": "7SCI-C11-10",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬೆಳಕು: ನೆರಳುಗಳು ಮತ್ತು ಪ್ರತಿಫಲನಗಳು",
+   "ch_en": "Light: Shadows and Reflections",
+   "diff": "easy",
+   "q_kn": "ಎರಡು ಸಮತಲ ದರ್ಪಣಗಳನ್ನು ಬಳಸಿ ಅಡೆತಡೆಯ ಆಚೆಗಿನ ವಸ್ತುಗಳನ್ನು ನೋಡಲು ಬಳಸುವ ಸಾಧನ:",
+   "q_en": "The device that uses two plane mirrors to see objects beyond an obstacle is:",
+   "opt_kn": [
+    "ಕೆಲಿಡೋಸ್ಕೋಪ್",
+    "ಸೂಕ್ಷ್ಮದರ್ಶಕ",
+    "ಪೆರಿಸ್ಕೋಪ್",
+    "ಪಿನ್‌ಹೋಲ್ ಕ್ಯಾಮೆರಾ"
+   ],
+   "opt_en": [
+    "Kaleidoscope",
+    "Microscope",
+    "Periscope",
+    "Pinhole camera"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C11-11",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬೆಳಕು: ನೆರಳುಗಳು ಮತ್ತು ಪ್ರತಿಫಲನಗಳು",
+   "ch_en": "Light: Shadows and Reflections",
+   "diff": "medium",
+   "q_kn": "ದರ್ಪಣಗಳಲ್ಲಿನ ಪುನರಾವರ್ತಿತ ಪ್ರತಿಫಲನದಿಂದ ಸುಂದರ ವಿನ್ಯಾಸಗಳನ್ನು ತೋರಿಸುವ ಆಟಿಕೆ:",
+   "q_en": "A toy that shows beautiful patterns by repeated reflections in mirrors is the:",
+   "opt_kn": [
+    "ಪೆರಿಸ್ಕೋಪ್",
+    "ಕನ್ನಡಕ",
+    "ದೂರದರ್ಶಕ",
+    "ಕೆಲಿಡೋಸ್ಕೋಪ್"
+   ],
+   "opt_en": [
+    "Periscope",
+    "Spectacles",
+    "Telescope",
+    "Kaleidoscope"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C11-12",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬೆಳಕು: ನೆರಳುಗಳು ಮತ್ತು ಪ್ರತಿಫಲನಗಳು",
+   "ch_en": "Light: Shadows and Reflections",
+   "diff": "medium",
+   "q_kn": "ಕರ್ನಾಟಕದ ಸಾಂಪ್ರದಾಯಿಕ ನೆರಳಿನ ಬೊಂಬೆಯಾಟ:",
+   "q_en": "The traditional shadow puppetry of Karnataka is:",
+   "opt_kn": [
+    "ರಾವಣ ಛಾಯಾ",
+    "ತೊಗಲು ಗೊಂಬೆಯಾಟ",
+    "ತೋಲ್ಪಾವಕೂತು",
+    "ಬೊಮ್ಮಲಾಟ್ಟಂ"
+   ],
+   "opt_en": [
+    "Ravana Chhaya",
+    "Togalu Gombeyaata",
+    "Tholpavakoothu",
+    "Bommalattam"
+   ],
+   "ans": "B",
+   "exp_kn": "ರಾವಣ ಛಾಯಾ – ಒಡಿಶಾ, ತೋಲ್ಪಾವಕೂತು – ಕೇರಳ."
+  },
+  {
+   "id": "7SCI-C11-13",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬೆಳಕು: ನೆರಳುಗಳು ಮತ್ತು ಪ್ರತಿಫಲನಗಳು",
+   "ch_en": "Light: Shadows and Reflections",
+   "diff": "hard",
+   "q_kn": "ಬೆಳಕಿನ ಕಿರಣವು ಸಮತಲ ದರ್ಪಣದ ಮೇಲೆ ಲಂಬದೊಂದಿಗೆ 30° ಕೋನದಲ್ಲಿ ಬೀಳುತ್ತದೆ. ಪ್ರತಿಫಲಿತ ಕಿರಣ ಲಂಬದೊಂದಿಗೆ ಮಾಡುವ ಕೋನ:",
+   "q_en": "A ray of light falls on a plane mirror at 30° to the normal. The reflected ray makes an angle with the normal of:",
+   "opt_kn": [
+    "15°",
+    "30°",
+    "60°",
+    "90°"
+   ],
+   "opt_en": [
+    "15°",
+    "30°",
+    "60°",
+    "90°"
+   ],
+   "ans": "B",
+   "exp_kn": "ಪತನ ಕೋನ = ಪ್ರತಿಫಲನ ಕೋನ"
+  },
+  {
+   "id": "7SCI-C11-14",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಬೆಳಕು: ನೆರಳುಗಳು ಮತ್ತು ಪ್ರತಿಫಲನಗಳು",
+   "ch_en": "Light: Shadows and Reflections",
+   "diff": "medium",
+   "q_kn": "ಉದ್ದದ ನೇರ ಕೊಳವೆಯ ಮೂಲಕ ಉರಿಯುವ ಮೇಣದಬತ್ತಿ ಕಾಣುತ್ತದೆ, ಕೊಳವೆಯನ್ನು ಬಾಗಿಸಿದಾಗ ಕಾಣುವುದಿಲ್ಲ. ಇದು ತೋರಿಸುವುದು:",
+   "q_en": "A candle flame is seen through a straight pipe but not when the pipe is bent. This shows that light:",
+   "opt_kn": [
+    "ಬಾಗಿ ಚಲಿಸುತ್ತದೆ",
+    "ಸರಳ ರೇಖೆಯಲ್ಲಿ ಚಲಿಸುತ್ತದೆ",
+    "ಕೊಳವೆಯಲ್ಲಿ ನಿಲ್ಲುತ್ತದೆ",
+    "ಶಬ್ದಕ್ಕಿಂತ ನಿಧಾನ"
+   ],
+   "opt_en": [
+    "Travels along curves",
+    "Travels in a straight line",
+    "Stops in the pipe",
+    "Is slower than sound"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C12-01",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಭೂಮಿ, ಚಂದ್ರ ಮತ್ತು ಸೂರ್ಯ",
+   "ch_en": "Earth, Moon and the Sun",
+   "diff": "easy",
+   "q_kn": "ಭೂಮಿಯು ತನ್ನ ಅಕ್ಷದ ಮೇಲೆ ಒಮ್ಮೆ ಭ್ರಮಿಸಲು ತೆಗೆದುಕೊಳ್ಳುವ ಕಾಲ:",
+   "q_en": "Time taken by the Earth to rotate once on its axis:",
+   "opt_kn": [
+    "ಸುಮಾರು 24 ಗಂಟೆ",
+    "ಸುಮಾರು 1 ವಾರ",
+    "ಸುಮಾರು 1 ತಿಂಗಳು",
+    "ಸುಮಾರು 1 ವರ್ಷ"
+   ],
+   "opt_en": [
+    "About 24 hours",
+    "About 1 week",
+    "About 1 month",
+    "About 1 year"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C12-02",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಭೂಮಿ, ಚಂದ್ರ ಮತ್ತು ಸೂರ್ಯ",
+   "ch_en": "Earth, Moon and the Sun",
+   "diff": "easy",
+   "q_kn": "ಹಗಲು ಮತ್ತು ರಾತ್ರಿ ಉಂಟಾಗಲು ಕಾರಣ:",
+   "q_en": "Day and night are caused by:",
+   "opt_kn": [
+    "ಭೂಮಿಯ ಭ್ರಮಣೆ",
+    "ಭೂಮಿಯ ಪರಿಭ್ರಮಣೆ",
+    "ಚಂದ್ರನ ಚಲನೆ",
+    "ಸೂರ್ಯನ ಭ್ರಮಣೆ"
+   ],
+   "opt_en": [
+    "Rotation of the Earth",
+    "Revolution of the Earth",
+    "Motion of the Moon",
+    "Rotation of the Sun"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C12-03",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಭೂಮಿ, ಚಂದ್ರ ಮತ್ತು ಸೂರ್ಯ",
+   "ch_en": "Earth, Moon and the Sun",
+   "diff": "medium",
+   "q_kn": "ಭೂಮಿ ಭ್ರಮಿಸುವ ದಿಕ್ಕು:",
+   "q_en": "The Earth rotates from:",
+   "opt_kn": [
+    "ಪೂರ್ವದಿಂದ ಪಶ್ಚಿಮಕ್ಕೆ",
+    "ದಕ್ಷಿಣದಿಂದ ಉತ್ತರಕ್ಕೆ",
+    "ಉತ್ತರದಿಂದ ದಕ್ಷಿಣಕ್ಕೆ",
+    "ಪಶ್ಚಿಮದಿಂದ ಪೂರ್ವಕ್ಕೆ"
+   ],
+   "opt_en": [
+    "East to west",
+    "South to north",
+    "North to south",
+    "West to east"
+   ],
+   "ans": "D",
+   "exp_kn": "ಆದ್ದರಿಂದ ಸೂರ್ಯ, ನಕ್ಷತ್ರಗಳು ಪೂರ್ವದಲ್ಲಿ ಉದಯಿಸಿ ಪಶ್ಚಿಮದಲ್ಲಿ ಅಸ್ತಮಿಸುವಂತೆ ಕಾಣುತ್ತವೆ."
+  },
+  {
+   "id": "7SCI-C12-04",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಭೂಮಿ, ಚಂದ್ರ ಮತ್ತು ಸೂರ್ಯ",
+   "ch_en": "Earth, Moon and the Sun",
+   "diff": "easy",
+   "q_kn": "ಭೂಮಿ ಸೂರ್ಯನ ಸುತ್ತ ಒಂದು ಪರಿಭ್ರಮಣೆ ಮುಗಿಸಲು ತೆಗೆದುಕೊಳ್ಳುವ ಕಾಲ:",
+   "q_en": "Time taken by the Earth to complete one revolution around the Sun:",
+   "opt_kn": [
+    "ಸುಮಾರು 1 ದಿನ",
+    "ಸುಮಾರು 1 ತಿಂಗಳು",
+    "ಸುಮಾರು 1 ವರ್ಷ",
+    "ಸುಮಾರು 10 ವರ್ಷ"
+   ],
+   "opt_en": [
+    "About 1 day",
+    "About 1 month",
+    "About 1 year",
+    "About 10 years"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C12-05",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಭೂಮಿ, ಚಂದ್ರ ಮತ್ತು ಸೂರ್ಯ",
+   "ch_en": "Earth, Moon and the Sun",
+   "diff": "medium",
+   "q_kn": "ಭೂಮಿಯ ಮೇಲೆ ಋತುಮಾನಗಳು ಉಂಟಾಗಲು ಮುಖ್ಯ ಕಾರಣ:",
+   "q_en": "Seasons occur on Earth mainly because:",
+   "opt_kn": [
+    "ಭೂಮಿ ಸೂರ್ಯನಿಗೆ ಕೆಲವೊಮ್ಮೆ ಹತ್ತಿರ ಬರುತ್ತದೆ",
+    "ಚಂದ್ರನ ನೆರಳು",
+    "ಭ್ರಮಣ ಅಕ್ಷದ ಓರೆ ಮತ್ತು ಭೂಮಿಯ ಗೋಳಾಕಾರ",
+    "ಮೋಡಗಳು"
+   ],
+   "opt_en": [
+    "The Earth sometimes comes closer to the Sun",
+    "The Moon's shadow",
+    "The tilt of the axis and the spherical shape of the Earth",
+    "Clouds"
+   ],
+   "ans": "C",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C12-06",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಭೂಮಿ, ಚಂದ್ರ ಮತ್ತು ಸೂರ್ಯ",
+   "ch_en": "Earth, Moon and the Sun",
+   "diff": "medium",
+   "q_kn": "ಸೂರ್ಯಗ್ರಹಣ ಉಂಟಾಗುವುದು:",
+   "q_en": "A solar eclipse occurs when:",
+   "opt_kn": [
+    "ಚಂದ್ರ ಸೂರ್ಯ ಮತ್ತು ಭೂಮಿಯ ನಡುವೆ ಬಂದಾಗ",
+    "ಭೂಮಿ ಸೂರ್ಯ ಮತ್ತು ಚಂದ್ರನ ನಡುವೆ ಬಂದಾಗ",
+    "ಸೂರ್ಯ ಭೂಮಿ ಮತ್ತು ಚಂದ್ರನ ನಡುವೆ ಬಂದಾಗ",
+    "ಚಂದ್ರ ಕಾಣದಿರುವಾಗ ಮಾತ್ರ"
+   ],
+   "opt_en": [
+    "The Moon comes between the Sun and the Earth",
+    "The Earth comes between the Sun and the Moon",
+    "The Sun comes between the Earth and the Moon",
+    "Only when the Moon is not visible"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C12-07",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಭೂಮಿ, ಚಂದ್ರ ಮತ್ತು ಸೂರ್ಯ",
+   "ch_en": "Earth, Moon and the Sun",
+   "diff": "medium",
+   "q_kn": "ಚಂದ್ರಗ್ರಹಣ ಉಂಟಾಗುವುದು:",
+   "q_en": "A lunar eclipse occurs when:",
+   "opt_kn": [
+    "ಚಂದ್ರ ಸೂರ್ಯ ಮತ್ತು ಭೂಮಿಯ ನಡುವೆ ಬಂದಾಗ",
+    "ಭೂಮಿ ಸೂರ್ಯ ಮತ್ತು ಚಂದ್ರನ ನಡುವೆ ಬಂದಾಗ",
+    "ಸೂರ್ಯ ಭೂಮಿ ಮತ್ತು ಚಂದ್ರನ ನಡುವೆ ಬಂದಾಗ",
+    "ಅಮಾವಾಸ್ಯೆಯಂದು ಮಾತ್ರ"
+   ],
+   "opt_en": [
+    "The Moon comes between the Sun and the Earth",
+    "The Earth comes between the Sun and the Moon",
+    "The Sun comes between the Earth and the Moon",
+    "Only on new moon day"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C12-08",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಭೂಮಿ, ಚಂದ್ರ ಮತ್ತು ಸೂರ್ಯ",
+   "ch_en": "Earth, Moon and the Sun",
+   "diff": "hard",
+   "q_kn": "ಚಂದ್ರಗ್ರಹಣ ಸಾಧ್ಯವಿರುವುದು:",
+   "q_en": "A lunar eclipse is possible only on:",
+   "opt_kn": [
+    "ಅಮಾವಾಸ್ಯೆ",
+    "ಯಾವುದೇ ದಿನ",
+    "ಹುಣ್ಣಿಮೆ",
+    "ಅಷ್ಟಮಿ"
+   ],
+   "opt_en": [
+    "New moon day",
+    "Any day",
+    "Full moon day",
+    "Eighth day of the lunar month"
+   ],
+   "ans": "C",
+   "exp_kn": "ಆಗ ಮಾತ್ರ ಸೂರ್ಯ–ಭೂಮಿ–ಚಂದ್ರ ಒಂದೇ ರೇಖೆಯಲ್ಲಿ, ಭೂಮಿ ಮಧ್ಯದಲ್ಲಿರುತ್ತದೆ."
+  },
+  {
+   "id": "7SCI-C12-09",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಭೂಮಿ, ಚಂದ್ರ ಮತ್ತು ಸೂರ್ಯ",
+   "ch_en": "Earth, Moon and the Sun",
+   "diff": "medium",
+   "q_kn": "ಸಮಭಾಜಕ ವೃತ್ತದ (ಭೂಮಧ್ಯರೇಖೆ) ಮೇಲೆ ವರ್ಷವಿಡೀ ಹಗಲಿನ ಅವಧಿ ಸುಮಾರು:",
+   "q_en": "On the equator, the length of the day throughout the year is about:",
+   "opt_kn": [
+    "6 ಗಂಟೆ",
+    "12 ಗಂಟೆ",
+    "18 ಗಂಟೆ",
+    "24 ಗಂಟೆ"
+   ],
+   "opt_en": [
+    "6 hours",
+    "12 hours",
+    "18 hours",
+    "24 hours"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C12-10",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಭೂಮಿ, ಚಂದ್ರ ಮತ್ತು ಸೂರ್ಯ",
+   "ch_en": "Earth, Moon and the Sun",
+   "diff": "hard",
+   "q_kn": "ಗುಜರಾತ್ ಮತ್ತು ಜಾರ್ಖಂಡ್ – ಸೂರ್ಯೋದಯ ಕುರಿತು ಸರಿಯಾದ ಹೇಳಿಕೆ:",
+   "q_en": "Gujarat and Jharkhand – the correct statement about sunrise:",
+   "opt_kn": [
+    "ಗುಜರಾತ್‌ನಲ್ಲಿ ಮೊದಲು",
+    "ಜಾರ್ಖಂಡ್‌ನಲ್ಲಿ ಮೊದಲು",
+    "ಎರಡೂ ಕಡೆ ಒಂದೇ ಸಮಯ",
+    "ಋತುವಿನ ಮೇಲೆ ಮಾತ್ರ ಅವಲಂಬಿತ"
+   ],
+   "opt_en": [
+    "Earlier in Gujarat",
+    "Earlier in Jharkhand",
+    "Same time in both",
+    "Depends only on season"
+   ],
+   "ans": "B",
+   "exp_kn": "ಜಾರ್ಖಂಡ್ ಪೂರ್ವದಲ್ಲಿದೆ; ಭೂಮಿ ಪಶ್ಚಿಮದಿಂದ ಪೂರ್ವಕ್ಕೆ ತಿರುಗುತ್ತದೆ."
+  },
+  {
+   "id": "7SCI-C12-11",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಭೂಮಿ, ಚಂದ್ರ ಮತ್ತು ಸೂರ್ಯ",
+   "ch_en": "Earth, Moon and the Sun",
+   "diff": "easy",
+   "q_kn": "ಸೂರ್ಯಗ್ರಹಣವನ್ನು ನೋಡುವಾಗ ಸರಿಯಾದ ಕ್ರಮ:",
+   "q_en": "The right way to watch a solar eclipse is:",
+   "opt_kn": [
+    "ಬರಿಗಣ್ಣಿನಿಂದ ನೇರವಾಗಿ ನೋಡುವುದು",
+    "ಸಾಮಾನ್ಯ ಕನ್ನಡಕ ಧರಿಸಿ ನೋಡುವುದು",
+    "ದೂರದರ್ಶಕದಿಂದ ನೇರವಾಗಿ",
+    "ಸುರಕ್ಷಿತ ಗ್ರಹಣ ವೀಕ್ಷಕ ಕನ್ನಡಕ ಅಥವಾ ಪಿನ್‌ಹೋಲ್ ವಿಧಾನದಿಂದ"
+   ],
+   "opt_en": [
+    "Looking directly with naked eyes",
+    "Wearing ordinary spectacles",
+    "Directly through a telescope",
+    "Using safe eclipse glasses or a pinhole method"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C12-12",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಭೂಮಿ, ಚಂದ್ರ ಮತ್ತು ಸೂರ್ಯ",
+   "ch_en": "Earth, Moon and the Sun",
+   "diff": "medium",
+   "q_kn": "\"ಆಧುನಿಕ ಭಾರತೀಯ ಖಗೋಳವಿಜ್ಞಾನದ ಪಿತಾಮಹ\" ಎಂದು ಹೆಸರಾದವರು:",
+   "q_en": "Who is known as the \"Father of Modern Indian Astronomy\"?",
+   "opt_kn": [
+    "ಎಂ.ಕೆ. ವೈನು ಬಪ್ಪು",
+    "ಸಿ.ವಿ. ರಾಮನ್",
+    "ವಿಕ್ರಮ್ ಸಾರಾಭಾಯ್",
+    "ಹೋಮಿ ಭಾಭಾ"
+   ],
+   "opt_en": [
+    "M.K. Vainu Bappu",
+    "C.V. Raman",
+    "Vikram Sarabhai",
+    "Homi Bhabha"
+   ],
+   "ans": "A",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C12-13",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಭೂಮಿ, ಚಂದ್ರ ಮತ್ತು ಸೂರ್ಯ",
+   "ch_en": "Earth, Moon and the Sun",
+   "diff": "hard",
+   "q_kn": "ಉತ್ತರ ಧ್ರುವದಲ್ಲಿ ಕಂಡುಬರುವ ವಿಶೇಷತೆ:",
+   "q_en": "A special feature observed at the North Pole is:",
+   "opt_kn": [
+    "ಪ್ರತಿದಿನ 12 ಗಂಟೆ ಹಗಲು",
+    "ಸುಮಾರು ಆರು ತಿಂಗಳು ನಿರಂತರ ಬೆಳಕು, ಆರು ತಿಂಗಳು ಕತ್ತಲೆ",
+    "ಯಾವಾಗಲೂ ಕತ್ತಲೆ",
+    "ಯಾವಾಗಲೂ ಹಗಲು"
+   ],
+   "opt_en": [
+    "12 hours of daylight every day",
+    "About six months of continuous light and six months of darkness",
+    "Always dark",
+    "Always daylight"
+   ],
+   "ans": "B",
+   "exp_kn": ""
+  },
+  {
+   "id": "7SCI-C12-14",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಭೂಮಿ, ಚಂದ್ರ ಮತ್ತು ಸೂರ್ಯ",
+   "ch_en": "Earth, Moon and the Sun",
+   "diff": "medium",
+   "q_kn": "ಸೂರ್ಯ, ಚಂದ್ರ ಮತ್ತು ನಕ್ಷತ್ರಗಳು ಪೂರ್ವದಲ್ಲಿ ಉದಯಿಸಿ ಪಶ್ಚಿಮದಲ್ಲಿ ಅಸ್ತಮಿಸುವಂತೆ ಕಾಣಲು ಕಾರಣ:",
+   "q_en": "The Sun, Moon and stars appear to rise in the east and set in the west because:",
+   "opt_kn": [
+    "ಅವು ಭೂಮಿಯ ಸುತ್ತ ಸುತ್ತುತ್ತವೆ",
+    "ಗಾಳಿ ಅವುಗಳನ್ನು ತಳ್ಳುತ್ತದೆ",
+    "ಭೂಮಿ ಚಲಿಸುವುದಿಲ್ಲ",
+    "ಭೂಮಿ ಪಶ್ಚಿಮದಿಂದ ಪೂರ್ವಕ್ಕೆ ಭ್ರಮಿಸುತ್ತದೆ"
+   ],
+   "opt_en": [
+    "They revolve around the Earth",
+    "Wind pushes them",
+    "The Earth does not move",
+    "The Earth rotates from west to east"
+   ],
+   "ans": "D",
+   "exp_kn": ""
+  }
+ ]
+}
