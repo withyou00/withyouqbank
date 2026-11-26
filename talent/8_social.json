@@ -1,0 +1,4687 @@
+{
+ "subject": "social",
+ "class": 8,
+ "source": "8ನೇ ತರಗತಿ ಸಮಾಜ ವಿಜ್ಞಾನ ಭಾಗ-1, ಭಾಗ-2 (2026-27)",
+ "questions": [
+  {
+   "id": "8SS-C01-01",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ಆಧಾರಗಳು",
+   "ch_en": "Sources",
+   "diff": "easy",
+   "q_kn": "ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ದೊರೆತಿರುವ ಮೊದಲ ಶಾಸನ ಯಾವುದು?",
+   "q_en": "Which is the first inscription found in the Kannada language?",
+   "opt_kn": [
+    "ಹಲ್ಮಿಡಿ ಶಾಸನ",
+    "ಐಹೊಳೆ ಶಾಸನ",
+    "ಮಸ್ಕಿ ಶಾಸನ",
+    "ತಾಳಗುಂದ ಶಾಸನ"
+   ],
+   "opt_en": [
+    "Halmidi inscription",
+    "Aihole inscription",
+    "Maski inscription",
+    "Talagunda inscription"
+   ],
+   "ans": "A",
+   "exp_kn": "ಹಲ್ಮಿಡಿ ಶಾಸನ ಕದಂಬ ದೊರೆ ಕಾಕುತ್ಸವರ್ಮನ ಕಾಲದ್ದು."
+  },
+  {
+   "id": "8SS-C01-02",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ಆಧಾರಗಳು",
+   "ch_en": "Sources",
+   "diff": "medium",
+   "q_kn": "ಮೆಗಸ್ತನೀಸನ ಕೃತಿ ಯಾವುದು?",
+   "q_en": "Which work was written by Megasthenes?",
+   "opt_kn": [
+    "ಸಿ-ಯು-ಕಿ",
+    "ಇಂಡಿಕಾ",
+    "ರಾಜತರಂಗಿಣಿ",
+    "ಮುದ್ರಾರಾಕ್ಷಸ"
+   ],
+   "opt_en": [
+    "Si-Yu-Ki",
+    "Indica",
+    "Rajatarangini",
+    "Mudrarakshasa"
+   ],
+   "ans": "B",
+   "exp_kn": "ಇಂಡಿಕಾ ವಿದೇಶೀಯ ಸಾಹಿತ್ಯಿಕ ಆಧಾರ; ಸಿ-ಯು-ಕಿ ಹ್ಯೂಯೆನ್ ತ್ಸಾಂಗನದು."
+  },
+  {
+   "id": "8SS-C01-03",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ಆಧಾರಗಳು",
+   "ch_en": "Sources",
+   "diff": "medium",
+   "q_kn": "ಶಾಸನಗಳು, ನಾಣ್ಯಗಳು, ಸ್ಮಾರಕಗಳು ಯಾವ ಆಧಾರಗಳಿಗೆ ಸೇರಿವೆ?",
+   "q_en": "Inscriptions, coins and monuments belong to which type of sources?",
+   "opt_kn": [
+    "ಸಾಹಿತ್ಯಿಕ ಆಧಾರಗಳು",
+    "ಮೌಖಿಕ ಆಧಾರಗಳು",
+    "ಪ್ರಾಕ್ತನ (ಪುರಾತತ್ವ) ಆಧಾರಗಳು",
+    "ವಿದೇಶೀಯ ಸಾಹಿತ್ಯ"
+   ],
+   "opt_en": [
+    "Literary sources",
+    "Oral sources",
+    "Archaeological sources",
+    "Foreign literature"
+   ],
+   "ans": "C",
+   "exp_kn": "ಉತ್ಖನನ ಮತ್ತು ಸಂಶೋಧನೆಯಿಂದ ದೊರೆತವು ಪ್ರಾಕ್ತನ ಆಧಾರಗಳು."
+  },
+  {
+   "id": "8SS-C01-04",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ಆಧಾರಗಳು",
+   "ch_en": "Sources",
+   "diff": "medium",
+   "q_kn": "ನಾಣ್ಯಗಳ ಸ್ವರೂಪ ಮತ್ತು ಬೆಳವಣಿಗೆಯ ಅಧ್ಯಯನವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The study of coins is called?",
+   "opt_kn": [
+    "ಮಾನವಶಾಸ್ತ್ರ",
+    "ಭೂಕಂಪಶಾಸ್ತ್ರ",
+    "ಶಾಸನಶಾಸ್ತ್ರ",
+    "ನಾಣ್ಯಶಾಸ್ತ್ರ"
+   ],
+   "opt_en": [
+    "Anthropology",
+    "Seismology",
+    "Epigraphy",
+    "Numismatics"
+   ],
+   "ans": "D",
+   "exp_kn": "ನಾಣ್ಯಶಾಸ್ತ್ರ (Numismatics)."
+  },
+  {
+   "id": "8SS-C01-05",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ಆಧಾರಗಳು",
+   "ch_en": "Sources",
+   "diff": "hard",
+   "q_kn": "ಬೆಂಗಳೂರಿನಲ್ಲಿ ದೊರೆತ ರೋಮನ್ ನಾಣ್ಯಗಳು ಏನನ್ನು ತಿಳಿಸುತ್ತವೆ?",
+   "q_en": "What do the Roman coins found in Bengaluru indicate?",
+   "opt_kn": [
+    "ರೋಮನ್ನರು ಬೆಂಗಳೂರನ್ನು ಆಳಿದರು",
+    "ನಾಣ್ಯಗಳನ್ನು ಬೆಂಗಳೂರಿನಲ್ಲಿ ಟಂಕಿಸಲಾಯಿತು",
+    "ಬೆಂಗಳೂರು ರೋಮ್‌ನ ರಾಜಧಾನಿ",
+    "ಸುಮಾರು 2000 ವರ್ಷಗಳ ಹಿಂದೆ ರೋಮ್‌ನೊಂದಿಗೆ ವ್ಯಾಪಾರ ಸಂಪರ್ಕ"
+   ],
+   "opt_en": [
+    "Romans ruled Bengaluru",
+    "Coins were minted in Bengaluru",
+    "Bengaluru was Rome's capital",
+    "Trade contact with Rome about 2000 years ago"
+   ],
+   "ans": "D",
+   "exp_kn": "2000 ವರ್ಷಗಳ ಹಿಂದೆಯೇ ರೋಮ್‌ನೊಂದಿಗೆ ವ್ಯಾಪಾರ ಸಂಪರ್ಕ ಇತ್ತು."
+  },
+  {
+   "id": "8SS-C01-06",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ಆಧಾರಗಳು",
+   "ch_en": "Sources",
+   "diff": "medium",
+   "q_kn": "ಐತಿಹ್ಯಗಳನ್ನು ಬೇರೆ ಯಾವ ಹೆಸರಿನಿಂದ ಕರೆಯುತ್ತಾರೆ?",
+   "q_en": "Legends (aitihya) are also called?",
+   "opt_kn": [
+    "ಸ್ಮಾರಕಗಳು",
+    "ಶಾಸನಗಳು",
+    "ಸ್ಥಳ ಪುರಾಣಗಳು",
+    "ತ್ರಿಪಿಟಕಗಳು"
+   ],
+   "opt_en": [
+    "Monuments",
+    "Inscriptions",
+    "Local legends (sthala puranas)",
+    "Tripitakas"
+   ],
+   "ans": "C",
+   "exp_kn": "ಐತಿಹ್ಯಗಳನ್ನು ಸ್ಥಳ ಪುರಾಣಗಳೆಂದೂ ಕರೆಯುತ್ತಾರೆ."
+  },
+  {
+   "id": "8SS-C01-07",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ಆಧಾರಗಳು",
+   "ch_en": "Sources",
+   "diff": "hard",
+   "q_kn": "ಹೊಂದಿಸಿ: (1) ಕಲ್ಹಣ (2) ಬಾಣಭಟ್ಟ (3) ಶ್ರೀವಿಜಯ – (a) ಕವಿರಾಜಮಾರ್ಗ (b) ರಾಜತರಂಗಿಣಿ (c) ಹರ್ಷಚರಿತ",
+   "q_en": "Match: (1) Kalhana (2) Banabhatta (3) Srivijaya – (a) Kavirajamarga (b) Rajatarangini (c) Harshacharita",
+   "opt_kn": [
+    "1-a, 2-b, 3-c",
+    "1-b, 2-c, 3-a",
+    "1-c, 2-a, 3-b",
+    "1-b, 2-a, 3-c"
+   ],
+   "opt_en": [
+    "1-a, 2-b, 3-c",
+    "1-b, 2-c, 3-a",
+    "1-c, 2-a, 3-b",
+    "1-b, 2-a, 3-c"
+   ],
+   "ans": "B",
+   "exp_kn": "ಕಲ್ಹಣ–ರಾಜತರಂಗಿಣಿ, ಬಾಣಭಟ್ಟ–ಹರ್ಷಚರಿತ, ಶ್ರೀವಿಜಯ–ಕವಿರಾಜಮಾರ್ಗ."
+  },
+  {
+   "id": "8SS-C02-01",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಭರತವರ್ಷ: ಭೌಗೋಳಿಕ ಲಕ್ಷಣಗಳು ಮತ್ತು ಪ್ರಾಗೈತಿಹಾಸಿಕ ಕಾಲ",
+   "ch_en": "Bharatavarsha: Geographical Features and Prehistoric Period",
+   "diff": "easy",
+   "q_kn": "ಪ್ರಸ್ತುತ ಭಾರತದಲ್ಲಿ ಎಷ್ಟು ರಾಜ್ಯಗಳಿವೆ?",
+   "q_en": "How many states are there in India at present?",
+   "opt_kn": [
+    "28",
+    "30",
+    "29",
+    "25"
+   ],
+   "opt_en": [
+    "28",
+    "30",
+    "29",
+    "25"
+   ],
+   "ans": "A",
+   "exp_kn": "28 ರಾಜ್ಯಗಳು ಮತ್ತು ದೆಹಲಿ ಸೇರಿ 8 ಕೇಂದ್ರಾಡಳಿತ ಪ್ರದೇಶಗಳಿವೆ."
+  },
+  {
+   "id": "8SS-C02-02",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಭರತವರ್ಷ: ಭೌಗೋಳಿಕ ಲಕ್ಷಣಗಳು ಮತ್ತು ಪ್ರಾಗೈತಿಹಾಸಿಕ ಕಾಲ",
+   "ch_en": "Bharatavarsha: Geographical Features and Prehistoric Period",
+   "diff": "medium",
+   "q_kn": "ಭಾರತವನ್ನು ಉತ್ತರ ಮತ್ತು ದಖನ್ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸುವ ನದಿ ಯಾವುದು?",
+   "q_en": "Which river divides India into the northern region and the Deccan?",
+   "opt_kn": [
+    "ಗೋದಾವರಿ",
+    "ಕಾವೇರಿ",
+    "ನರ್ಮದಾ",
+    "ಗಂಗಾ"
+   ],
+   "opt_en": [
+    "Godavari",
+    "Kaveri",
+    "Narmada",
+    "Ganga"
+   ],
+   "ans": "C",
+   "exp_kn": "ನರ್ಮದಾ ನದಿ ಮಾಳ್ವ ಪ್ರಸ್ಥಭೂಮಿ ಮತ್ತು ದಖನ್ ಪ್ರಸ್ಥಭೂಮಿಗಳನ್ನು ಬೇರ್ಪಡಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "8SS-C02-03",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಭರತವರ್ಷ: ಭೌಗೋಳಿಕ ಲಕ್ಷಣಗಳು ಮತ್ತು ಪ್ರಾಗೈತಿಹಾಸಿಕ ಕಾಲ",
+   "ch_en": "Bharatavarsha: Geographical Features and Prehistoric Period",
+   "diff": "medium",
+   "q_kn": "ಭಾರತದ ಪೂರ್ವ ಕರಾವಳಿಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+   "q_en": "What is the eastern coast of India called?",
+   "opt_kn": [
+    "ಕೆನರಾ ತೀರ",
+    "ಕೋರಮಂಡಲ ತೀರ ಮತ್ತು ಉತ್ಕಲ ತೀರ",
+    "ಕೊಂಕಣ ತೀರ",
+    "ಮಲಬಾರ್ ತೀರ"
+   ],
+   "opt_en": [
+    "Canara coast",
+    "Coromandel and Utkal coast",
+    "Konkan coast",
+    "Malabar coast"
+   ],
+   "ans": "B",
+   "exp_kn": "ಪಶ್ಚಿಮ ಕರಾವಳಿ – ಕೊಂಕಣ ಮತ್ತು ಮಲಬಾರ್ ತೀರ."
+  },
+  {
+   "id": "8SS-C02-04",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಭರತವರ್ಷ: ಭೌಗೋಳಿಕ ಲಕ್ಷಣಗಳು ಮತ್ತು ಪ್ರಾಗೈತಿಹಾಸಿಕ ಕಾಲ",
+   "ch_en": "Bharatavarsha: Geographical Features and Prehistoric Period",
+   "diff": "easy",
+   "q_kn": "ಮಾನವನು ಲೇಖನ ಕಲೆ ಕಂಡುಹಿಡಿಯುವ ಮೊದಲಿನ ಕಾಲವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The period before humans invented writing is called?",
+   "opt_kn": [
+    "ಪ್ರಾಗೈತಿಹಾಸಿಕ ಕಾಲ",
+    "ಐತಿಹಾಸಿಕ ಕಾಲ",
+    "ಮಧ್ಯಯುಗ",
+    "ಆಧುನಿಕ ಕಾಲ"
+   ],
+   "opt_en": [
+    "Prehistoric period",
+    "Historic period",
+    "Medieval period",
+    "Modern period"
+   ],
+   "ans": "A",
+   "exp_kn": "ಲಿಪಿಯ ಆಧಾರ ಸಿಗದ ಕಾಲ = ಚರಿತ್ರೆಯ ಪೂರ್ವಕಾಲ."
+  },
+  {
+   "id": "8SS-C02-05",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಭರತವರ್ಷ: ಭೌಗೋಳಿಕ ಲಕ್ಷಣಗಳು ಮತ್ತು ಪ್ರಾಗೈತಿಹಾಸಿಕ ಕಾಲ",
+   "ch_en": "Bharatavarsha: Geographical Features and Prehistoric Period",
+   "diff": "medium",
+   "q_kn": "ಮಧ್ಯಶಿಲಾಯುಗದ ಅತಿ ಚಿಕ್ಕ ಆಯುಧಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+   "q_en": "The very small tools of the Mesolithic age are called?",
+   "opt_kn": [
+    "ಕಬ್ಬಿಣದ ಆಯುಧಗಳು",
+    "ನಯಗೊಳಿಸಿದ ಕೊಡಲಿಗಳು",
+    "ಕಂಚಿನ ಆಯುಧಗಳು",
+    "ಸೂಕ್ಷ್ಮ ಶಿಲಾಯುಧಗಳು"
+   ],
+   "opt_en": [
+    "Iron tools",
+    "Polished axes",
+    "Bronze tools",
+    "Microliths"
+   ],
+   "ans": "D",
+   "exp_kn": "ಮಧ್ಯಶಿಲಾಯುಗವನ್ನು ಸೂಕ್ಷ್ಮ ಶಿಲಾಯುಗ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ."
+  },
+  {
+   "id": "8SS-C02-06",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಭರತವರ್ಷ: ಭೌಗೋಳಿಕ ಲಕ್ಷಣಗಳು ಮತ್ತು ಪ್ರಾಗೈತಿಹಾಸಿಕ ಕಾಲ",
+   "ch_en": "Bharatavarsha: Geographical Features and Prehistoric Period",
+   "diff": "hard",
+   "q_kn": "ಪ್ರಾಗೈತಿಹಾಸಿಕ ಕಾಲದ ಸರಿಯಾದ ಕ್ರಮ ಯಾವುದು?",
+   "q_en": "Which is the correct order of the prehistoric periods?",
+   "opt_kn": [
+    "ಮಧ್ಯಶಿಲಾಯುಗ → ಹಳೆಯ ಶಿಲಾಯುಗ → ನವಶಿಲಾಯುಗ",
+    "ಹಳೆಯ ಶಿಲಾಯುಗ → ಮಧ್ಯಶಿಲಾಯುಗ → ನವಶಿಲಾಯುಗ",
+    "ನವಶಿಲಾಯುಗ → ಮಧ್ಯಶಿಲಾಯುಗ → ಹಳೆಯ ಶಿಲಾಯುಗ",
+    "ಹಳೆಯ ಶಿಲಾಯುಗ → ನವಶಿಲಾಯುಗ → ಮಧ್ಯಶಿಲಾಯುಗ"
+   ],
+   "opt_en": [
+    "Mesolithic → Palaeolithic → Neolithic",
+    "Palaeolithic → Mesolithic → Neolithic",
+    "Neolithic → Mesolithic → Palaeolithic",
+    "Palaeolithic → Neolithic → Mesolithic"
+   ],
+   "ans": "B",
+   "exp_kn": "ಹಳೆಯ ಶಿಲಾಯುಗ (12,000 ವರ್ಷಗಳ ಹಿಂದಿನವರೆಗೆ), ಮಧ್ಯಶಿಲಾಯುಗ (12,000–10,000), ನವಶಿಲಾಯುಗ (10,000ರ ನಂತರ)."
+  },
+  {
+   "id": "8SS-C03-01",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಸಿಂಧೂ-ಸರಸ್ವತಿ ನಾಗರಿಕತೆ ಮತ್ತು ವೇದಗಳ ಕಾಲ",
+   "ch_en": "Indus-Saraswati Civilisation and the Vedic Age",
+   "diff": "medium",
+   "q_kn": "1924ರಲ್ಲಿ ‘ಹರಪ್ಪ ನಾಗರಿಕತೆ’ಯ ಶೋಧನೆಯನ್ನು ಜಗತ್ತಿಗೆ ಪ್ರಕಟಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who announced the discovery of the Harappan civilisation to the world in 1924?",
+   "opt_kn": [
+    "ದಯಾರಾಂ ಸಹಾನಿ",
+    "ಆರ್.ಡಿ. ಬ್ಯಾನರ್ಜಿ",
+    "ಸರ್ ಜಾನ್ ಮಾರ್ಷಲ್",
+    "ಚಾರ್ಲ್ಸ್ ಮ್ಯಾಸನ್"
+   ],
+   "opt_en": [
+    "Dayaram Sahni",
+    "R.D. Banerji",
+    "Sir John Marshall",
+    "Charles Masson"
+   ],
+   "ans": "C",
+   "exp_kn": "ಜಾನ್ ಮಾರ್ಷಲ್ 1924ರಲ್ಲಿ ‘ದಿ ಇಲ್ಯೂಸ್ಟ್ರೇಟೆಡ್ ಲಂಡನ್ ನ್ಯೂಸ್’ನಲ್ಲಿ ಪ್ರಕಟಿಸಿದರು."
+  },
+  {
+   "id": "8SS-C03-02",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಸಿಂಧೂ-ಸರಸ್ವತಿ ನಾಗರಿಕತೆ ಮತ್ತು ವೇದಗಳ ಕಾಲ",
+   "ch_en": "Indus-Saraswati Civilisation and the Vedic Age",
+   "diff": "hard",
+   "q_kn": "1921ರಲ್ಲಿ ಮೊಹೆಂಜೊದಾರೊದಲ್ಲಿ ಉತ್ಖನನ ನಡೆಸಿದವರು ಯಾರು?",
+   "q_en": "Who excavated Mohenjo-daro in 1921?",
+   "opt_kn": [
+    "ಆರ್.ಡಿ. ಬ್ಯಾನರ್ಜಿ",
+    "ಅಲೆಗ್ಸಾಂಡರ್ ಕನ್ನಿಂಗ್‌ಹ್ಯಾಂ",
+    "ಜಾನ್ ಮಾರ್ಷಲ್",
+    "ದಯಾರಾಂ ಸಹಾನಿ"
+   ],
+   "opt_en": [
+    "R.D. Banerji",
+    "Alexander Cunningham",
+    "John Marshall",
+    "Dayaram Sahni"
+   ],
+   "ans": "A",
+   "exp_kn": "1920ರಲ್ಲಿ ದಯಾರಾಂ ಸಹಾನಿ ಹರಪ್ಪದಲ್ಲಿ, 1921ರಲ್ಲಿ ಆರ್.ಡಿ. ಬ್ಯಾನರ್ಜಿ ಮೊಹೆಂಜೊದಾರೊದಲ್ಲಿ."
+  },
+  {
+   "id": "8SS-C03-03",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಸಿಂಧೂ-ಸರಸ್ವತಿ ನಾಗರಿಕತೆ ಮತ್ತು ವೇದಗಳ ಕಾಲ",
+   "ch_en": "Indus-Saraswati Civilisation and the Vedic Age",
+   "diff": "easy",
+   "q_kn": "ಹರಪ್ಪ ನಾಗರಿಕತೆಯ ಕಾಲವನ್ನು ಯಾವ ಯುಗ ಎಂದೂ ಕರೆಯಲಾಗಿದೆ?",
+   "q_en": "The Harappan period is also called which age?",
+   "opt_kn": [
+    "ಕಬ್ಬಿಣದ ಯುಗ",
+    "ಹಳೆಯ ಶಿಲಾಯುಗ",
+    "ನವಶಿಲಾಯುಗ",
+    "ಕಂಚಿನ ಯುಗ"
+   ],
+   "opt_en": [
+    "Iron Age",
+    "Palaeolithic Age",
+    "Neolithic Age",
+    "Bronze Age"
+   ],
+   "ans": "D",
+   "exp_kn": "ಹರಪ್ಪ ಕಾಲ ಕಂಚಿನ ಯುಗ."
+  },
+  {
+   "id": "8SS-C03-04",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಸಿಂಧೂ-ಸರಸ್ವತಿ ನಾಗರಿಕತೆ ಮತ್ತು ವೇದಗಳ ಕಾಲ",
+   "ch_en": "Indus-Saraswati Civilisation and the Vedic Age",
+   "diff": "medium",
+   "q_kn": "ಸಿಂಧೂ-ಸರಸ್ವತಿ ನಾಗರಿಕತೆಯ ಮುದ್ರೆಗಳ ಮೇಲಿನ ಲಿಪಿಯನ್ನು ವಿದ್ವಾಂಸರು ಏನೆಂದು ಕರೆದಿದ್ದಾರೆ?",
+   "q_en": "What have scholars called the script on Indus-Saraswati seals?",
+   "opt_kn": [
+    "ಬ್ರಾಹ್ಮೀ ಲಿಪಿ",
+    "ಖರೋಷ್ಠಿ",
+    "ಕ್ಯೂನಿಫಾರ್ಮ್",
+    "ಚಿತ್ರಲಿಪಿ"
+   ],
+   "opt_en": [
+    "Brahmi",
+    "Kharosthi",
+    "Cuneiform",
+    "Pictographic script"
+   ],
+   "ans": "D",
+   "exp_kn": "ಹರಪ್ಪ ಲಿಪಿ ಚಿತ್ರಲಿಪಿ; ಇನ್ನೂ ಓದಲಾಗಿಲ್ಲ."
+  },
+  {
+   "id": "8SS-C03-05",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಸಿಂಧೂ-ಸರಸ್ವತಿ ನಾಗರಿಕತೆ ಮತ್ತು ವೇದಗಳ ಕಾಲ",
+   "ch_en": "Indus-Saraswati Civilisation and the Vedic Age",
+   "diff": "medium",
+   "q_kn": "ಮಳೆನೀರು ಸಂಗ್ರಹಣೆಯ ಉತ್ತಮ ವ್ಯವಸ್ಥೆಗೆ ಹೆಸರಾದ ಹರಪ್ಪ ತಾಣ ಯಾವುದು?",
+   "q_en": "Which Harappan site is known for its excellent rainwater harvesting system?",
+   "opt_kn": [
+    "ಹರಪ್ಪ",
+    "ಧೋಲಾವೀರ",
+    "ಲೋಥಾಲ್",
+    "ಕಾಲಿಬಂಗನ್"
+   ],
+   "opt_en": [
+    "Harappa",
+    "Dholavira",
+    "Lothal",
+    "Kalibangan"
+   ],
+   "ans": "B",
+   "exp_kn": "ಧೋಲಾವೀರದಲ್ಲಿ ಮಳೆನೀರನ್ನು ಯುಕ್ತವಾಗಿ ಸಂಗ್ರಹಿಸುವ ವ್ಯವಸ್ಥೆ ಇತ್ತು."
+  },
+  {
+   "id": "8SS-C03-06",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಸಿಂಧೂ-ಸರಸ್ವತಿ ನಾಗರಿಕತೆ ಮತ್ತು ವೇದಗಳ ಕಾಲ",
+   "ch_en": "Indus-Saraswati Civilisation and the Vedic Age",
+   "diff": "easy",
+   "q_kn": "ಮೊಟ್ಟಮೊದಲ ವೇದ ಯಾವುದು?",
+   "q_en": "Which is the first (oldest) Veda?",
+   "opt_kn": [
+    "ಯಜುರ್ವೇದ",
+    "ಸಾಮವೇದ",
+    "ಋಗ್ವೇದ",
+    "ಅಥರ್ವವೇದ"
+   ],
+   "opt_en": [
+    "Yajurveda",
+    "Samaveda",
+    "Rigveda",
+    "Atharvaveda"
+   ],
+   "ans": "C",
+   "exp_kn": "ಋಗ್ವೇದದಲ್ಲಿ 1028 ಸ್ತೋತ್ರ ಮತ್ತು 10 ಮಂಡಲಗಳಿವೆ."
+  },
+  {
+   "id": "8SS-C03-07",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಸಿಂಧೂ-ಸರಸ್ವತಿ ನಾಗರಿಕತೆ ಮತ್ತು ವೇದಗಳ ಕಾಲ",
+   "ch_en": "Indus-Saraswati Civilisation and the Vedic Age",
+   "diff": "hard",
+   "q_kn": "ಋಗ್ವೇದದಲ್ಲಿ ಎಷ್ಟು ಮಂಡಲಗಳಿವೆ?",
+   "q_en": "How many mandalas are there in the Rigveda?",
+   "opt_kn": [
+    "10",
+    "12",
+    "18",
+    "4"
+   ],
+   "opt_en": [
+    "10",
+    "12",
+    "18",
+    "4"
+   ],
+   "ans": "A",
+   "exp_kn": "ಋಗ್ವೇದ – 1028 ಸ್ತೋತ್ರ, 10 ಮಂಡಲ."
+  },
+  {
+   "id": "8SS-C03-08",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಸಿಂಧೂ-ಸರಸ್ವತಿ ನಾಗರಿಕತೆ ಮತ್ತು ವೇದಗಳ ಕಾಲ",
+   "ch_en": "Indus-Saraswati Civilisation and the Vedic Age",
+   "diff": "medium",
+   "q_kn": "‘ವೇದ’ ಪದವು ‘ವಿದ್’ ಎಂಬ ಪದದಿಂದ ಬಂದಿದೆ. ‘ವಿದ್’ ಎಂದರೆ…",
+   "q_en": "The word \"Veda\" comes from \"vid\". \"Vid\" means…",
+   "opt_kn": [
+    "ಸಂಪತ್ತು",
+    "ನದಿ",
+    "ಯುದ್ಧ",
+    "ಜ್ಞಾನ"
+   ],
+   "opt_en": [
+    "Wealth",
+    "River",
+    "War",
+    "Knowledge"
+   ],
+   "ans": "D",
+   "exp_kn": "ವಿದ್ = ಜ್ಞಾನ."
+  },
+  {
+   "id": "8SS-C04-01",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಜಗತ್ತಿನ ಕೆಲವು ಪ್ರಮುಖ ನಾಗರಿಕತೆಗಳು",
+   "ch_en": "Some Major Civilisations of the World",
+   "diff": "easy",
+   "q_kn": "ಈಜಿಪ್ಟಿನ ನಾಗರಿಕತೆ ಯಾವ ನದಿಯ ದಡದಲ್ಲಿ ಬೆಳೆಯಿತು?",
+   "q_en": "On the banks of which river did the Egyptian civilisation grow?",
+   "opt_kn": [
+    "ಟೈಗ್ರಿಸ್",
+    "ನೈಲ್",
+    "ಹವಾಂಗ್ ಹೊ",
+    "ಸಿಂಧೂ"
+   ],
+   "opt_en": [
+    "Tigris",
+    "Nile",
+    "Huang He",
+    "Indus"
+   ],
+   "ans": "B",
+   "exp_kn": "ನೈಲ್ ನದಿಯಿಂದ ಈಜಿಪ್ಟಿನ ನಾಗರಿಕತೆ ಚಿಗುರೊಡೆಯಿತು."
+  },
+  {
+   "id": "8SS-C04-02",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಜಗತ್ತಿನ ಕೆಲವು ಪ್ರಮುಖ ನಾಗರಿಕತೆಗಳು",
+   "ch_en": "Some Major Civilisations of the World",
+   "diff": "medium",
+   "q_kn": "ಈಜಿಪ್ಟಿನ ರಾಜರನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಿದ್ದರು?",
+   "q_en": "What were the kings of Egypt called?",
+   "opt_kn": [
+    "ಸೀಸರ್",
+    "ಝಾರ್",
+    "ಫ್ಯಾರೋ",
+    "ಸುಲ್ತಾನ್"
+   ],
+   "opt_en": [
+    "Caesar",
+    "Tsar",
+    "Pharaoh",
+    "Sultan"
+   ],
+   "ans": "C",
+   "exp_kn": "ಫ್ಯಾರೋ = ದೊಡ್ಡ ಮನೆಯಲ್ಲಿ ವಾಸಿಸುವ ಮನುಷ್ಯ."
+  },
+  {
+   "id": "8SS-C04-03",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಜಗತ್ತಿನ ಕೆಲವು ಪ್ರಮುಖ ನಾಗರಿಕತೆಗಳು",
+   "ch_en": "Some Major Civilisations of the World",
+   "diff": "medium",
+   "q_kn": "ಈಜಿಪ್ಟಿನವರ ಚಿತ್ರರೂಪದ ಬರವಣಿಗೆಯನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The picture writing of the Egyptians is called?",
+   "opt_kn": [
+    "ಹಿರೋಗ್ಲಿಫಿಕ್ಸ್",
+    "ಬ್ರಾಹ್ಮೀ",
+    "ರೋಮನ್",
+    "ಕ್ಯೂನಿಫಾರ್ಮ್"
+   ],
+   "opt_en": [
+    "Hieroglyphics",
+    "Brahmi",
+    "Roman",
+    "Cuneiform"
+   ],
+   "ans": "A",
+   "exp_kn": "ಹಿರೋಗ್ಲಿಫಿಕ್ಸ್ = ಪವಿತ್ರ ಬರವಣಿಗೆ."
+  },
+  {
+   "id": "8SS-C04-04",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಜಗತ್ತಿನ ಕೆಲವು ಪ್ರಮುಖ ನಾಗರಿಕತೆಗಳು",
+   "ch_en": "Some Major Civilisations of the World",
+   "diff": "medium",
+   "q_kn": "‘ನದಿಗಳ ನಡುವಿನ ನಾಡು’ ಎಂದು ಗ್ರೀಕರು ಕರೆದ ಪ್ರದೇಶ ಯಾವುದು?",
+   "q_en": "Which region did the Greeks call \"the land between the rivers\"?",
+   "opt_kn": [
+    "ಚೀನಾ",
+    "ಈಜಿಪ್ಟ್",
+    "ಮೆಸಪಟೋಮಿಯಾ",
+    "ಗ್ರೀಸ್"
+   ],
+   "opt_en": [
+    "China",
+    "Egypt",
+    "Mesopotamia",
+    "Greece"
+   ],
+   "ans": "C",
+   "exp_kn": "ಟೈಗ್ರಿಸ್–ಯೂಫ್ರೇಟಿಸ್ ನದಿಗಳ ನಡುವಿನ ಪ್ರದೇಶ."
+  },
+  {
+   "id": "8SS-C04-05",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಜಗತ್ತಿನ ಕೆಲವು ಪ್ರಮುಖ ನಾಗರಿಕತೆಗಳು",
+   "ch_en": "Some Major Civilisations of the World",
+   "diff": "medium",
+   "q_kn": "ಸುಮೇರಿಯನ್ನರು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಲಿಪಿ ಯಾವುದು?",
+   "q_en": "Which script was developed by the Sumerians?",
+   "opt_kn": [
+    "ಕ್ಯೂನಿಫಾರ್ಮ್",
+    "ಚಿತ್ರಲಿಪಿ",
+    "ದೇವನಾಗರಿ",
+    "ಹಿರೋಗ್ಲಿಫಿಕ್ಸ್"
+   ],
+   "opt_en": [
+    "Cuneiform",
+    "Pictograph",
+    "Devanagari",
+    "Hieroglyphics"
+   ],
+   "ans": "A",
+   "exp_kn": "ಮೆಸಪಟೋಮಿಯಾದ ಮೊದಲ ಬರವಣಿಗೆ ಕ್ಯೂನಿಫಾರ್ಮ್."
+  },
+  {
+   "id": "8SS-C04-06",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಜಗತ್ತಿನ ಕೆಲವು ಪ್ರಮುಖ ನಾಗರಿಕತೆಗಳು",
+   "ch_en": "Some Major Civilisations of the World",
+   "diff": "medium",
+   "q_kn": "‘ಕಣ್ಣಿಗೆ ಕಣ್ಣು, ಹಲ್ಲಿಗೆ ಹಲ್ಲು’ ಎಂಬ ತತ್ವದ ಕಾನೂನು ಸಂಹಿತೆ ಯಾರದು?",
+   "q_en": "Whose code of law followed \"an eye for an eye, a tooth for a tooth\"?",
+   "opt_kn": [
+    "ಕ್ಲಿಯೋಪಾತ್ರ",
+    "ಹಮ್ಮುರಬಿ",
+    "ಅಲೆಗ್ಸಾಂಡರ್",
+    "ಕ್ವಿನ್ ಷಿಹುವಾಂಗ್ಟಿ"
+   ],
+   "opt_en": [
+    "Cleopatra",
+    "Hammurabi",
+    "Alexander",
+    "Qin Shi Huangdi"
+   ],
+   "ans": "B",
+   "exp_kn": "ಹಮ್ಮುರಬಿ ಸಂಹಿತೆ ಅತ್ಯಂತ ಪುರಾತನ ನಿಯಮಗಳಲ್ಲಿ ಒಂದು."
+  },
+  {
+   "id": "8SS-C04-07",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಜಗತ್ತಿನ ಕೆಲವು ಪ್ರಮುಖ ನಾಗರಿಕತೆಗಳು",
+   "ch_en": "Some Major Civilisations of the World",
+   "diff": "medium",
+   "q_kn": "‘ಚೀನಾದ ದುಗುಡ’ ಎಂದು ಕರೆಯಲ್ಪಡುವ ನದಿ ಯಾವುದು?",
+   "q_en": "Which river is called \"China's Sorrow\"?",
+   "opt_kn": [
+    "ಯೂಫ್ರೇಟಿಸ್",
+    "ಯಾಂಗ್ಟ್ಸಿ",
+    "ನೈಲ್",
+    "ಹವಾಂಗ್ ಹೊ"
+   ],
+   "opt_en": [
+    "Euphrates",
+    "Yangtze",
+    "Nile",
+    "Huang He"
+   ],
+   "ans": "D",
+   "exp_kn": "ಪ್ರವಾಹಗಳಿಂದ ಹವಾಂಗ್ ಹೊ ಚೀನಾದ ದುಗುಡ ಎನಿಸಿದೆ."
+  },
+  {
+   "id": "8SS-C04-08",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಜಗತ್ತಿನ ಕೆಲವು ಪ್ರಮುಖ ನಾಗರಿಕತೆಗಳು",
+   "ch_en": "Some Major Civilisations of the World",
+   "diff": "hard",
+   "q_kn": "ಪ್ರಾಕ್ತನಶಾಸ್ತ್ರದ ಆಧಾರದ ಮೇಲೆ ಚೀನಾದ ಮೊದಲ ರಾಜಮನೆತನ ಯಾವುದು?",
+   "q_en": "According to archaeology, which was the first royal dynasty of China?",
+   "opt_kn": [
+    "ಶಾಂಗ್",
+    "ಚಿಂಗ್",
+    "ಮಿಂಗ್",
+    "ಹ್ಯಾನ್"
+   ],
+   "opt_en": [
+    "Shang",
+    "Qing",
+    "Ming",
+    "Han"
+   ],
+   "ans": "A",
+   "exp_kn": "ಶಾಂಗ್ ಮನೆತನ ಚೀನಾದ ಮೊದಲ ರಾಜಮನೆತನ."
+  },
+  {
+   "id": "8SS-C04-09",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಜಗತ್ತಿನ ಕೆಲವು ಪ್ರಮುಖ ನಾಗರಿಕತೆಗಳು",
+   "ch_en": "Some Major Civilisations of the World",
+   "diff": "easy",
+   "q_kn": "ನಾಲ್ಕು ವರ್ಷಕ್ಕೊಮ್ಮೆ ನಡೆಯುತ್ತಿದ್ದ ಪ್ರಸಿದ್ಧ ಒಲಿಂಪಿಕ್ ಆಟಗಳು ಯಾವ ನಾಗರಿಕತೆಗೆ ಸೇರಿವೆ?",
+   "q_en": "The famous Olympic games held once in four years belong to which civilisation?",
+   "opt_kn": [
+    "ಈಜಿಪ್ಟ್",
+    "ರೋಮನ್",
+    "ಚೀನಾ",
+    "ಗ್ರೀಕ್"
+   ],
+   "opt_en": [
+    "Egyptian",
+    "Roman",
+    "Chinese",
+    "Greek"
+   ],
+   "ans": "D",
+   "exp_kn": "ಒಲಿಂಪಿಕ್ ಆಟಗಳು ಗ್ರೀಕರಿಂದ ಆರಂಭವಾದವು."
+  },
+  {
+   "id": "8SS-C05-01",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಸನಾತನ ಧರ್ಮ",
+   "ch_en": "Sanatana Dharma",
+   "diff": "easy",
+   "q_kn": "‘ಸನಾತನ’ ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+   "q_en": "What does the word \"Sanatana\" mean?",
+   "opt_kn": [
+    "ಹೊಸದು ಮಾತ್ರ",
+    "ಯುದ್ಧ",
+    "ಅತಿ ಪ್ರಾಚೀನ ಮತ್ತು ನಿತ್ಯನೂತನ",
+    "ವಿದೇಶಿ"
+   ],
+   "opt_en": [
+    "Only new",
+    "War",
+    "Very ancient and ever new",
+    "Foreign"
+   ],
+   "ans": "C",
+   "exp_kn": "ಸನಾತನ = ಅತಿ ಪ್ರಾಚೀನ, ನಿತ್ಯನೂತನ."
+  },
+  {
+   "id": "8SS-C05-02",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಸನಾತನ ಧರ್ಮ",
+   "ch_en": "Sanatana Dharma",
+   "diff": "medium",
+   "q_kn": "ಗುರು-ಶಿಷ್ಯ ಪರಂಪರೆಯಲ್ಲಿ ಕೇಳಿ ಉಳಿದು ಬಂದ ಕಾರಣ ವೇದಗಳನ್ನು ಏನೆನ್ನುತ್ತಾರೆ?",
+   "q_en": "As they were preserved by hearing in the guru-shishya tradition, the Vedas are called?",
+   "opt_kn": [
+    "ಸೂತ್ರಗಳು",
+    "ಶ್ರುತಿಗಳು",
+    "ಪುರಾಣಗಳು",
+    "ಸ್ಮೃತಿಗಳು"
+   ],
+   "opt_en": [
+    "Sutras",
+    "Shrutis",
+    "Puranas",
+    "Smritis"
+   ],
+   "ans": "B",
+   "exp_kn": "ಕೇಳಿ ತಿಳಿದ ಜ್ಞಾನ – ಶ್ರುತಿ; ನೆನಪಿಸಿಕೊಂಡದ್ದು – ಸ್ಮೃತಿ."
+  },
+  {
+   "id": "8SS-C05-03",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಸನಾತನ ಧರ್ಮ",
+   "ch_en": "Sanatana Dharma",
+   "diff": "medium",
+   "q_kn": "ಹದಿನೆಂಟು ಸ್ಮೃತಿಗಳಲ್ಲಿ ಅತ್ಯಂತ ಪ್ರಾಚೀನ ಮತ್ತು ಪ್ರಭಾವಶಾಲಿ ಸ್ಮೃತಿ ಯಾವುದು?",
+   "q_en": "Among the eighteen Smritis, which is the most ancient and influential?",
+   "opt_kn": [
+    "ನಾರದ ಸ್ಮೃತಿ",
+    "ಯಾಜ್ಞವಲ್ಕ್ಯ ಸ್ಮೃತಿ",
+    "ಮನುಸ್ಮೃತಿ",
+    "ಪರಾಶರ ಸ್ಮೃತಿ"
+   ],
+   "opt_en": [
+    "Narada Smriti",
+    "Yajnavalkya Smriti",
+    "Manusmriti",
+    "Parashara Smriti"
+   ],
+   "ans": "C",
+   "exp_kn": "ಪಠ್ಯದ ಪ್ರಕಾರ ಮನುಸ್ಮೃತಿ ಅತ್ಯಂತ ಪ್ರಾಚೀನ."
+  },
+  {
+   "id": "8SS-C05-04",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಸನಾತನ ಧರ್ಮ",
+   "ch_en": "Sanatana Dharma",
+   "diff": "medium",
+   "q_kn": "‘ಅಸತೋ ಮಾ ಸದ್ಗಮಯ’ ಶ್ಲೋಕ ಯಾವ ಉಪನಿಷತ್ತಿನದು?",
+   "q_en": "The verse \"Asato ma sadgamaya\" is from which Upanishad?",
+   "opt_kn": [
+    "ಬೃಹದಾರಣ್ಯಕ",
+    "ಕಠ",
+    "ಈಶ",
+    "ಮುಂಡಕ"
+   ],
+   "opt_en": [
+    "Brihadaranyaka",
+    "Katha",
+    "Isha",
+    "Mundaka"
+   ],
+   "ans": "A",
+   "exp_kn": "ಬೃಹದಾರಣ್ಯಕ ಉಪನಿಷತ್ತಿನ ಶ್ಲೋಕ."
+  },
+  {
+   "id": "8SS-C05-05",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಸನಾತನ ಧರ್ಮ",
+   "ch_en": "Sanatana Dharma",
+   "diff": "hard",
+   "q_kn": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ಚಿಕಾಗೋ ಸರ್ವಧರ್ಮ ಸಮ್ಮೇಳನದ ಕೊನೆಯ ದಿನ ಉಪನ್ಯಾಸ ನೀಡಿದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year did Swami Vivekananda speak on the last day of the Chicago Parliament of Religions?",
+   "opt_kn": [
+    "1905",
+    "1920",
+    "1857",
+    "1893"
+   ],
+   "opt_en": [
+    "1905",
+    "1920",
+    "1857",
+    "1893"
+   ],
+   "ans": "D",
+   "exp_kn": "27-9-1893ರಂದು – “ಸಂಘರ್ಷವಲ್ಲ, ಸೌಹಾರ್ದ”."
+  },
+  {
+   "id": "8SS-C06-01",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಜೈನ ಮತ್ತು ಬೌದ್ಧ ಧರ್ಮಗಳು",
+   "ch_en": "Jainism and Buddhism",
+   "diff": "easy",
+   "q_kn": "ಜೈನರ ಮೊದಲ ತೀರ್ಥಂಕರ ಯಾರು?",
+   "q_en": "Who was the first Tirthankara of the Jains?",
+   "opt_kn": [
+    "ಮಹಾವೀರ",
+    "ವೃಷಭನಾಥ",
+    "ನೇಮಿನಾಥ",
+    "ಪಾರ್ಶ್ವನಾಥ"
+   ],
+   "opt_en": [
+    "Mahavira",
+    "Vrishabhanatha",
+    "Neminatha",
+    "Parshvanatha"
+   ],
+   "ans": "B",
+   "exp_kn": "ವೃಷಭನಾಥ ಮೊದಲ, ಪಾರ್ಶ್ವನಾಥ 23ನೇ, ಮಹಾವೀರ 24ನೇ ತೀರ್ಥಂಕರ."
+  },
+  {
+   "id": "8SS-C06-02",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಜೈನ ಮತ್ತು ಬೌದ್ಧ ಧರ್ಮಗಳು",
+   "ch_en": "Jainism and Buddhism",
+   "diff": "medium",
+   "q_kn": "ವರ್ಧಮಾನ ಮಹಾವೀರ ಜನಿಸಿದ ಸ್ಥಳ ಯಾವುದು?",
+   "q_en": "Where was Vardhamana Mahavira born?",
+   "opt_kn": [
+    "ಸಾರನಾಥ",
+    "ವೈಶಾಲಿಯ ಕುಂಡಲಗ್ರಾಮ",
+    "ಕುಶಿನಗರ",
+    "ಲುಂಬಿನಿ"
+   ],
+   "opt_en": [
+    "Sarnath",
+    "Kundalagrama near Vaishali",
+    "Kushinagar",
+    "Lumbini"
+   ],
+   "ans": "B",
+   "exp_kn": "ವೈಶಾಲಿಯ ಕುಂಡಲಗ್ರಾಮದಲ್ಲಿ ಜನಿಸಿದನು."
+  },
+  {
+   "id": "8SS-C06-03",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಜೈನ ಮತ್ತು ಬೌದ್ಧ ಧರ್ಮಗಳು",
+   "ch_en": "Jainism and Buddhism",
+   "diff": "medium",
+   "q_kn": "‘ಜಿನ’ ಎಂದರೆ…",
+   "q_en": "\"Jina\" means…",
+   "opt_kn": [
+    "ಯೋಧ",
+    "ಜ್ಞಾನೋದಯ ಪಡೆದವನು",
+    "ಎಲ್ಲವನ್ನು ಜಯಿಸಿದವನು",
+    "ರಾಜ"
+   ],
+   "opt_en": [
+    "Warrior",
+    "Enlightened one",
+    "One who has conquered all",
+    "King"
+   ],
+   "ans": "C",
+   "exp_kn": "ಜಿನನ ಅನುಯಾಯಿಗಳು ಜೈನರು."
+  },
+  {
+   "id": "8SS-C06-04",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಜೈನ ಮತ್ತು ಬೌದ್ಧ ಧರ್ಮಗಳು",
+   "ch_en": "Jainism and Buddhism",
+   "diff": "medium",
+   "q_kn": "ಬಿಳಿ ಉಡುಪು ಧರಿಸುವ ಜೈನ ಮುನಿಗಳನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "Jain monks who wear white clothes are called?",
+   "opt_kn": [
+    "ಶ್ವೇತಾಂಬರರು",
+    "ದಿಗಂಬರರು",
+    "ಭಿಕ್ಷುಗಳು",
+    "ಶ್ರಮಣರು ಮಾತ್ರ"
+   ],
+   "opt_en": [
+    "Shvetambaras",
+    "Digambaras",
+    "Bhikshus",
+    "Only Shramanas"
+   ],
+   "ans": "A",
+   "exp_kn": "ಶ್ವೇತ = ಬಿಳಿ."
+  },
+  {
+   "id": "8SS-C06-05",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಜೈನ ಮತ್ತು ಬೌದ್ಧ ಧರ್ಮಗಳು",
+   "ch_en": "Jainism and Buddhism",
+   "diff": "medium",
+   "q_kn": "ಬುದ್ಧನು ತನ್ನ ಮೊದಲ ಬೋಧನೆಯನ್ನು ಎಲ್ಲಿ ಮಾಡಿದನು?",
+   "q_en": "Where did the Buddha give his first sermon?",
+   "opt_kn": [
+    "ಕುಶಿನಗರ",
+    "ಬೋಧಗಯಾ",
+    "ಲುಂಬಿನಿ",
+    "ಸಾರನಾಥ"
+   ],
+   "opt_en": [
+    "Kushinagar",
+    "Bodh Gaya",
+    "Lumbini",
+    "Sarnath"
+   ],
+   "ans": "D",
+   "exp_kn": "ವಾರಾಣಸಿ ಬಳಿಯ ಸಾರನಾಥದ ಜಿಂಕೆವನದಲ್ಲಿ."
+  },
+  {
+   "id": "8SS-C06-06",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಜೈನ ಮತ್ತು ಬೌದ್ಧ ಧರ್ಮಗಳು",
+   "ch_en": "Jainism and Buddhism",
+   "diff": "medium",
+   "q_kn": "ಬುದ್ಧನ ಮೊದಲ ಬೋಧನೆಯನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗಿದೆ?",
+   "q_en": "What is the Buddha's first sermon called?",
+   "opt_kn": [
+    "ತ್ರಿರತ್ನ",
+    "ಮಹಾಭಿನಿಷ್ಕ್ರಮಣ",
+    "ಧರ್ಮಚಕ್ರ ಪ್ರವರ್ತನ",
+    "ಮಹಾಪರಿನಿರ್ವಾಣ"
+   ],
+   "opt_en": [
+    "Triratna",
+    "Mahabhinishkramana",
+    "Dharmachakra Pravartana",
+    "Mahaparinirvana"
+   ],
+   "ans": "C",
+   "exp_kn": "ಬುದ್ಧನ ಮರಣ – ಮಹಾಪರಿನಿರ್ವಾಣ."
+  },
+  {
+   "id": "8SS-C06-07",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಜೈನ ಮತ್ತು ಬೌದ್ಧ ಧರ್ಮಗಳು",
+   "ch_en": "Jainism and Buddhism",
+   "diff": "medium",
+   "q_kn": "ಬೌದ್ಧ ಧರ್ಮದ ಅಷ್ಟಾಂಗ ಮಾರ್ಗವನ್ನು ಏನೆಂದು ಕರೆಯುವರು?",
+   "q_en": "The Eightfold Path of Buddhism is called?",
+   "opt_kn": [
+    "ಪಂಚಪ್ರತಿಜ್ಞೆ",
+    "ಮಧ್ಯಮ ಪಥ",
+    "ತ್ರಿರತ್ನ",
+    "ಧಮ್ಮ"
+   ],
+   "opt_en": [
+    "Five vows",
+    "Middle Path",
+    "Triratna",
+    "Dhamma"
+   ],
+   "ans": "B",
+   "exp_kn": "ಅಷ್ಟಾಂಗ ಮಾರ್ಗ = ಮಧ್ಯಮ ಪಥ."
+  },
+  {
+   "id": "8SS-C06-08",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ಜೈನ ಮತ್ತು ಬೌದ್ಧ ಧರ್ಮಗಳು",
+   "ch_en": "Jainism and Buddhism",
+   "diff": "easy",
+   "q_kn": "ಕನ್ನಡದ ಯಾವ ಕವಿಗಳು ಜೈನರಾಗಿದ್ದರು?",
+   "q_en": "Which Kannada poets were Jains?",
+   "opt_kn": [
+    "ಬಸವಣ್ಣ, ಅಲ್ಲಮ",
+    "ಪುರಂದರದಾಸ, ಕನಕದಾಸ",
+    "ಕುಮಾರವ್ಯಾಸ, ಹರಿಹರ",
+    "ಪಂಪ, ರನ್ನ, ಪೊನ್ನ, ಜನ್ನ"
+   ],
+   "opt_en": [
+    "Basavanna, Allama",
+    "Purandaradasa, Kanakadasa",
+    "Kumaravyasa, Harihara",
+    "Pampa, Ranna, Ponna, Janna"
+   ],
+   "ans": "D",
+   "exp_kn": "ಪಂಪ, ರನ್ನ, ಪೊನ್ನ, ಜನ್ನ ಜೈನ ಕವಿಗಳು."
+  },
+  {
+   "id": "8SS-C07-01",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ರಾಜ್ಯಶಾಸ್ತ್ರದ ಅರ್ಥ ಮತ್ತು ಪ್ರಾಮುಖ್ಯತೆ",
+   "ch_en": "Meaning and Importance of Political Science",
+   "diff": "easy",
+   "q_kn": "“ರಾಜ್ಯಶಾಸ್ತ್ರದ ಪಿತಾಮಹ” ಯಾರು?",
+   "q_en": "Who is the \"Father of Political Science\"?",
+   "opt_kn": [
+    "ಅರಿಸ್ಟಾಟಲ್",
+    "ಆಗಸ್ಟ್ ಕಾಮ್ಟೆ",
+    "ಕೌಟಿಲ್ಯ",
+    "ಪ್ಲೇಟೋ"
+   ],
+   "opt_en": [
+    "Aristotle",
+    "Auguste Comte",
+    "Kautilya",
+    "Plato"
+   ],
+   "ans": "A",
+   "exp_kn": "ಅರಿಸ್ಟಾಟಲ್ ರಾಜ್ಯಶಾಸ್ತ್ರವನ್ನು ಕ್ರಮಬದ್ಧಗೊಳಿಸಿದರು."
+  },
+  {
+   "id": "8SS-C07-02",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ರಾಜ್ಯಶಾಸ್ತ್ರದ ಅರ್ಥ ಮತ್ತು ಪ್ರಾಮುಖ್ಯತೆ",
+   "ch_en": "Meaning and Importance of Political Science",
+   "diff": "medium",
+   "q_kn": "‘ರಿಪಬ್ಲಿಕ್’ ಗ್ರಂಥದ ಕರ್ತೃ ಯಾರು?",
+   "q_en": "Who wrote \"The Republic\"?",
+   "opt_kn": [
+    "ಆಡಂ ಸ್ಮಿತ್",
+    "ಪ್ಲೇಟೋ",
+    "ಕೌಟಿಲ್ಯ",
+    "ಅರಿಸ್ಟಾಟಲ್"
+   ],
+   "opt_en": [
+    "Adam Smith",
+    "Plato",
+    "Kautilya",
+    "Aristotle"
+   ],
+   "ans": "B",
+   "exp_kn": "ಪ್ಲೇಟೋ ಮೊದಲ ಬಾರಿಗೆ ರಾಜ್ಯ ಮತ್ತು ಸರ್ಕಾರದ ಸ್ವರೂಪ ಚರ್ಚಿಸಿದರು."
+  },
+  {
+   "id": "8SS-C07-03",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ರಾಜ್ಯಶಾಸ್ತ್ರದ ಅರ್ಥ ಮತ್ತು ಪ್ರಾಮುಖ್ಯತೆ",
+   "ch_en": "Meaning and Importance of Political Science",
+   "diff": "medium",
+   "q_kn": "ರಾಜ್ಯಶಾಸ್ತ್ರ ಕುರಿತ ಪ್ರಪಂಚದ ಮೊದಲ ಗ್ರಂಥ ‘ಪಾಲಿಟಿಕ್ಸ್’ ರಚಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who wrote \"Politics\", the world's first book on political science?",
+   "opt_kn": [
+    "ಕೌಟಿಲ್ಯ",
+    "ಸಾಕ್ರೆಟಿಸ್",
+    "ಅರಿಸ್ಟಾಟಲ್",
+    "ಪ್ಲೇಟೋ"
+   ],
+   "opt_en": [
+    "Kautilya",
+    "Socrates",
+    "Aristotle",
+    "Plato"
+   ],
+   "ans": "C",
+   "exp_kn": "ಅರಿಸ್ಟಾಟಲ್‌ನ ‘ಪಾಲಿಟಿಕ್ಸ್’."
+  },
+  {
+   "id": "8SS-C07-04",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ರಾಜ್ಯಶಾಸ್ತ್ರದ ಅರ್ಥ ಮತ್ತು ಪ್ರಾಮುಖ್ಯತೆ",
+   "ch_en": "Meaning and Importance of Political Science",
+   "diff": "medium",
+   "q_kn": "‘ಪಾಲಿಟಿಕ್ಸ್’ ಪದ ಯಾವ ಗ್ರೀಕ್ ಪದದಿಂದ ಬಂದಿದೆ?",
+   "q_en": "The word \"Politics\" comes from which Greek word?",
+   "opt_kn": [
+    "ಡೆಮಾಸ್",
+    "ಓಕೊಸ್",
+    "ಲೋಗೋಸ್",
+    "ಪೋಲಿಸ್ (ನಗರರಾಜ್ಯ)"
+   ],
+   "opt_en": [
+    "Demos",
+    "Oikos",
+    "Logos",
+    "Polis (city-state)"
+   ],
+   "ans": "D",
+   "exp_kn": "ಪೋಲಿಸ್ = ನಗರರಾಜ್ಯ."
+  },
+  {
+   "id": "8SS-C08-01",
+   "part": 1,
+   "ch": 8,
+   "ch_kn": "ಪೌರ ಮತ್ತು ಪೌರತ್ವ",
+   "ch_en": "Citizen and Citizenship",
+   "diff": "medium",
+   "q_kn": "ಭಾರತದಲ್ಲಿ ಪೌರತ್ವ ಕಾಯಿದೆ ಜಾರಿಗೆ ಬಂದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year was the Citizenship Act passed in India?",
+   "opt_kn": [
+    "1955",
+    "1950",
+    "1986",
+    "1947"
+   ],
+   "opt_en": [
+    "1955",
+    "1950",
+    "1986",
+    "1947"
+   ],
+   "ans": "A",
+   "exp_kn": "1955ರ ಕಾಯಿದೆಗೆ 1986 ಮತ್ತು 2019ರಲ್ಲಿ ತಿದ್ದುಪಡಿ ತರಲಾಗಿದೆ."
+  },
+  {
+   "id": "8SS-C08-02",
+   "part": 1,
+   "ch": 8,
+   "ch_kn": "ಪೌರ ಮತ್ತು ಪೌರತ್ವ",
+   "ch_en": "Citizen and Citizenship",
+   "diff": "medium",
+   "q_kn": "26 ಜನವರಿ 1950ರಿಂದ ಭಾರತದಲ್ಲಿ ಜನಿಸಿದವರು ಪಡೆಯುವ ಪೌರತ್ವ ಯಾವುದು?",
+   "q_en": "Citizenship acquired by those born in India from 26 January 1950 is?",
+   "opt_kn": [
+    "ನೋಂದಣಿ ಪೌರತ್ವ",
+    "ಜನ್ಮದತ್ತ ಪೌರತ್ವ",
+    "ದೇಶೀಕರಣ ಪೌರತ್ವ",
+    "ರಕ್ತಸಂಬಂಧ ಪೌರತ್ವ"
+   ],
+   "opt_en": [
+    "By registration",
+    "Citizenship by birth",
+    "By naturalisation",
+    "Citizenship by descent"
+   ],
+   "ans": "B",
+   "exp_kn": "ಭಾರತದಲ್ಲಿ ಜನ್ಮ ಪಡೆದವರು ಜನ್ಮದತ್ತವಾಗಿ ಪೌರರಾಗುತ್ತಾರೆ."
+  },
+  {
+   "id": "8SS-C08-03",
+   "part": 1,
+   "ch": 8,
+   "ch_kn": "ಪೌರ ಮತ್ತು ಪೌರತ್ವ",
+   "ch_en": "Citizen and Citizenship",
+   "diff": "medium",
+   "q_kn": "ತಾತ್ಕಾಲಿಕವಾಗಿ ಬೇರೊಂದು ದೇಶದಲ್ಲಿ ನೆಲೆಸಿರುವ ಇನ್ನೊಂದು ದೇಶದ ಪೌರನನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "A citizen of one country staying temporarily in another country is called?",
+   "opt_kn": [
+    "ವಿದೇಶಿ",
+    "ಪೌರ",
+    "ಮತದಾರ",
+    "ಪ್ರಜೆ"
+   ],
+   "opt_en": [
+    "Foreigner",
+    "Citizen",
+    "Voter",
+    "Subject"
+   ],
+   "ans": "A",
+   "exp_kn": "ಶಾಶ್ವತವಾಗಿ ನೆಲೆಸಿರುವವರು ಪೌರರು; ತಾತ್ಕಾಲಿಕವಾಗಿರುವವರು ವಿದೇಶಿಯರು."
+  },
+  {
+   "id": "8SS-C08-04",
+   "part": 1,
+   "ch": 8,
+   "ch_kn": "ಪೌರ ಮತ್ತು ಪೌರತ್ವ",
+   "ch_en": "Citizen and Citizenship",
+   "diff": "hard",
+   "q_kn": "ಫ್ರಾನ್ಸ್ ದೇಶದ ಪೌರತ್ವ ಪಡೆಯಲು ಬೇಕಾದ ನಿರಂತರ ವಾಸದ ಅವಧಿ ಎಷ್ಟು?",
+   "q_en": "What is the continuous residence period required for French citizenship?",
+   "opt_kn": [
+    "7 ವರ್ಷ",
+    "12 ವರ್ಷ",
+    "5 ವರ್ಷ",
+    "10 ವರ್ಷ"
+   ],
+   "opt_en": [
+    "7 years",
+    "12 years",
+    "5 years",
+    "10 years"
+   ],
+   "ans": "D",
+   "exp_kn": "ಅಮೆರಿಕ ಮತ್ತು ಇಂಗ್ಲೆಂಡ್‌ನಲ್ಲಿ 5 ವರ್ಷ; ಫ್ರಾನ್ಸ್‌ನಲ್ಲಿ 10 ವರ್ಷ."
+  },
+  {
+   "id": "8SS-C09-01",
+   "part": 1,
+   "ch": 9,
+   "ch_kn": "ಮಾನವ ಮತ್ತು ಸಮಾಜ",
+   "ch_en": "Man and Society",
+   "diff": "easy",
+   "q_kn": "“ಸಮಾಜಶಾಸ್ತ್ರದ ಪಿತಾಮಹ” ಯಾರು?",
+   "q_en": "Who is the \"Father of Sociology\"?",
+   "opt_kn": [
+    "ಪ್ಲೇಟೋ",
+    "ಆಡಂ ಸ್ಮಿತ್",
+    "ಆಗಸ್ಟ್ ಕಾಮ್ಟೆ",
+    "ಅರಿಸ್ಟಾಟಲ್"
+   ],
+   "opt_en": [
+    "Plato",
+    "Adam Smith",
+    "Auguste Comte",
+    "Aristotle"
+   ],
+   "ans": "C",
+   "exp_kn": "ಆಗಸ್ಟ್ ಕಾಮ್ಟೆ ‘ಸೋಶಿಯಾಲಜಿ’ ಪದವನ್ನು ಮೊದಲು ಬಳಸಿದರು."
+  },
+  {
+   "id": "8SS-C09-02",
+   "part": 1,
+   "ch": 9,
+   "ch_kn": "ಮಾನವ ಮತ್ತು ಸಮಾಜ",
+   "ch_en": "Man and Society",
+   "diff": "medium",
+   "q_kn": "ಸಮಾಜದಲ್ಲಿ ಭಾಷೆ, ನಡವಳಿಕೆ ಮೊದಲಾದವುಗಳನ್ನು ಕಲಿಯುವ ಕ್ರಿಯೆಯನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The process of learning language, behaviour etc. in society is called?",
+   "opt_kn": [
+    "ಶ್ರಮವಿಭಜನೆ",
+    "ವಲಸೆ",
+    "ಸಾಮಾಜೀಕರಣ",
+    "ಸಂಸ್ಕೃತಿ"
+   ],
+   "opt_en": [
+    "Division of labour",
+    "Migration",
+    "Socialisation",
+    "Culture"
+   ],
+   "ans": "C",
+   "exp_kn": "ಕುಟುಂಬ, ಶಾಲೆ, ಸ್ನೇಹಿತರು, ಮಾಧ್ಯಮಗಳು ಸಾಮಾಜೀಕರಣಕ್ಕೆ ನೆರವಾಗುತ್ತವೆ."
+  },
+  {
+   "id": "8SS-C09-03",
+   "part": 1,
+   "ch": 9,
+   "ch_kn": "ಮಾನವ ಮತ್ತು ಸಮಾಜ",
+   "ch_en": "Man and Society",
+   "diff": "hard",
+   "q_kn": "ಭಾರತದಲ್ಲಿ ಮುಂಬೈ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ ಸಮಾಜಶಾಸ್ತ್ರವನ್ನು ಪರಿಚಯಿಸಿದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year was Sociology introduced in Bombay University?",
+   "opt_kn": [
+    "1947",
+    "1920",
+    "1857",
+    "1914"
+   ],
+   "opt_en": [
+    "1947",
+    "1920",
+    "1857",
+    "1914"
+   ],
+   "ans": "D",
+   "exp_kn": "1914ರಲ್ಲಿ ಮುಂಬೈ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ."
+  },
+  {
+   "id": "8SS-C09-04",
+   "part": 1,
+   "ch": 9,
+   "ch_kn": "ಮಾನವ ಮತ್ತು ಸಮಾಜ",
+   "ch_en": "Man and Society",
+   "diff": "medium",
+   "q_kn": "ಮಾನವ ಸಮಾಜವನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+   "q_en": "Human society is described as?",
+   "opt_kn": [
+    "ಧಾರ್ಮಿಕ ಸಂಸ್ಥೆ",
+    "ಸಾಮಾಜಿಕ ಸಂಬಂಧಗಳ ಬಲೆ",
+    "ಆರ್ಥಿಕ ಸಂಸ್ಥೆ",
+    "ರಾಜಕೀಯ ಪಕ್ಷ"
+   ],
+   "opt_en": [
+    "A religious body",
+    "A web of social relationships",
+    "An economic firm",
+    "A political party"
+   ],
+   "ans": "B",
+   "exp_kn": "ಮಾನವನನ್ನು ಸಮಾಜ ಜೀವಿ ಎನ್ನುತ್ತಾರೆ."
+  },
+  {
+   "id": "8SS-C10-01",
+   "part": 1,
+   "ch": 10,
+   "ch_kn": "ಮಾನವ ಮತ್ತು ಸಂಸ್ಕೃತಿ",
+   "ch_en": "Man and Culture",
+   "diff": "medium",
+   "q_kn": "‘ಕಲ್ಚರ್’ (ಸಂಸ್ಕೃತಿ) ಪದವು ಯಾವ ಭಾಷೆಯ ‘ಕೋಲೆರೆ’ ಪದದಿಂದ ಬಂದಿದೆ?",
+   "q_en": "The word \"culture\" comes from the word \"colere\" of which language?",
+   "opt_kn": [
+    "ಲ್ಯಾಟಿನ್",
+    "ಸಂಸ್ಕೃತ",
+    "ಗ್ರೀಕ್",
+    "ಅರೇಬಿಕ್"
+   ],
+   "opt_en": [
+    "Latin",
+    "Sanskrit",
+    "Greek",
+    "Arabic"
+   ],
+   "ans": "A",
+   "exp_kn": "ಲ್ಯಾಟಿನ್ ‘ಕೋಲೆರೆ’ ಪದದಿಂದ."
+  },
+  {
+   "id": "8SS-C10-02",
+   "part": 1,
+   "ch": 10,
+   "ch_kn": "ಮಾನವ ಮತ್ತು ಸಂಸ್ಕೃತಿ",
+   "ch_en": "Man and Culture",
+   "diff": "easy",
+   "q_kn": "ಇವುಗಳಲ್ಲಿ ಯಾವುದು ಮೌಲ್ಯ ಅಲ್ಲ?",
+   "q_en": "Which of these is NOT a value?",
+   "opt_kn": [
+    "ಅಸೂಯೆ",
+    "ಪ್ರಾಮಾಣಿಕತೆ",
+    "ಶುಚಿತ್ವ",
+    "ರಾಷ್ಟ್ರಪ್ರೇಮ"
+   ],
+   "opt_en": [
+    "Jealousy",
+    "Honesty",
+    "Cleanliness",
+    "Patriotism"
+   ],
+   "ans": "A",
+   "exp_kn": "ಸ್ವಾತಂತ್ರ್ಯ, ಪ್ರಾಮಾಣಿಕತೆ, ಶುಚಿತ್ವ, ವಿಧೇಯತೆ, ರಾಷ್ಟ್ರಪ್ರೇಮ – ಮೌಲ್ಯಗಳು."
+  },
+  {
+   "id": "8SS-C10-03",
+   "part": 1,
+   "ch": 10,
+   "ch_kn": "ಮಾನವ ಮತ್ತು ಸಂಸ್ಕೃತಿ",
+   "ch_en": "Man and Culture",
+   "diff": "medium",
+   "q_kn": "ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ ಬೇರೆ ಬೇರೆ ಭಾಷೆ, ಉಡುಪು, ಆಹಾರದ ಜನರು ಕಂಡುಬರುವುದನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "People of different languages, dress and food living in one place shows?",
+   "opt_kn": [
+    "ಗ್ರಾಮ ಸಂಸ್ಕೃತಿ",
+    "ಅಸಂಸ್ಕೃತಿ",
+    "ಏಕ ಸಂಸ್ಕೃತಿ",
+    "ವೈವಿಧ್ಯಮಯ ಸಂಸ್ಕೃತಿ"
+   ],
+   "opt_en": [
+    "Village culture",
+    "No culture",
+    "Single culture",
+    "Cultural diversity"
+   ],
+   "ans": "D",
+   "exp_kn": "ಉದಾ: ಬೆಂಗಳೂರಿನ ಪ್ರಸಿದ್ಧ ರಸ್ತೆಯಲ್ಲಿ ಕಾಣುವ ವೈವಿಧ್ಯ."
+  },
+  {
+   "id": "8SS-C11-01",
+   "part": 1,
+   "ch": 11,
+   "ch_kn": "ಭೂಮಿ – ನಮ್ಮ ಜೀವಂತ ಗ್ರಹ",
+   "ch_en": "Earth – Our Living Planet",
+   "diff": "medium",
+   "q_kn": "ಸೂರ್ಯನ ಪರಿವಾರದಲ್ಲಿ ಭೂಮಿ ಎಷ್ಟನೇ ದೊಡ್ಡ ಗ್ರಹ?",
+   "q_en": "Earth is which largest planet in the solar system?",
+   "opt_kn": [
+    "ಎಂಟನೇ",
+    "ಐದನೇ",
+    "ಮೂರನೇ",
+    "ಮೊದಲನೇ"
+   ],
+   "opt_en": [
+    "Eighth",
+    "Fifth",
+    "Third",
+    "First"
+   ],
+   "ans": "B",
+   "exp_kn": "ಭೂಮಿ ಐದನೇ ದೊಡ್ಡ ಗ್ರಹ."
+  },
+  {
+   "id": "8SS-C11-02",
+   "part": 1,
+   "ch": 11,
+   "ch_kn": "ಭೂಮಿ – ನಮ್ಮ ಜೀವಂತ ಗ್ರಹ",
+   "ch_en": "Earth – Our Living Planet",
+   "diff": "medium",
+   "q_kn": "ಭೂಮಿಯ ಮೇಲ್ಮೈನ ಸುಮಾರು ಎಷ್ಟು ಭಾಗ ನೀರಿನಿಂದ ಆವೃತವಾಗಿದೆ?",
+   "q_en": "About what percentage of Earth's surface is covered by water?",
+   "opt_kn": [
+    "90%",
+    "29.22%",
+    "70.78%",
+    "50%"
+   ],
+   "opt_en": [
+    "90%",
+    "29.22%",
+    "70.78%",
+    "50%"
+   ],
+   "ans": "C",
+   "exp_kn": "ನೀರು 70.78%, ಭೂಭಾಗ 29.22%."
+  },
+  {
+   "id": "8SS-C11-03",
+   "part": 1,
+   "ch": 11,
+   "ch_kn": "ಭೂಮಿ – ನಮ್ಮ ಜೀವಂತ ಗ್ರಹ",
+   "ch_en": "Earth – Our Living Planet",
+   "diff": "medium",
+   "q_kn": "ಭೂಮಿಯ ಆಕಾರವನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗಿದೆ?",
+   "q_en": "The shape of the Earth is called?",
+   "opt_kn": [
+    "ಜಿಯಾಡ್ (ಭೂಮ್ಯಾಕಾರ)",
+    "ಘನ",
+    "ಚಪ್ಪಟೆ",
+    "ಪರಿಪೂರ್ಣ ಗೋಳ"
+   ],
+   "opt_en": [
+    "Geoid",
+    "Cube",
+    "Flat",
+    "Perfect sphere"
+   ],
+   "ans": "A",
+   "exp_kn": "ಸಮಭಾಜಕ ಮತ್ತು ಧ್ರುವೀಯ ವ್ಯಾಸಗಳಲ್ಲಿ 42 ಕಿ.ಮೀ ವ್ಯತ್ಯಾಸ."
+  },
+  {
+   "id": "8SS-C11-04",
+   "part": 1,
+   "ch": 11,
+   "ch_kn": "ಭೂಮಿ – ನಮ್ಮ ಜೀವಂತ ಗ್ರಹ",
+   "ch_en": "Earth – Our Living Planet",
+   "diff": "easy",
+   "q_kn": "ಅತಿ ದೊಡ್ಡ ಮತ್ತು ಆಳವಾದ ಸಾಗರ ಯಾವುದು?",
+   "q_en": "Which is the largest and deepest ocean?",
+   "opt_kn": [
+    "ಆರ್ಕ್ಟಿಕ್ ಸಾಗರ",
+    "ಹಿಂದೂ ಮಹಾಸಾಗರ",
+    "ಅಟ್ಲಾಂಟಿಕ್ ಸಾಗರ",
+    "ಪೆಸಿಫಿಕ್ ಸಾಗರ"
+   ],
+   "opt_en": [
+    "Arctic Ocean",
+    "Indian Ocean",
+    "Atlantic Ocean",
+    "Pacific Ocean"
+   ],
+   "ans": "D",
+   "exp_kn": "ಪೆಸಿಫಿಕ್ ಅತಿ ದೊಡ್ಡ ಮತ್ತು ಆಳವಾದ ಸಾಗರ."
+  },
+  {
+   "id": "8SS-C11-05",
+   "part": 1,
+   "ch": 11,
+   "ch_kn": "ಭೂಮಿ – ನಮ್ಮ ಜೀವಂತ ಗ್ರಹ",
+   "ch_en": "Earth – Our Living Planet",
+   "diff": "easy",
+   "q_kn": "ಅತಿ ಚಿಕ್ಕ ಖಂಡ ಯಾವುದು?",
+   "q_en": "Which is the smallest continent?",
+   "opt_kn": [
+    "ದಕ್ಷಿಣ ಅಮೆರಿಕ",
+    "ಆಸ್ಟ್ರೇಲಿಯ",
+    "ಅಂಟಾರ್ಕ್ಟಿಕ",
+    "ಯುರೋಪ್"
+   ],
+   "opt_en": [
+    "South America",
+    "Australia",
+    "Antarctica",
+    "Europe"
+   ],
+   "ans": "B",
+   "exp_kn": "ಏಷ್ಯಾ ಅತಿ ದೊಡ್ಡ, ಆಸ್ಟ್ರೇಲಿಯ ಅತಿ ಚಿಕ್ಕ ಖಂಡ."
+  },
+  {
+   "id": "8SS-C11-06",
+   "part": 1,
+   "ch": 11,
+   "ch_kn": "ಭೂಮಿ – ನಮ್ಮ ಜೀವಂತ ಗ್ರಹ",
+   "ch_en": "Earth – Our Living Planet",
+   "diff": "medium",
+   "q_kn": "23½° ಉತ್ತರ ಅಕ್ಷಾಂಶವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The 23½° North latitude is called?",
+   "opt_kn": [
+    "ಆರ್ಕ್ಟಿಕ್ ವೃತ್ತ",
+    "ಸಮಭಾಜಕ ವೃತ್ತ",
+    "ಕರ್ಕಾಟಕ ಸಂಕ್ರಾಂತಿ ವೃತ್ತ",
+    "ಮಕರ ಸಂಕ್ರಾಂತಿ ವೃತ್ತ"
+   ],
+   "opt_en": [
+    "Arctic Circle",
+    "Equator",
+    "Tropic of Cancer",
+    "Tropic of Capricorn"
+   ],
+   "ans": "C",
+   "exp_kn": "23½° ದಕ್ಷಿಣ – ಮಕರ ಸಂಕ್ರಾಂತಿ ವೃತ್ತ."
+  },
+  {
+   "id": "8SS-C11-07",
+   "part": 1,
+   "ch": 11,
+   "ch_kn": "ಭೂಮಿ – ನಮ್ಮ ಜೀವಂತ ಗ್ರಹ",
+   "ch_en": "Earth – Our Living Planet",
+   "diff": "medium",
+   "q_kn": "ಸಮಭಾಜಕ ವೃತ್ತವನ್ನು ಒಳಗೊಂಡಂತೆ ಒಟ್ಟು ಎಷ್ಟು ಅಕ್ಷಾಂಶಗಳಿವೆ?",
+   "q_en": "How many latitudes are there in total, including the Equator?",
+   "opt_kn": [
+    "90",
+    "180",
+    "181",
+    "360"
+   ],
+   "opt_en": [
+    "90",
+    "180",
+    "181",
+    "360"
+   ],
+   "ans": "C",
+   "exp_kn": "ಉತ್ತರ 90 + ದಕ್ಷಿಣ 90 + ಸಮಭಾಜಕ 1 = 181."
+  },
+  {
+   "id": "8SS-C11-08",
+   "part": 1,
+   "ch": 11,
+   "ch_kn": "ಭೂಮಿ – ನಮ್ಮ ಜೀವಂತ ಗ್ರಹ",
+   "ch_en": "Earth – Our Living Planet",
+   "diff": "medium",
+   "q_kn": "ಪ್ರಧಾನ ರೇಖಾಂಶ (0°) ಇಂಗ್ಲೆಂಡಿನ ಯಾವ ಸ್ಥಳದ ಮೇಲೆ ಹಾದು ಹೋಗುತ್ತದೆ?",
+   "q_en": "The Prime Meridian (0°) passes through which place in England?",
+   "opt_kn": [
+    "ಗ್ರೀನ್‌ವಿಚ್",
+    "ಆಕ್ಸ್‌ಫರ್ಡ್",
+    "ಲಂಡನ್ ಸೇತುವೆ",
+    "ಮ್ಯಾಂಚೆಸ್ಟರ್"
+   ],
+   "opt_en": [
+    "Greenwich",
+    "Oxford",
+    "London Bridge",
+    "Manchester"
+   ],
+   "ans": "A",
+   "exp_kn": "ಗ್ರೀನ್‌ವಿಚ್ ರೇಖಾಂಶ = 0°; ಒಟ್ಟು 360 ರೇಖಾಂಶಗಳು."
+  },
+  {
+   "id": "8SS-C11-09",
+   "part": 1,
+   "ch": 11,
+   "ch_kn": "ಭೂಮಿ – ನಮ್ಮ ಜೀವಂತ ಗ್ರಹ",
+   "ch_en": "Earth – Our Living Planet",
+   "diff": "hard",
+   "q_kn": "ಎರಡು ಅಕ್ಷಾಂಶಗಳ ನಡುವಿನ ಭೂಮಿಯ ಮೇಲಿನ ಅಂತರ ಸುಮಾರು ಎಷ್ಟು?",
+   "q_en": "About how much is the distance on Earth between two latitudes?",
+   "opt_kn": [
+    "1104 ಕಿ.ಮೀ",
+    "40 ಕಿ.ಮೀ",
+    "11 ಕಿ.ಮೀ",
+    "110.4 ಕಿ.ಮೀ"
+   ],
+   "opt_en": [
+    "1104 km",
+    "40 km",
+    "11 km",
+    "110.4 km"
+   ],
+   "ans": "D",
+   "exp_kn": "ಒಂದು ಅಕ್ಷಾಂಶದಿಂದ ಇನ್ನೊಂದಕ್ಕೆ ಸುಮಾರು 110.4 ಕಿ.ಮೀ."
+  },
+  {
+   "id": "8SS-C12-01",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಶಿಲಾಗೋಳ",
+   "ch_en": "Lithosphere",
+   "diff": "easy",
+   "q_kn": "ಭೂಮಿಯ ಅತ್ಯಂತ ಮೇಲ್ಭಾಗದ ಘನ ಪದರವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The uppermost solid layer of the Earth is called?",
+   "opt_kn": [
+    "ಜಲಗೋಳ",
+    "ಶಿಲಾಗೋಳ",
+    "ಕೇಂದ್ರಗೋಳ",
+    "ವಾಯುಗೋಳ"
+   ],
+   "opt_en": [
+    "Hydrosphere",
+    "Lithosphere",
+    "Core",
+    "Atmosphere"
+   ],
+   "ans": "B",
+   "exp_kn": "ಶಿಲಾಗೋಳ = ಭೂಮಿಯ ಮೇಲಿನ ಘನ ಪದರ."
+  },
+  {
+   "id": "8SS-C12-02",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಶಿಲಾಗೋಳ",
+   "ch_en": "Lithosphere",
+   "diff": "medium",
+   "q_kn": "ಸಿಲಿಕ ಮತ್ತು ಅಲ್ಯೂಮಿನಿಯಂ ಹೆಚ್ಚಾಗಿರುವ ಭೂಖಂಡಗಳ ಮೇಲ್ಪದರವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The continental crust rich in silica and aluminium is called?",
+   "opt_kn": [
+    "ಸೀಮಾ",
+    "ನಿಫೆ",
+    "ಮ್ಯಾಂಟಲ್",
+    "ಸಿಯಾಲ್"
+   ],
+   "opt_en": [
+    "Sima",
+    "Nife",
+    "Mantle",
+    "Sial"
+   ],
+   "ans": "D",
+   "exp_kn": "ಸಿಯಾಲ್ = Si + Al; ಸಾಗರ ತಳದ ಪದರ ಸೀಮಾ."
+  },
+  {
+   "id": "8SS-C12-03",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಶಿಲಾಗೋಳ",
+   "ch_en": "Lithosphere",
+   "diff": "medium",
+   "q_kn": "ನಿಕ್ಕಲ್ ಮತ್ತು ಕಬ್ಬಿಣದಿಂದ ಕೂಡಿದ ಭೂಮಿಯ ಕೇಂದ್ರಗೋಳವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The Earth's core made of nickel and iron is called?",
+   "opt_kn": [
+    "ಸಿಯಾಲ್",
+    "ಸೀಮಾ",
+    "ನಿಫೆ",
+    "ಮೋಹೋ"
+   ],
+   "opt_en": [
+    "Sial",
+    "Sima",
+    "Nife",
+    "Moho"
+   ],
+   "ans": "C",
+   "exp_kn": "Ni + Fe = ನಿಫೆ."
+  },
+  {
+   "id": "8SS-C12-04",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಶಿಲಾಗೋಳ",
+   "ch_en": "Lithosphere",
+   "diff": "hard",
+   "q_kn": "ಭೂಕವಚ ಮತ್ತು ಮ್ಯಾಂಟಲ್ ಸಂಧಿಸುವ ವಲಯವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The boundary between the crust and the mantle is called?",
+   "opt_kn": [
+    "ಗುಟೆನ್‌ಬರ್ಗ್ ವಲಯ",
+    "ಮೊಹೊರೋವಿಸಿಕ್ (ಮೋಹೋ) ವಲಯ",
+    "ಏಸ್ತೆನೋಸ್ಫಿಯರ್",
+    "ಮೆಸೋಸ್ಫಿಯರ್"
+   ],
+   "opt_en": [
+    "Gutenberg discontinuity",
+    "Mohorovicic (Moho) discontinuity",
+    "Asthenosphere",
+    "Mesosphere"
+   ],
+   "ans": "B",
+   "exp_kn": "ಮ್ಯಾಂಟಲ್–ಕೇಂದ್ರಗೋಳದ ಗಡಿ = ಗುಟೆನ್‌ಬರ್ಗ್ ವಲಯ."
+  },
+  {
+   "id": "8SS-C12-05",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಶಿಲಾಗೋಳ",
+   "ch_en": "Lithosphere",
+   "diff": "medium",
+   "q_kn": "ಮೊದಲು ನಿರ್ಮಾಣವಾಗುವುದರಿಂದ ‘ಪ್ರಾಥಮಿಕ ಶಿಲೆಗಳು’ ಎನಿಸಿರುವವು ಯಾವುವು?",
+   "q_en": "Which rocks are called \"primary rocks\" because they form first?",
+   "opt_kn": [
+    "ಅಗ್ನಿಶಿಲೆಗಳು",
+    "ಜಲಶಿಲೆಗಳು",
+    "ರೂಪಾಂತರ ಶಿಲೆಗಳು",
+    "ಕಣಶಿಲೆಗಳು"
+   ],
+   "opt_en": [
+    "Igneous rocks",
+    "Aqueous rocks",
+    "Metamorphic rocks",
+    "Sedimentary rocks"
+   ],
+   "ans": "A",
+   "exp_kn": "ಇಗ್ನೀಸ್ = ಬೆಂಕಿ; ಕಣಶಿಲೆಗಳು ದ್ವಿತೀಯ ಶಿಲೆಗಳು."
+  },
+  {
+   "id": "8SS-C12-06",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಶಿಲಾಗೋಳ",
+   "ch_en": "Lithosphere",
+   "diff": "medium",
+   "q_kn": "ಸುಣ್ಣಕಲ್ಲು ರೂಪಾಂತರಗೊಂಡಾಗ ಯಾವ ಶಿಲೆ ಆಗುತ್ತದೆ?",
+   "q_en": "Limestone changes into which rock on metamorphism?",
+   "opt_kn": [
+    "ಅಮೃತಶಿಲೆ",
+    "ಸ್ಫಟಿಕ ಶಿಲೆ",
+    "ಗ್ರಾಫೈಟ್",
+    "ನೀಸ್"
+   ],
+   "opt_en": [
+    "Marble",
+    "Quartzite",
+    "Graphite",
+    "Gneiss"
+   ],
+   "ans": "A",
+   "exp_kn": "ಗ್ರಾನೈಟ್→ನೀಸ್, ಮರಳುಶಿಲೆ→ಸ್ಫಟಿಕಶಿಲೆ, ಸುಣ್ಣಕಲ್ಲು→ಅಮೃತಶಿಲೆ."
+  },
+  {
+   "id": "8SS-C12-07",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಶಿಲಾಗೋಳ",
+   "ch_en": "Lithosphere",
+   "diff": "medium",
+   "q_kn": "ಭೂಮಿಯ ಒಳಗಿನ ಶಿಲಾಪಾಕ ಭೂಮಿಯ ಹೊರಗೆ ಬಂದಾಗ ಅದನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "When magma comes out on the surface, it is called?",
+   "opt_kn": [
+    "ಕುಂಡ",
+    "ಮ್ಯಾಗ್ಮಾ",
+    "ಲಾವಾರಸ",
+    "ಕಾಲ್ಡೆರಾ"
+   ],
+   "opt_en": [
+    "Crater",
+    "Magma",
+    "Lava",
+    "Caldera"
+   ],
+   "ans": "C",
+   "exp_kn": "ಒಳಗಿರುವಾಗ ಮ್ಯಾಗ್ಮಾ, ಹೊರಬಂದಾಗ ಲಾವಾ."
+  },
+  {
+   "id": "8SS-C12-08",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಶಿಲಾಗೋಳ",
+   "ch_en": "Lithosphere",
+   "diff": "medium",
+   "q_kn": "ಇಟಲಿಯ ಮೌಂಟ್ ವೆಸೂವಿಯಸ್ ಮತ್ತು ಜಪಾನಿನ ಫ್ಯೂಜಿಯಾಮ ಯಾವ ಬಗೆಯ ಜ್ವಾಲಾಮುಖಿಗಳು?",
+   "q_en": "Mount Vesuvius (Italy) and Fujiyama (Japan) are which type of volcanoes?",
+   "opt_kn": [
+    "ಜಾಗೃತ ಜ್ವಾಲಾಮುಖಿಗಳು",
+    "ಸಾಗರ ಜ್ವಾಲಾಮುಖಿಗಳು",
+    "ನಿರ್ಜೀವ ಜ್ವಾಲಾಮುಖಿಗಳು",
+    "ಸುಪ್ತ ಜ್ವಾಲಾಮುಖಿಗಳು"
+   ],
+   "opt_en": [
+    "Active",
+    "Oceanic",
+    "Extinct",
+    "Dormant"
+   ],
+   "ans": "D",
+   "exp_kn": "ಸ್ಟ್ರಾಂಬೋಲಿ, ಎಟ್ನಾ ಜಾಗೃತ; ವೆಸೂವಿಯಸ್, ಫ್ಯೂಜಿಯಾಮ ಸುಪ್ತ."
+  },
+  {
+   "id": "8SS-C12-09",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಶಿಲಾಗೋಳ",
+   "ch_en": "Lithosphere",
+   "diff": "medium",
+   "q_kn": "ಭೂಕಂಪದ ಅಲೆಗಳನ್ನು ದಾಖಲಿಸುವ ಉಪಕರಣ ಯಾವುದು?",
+   "q_en": "Which instrument records earthquake waves?",
+   "opt_kn": [
+    "ಉಷ್ಣತಾಮಾಪಕ",
+    "ಭೂಕಂಪಮಾಪಕ (ಸೀಸ್ಮೋಗ್ರಾಫ್)",
+    "ವಾಯುಭಾರಮಾಪಕ",
+    "ಪವನವೇಗಮಾಪಕ"
+   ],
+   "opt_en": [
+    "Thermometer",
+    "Seismograph",
+    "Barometer",
+    "Anemometer"
+   ],
+   "ans": "B",
+   "exp_kn": "ಭೂಕಂಪದ ಅಧ್ಯಯನ – ಭೂಕಂಪಶಾಸ್ತ್ರ (Seismology)."
+  },
+  {
+   "id": "8SS-C12-10",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಶಿಲಾಗೋಳ",
+   "ch_en": "Lithosphere",
+   "diff": "hard",
+   "q_kn": "ಭೂಕಂಪದ ಅಲೆಗಳಲ್ಲಿ ಅತ್ಯಂತ ನಿಧಾನವಾದರೂ ಅತ್ಯಂತ ಹಾನಿಕಾರಕ ಅಲೆಗಳು ಯಾವುವು?",
+   "q_en": "Which earthquake waves are the slowest but most destructive?",
+   "opt_kn": [
+    "ಮೇಲ್ಮೈ ಅಲೆಗಳು",
+    "ದ್ವಿತೀಯ ಅಲೆಗಳು",
+    "ತಳ್ಳುವ ಅಲೆಗಳು",
+    "ಪ್ರಾಥಮಿಕ ಅಲೆಗಳು"
+   ],
+   "opt_en": [
+    "Surface waves",
+    "Secondary waves",
+    "Push waves",
+    "Primary waves"
+   ],
+   "ans": "A",
+   "exp_kn": "ಪ್ರಾಥಮಿಕ ಅಲೆಗಳು ಅತಿ ವೇಗ; ಮೇಲ್ಮೈ ಅಲೆಗಳು ನಿಧಾನ ಆದರೆ ಹಾನಿಕಾರಕ."
+  },
+  {
+   "id": "8SS-C12-11",
+   "part": 1,
+   "ch": 12,
+   "ch_kn": "ಶಿಲಾಗೋಳ",
+   "ch_en": "Lithosphere",
+   "diff": "hard",
+   "q_kn": "ಕರ್ನಾಟಕದ ಕೆ.ಜಿ.ಎಫ್‌ನಲ್ಲಿರುವ ಚಿನ್ನದ ಗಣಿ ಯಾವುದು?",
+   "q_en": "Which gold mine is located at KGF in Karnataka?",
+   "opt_kn": [
+    "ಹಟ್ಟಿ",
+    "ಚಾಂಪಿಯನ್ ರೀಫ್",
+    "ಟೌ ಟೋನ",
+    "ಕೋಲಾ"
+   ],
+   "opt_en": [
+    "Hutti",
+    "Champion Reef",
+    "TauTona",
+    "Kola"
+   ],
+   "ans": "B",
+   "exp_kn": "ಚಾಂಪಿಯನ್ ರೀಫ್ ಗಣಿ ಸುಮಾರು 3.2 ಕಿ.ಮೀ ಆಳ."
+  },
+  {
+   "id": "8SS-C13-01",
+   "part": 1,
+   "ch": 13,
+   "ch_kn": "ವಾಯುಗೋಳ",
+   "ch_en": "Atmosphere",
+   "diff": "easy",
+   "q_kn": "ವಾಯುಮಂಡಲದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಇರುವ ಅನಿಲ ಯಾವುದು?",
+   "q_en": "Which gas is present in the largest amount in the atmosphere?",
+   "opt_kn": [
+    "ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್",
+    "ಆರ್ಗಾನ್",
+    "ಆಕ್ಸಿಜನ್",
+    "ನೈಟ್ರೋಜನ್"
+   ],
+   "opt_en": [
+    "Carbon dioxide",
+    "Argon",
+    "Oxygen",
+    "Nitrogen"
+   ],
+   "ans": "D",
+   "exp_kn": "ನೈಟ್ರೋಜನ್ ಶೇ 78.08, ಆಕ್ಸಿಜನ್ ಶೇ 20.94."
+  },
+  {
+   "id": "8SS-C13-02",
+   "part": 1,
+   "ch": 13,
+   "ch_kn": "ವಾಯುಗೋಳ",
+   "ch_en": "Atmosphere",
+   "diff": "medium",
+   "q_kn": "ಹವಾಮಾನದ ಎಲ್ಲಾ ಅಂಶಗಳು (ಮೋಡ, ಮಳೆ, ಮಾರುತ) ಕಂಡುಬರುವ ವಾಯುಮಂಡಲದ ಅತ್ಯಂತ ಕೆಳಪದರ ಯಾವುದು?",
+   "q_en": "The lowest layer of the atmosphere where all weather (clouds, rain, wind) occurs is?",
+   "opt_kn": [
+    "ಅಯಾನುಮಂಡಲ",
+    "ಸಮೋಷ್ಣಮಂಡಲ",
+    "ಪರಿವರ್ತನಾಮಂಡಲ",
+    "ಬಾಹ್ಯಮಂಡಲ"
+   ],
+   "opt_en": [
+    "Ionosphere",
+    "Stratosphere",
+    "Troposphere",
+    "Exosphere"
+   ],
+   "ans": "C",
+   "exp_kn": "ಪರಿವರ್ತನಾಮಂಡಲ ಸಮಭಾಜಕದ ಬಳಿ 18 ಕಿ.ಮೀ, ಧ್ರುವಗಳ ಬಳಿ 8 ಕಿ.ಮೀ."
+  },
+  {
+   "id": "8SS-C13-03",
+   "part": 1,
+   "ch": 13,
+   "ch_kn": "ವಾಯುಗೋಳ",
+   "ch_en": "Atmosphere",
+   "diff": "medium",
+   "q_kn": "ಓಜೋನ್ ಪದರವು ವಾಯುಮಂಡಲದ ಯಾವ ಪದರದಲ್ಲಿದೆ?",
+   "q_en": "In which layer of the atmosphere is the ozone layer found?",
+   "opt_kn": [
+    "ಮಧ್ಯಂತರ ಮಂಡಲ",
+    "ಪರಿವರ್ತನಾಮಂಡಲ",
+    "ಸಮೋಷ್ಣಮಂಡಲ",
+    "ಬಾಹ್ಯಮಂಡಲ"
+   ],
+   "opt_en": [
+    "Mesosphere",
+    "Troposphere",
+    "Stratosphere",
+    "Exosphere"
+   ],
+   "ans": "C",
+   "exp_kn": "ಸಮೋಷ್ಣಮಂಡಲ 50 ಕಿ.ಮೀ ವರೆಗೆ; ಓಜೋನ್ ಇದರಲ್ಲಿದೆ."
+  },
+  {
+   "id": "8SS-C13-04",
+   "part": 1,
+   "ch": 13,
+   "ch_kn": "ವಾಯುಗೋಳ",
+   "ch_en": "Atmosphere",
+   "diff": "medium",
+   "q_kn": "ಒಂದು ಪ್ರದೇಶದ ದೀರ್ಘಾವಧಿಯ ಹವಾಮಾನದ ಸರಾಸರಿಯನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The long-term average weather of a place is called?",
+   "opt_kn": [
+    "ಉಷ್ಣಾಂಶ",
+    "ವಾಯುಗುಣ",
+    "ಒತ್ತಡ",
+    "ಹವಾಮಾನ"
+   ],
+   "opt_en": [
+    "Temperature",
+    "Climate",
+    "Pressure",
+    "Weather"
+   ],
+   "ans": "B",
+   "exp_kn": "ಅಲ್ಪಾವಧಿಯದು ಹವಾಮಾನ; ದೀರ್ಘಾವಧಿಯ ಸರಾಸರಿ ವಾಯುಗುಣ."
+  },
+  {
+   "id": "8SS-C13-05",
+   "part": 1,
+   "ch": 13,
+   "ch_kn": "ವಾಯುಗೋಳ",
+   "ch_en": "Atmosphere",
+   "diff": "medium",
+   "q_kn": "ಎತ್ತರಕ್ಕೆ ಹೋದಂತೆ ಉಷ್ಣಾಂಶ ಕಡಿಮೆಯಾಗುವ ಬದಲು ಹೆಚ್ಚಾಗುವುದನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "When temperature increases instead of decreasing with height, it is called?",
+   "opt_kn": [
+    "ಸೂರ್ಯಜನ್ಯ ಶಾಖ",
+    "ಹಸಿರುಮನೆ ಪರಿಣಾಮ",
+    "ಸಾಮಾನ್ಯ ಇಳಿಕೆಯ ಪ್ರಮಾಣ",
+    "ಉಷ್ಣಾಂಶ ವಿಪರ್ಯಯ"
+   ],
+   "opt_en": [
+    "Insolation",
+    "Greenhouse effect",
+    "Normal lapse rate",
+    "Temperature inversion"
+   ],
+   "ans": "D",
+   "exp_kn": "ಸಾಮಾನ್ಯವಾಗಿ ಪ್ರತಿ 1 ಕಿ.ಮೀ.ಗೆ 6.4°C ಇಳಿಕೆ."
+  },
+  {
+   "id": "8SS-C13-06",
+   "part": 1,
+   "ch": 13,
+   "ch_kn": "ವಾಯುಗೋಳ",
+   "ch_en": "Atmosphere",
+   "diff": "hard",
+   "q_kn": "ಸಮುದ್ರಮಟ್ಟದಲ್ಲಿ ವಾಯುಮಂಡಲದ ಸರಾಸರಿ ಒತ್ತಡ ಎಷ್ಟು?",
+   "q_en": "What is the average atmospheric pressure at sea level?",
+   "opt_kn": [
+    "1013.25 ಮಿಲಿಬಾರ್",
+    "100 ಮಿಲಿಬಾರ್",
+    "760 ಮಿಲಿಬಾರ್",
+    "34 ಮಿಲಿಬಾರ್"
+   ],
+   "opt_en": [
+    "1013.25 millibar",
+    "100 millibar",
+    "760 millibar",
+    "34 millibar"
+   ],
+   "ans": "A",
+   "exp_kn": "ಪ್ರತಿ 300 ಮೀ ಎತ್ತರಕ್ಕೆ ಸುಮಾರು 34 ಮಿಲಿಬಾರ್ ಕಡಿಮೆ."
+  },
+  {
+   "id": "8SS-C13-07",
+   "part": 1,
+   "ch": 13,
+   "ch_kn": "ವಾಯುಗೋಳ",
+   "ch_en": "Atmosphere",
+   "diff": "medium",
+   "q_kn": "ಸಮಭಾಜಕ ವೃತ್ತದ ಬಳಿಯ ಪ್ರಶಾಂತ, ಲಘುಮಾರುತ ವಲಯವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The calm belt of light winds near the Equator is called?",
+   "opt_kn": [
+    "ಅಶ್ವ ಅಕ್ಷಾಂಶ",
+    "ಶಾಂತವಲಯ (ಡೋಲ್ಡ್ರಮ್)",
+    "ಧ್ರುವೀಯ ವಲಯ",
+    "ಶೀತವಲಯ"
+   ],
+   "opt_en": [
+    "Horse latitudes",
+    "Doldrums",
+    "Polar belt",
+    "Frigid zone"
+   ],
+   "ans": "B",
+   "exp_kn": "ಇದನ್ನು ITCZ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ."
+  },
+  {
+   "id": "8SS-C13-08",
+   "part": 1,
+   "ch": 13,
+   "ch_kn": "ವಾಯುಗೋಳ",
+   "ch_en": "Atmosphere",
+   "diff": "medium",
+   "q_kn": "ವಾಯುವಿನ ವೇಗವನ್ನು ಅಳೆಯುವ ಉಪಕರಣ ಯಾವುದು?",
+   "q_en": "Which instrument measures wind speed?",
+   "opt_kn": [
+    "ಪವನವೇಗಮಾಪಕ (ಅನಿಮೋಮೀಟರ್)",
+    "ವಾಯುಭಾರಮಾಪಕ",
+    "ಭೂಕಂಪಮಾಪಕ",
+    "ಪವನದಿಕ್ಸೂಚಿ"
+   ],
+   "opt_en": [
+    "Anemometer",
+    "Barometer",
+    "Seismograph",
+    "Wind vane"
+   ],
+   "ans": "A",
+   "exp_kn": "ದಿಕ್ಕು ತಿಳಿಯಲು ಪವನದಿಕ್ಸೂಚಿ; ವೇಗಕ್ಕೆ ಅನಿಮೋಮೀಟರ್."
+  },
+  {
+   "id": "8SS-C13-09",
+   "part": 1,
+   "ch": 13,
+   "ch_kn": "ವಾಯುಗೋಳ",
+   "ch_en": "Atmosphere",
+   "diff": "hard",
+   "q_kn": "ಪ್ರಪಂಚದ ಅತ್ಯಂತ ಶೀತ ಪ್ರದೇಶವೆಂದು ಪರಿಗಣಿಸಲಾದ ವೂಸ್ಟೋಕ್ ಎಲ್ಲಿದೆ?",
+   "q_en": "Where is Vostok, considered the coldest place in the world?",
+   "opt_kn": [
+    "ಲಡಾಖ್",
+    "ಸೈಬೀರಿಯಾ",
+    "ಅಂಟಾರ್ಕ್ಟಿಕ",
+    "ಗ್ರೀನ್‌ಲ್ಯಾಂಡ್"
+   ],
+   "opt_en": [
+    "Ladakh",
+    "Siberia",
+    "Antarctica",
+    "Greenland"
+   ],
+   "ans": "C",
+   "exp_kn": "ಲಿಬಿಯಾದ ಆಲ್ ಅಜೀಜಿಯಾ ಅತಿ ಹೆಚ್ಚು ಉಷ್ಣಾಂಶ ದಾಖಲಿಸಿದೆ."
+  },
+  {
+   "id": "8SS-C14-01",
+   "part": 1,
+   "ch": 14,
+   "ch_kn": "ಅರ್ಥಶಾಸ್ತ್ರದ ಅರ್ಥ ಮತ್ತು ಮಹತ್ವ",
+   "ch_en": "Meaning and Importance of Economics",
+   "diff": "easy",
+   "q_kn": "“ಅರ್ಥಶಾಸ್ತ್ರದ ಪಿತಾಮಹ” ಯಾರು?",
+   "q_en": "Who is the \"Father of Economics\"?",
+   "opt_kn": [
+    "ಕೌಟಿಲ್ಯ",
+    "ಅರಿಸ್ಟಾಟಲ್",
+    "ಆಗಸ್ಟ್ ಕಾಮ್ಟೆ",
+    "ಆಡಂ ಸ್ಮಿತ್"
+   ],
+   "opt_en": [
+    "Kautilya",
+    "Aristotle",
+    "Auguste Comte",
+    "Adam Smith"
+   ],
+   "ans": "D",
+   "exp_kn": "ಆಡಂ ಸ್ಮಿತ್: ‘ಅರ್ಥಶಾಸ್ತ್ರ ಸಂಪತ್ತಿನ ಅಧ್ಯಯನ’."
+  },
+  {
+   "id": "8SS-C14-02",
+   "part": 1,
+   "ch": 14,
+   "ch_kn": "ಅರ್ಥಶಾಸ್ತ್ರದ ಅರ್ಥ ಮತ್ತು ಮಹತ್ವ",
+   "ch_en": "Meaning and Importance of Economics",
+   "diff": "medium",
+   "q_kn": "ಮೌರ್ಯರ ಆಸ್ಥಾನದಲ್ಲಿದ್ದ ಕೌಟಿಲ್ಯ ರಚಿಸಿದ ಗ್ರಂಥ ಯಾವುದು?",
+   "q_en": "Which book was written by Kautilya of the Mauryan court?",
+   "opt_kn": [
+    "ಹರ್ಷಚರಿತ",
+    "ಮುದ್ರಾರಾಕ್ಷಸ",
+    "ಇಂಡಿಕಾ",
+    "ಅರ್ಥಶಾಸ್ತ್ರ"
+   ],
+   "opt_en": [
+    "Harshacharita",
+    "Mudrarakshasa",
+    "Indica",
+    "Arthashastra"
+   ],
+   "ans": "D",
+   "exp_kn": "ಕೌಟಿಲ್ಯ (ಚಾಣಕ್ಯ) – ಅರ್ಥಶಾಸ್ತ್ರ."
+  },
+  {
+   "id": "8SS-C14-03",
+   "part": 1,
+   "ch": 14,
+   "ch_kn": "ಅರ್ಥಶಾಸ್ತ್ರದ ಅರ್ಥ ಮತ್ತು ಮಹತ್ವ",
+   "ch_en": "Meaning and Importance of Economics",
+   "diff": "medium",
+   "q_kn": "‘ಇಕನಾಮಿಕ್ಸ್’ ಪದದ ಮೂಲ ಗ್ರೀಕ್ ಪದಗಳಲ್ಲಿ ‘ಓಕೊಸ್’ ಎಂದರೆ…",
+   "q_en": "In the Greek roots of \"Economics\", \"Oikos\" means…",
+   "opt_kn": [
+    "ಗೃಹ",
+    "ಜನ",
+    "ನಿರ್ವಹಣೆ",
+    "ಸಂಪತ್ತು"
+   ],
+   "opt_en": [
+    "Household",
+    "People",
+    "Management",
+    "Wealth"
+   ],
+   "ans": "A",
+   "exp_kn": "ಓಕೊಸ್ = ಗೃಹ, ನೊಮೊಸ್ = ನಿರ್ವಹಣೆ."
+  },
+  {
+   "id": "8SS-C14-04",
+   "part": 1,
+   "ch": 14,
+   "ch_kn": "ಅರ್ಥಶಾಸ್ತ್ರದ ಅರ್ಥ ಮತ್ತು ಮಹತ್ವ",
+   "ch_en": "Meaning and Importance of Economics",
+   "diff": "medium",
+   "q_kn": "ಸರಕು-ಸೇವೆಗಳಲ್ಲಿರುವ ಬಯಕೆ ತೃಪ್ತಿಪಡಿಸುವ ಗುಣವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The quality of goods and services to satisfy human wants is called?",
+   "opt_kn": [
+    "ಬೇಡಿಕೆ",
+    "ಉಪಯುಕ್ತತೆ",
+    "ಬೆಲೆ",
+    "ಲಾಭ"
+   ],
+   "opt_en": [
+    "Demand",
+    "Utility",
+    "Price",
+    "Profit"
+   ],
+   "ans": "B",
+   "exp_kn": "ಬಯಕೆ ತೃಪ್ತಿಪಡಿಸುವ ಶಕ್ತಿ = ಉಪಯುಕ್ತತೆ."
+  },
+  {
+   "id": "8SS-C14-05",
+   "part": 1,
+   "ch": 14,
+   "ch_kn": "ಅರ್ಥಶಾಸ್ತ್ರದ ಅರ್ಥ ಮತ್ತು ಮಹತ್ವ",
+   "ch_en": "Meaning and Importance of Economics",
+   "diff": "medium",
+   "q_kn": "ಶಿಕ್ಷಕನು ಹಣ ಪಡೆಯದೇ ಉಚಿತವಾಗಿ ಮನೆಪಾಠ ಮಾಡುವುದು ಯಾವ ಚಟುವಟಿಕೆ?",
+   "q_en": "A teacher giving free tuition without money is which activity?",
+   "opt_kn": [
+    "ಆರ್ಥಿಕ ಚಟುವಟಿಕೆ",
+    "ವ್ಯಾಪಾರ",
+    "ಆರ್ಥಿಕೇತರ ಚಟುವಟಿಕೆ",
+    "ಉದ್ಯಮ"
+   ],
+   "opt_en": [
+    "Economic activity",
+    "Trade",
+    "Non-economic activity",
+    "Industry"
+   ],
+   "ans": "C",
+   "exp_kn": "ಹಣಕ್ಕಾಗಿ ಮಾಡಿದರೆ ಆರ್ಥಿಕ ಚಟುವಟಿಕೆ."
+  },
+  {
+   "id": "8SS-C15-01",
+   "part": 1,
+   "ch": 15,
+   "ch_kn": "ವ್ಯವಹಾರ – ಅರ್ಥ ಮತ್ತು ಪ್ರಾಮುಖ್ಯತೆ",
+   "ch_en": "Business – Meaning and Importance",
+   "diff": "medium",
+   "q_kn": "ವ್ಯವಹಾರದ ಸರಿಯಾದ ಆರ್ಥಿಕ ಉದ್ದೇಶ ಯಾವುದು?",
+   "q_en": "What is the proper economic objective of business?",
+   "opt_kn": [
+    "ಉಚಿತ ವಿತರಣೆ",
+    "ನ್ಯಾಯಯುಕ್ತ ಲಾಭಗಳಿಕೆ",
+    "ಯಾವುದೇ ರೀತಿಯಲ್ಲಿ ಗರಿಷ್ಠ ಲಾಭ",
+    "ನಷ್ಟ ಮಾಡುವುದು"
+   ],
+   "opt_en": [
+    "Free distribution",
+    "Fair profit",
+    "Maximum profit by any means",
+    "Making loss"
+   ],
+   "ans": "B",
+   "exp_kn": "ವ್ಯವಹಾರದ ಉದ್ದೇಶ ಸಮಂಜಸ, ನ್ಯಾಯಯುಕ್ತ ಲಾಭ."
+  },
+  {
+   "id": "8SS-C15-02",
+   "part": 1,
+   "ch": 15,
+   "ch_kn": "ವ್ಯವಹಾರ – ಅರ್ಥ ಮತ್ತು ಪ್ರಾಮುಖ್ಯತೆ",
+   "ch_en": "Business – Meaning and Importance",
+   "diff": "medium",
+   "q_kn": "ಸಗಟು ವ್ಯಾಪಾರಿಗಳಿಂದ ದೊಡ್ಡ ಪ್ರಮಾಣದಲ್ಲಿ ಕೊಂಡು ಗ್ರಾಹಕರಿಗೆ ಸಣ್ಣ ಪ್ರಮಾಣದಲ್ಲಿ ಮಾರುವವರು ಯಾರು?",
+   "q_en": "Who buys in bulk from wholesalers and sells in small quantities to consumers?",
+   "opt_kn": [
+    "ಉತ್ಪಾದಕರು",
+    "ರಫ್ತುದಾರರು",
+    "ಚಿಲ್ಲರೆ ವ್ಯಾಪಾರಿಗಳು",
+    "ಸಗಟು ವ್ಯಾಪಾರಿಗಳು"
+   ],
+   "opt_en": [
+    "Producers",
+    "Exporters",
+    "Retailers",
+    "Wholesalers"
+   ],
+   "ans": "C",
+   "exp_kn": "ಚಿಲ್ಲರೆ ವ್ಯಾಪಾರಿಗಳು ಗ್ರಾಹಕರಿಗೆ ನೇರವಾಗಿ ಮಾರುತ್ತಾರೆ."
+  },
+  {
+   "id": "8SS-C15-03",
+   "part": 1,
+   "ch": 15,
+   "ch_kn": "ವ್ಯವಹಾರ – ಅರ್ಥ ಮತ್ತು ಪ್ರಾಮುಖ್ಯತೆ",
+   "ch_en": "Business – Meaning and Importance",
+   "diff": "medium",
+   "q_kn": "ಅದಿರು ಹೊರತೆಗೆಯುವುದು, ತೈಲ ಬಾವಿಗಳು ಯಾವ ಉದ್ಯಮಕ್ಕೆ ಉದಾಹರಣೆ?",
+   "q_en": "Extracting ores and oil wells are examples of which industry?",
+   "opt_kn": [
+    "ಗಣಿ ಉದ್ಯಮ",
+    "ತಳಿ ವೈಜ್ಞಾನಿಕ ಉದ್ಯಮ",
+    "ನಿರ್ಮಾಣ ಉದ್ಯಮ",
+    "ಉತ್ಪಾದಕ ಉದ್ಯಮ"
+   ],
+   "opt_en": [
+    "Extractive industry",
+    "Genetic industry",
+    "Construction industry",
+    "Manufacturing industry"
+   ],
+   "ans": "A",
+   "exp_kn": "ಗಣಿ ಉದ್ಯಮವನ್ನು ಮುಗಿದುಹೋಗುವ ಉದ್ಯಮ ಎನ್ನುತ್ತಾರೆ."
+  },
+  {
+   "id": "8SS-C15-04",
+   "part": 1,
+   "ch": 15,
+   "ch_kn": "ವ್ಯವಹಾರ – ಅರ್ಥ ಮತ್ತು ಪ್ರಾಮುಖ್ಯತೆ",
+   "ch_en": "Business – Meaning and Importance",
+   "diff": "medium",
+   "q_kn": "ಗೃಹಕೈಗಾರಿಕೆಗಳನ್ನು ಬೇರೆ ಯಾವ ಹೆಸರಿನಿಂದ ಕರೆಯುತ್ತಾರೆ?",
+   "q_en": "Household industries are also called?",
+   "opt_kn": [
+    "ಸಾರ್ವಜನಿಕ ಉದ್ಯಮಗಳು",
+    "ಬಹುರಾಷ್ಟ್ರೀಯ ನಿಗಮಗಳು",
+    "ಬೃಹತ್ ಕೈಗಾರಿಕೆಗಳು",
+    "ಗುಡಿಕೈಗಾರಿಕೆಗಳು"
+   ],
+   "opt_en": [
+    "Public enterprises",
+    "Multinational corporations",
+    "Large industries",
+    "Cottage industries"
+   ],
+   "ans": "D",
+   "exp_kn": "ಗೃಹಕೈಗಾರಿಕೆ = ಗುಡಿಕೈಗಾರಿಕೆ."
+  },
+  {
+   "id": "8SS-C15-05",
+   "part": 1,
+   "ch": 15,
+   "ch_kn": "ವ್ಯವಹಾರ – ಅರ್ಥ ಮತ್ತು ಪ್ರಾಮುಖ್ಯತೆ",
+   "ch_en": "Business – Meaning and Importance",
+   "diff": "medium",
+   "q_kn": "ಸಾರಿಗೆ, ಬ್ಯಾಂಕಿಂಗ್, ವಿಮೆ, ಜಾಹೀರಾತು ಮುಂತಾದವುಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+   "q_en": "Transport, banking, insurance, advertising etc. are called?",
+   "opt_kn": [
+    "ಗುಡಿಕೈಗಾರಿಕೆಗಳು",
+    "ವ್ಯಾಪಾರದ ಪೂರಕಗಳು (ವಾಣಿಜ್ಯ ಸೇವೆಗಳು)",
+    "ಪ್ರಾಥಮಿಕ ಉದ್ಯಮಗಳು",
+    "ಗಣಿ ಉದ್ಯಮಗಳು"
+   ],
+   "opt_en": [
+    "Cottage industries",
+    "Aids to trade (commercial services)",
+    "Primary industries",
+    "Extractive industries"
+   ],
+   "ans": "B",
+   "exp_kn": "ಇವು ವ್ಯಾಪಾರಕ್ಕೆ ನೆರವಾಗುವ ವಾಣಿಜ್ಯ ಸೇವೆಗಳು."
+  },
+  {
+   "id": "8SS-C16-01",
+   "part": 2,
+   "ch": 16,
+   "ch_kn": "ಮೌರ್ಯರು ಮತ್ತು ಕುಶಾಣರು",
+   "ch_en": "Mauryas and Kushanas",
+   "diff": "easy",
+   "q_kn": "ಭಾರತ ಕಂಡ ಮೊದಲ ಸಾಮ್ರಾಜ್ಯ ಯಾವುದು?",
+   "q_en": "Which was the first empire of India?",
+   "opt_kn": [
+    "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯ",
+    "ಗುಪ್ತ ಸಾಮ್ರಾಜ್ಯ",
+    "ಕುಶಾಣ ಸಾಮ್ರಾಜ್ಯ",
+    "ಚೋಳ ಸಾಮ್ರಾಜ್ಯ"
+   ],
+   "opt_en": [
+    "Mauryan Empire",
+    "Gupta Empire",
+    "Kushana Empire",
+    "Chola Empire"
+   ],
+   "ans": "A",
+   "exp_kn": "ಮೌರ್ಯರು ಮಗಧದಿಂದ ಆಳಿದರು; ರಾಜಧಾನಿ ಪಾಟಲಿಪುತ್ರ."
+  },
+  {
+   "id": "8SS-C16-02",
+   "part": 2,
+   "ch": 16,
+   "ch_kn": "ಮೌರ್ಯರು ಮತ್ತು ಕುಶಾಣರು",
+   "ch_en": "Mauryas and Kushanas",
+   "diff": "medium",
+   "q_kn": "ಚಂದ್ರಗುಪ್ತ ಮೌರ್ಯನ ಮಂತ್ರಿ ವಿಷ್ಣುಗುಪ್ತನನ್ನು ಬೇರೆ ಯಾವ ಹೆಸರುಗಳಿಂದ ಕರೆಯುತ್ತಾರೆ?",
+   "q_en": "By what other names is Vishnugupta, minister of Chandragupta Maurya, known?",
+   "opt_kn": [
+    "ಬಾಣಭಟ್ಟ",
+    "ಹರಿಸೇನ ಮತ್ತು ರವಿಕೀರ್ತಿ",
+    "ಮೆಗಸ್ತನೀಸ್",
+    "ಕೌಟಿಲ್ಯ ಮತ್ತು ಚಾಣಕ್ಯ"
+   ],
+   "opt_en": [
+    "Banabhatta",
+    "Harisena and Ravikirti",
+    "Megasthenes",
+    "Kautilya and Chanakya"
+   ],
+   "ans": "D",
+   "exp_kn": "ಇವನ ವಿಚಾರಗಳು ‘ಅರ್ಥಶಾಸ್ತ್ರ’ದಲ್ಲಿವೆ."
+  },
+  {
+   "id": "8SS-C16-03",
+   "part": 2,
+   "ch": 16,
+   "ch_kn": "ಮೌರ್ಯರು ಮತ್ತು ಕುಶಾಣರು",
+   "ch_en": "Mauryas and Kushanas",
+   "diff": "hard",
+   "q_kn": "1902ರಲ್ಲಿ ಮೈಸೂರಿನ ಓರಿಯಂಟಲ್ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಕೌಟಿಲ್ಯನ ಅರ್ಥಶಾಸ್ತ್ರದ ಹಸ್ತಪ್ರತಿ ಪತ್ತೆಮಾಡಿದವರು ಯಾರು?",
+   "q_en": "Who discovered the manuscript of Kautilya's Arthashastra in the Oriental Library, Mysuru, in 1902?",
+   "opt_kn": [
+    "ಬಿ.ಎಲ್. ರೈಸ್",
+    "ಜಾನ್ ಮಾರ್ಷಲ್",
+    "ಆರ್. ಶಾಮಾಶಾಸ್ತ್ರಿ",
+    "ದಯಾರಾಂ ಸಹಾನಿ"
+   ],
+   "opt_en": [
+    "B.L. Rice",
+    "John Marshall",
+    "R. Shamasastry",
+    "Dayaram Sahni"
+   ],
+   "ans": "C",
+   "exp_kn": "ಆರ್. ಶಾಮಾಶಾಸ್ತ್ರಿ ಅರ್ಥಶಾಸ್ತ್ರದ ಹಸ್ತಪ್ರತಿ ಪತ್ತೆಮಾಡಿದರು."
+  },
+  {
+   "id": "8SS-C16-04",
+   "part": 2,
+   "ch": 16,
+   "ch_kn": "ಮೌರ್ಯರು ಮತ್ತು ಕುಶಾಣರು",
+   "ch_en": "Mauryas and Kushanas",
+   "diff": "medium",
+   "q_kn": "ಯಾವ ಯುದ್ಧದ ನಂತರ ಅಶೋಕನು ಪಶ್ಚಾತ್ತಾಪದಿಂದ ‘ಧಮ್ಮ’ದ ಕಡೆಗೆ ತಿರುಗಿದನು?",
+   "q_en": "After which war did Ashoka, with remorse, turn to \"Dhamma\"?",
+   "opt_kn": [
+    "ಕಳಿಂಗ ಯುದ್ಧ",
+    "ಪಾಣಿಪತ್ ಯುದ್ಧ",
+    "ತಾಳಿಕೋಟೆ ಯುದ್ಧ",
+    "ಹೈಡಾಸ್ಪಸ್ ಯುದ್ಧ"
+   ],
+   "opt_en": [
+    "Kalinga war",
+    "Battle of Panipat",
+    "Battle of Talikota",
+    "Battle of Hydaspes"
+   ],
+   "ans": "A",
+   "exp_kn": "ಕಳಿಂಗ ಯುದ್ಧದ ನಂತರ ಅಶೋಕನು ಅಹಿಂಸೆಯನ್ನು ಪ್ರತಿಪಾದಿಸಿದನು."
+  },
+  {
+   "id": "8SS-C16-05",
+   "part": 2,
+   "ch": 16,
+   "ch_kn": "ಮೌರ್ಯರು ಮತ್ತು ಕುಶಾಣರು",
+   "ch_en": "Mauryas and Kushanas",
+   "diff": "medium",
+   "q_kn": "ಅಶೋಕನ ಶಾಸನಗಳಲ್ಲಿ ಬಳಕೆಯಾದ ಬಿರುದುಗಳು ಯಾವುವು?",
+   "q_en": "Which titles of Ashoka are used in his inscriptions?",
+   "opt_kn": [
+    "ದಕ್ಷಿಣಾಪಥೇಶ್ವರ",
+    "ತಲಕಾಡುಗೊಂಡ",
+    "ದೇವಾನಾಂಪ್ರಿಯ, ಪ್ರಿಯದರ್ಶಿ",
+    "ವಾತಾಪಿಕೊಂಡ"
+   ],
+   "opt_en": [
+    "Dakshinapatheshwara",
+    "Talakadugonda",
+    "Devanampriya, Priyadarshi",
+    "Vatapikonda"
+   ],
+   "ans": "C",
+   "exp_kn": "ಅಶೋಕ – ದೇವಾನಾಂಪ್ರಿಯ, ಪ್ರಿಯದರ್ಶಿ."
+  },
+  {
+   "id": "8SS-C16-06",
+   "part": 2,
+   "ch": 16,
+   "ch_kn": "ಮೌರ್ಯರು ಮತ್ತು ಕುಶಾಣರು",
+   "ch_en": "Mauryas and Kushanas",
+   "diff": "medium",
+   "q_kn": "ಕರ್ನಾಟಕದಲ್ಲಿ ಅಶೋಕನ ಶಾಸನಗಳು ದೊರೆತ ಸ್ಥಳಗಳು ಯಾವುವು?",
+   "q_en": "Where in Karnataka have Ashoka's inscriptions been found?",
+   "opt_kn": [
+    "ಐಹೊಳೆ ಮತ್ತು ಬಾದಾಮಿ",
+    "ಹಲ್ಮಿಡಿ ಮತ್ತು ತಾಳಗುಂದ",
+    "ಬೇಲೂರು ಮತ್ತು ಹಳೇಬೀಡು",
+    "ಮಸ್ಕಿ ಮತ್ತು ಬ್ರಹ್ಮಗಿರಿ"
+   ],
+   "opt_en": [
+    "Aihole and Badami",
+    "Halmidi and Talagunda",
+    "Belur and Halebidu",
+    "Maski and Brahmagiri"
+   ],
+   "ans": "D",
+   "exp_kn": "ಅಶೋಕನ ಶಾಸನಗಳು ಮಸ್ಕಿ, ಬ್ರಹ್ಮಗಿರಿಗಳಲ್ಲಿ ದೊರೆತಿವೆ."
+  },
+  {
+   "id": "8SS-C16-07",
+   "part": 2,
+   "ch": 16,
+   "ch_kn": "ಮೌರ್ಯರು ಮತ್ತು ಕುಶಾಣರು",
+   "ch_en": "Mauryas and Kushanas",
+   "diff": "medium",
+   "q_kn": "ಕನಿಷ್ಕನ ರಾಜಧಾನಿ ಯಾವುದು?",
+   "q_en": "What was the capital of Kanishka?",
+   "opt_kn": [
+    "ಉಜ್ಜಯಿನಿ",
+    "ಪುರುಷಪುರ",
+    "ತಕ್ಷಶಿಲೆ",
+    "ಪಾಟಲಿಪುತ್ರ"
+   ],
+   "opt_en": [
+    "Ujjain",
+    "Purushapura",
+    "Taxila",
+    "Pataliputra"
+   ],
+   "ans": "B",
+   "exp_kn": "ಪುರುಷಪುರ ಕನಿಷ್ಕನ ರಾಜಧಾನಿ; ಮಥುರಾ ಇನ್ನೊಂದು ಮುಖ್ಯ ನಗರ."
+  },
+  {
+   "id": "8SS-C16-08",
+   "part": 2,
+   "ch": 16,
+   "ch_kn": "ಮೌರ್ಯರು ಮತ್ತು ಕುಶಾಣರು",
+   "ch_en": "Mauryas and Kushanas",
+   "diff": "medium",
+   "q_kn": "ಗ್ರೀಕರ ಪ್ರಭಾವಕ್ಕೆ ಒಳಗಾದ ಶಿಲ್ಪಕಲೆ ಯಾವುದು?",
+   "q_en": "Which art style was influenced by the Greeks?",
+   "opt_kn": [
+    "ವೇಸರ ಶೈಲಿ",
+    "ದ್ರಾವಿಡ ಶೈಲಿ",
+    "ಹೊಯ್ಸಳ ಶೈಲಿ",
+    "ಗಾಂಧಾರ ಶಿಲ್ಪಕಲೆ"
+   ],
+   "opt_en": [
+    "Vesara style",
+    "Dravida style",
+    "Hoysala style",
+    "Gandhara art"
+   ],
+   "ans": "D",
+   "exp_kn": "ಗಾಂಧಾರ ಶಿಲ್ಪಕಲೆಯ ಮೇಲೆ ಗ್ರೀಕರ ಪ್ರಭಾವವಿತ್ತು."
+  },
+  {
+   "id": "8SS-C17-01",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಗುಪ್ತರು ಹಾಗೂ ವರ್ಧನರು",
+   "ch_en": "Guptas and Vardhanas",
+   "diff": "medium",
+   "q_kn": "ಗುಪ್ತ ವಂಶದ ಸ್ಥಾಪಕ ಯಾರು?",
+   "q_en": "Who founded the Gupta dynasty?",
+   "opt_kn": [
+    "ಮೊದಲನೆಯ ಚಂದ್ರಗುಪ್ತ",
+    "ಶ್ರೀಗುಪ್ತ",
+    "ಸಮುದ್ರಗುಪ್ತ",
+    "ಸ್ಕಂದಗುಪ್ತ"
+   ],
+   "opt_en": [
+    "Chandragupta I",
+    "Srigupta",
+    "Samudragupta",
+    "Skandagupta"
+   ],
+   "ans": "B",
+   "exp_kn": "ಶ್ರೀಗುಪ್ತ ಈ ವಂಶದ ಸ್ಥಾಪಕ."
+  },
+  {
+   "id": "8SS-C17-02",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಗುಪ್ತರು ಹಾಗೂ ವರ್ಧನರು",
+   "ch_en": "Guptas and Vardhanas",
+   "diff": "medium",
+   "q_kn": "ಸಮುದ್ರಗುಪ್ತನ ಸಾಧನೆಗಳನ್ನು ವಿವರಿಸುವ ‘ಪ್ರಯಾಗ ಪ್ರಶಸ್ತಿ’ (ಅಲಹಾಬಾದ್ ಶಾಸನ) ರಚಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who composed the \"Prayaga Prashasti\" (Allahabad inscription) describing Samudragupta's achievements?",
+   "opt_kn": [
+    "ಹರಿಸೇನ",
+    "ರವಿಕೀರ್ತಿ",
+    "ಕಾಳಿದಾಸ",
+    "ಬಾಣಭಟ್ಟ"
+   ],
+   "opt_en": [
+    "Harisena",
+    "Ravikirti",
+    "Kalidasa",
+    "Banabhatta"
+   ],
+   "ans": "A",
+   "exp_kn": "ಸಮುದ್ರಗುಪ್ತನ ಆಸ್ಥಾನ ಕವಿ ಹರಿಸೇನ ಸಂಸ್ಕೃತದಲ್ಲಿ ರಚಿಸಿದನು."
+  },
+  {
+   "id": "8SS-C17-03",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಗುಪ್ತರು ಹಾಗೂ ವರ್ಧನರು",
+   "ch_en": "Guptas and Vardhanas",
+   "diff": "medium",
+   "q_kn": "‘ಅಭಿಜ್ಞಾನ ಶಾಕುಂತಲ’ ಮತ್ತು ‘ಮೇಘದೂತ’ ಕೃತಿಗಳ ಕರ್ತೃ ಯಾರು?",
+   "q_en": "Who wrote \"Abhijnana Shakuntala\" and \"Meghaduta\"?",
+   "opt_kn": [
+    "ಭಾರವಿ",
+    "ವಿಶಾಖದತ್ತ",
+    "ಕಾಳಿದಾಸ",
+    "ಶೂದ್ರಕ"
+   ],
+   "opt_en": [
+    "Bharavi",
+    "Vishakhadatta",
+    "Kalidasa",
+    "Shudraka"
+   ],
+   "ans": "C",
+   "exp_kn": "ಕಾಳಿದಾಸ ಗುಪ್ತರ ಕಾಲದ ಮಹಾಕವಿ."
+  },
+  {
+   "id": "8SS-C17-04",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಗುಪ್ತರು ಹಾಗೂ ವರ್ಧನರು",
+   "ch_en": "Guptas and Vardhanas",
+   "diff": "medium",
+   "q_kn": "‘ಭಾರತದ ವೈದ್ಯಶಾಸ್ತ್ರದ ಪಿತಾಮಹ’ ಎನಿಸಿದ ಚರಕನ ಗ್ರಂಥ ಯಾವುದು?",
+   "q_en": "Which book was written by Charaka, the \"Father of Indian medicine\"?",
+   "opt_kn": [
+    "ಪಂಚಸಿದ್ಧಾಂತಿಕಾ",
+    "ಸುಶ್ರುತ ಸಂಹಿತೆ",
+    "ಬೃಹತ್ ಸಂಹಿತೆ",
+    "ಚರಕ ಸಂಹಿತೆ"
+   ],
+   "opt_en": [
+    "Panchasiddhantika",
+    "Sushruta Samhita",
+    "Brihat Samhita",
+    "Charaka Samhita"
+   ],
+   "ans": "D",
+   "exp_kn": "ಶಸ್ತ್ರಚಿಕಿತ್ಸೆ ಕುರಿತದ್ದು ಸುಶ್ರುತ ಸಂಹಿತೆ."
+  },
+  {
+   "id": "8SS-C17-05",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಗುಪ್ತರು ಹಾಗೂ ವರ್ಧನರು",
+   "ch_en": "Guptas and Vardhanas",
+   "diff": "easy",
+   "q_kn": "ಭಾರತದ ಪ್ರಥಮ ಉಪಗ್ರಹಕ್ಕೆ ಯಾರ ಹೆಸರಿಡಲಾಗಿದೆ?",
+   "q_en": "India's first satellite was named after whom?",
+   "opt_kn": [
+    "ವರಾಹಮಿಹಿರ",
+    "ಆರ್ಯಭಟ",
+    "ಸುಶ್ರುತ",
+    "ಚರಕ"
+   ],
+   "opt_en": [
+    "Varahamihira",
+    "Aryabhata",
+    "Sushruta",
+    "Charaka"
+   ],
+   "ans": "B",
+   "exp_kn": "ಗುಪ್ತರ ಕಾಲದ ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ ಆರ್ಯಭಟ."
+  },
+  {
+   "id": "8SS-C17-06",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಗುಪ್ತರು ಹಾಗೂ ವರ್ಧನರು",
+   "ch_en": "Guptas and Vardhanas",
+   "diff": "medium",
+   "q_kn": "ವರ್ಧನ (ಪುಷ್ಯಭೂತಿ) ವಂಶದ ಪ್ರಸಿದ್ಧ ದೊರೆಯನ್ನು ನರ್ಮದಾ ದಂಡೆಯಲ್ಲಿ ಸೋಲಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who defeated the famous Vardhana king on the banks of the Narmada?",
+   "opt_kn": [
+    "ಸಮುದ್ರಗುಪ್ತ",
+    "ನರಸಿಂಹವರ್ಮ",
+    "ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿ",
+    "ಅಮೋಘವರ್ಷ"
+   ],
+   "opt_en": [
+    "Samudragupta",
+    "Narasimhavarma",
+    "Pulakeshi II",
+    "Amoghavarsha"
+   ],
+   "ans": "C",
+   "exp_kn": "ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿ ಹರ್ಷವರ್ಧನನನ್ನು ಸೋಲಿಸಿದನು – ಐಹೊಳೆ ಶಾಸನದಲ್ಲಿ ಉಲ್ಲೇಖ."
+  },
+  {
+   "id": "8SS-C17-07",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಗುಪ್ತರು ಹಾಗೂ ವರ್ಧನರು",
+   "ch_en": "Guptas and Vardhanas",
+   "diff": "medium",
+   "q_kn": "ಹರ್ಷವರ್ಧನನ ಕಾಲದಲ್ಲಿ ಅತ್ಯಂತ ಚಟುವಟಿಕೆಯಿಂದ ಕೂಡಿದ್ದ ಬೌದ್ಧ ವಿದ್ಯಾಕೇಂದ್ರ ಯಾವುದು?",
+   "q_en": "Which Buddhist centre of learning was very active during Harshavardhana's time?",
+   "opt_kn": [
+    "ನಳಂದ",
+    "ಉತ್ತರಮೇರೂರು",
+    "ಸಾರನಾಥ",
+    "ತಕ್ಷಶಿಲೆ"
+   ],
+   "opt_en": [
+    "Nalanda",
+    "Uttaramerur",
+    "Sarnath",
+    "Taxila"
+   ],
+   "ans": "A",
+   "exp_kn": "ನಳಂದ ವಿಶ್ವವಿದ್ಯಾಲಯ ಪ್ರಸಿದ್ಧ ವಿದ್ಯಾಕೇಂದ್ರ."
+  },
+  {
+   "id": "8SS-C17-08",
+   "part": 2,
+   "ch": 17,
+   "ch_kn": "ಗುಪ್ತರು ಹಾಗೂ ವರ್ಧನರು",
+   "ch_en": "Guptas and Vardhanas",
+   "diff": "hard",
+   "q_kn": "ಹೊಂದಿಸಿ: (1) ಆರ್ಯಭಟ (2) ವರಾಹಮಿಹಿರ (3) ಸುಶ್ರುತ – (a) ಶಸ್ತ್ರಚಿಕಿತ್ಸೆ (b) ಪಂಚಸಿದ್ಧಾಂತಿಕಾ (c) ಪ್ರಥಮ ಉಪಗ್ರಹದ ಹೆಸರು",
+   "q_en": "Match: (1) Aryabhata (2) Varahamihira (3) Sushruta – (a) surgery (b) Panchasiddhantika (c) name of first satellite",
+   "opt_kn": [
+    "1-c, 2-b, 3-a",
+    "1-a, 2-b, 3-c",
+    "1-c, 2-a, 3-b",
+    "1-b, 2-c, 3-a"
+   ],
+   "opt_en": [
+    "1-c, 2-b, 3-a",
+    "1-a, 2-b, 3-c",
+    "1-c, 2-a, 3-b",
+    "1-b, 2-c, 3-a"
+   ],
+   "ans": "A",
+   "exp_kn": "ಆರ್ಯಭಟ–ಉಪಗ್ರಹ, ವರಾಹಮಿಹಿರ–ಪಂಚಸಿದ್ಧಾಂತಿಕಾ, ಸುಶ್ರುತ–ಶಸ್ತ್ರಚಿಕಿತ್ಸೆ."
+  },
+  {
+   "id": "8SS-C18-01",
+   "part": 2,
+   "ch": 18,
+   "ch_kn": "ಶಾತವಾಹನರು, ಕದಂಬರು, ಗಂಗರು",
+   "ch_en": "Satavahanas, Kadambas and Gangas",
+   "diff": "easy",
+   "q_kn": "ಕರ್ನಾಟಕದಲ್ಲಿ ಸ್ಥಾಪನೆಯಾದ ಮೊದಲ ರಾಜವಂಶ ಯಾವುದು?",
+   "q_en": "Which was the first royal dynasty established in Karnataka?",
+   "opt_kn": [
+    "ಹೊಯ್ಸಳರು",
+    "ಚಾಳುಕ್ಯರು",
+    "ಗಂಗರು",
+    "ಕದಂಬರು"
+   ],
+   "opt_en": [
+    "Hoysalas",
+    "Chalukyas",
+    "Gangas",
+    "Kadambas"
+   ],
+   "ans": "D",
+   "exp_kn": "ಕದಂಬರು ಕರ್ನಾಟಕದ ಮೊದಲ ರಾಜವಂಶ."
+  },
+  {
+   "id": "8SS-C18-02",
+   "part": 2,
+   "ch": 18,
+   "ch_kn": "ಶಾತವಾಹನರು, ಕದಂಬರು, ಗಂಗರು",
+   "ch_en": "Satavahanas, Kadambas and Gangas",
+   "diff": "easy",
+   "q_kn": "ಕದಂಬರ ರಾಜಧಾನಿ ಯಾವುದು?",
+   "q_en": "What was the capital of the Kadambas?",
+   "opt_kn": [
+    "ತಲಕಾಡು",
+    "ಬಾದಾಮಿ",
+    "ಬನವಾಸಿ",
+    "ಮಾನ್ಯಖೇಟ"
+   ],
+   "opt_en": [
+    "Talakadu",
+    "Badami",
+    "Banavasi",
+    "Manyakheta"
+   ],
+   "ans": "C",
+   "exp_kn": "ಬನವಾಸಿ ಈಗಿನ ಉತ್ತರ ಕನ್ನಡ ಜಿಲ್ಲೆಯಲ್ಲಿದೆ."
+  },
+  {
+   "id": "8SS-C18-03",
+   "part": 2,
+   "ch": 18,
+   "ch_kn": "ಶಾತವಾಹನರು, ಕದಂಬರು, ಗಂಗರು",
+   "ch_en": "Satavahanas, Kadambas and Gangas",
+   "diff": "easy",
+   "q_kn": "ಕದಂಬ ರಾಜ್ಯದ ಸ್ಥಾಪಕ ಯಾರು?",
+   "q_en": "Who founded the Kadamba kingdom?",
+   "opt_kn": [
+    "ಕಾಕುತ್ಸವರ್ಮ",
+    "ಮಯೂರವರ್ಮ",
+    "ಸಿಮುಖ",
+    "ದುರ್ವಿನೀತ"
+   ],
+   "opt_en": [
+    "Kakutsavarma",
+    "Mayuravarma",
+    "Simuka",
+    "Durvinita"
+   ],
+   "ans": "B",
+   "exp_kn": "ಮಯೂರವರ್ಮ ಪಲ್ಲವರನ್ನು ಸೋಲಿಸಿ ಕದಂಬ ರಾಜ್ಯ ಸ್ಥಾಪಿಸಿದನು."
+  },
+  {
+   "id": "8SS-C18-04",
+   "part": 2,
+   "ch": 18,
+   "ch_kn": "ಶಾತವಾಹನರು, ಕದಂಬರು, ಗಂಗರು",
+   "ch_en": "Satavahanas, Kadambas and Gangas",
+   "diff": "medium",
+   "q_kn": "ದಖ್ಖನ್‌ನಲ್ಲಿ ಸ್ಥಾಪನೆಗೊಂಡ ಮೊದಲ ರಾಜವಂಶ ಯಾವುದು?",
+   "q_en": "Which was the first royal dynasty established in the Deccan?",
+   "opt_kn": [
+    "ಗಂಗರು",
+    "ಕದಂಬರು",
+    "ಶಾತವಾಹನರು",
+    "ರಾಷ್ಟ್ರಕೂಟರು"
+   ],
+   "opt_en": [
+    "Gangas",
+    "Kadambas",
+    "Satavahanas",
+    "Rashtrakutas"
+   ],
+   "ans": "C",
+   "exp_kn": "ಸಿಮುಖನು ಶಾತವಾಹನ ವಂಶ ಸ್ಥಾಪಿಸಿದನು."
+  },
+  {
+   "id": "8SS-C18-05",
+   "part": 2,
+   "ch": 18,
+   "ch_kn": "ಶಾತವಾಹನರು, ಕದಂಬರು, ಗಂಗರು",
+   "ch_en": "Satavahanas, Kadambas and Gangas",
+   "diff": "medium",
+   "q_kn": "‘ಗಾಥಾಸಪ್ತಶತಿ’ ಬರೆದ ಶಾತವಾಹನ ದೊರೆ ಯಾರು?",
+   "q_en": "Which Satavahana king wrote \"Gathasaptashati\"?",
+   "opt_kn": [
+    "ಹಾಲ",
+    "ಮಯೂರವರ್ಮ",
+    "ಗೌತಮಿಪುತ್ರ ಶಾತಕರ್ಣಿ",
+    "ಸಿಮುಖ"
+   ],
+   "opt_en": [
+    "Hala",
+    "Mayuravarma",
+    "Gautamiputra Satakarni",
+    "Simuka"
+   ],
+   "ans": "A",
+   "exp_kn": "ಹಾಲನು ಪ್ರಾಕೃತದಲ್ಲಿ ಗಾಥಾಸಪ್ತಶತಿ ಬರೆದನು."
+  },
+  {
+   "id": "8SS-C18-06",
+   "part": 2,
+   "ch": 18,
+   "ch_kn": "ಶಾತವಾಹನರು, ಕದಂಬರು, ಗಂಗರು",
+   "ch_en": "Satavahanas, Kadambas and Gangas",
+   "diff": "hard",
+   "q_kn": "ಕರ್ನಾಟಕದಲ್ಲಿ ದೊರೆತಿರುವ ಪ್ರಥಮ ಸಂಸ್ಕೃತ ಶಾಸನ ಯಾವುದು?",
+   "q_en": "Which is the first Sanskrit inscription found in Karnataka?",
+   "opt_kn": [
+    "ಮಳವಳ್ಳಿ ಶಾಸನ",
+    "ತಾಳಗುಂದ ಶಾಸನ",
+    "ಹಲ್ಮಿಡಿ ಶಾಸನ",
+    "ಚಂದ್ರವಳ್ಳಿ ಶಾಸನ"
+   ],
+   "opt_en": [
+    "Malavalli inscription",
+    "Talagunda inscription",
+    "Halmidi inscription",
+    "Chandravalli inscription"
+   ],
+   "ans": "B",
+   "exp_kn": "ಮಳವಳ್ಳಿ – ಪ್ರಾಕೃತ; ಹಲ್ಮಿಡಿ – ಮೊದಲ ಕನ್ನಡ; ತಾಳಗುಂದ – ಮೊದಲ ಸಂಸ್ಕೃತ."
+  },
+  {
+   "id": "8SS-C18-07",
+   "part": 2,
+   "ch": 18,
+   "ch_kn": "ಶಾತವಾಹನರು, ಕದಂಬರು, ಗಂಗರು",
+   "ch_en": "Satavahanas, Kadambas and Gangas",
+   "diff": "medium",
+   "q_kn": "ಶ್ರವಣಬೆಳಗೊಳದ 58 ಅಡಿ ಏಕಶಿಲಾ ಗೊಮ್ಮಟೇಶ್ವರ ಮೂರ್ತಿಯನ್ನು ನಿರ್ಮಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who built the 58-feet monolithic Gommateshwara statue at Shravanabelagola?",
+   "opt_kn": [
+    "ಮಯೂರವರ್ಮ",
+    "ದುರ್ವಿನೀತ",
+    "ವಿಷ್ಣುವರ್ಧನ",
+    "ಚಾವುಂಡರಾಯ"
+   ],
+   "opt_en": [
+    "Mayuravarma",
+    "Durvinita",
+    "Vishnuvardhana",
+    "Chavundaraya"
+   ],
+   "ans": "D",
+   "exp_kn": "ಗಂಗ ದೊರೆ ನಾಲ್ಕನೇ ರಾಚಮಲ್ಲನ ಮಂತ್ರಿ ಚಾವುಂಡರಾಯ ನಿರ್ಮಿಸಿದನು."
+  },
+  {
+   "id": "8SS-C18-08",
+   "part": 2,
+   "ch": 18,
+   "ch_kn": "ಶಾತವಾಹನರು, ಕದಂಬರು, ಗಂಗರು",
+   "ch_en": "Satavahanas, Kadambas and Gangas",
+   "diff": "medium",
+   "q_kn": "ಗೊಮ್ಮಟೇಶ್ವರನಿಗೆ ಎಷ್ಟು ವರ್ಷಗಳಿಗೊಮ್ಮೆ ಮಹಾಮಸ್ತಕಾಭಿಷೇಕ ನಡೆಯುತ್ತದೆ?",
+   "q_en": "Once in how many years is the Mahamastakabhisheka held for Gommateshwara?",
+   "opt_kn": [
+    "12 ವರ್ಷ",
+    "25 ವರ್ಷ",
+    "10 ವರ್ಷ",
+    "5 ವರ್ಷ"
+   ],
+   "opt_en": [
+    "12 years",
+    "25 years",
+    "10 years",
+    "5 years"
+   ],
+   "ans": "A",
+   "exp_kn": "ಹನ್ನೆರಡು ವರ್ಷಗಳಿಗೊಮ್ಮೆ ಮಹಾಮಸ್ತಕಾಭಿಷೇಕ."
+  },
+  {
+   "id": "8SS-C19-01",
+   "part": 2,
+   "ch": 19,
+   "ch_kn": "ಬಾದಾಮಿಯ ಚಾಳುಕ್ಯರು ಮತ್ತು ಕಂಚಿಯ ಪಲ್ಲವರು",
+   "ch_en": "Chalukyas of Badami and Pallavas of Kanchi",
+   "diff": "easy",
+   "q_kn": "ಬಾದಾಮಿ ಚಾಳುಕ್ಯರ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ಚಕ್ರವರ್ತಿ ಯಾರು?",
+   "q_en": "Who was the most famous emperor of the Badami Chalukyas?",
+   "opt_kn": [
+    "ಎರಡನೇ ವಿಕ್ರಮಾದಿತ್ಯ",
+    "ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿ",
+    "ಮಂಗಳೇಶ",
+    "ಜಯಸಿಂಹ"
+   ],
+   "opt_en": [
+    "Vikramaditya II",
+    "Pulakeshi II",
+    "Mangalesha",
+    "Jayasimha"
+   ],
+   "ans": "B",
+   "exp_kn": "ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿ ಹರ್ಷನನ್ನು ಸೋಲಿಸಿದನು."
+  },
+  {
+   "id": "8SS-C19-02",
+   "part": 2,
+   "ch": 19,
+   "ch_kn": "ಬಾದಾಮಿಯ ಚಾಳುಕ್ಯರು ಮತ್ತು ಕಂಚಿಯ ಪಲ್ಲವರು",
+   "ch_en": "Chalukyas of Badami and Pallavas of Kanchi",
+   "diff": "medium",
+   "q_kn": "ಹರ್ಷನನ್ನು ಸೋಲಿಸಿದ ನಂತರ ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿ ಪಡೆದ ಬಿರುದು ಯಾವುದು?",
+   "q_en": "Which title did Pulakeshi II get after defeating Harsha?",
+   "opt_kn": [
+    "ಮಹಾಮಲ್ಲ",
+    "ವಾತಾಪಿಕೊಂಡ",
+    "ತಲಕಾಡುಗೊಂಡ",
+    "ದಕ್ಷಿಣಾಪಥೇಶ್ವರ"
+   ],
+   "opt_en": [
+    "Mahamalla",
+    "Vatapikonda",
+    "Talakadugonda",
+    "Dakshinapatheshwara"
+   ],
+   "ans": "D",
+   "exp_kn": "ದಕ್ಷಿಣಾಪಥೇಶ್ವರ = ದಕ್ಷಿಣ ಭಾರತದ ಅಧಿಪತಿ."
+  },
+  {
+   "id": "8SS-C19-03",
+   "part": 2,
+   "ch": 19,
+   "ch_kn": "ಬಾದಾಮಿಯ ಚಾಳುಕ್ಯರು ಮತ್ತು ಕಂಚಿಯ ಪಲ್ಲವರು",
+   "ch_en": "Chalukyas of Badami and Pallavas of Kanchi",
+   "diff": "medium",
+   "q_kn": "ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿಯ ಸಾಧನೆಗಳನ್ನು ತಿಳಿಸುವ ಐಹೊಳೆ ಶಾಸನವನ್ನು ರಚಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who composed the Aihole inscription describing Pulakeshi II's achievements?",
+   "opt_kn": [
+    "ಪಂಪ",
+    "ಹರಿಸೇನ",
+    "ರವಿಕೀರ್ತಿ",
+    "ಶ್ರೀವಿಜಯ"
+   ],
+   "opt_en": [
+    "Pampa",
+    "Harisena",
+    "Ravikirti",
+    "Srivijaya"
+   ],
+   "ans": "C",
+   "exp_kn": "ಐಹೊಳೆ ಶಾಸನ – ಆಸ್ಥಾನ ಕವಿ ರವಿಕೀರ್ತಿ."
+  },
+  {
+   "id": "8SS-C19-04",
+   "part": 2,
+   "ch": 19,
+   "ch_kn": "ಬಾದಾಮಿಯ ಚಾಳುಕ್ಯರು ಮತ್ತು ಕಂಚಿಯ ಪಲ್ಲವರು",
+   "ch_en": "Chalukyas of Badami and Pallavas of Kanchi",
+   "diff": "medium",
+   "q_kn": "ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿಯನ್ನು ಸೋಲಿಸಿ ‘ವಾತಾಪಿಕೊಂಡ’ ಬಿರುದು ಪಡೆದ ಪಲ್ಲವ ದೊರೆ ಯಾರು?",
+   "q_en": "Which Pallava king defeated Pulakeshi II and took the title \"Vatapikonda\"?",
+   "opt_kn": [
+    "ಮಹೇಂದ್ರವರ್ಮ",
+    "ಮಯೂರವರ್ಮ",
+    "ಶಿವಸ್ಕಂದವರ್ಮ",
+    "ಮೊದಲನೆಯ ನರಸಿಂಹವರ್ಮ"
+   ],
+   "opt_en": [
+    "Mahendravarma",
+    "Mayuravarma",
+    "Shivaskandavarma",
+    "Narasimhavarma I"
+   ],
+   "ans": "D",
+   "exp_kn": "ನರಸಿಂಹವರ್ಮ – ಮಹಾಮಲ್ಲ, ವಾತಾಪಿಕೊಂಡ."
+  },
+  {
+   "id": "8SS-C19-05",
+   "part": 2,
+   "ch": 19,
+   "ch_kn": "ಬಾದಾಮಿಯ ಚಾಳುಕ್ಯರು ಮತ್ತು ಕಂಚಿಯ ಪಲ್ಲವರು",
+   "ch_en": "Chalukyas of Badami and Pallavas of Kanchi",
+   "diff": "medium",
+   "q_kn": "ಕಂಚಿ ಬಳಿಯ ಸಮುದ್ರ ತೀರದಲ್ಲಿ ನರಸಿಂಹವರ್ಮನು ನಿರ್ಮಿಸಿದ ನಗರ ಯಾವುದು?",
+   "q_en": "Which city did Narasimhavarma build on the sea coast near Kanchi?",
+   "opt_kn": [
+    "ಗಂಗೈಕೊಂಡ ಚೋಳಪುರಂ",
+    "ಮಹಾಬಲಿಪುರಂ",
+    "ತಂಜಾವೂರು",
+    "ಮಧುರೈ"
+   ],
+   "opt_en": [
+    "Gangaikonda Cholapuram",
+    "Mahabalipuram",
+    "Thanjavur",
+    "Madurai"
+   ],
+   "ans": "B",
+   "exp_kn": "ಮಹಾಬಲಿಪುರಂನಲ್ಲಿ ಅನೇಕ ಏಕಶಿಲಾ ದೇವಾಲಯಗಳಿವೆ."
+  },
+  {
+   "id": "8SS-C19-06",
+   "part": 2,
+   "ch": 19,
+   "ch_kn": "ಬಾದಾಮಿಯ ಚಾಳುಕ್ಯರು ಮತ್ತು ಕಂಚಿಯ ಪಲ್ಲವರು",
+   "ch_en": "Chalukyas of Badami and Pallavas of Kanchi",
+   "diff": "medium",
+   "q_kn": "ಬಾದಾಮಿ ಚಾಳುಕ್ಯರು ಆರಂಭಿಸಿದ ವಾಸ್ತುಶಿಲ್ಪ ಶೈಲಿ ಯಾವುದು?",
+   "q_en": "Which architectural style was started by the Badami Chalukyas?",
+   "opt_kn": [
+    "ವೇಸರ (ಚಾಳುಕ್ಯ) ಶೈಲಿ",
+    "ಗಾಂಧಾರ ಶೈಲಿ",
+    "ಇಂಡೋ-ಸಾರ್ಸೆನಿಕ್",
+    "ಗೋಥಿಕ್"
+   ],
+   "opt_en": [
+    "Vesara (Chalukya) style",
+    "Gandhara style",
+    "Indo-Saracenic",
+    "Gothic"
+   ],
+   "ans": "A",
+   "exp_kn": "ಪಟ್ಟದಕಲ್ಲು, ಐಹೊಳೆ, ಬಾದಾಮಿ ದೇವಾಲಯಗಳು."
+  },
+  {
+   "id": "8SS-C19-07",
+   "part": 2,
+   "ch": 19,
+   "ch_kn": "ಬಾದಾಮಿಯ ಚಾಳುಕ್ಯರು ಮತ್ತು ಕಂಚಿಯ ಪಲ್ಲವರು",
+   "ch_en": "Chalukyas of Badami and Pallavas of Kanchi",
+   "diff": "hard",
+   "q_kn": "ತ್ರಿಪದಿ ಛಂದಸ್ಸಿನ ಪದ್ಯವಿರುವ ಬಾದಾಮಿಯ ಶಾಸನ ಯಾವುದು?",
+   "q_en": "Which inscription at Badami contains a verse in the Tripadi metre?",
+   "opt_kn": [
+    "ಹಲ್ಮಿಡಿ ಶಾಸನ",
+    "ಐಹೊಳೆ ಶಾಸನ",
+    "ಕಪ್ಪೆ ಅರಭಟ್ಟನ ಶಾಸನ",
+    "ತಾಳಗುಂದ ಶಾಸನ"
+   ],
+   "opt_en": [
+    "Halmidi inscription",
+    "Aihole inscription",
+    "Kappe Arabhatta inscription",
+    "Talagunda inscription"
+   ],
+   "ans": "C",
+   "exp_kn": "ಕಪ್ಪೆ ಅರಭಟ್ಟನ ಶಾಸನದಲ್ಲಿ ತ್ರಿಪದಿ ಪದ್ಯವಿದೆ."
+  },
+  {
+   "id": "8SS-C19-08",
+   "part": 2,
+   "ch": 19,
+   "ch_kn": "ಬಾದಾಮಿಯ ಚಾಳುಕ್ಯರು ಮತ್ತು ಕಂಚಿಯ ಪಲ್ಲವರು",
+   "ch_en": "Chalukyas of Badami and Pallavas of Kanchi",
+   "diff": "medium",
+   "q_kn": "‘ಕಿರಾತಾರ್ಜುನೀಯ’ ಕೃತಿಯ ಕರ್ತೃ ಯಾರು?",
+   "q_en": "Who wrote \"Kiratarjuniya\"?",
+   "opt_kn": [
+    "ಕಾಳಿದಾಸ",
+    "ಭಾರವಿ",
+    "ದಂಡಿ",
+    "ರನ್ನ"
+   ],
+   "opt_en": [
+    "Kalidasa",
+    "Bharavi",
+    "Dandi",
+    "Ranna"
+   ],
+   "ans": "B",
+   "exp_kn": "ಭಾರವಿ ಪಲ್ಲವರ ಆಸ್ಥಾನದಲ್ಲಿದ್ದ ಕವಿ."
+  },
+  {
+   "id": "8SS-C20-01",
+   "part": 2,
+   "ch": 20,
+   "ch_kn": "ಮಾನ್ಯಖೇಟದ ರಾಷ್ಟ್ರಕೂಟರು ಮತ್ತು ಕಲ್ಯಾಣದ ಚಾಳುಕ್ಯರು",
+   "ch_en": "Rashtrakutas of Manyakheta and Chalukyas of Kalyana",
+   "diff": "medium",
+   "q_kn": "ರಾಷ್ಟ್ರಕೂಟ ವಂಶದ ಆಳ್ವಿಕೆಯ ಸ್ಥಾಪಕ ಯಾರು?",
+   "q_en": "Who founded the Rashtrakuta rule?",
+   "opt_kn": [
+    "ಅಮೋಘವರ್ಷ",
+    "ಧ್ರುವ",
+    "ಒಂದನೇ ಕೃಷ್ಣ",
+    "ದಂತಿದುರ್ಗ"
+   ],
+   "opt_en": [
+    "Amoghavarsha",
+    "Dhruva",
+    "Krishna I",
+    "Dantidurga"
+   ],
+   "ans": "D",
+   "exp_kn": "ದಂತಿದುರ್ಗನಿಂದ ಸಾಮ್ರಾಜ್ಯ ಪ್ರಾರಂಭವಾಯಿತು."
+  },
+  {
+   "id": "8SS-C20-02",
+   "part": 2,
+   "ch": 20,
+   "ch_kn": "ಮಾನ್ಯಖೇಟದ ರಾಷ್ಟ್ರಕೂಟರು ಮತ್ತು ಕಲ್ಯಾಣದ ಚಾಳುಕ್ಯರು",
+   "ch_en": "Rashtrakutas of Manyakheta and Chalukyas of Kalyana",
+   "diff": "easy",
+   "q_kn": "ಕನ್ನಡದ ಮೊದಲ ಉಪಲಬ್ಧ ಗ್ರಂಥ ‘ಕವಿರಾಜಮಾರ್ಗ’ ರಚಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who wrote \"Kavirajamarga\", the earliest available Kannada work?",
+   "opt_kn": [
+    "ಶ್ರೀವಿಜಯ",
+    "ಪೊನ್ನ",
+    "ರನ್ನ",
+    "ಪಂಪ"
+   ],
+   "opt_en": [
+    "Srivijaya",
+    "Ponna",
+    "Ranna",
+    "Pampa"
+   ],
+   "ans": "A",
+   "exp_kn": "ಅಮೋಘವರ್ಷನ ಆಸ್ಥಾನದ ಶ್ರೀವಿಜಯ."
+  },
+  {
+   "id": "8SS-C20-03",
+   "part": 2,
+   "ch": 20,
+   "ch_kn": "ಮಾನ್ಯಖೇಟದ ರಾಷ್ಟ್ರಕೂಟರು ಮತ್ತು ಕಲ್ಯಾಣದ ಚಾಳುಕ್ಯರು",
+   "ch_en": "Rashtrakutas of Manyakheta and Chalukyas of Kalyana",
+   "diff": "medium",
+   "q_kn": "ಅಮೋಘವರ್ಷನನ್ನು ‘ಜಗತ್ತಿನ ನಾಲ್ವರು ಪ್ರಬಲ ಚಕ್ರವರ್ತಿಗಳಲ್ಲಿ ಒಬ್ಬ’ ಎಂದ ಅರಬ್ ಯಾತ್ರಿಕ ಯಾರು?",
+   "q_en": "Which Arab traveller called Amoghavarsha \"one of the four great emperors of the world\"?",
+   "opt_kn": [
+    "ಹ್ಯೂಯೆನ್ ತ್ಸಾಂಗ್",
+    "ಅಲ್ ಬೆರೂನಿ",
+    "ಸುಲೈಮಾನ್",
+    "ಇಬ್ನ್ ಬತೂತ"
+   ],
+   "opt_en": [
+    "Hiuen Tsang",
+    "Al-Biruni",
+    "Sulaiman",
+    "Ibn Battuta"
+   ],
+   "ans": "C",
+   "exp_kn": "ಅರಬ್ ಯಾತ್ರಿಕ ಸುಲೈಮಾನ್."
+  },
+  {
+   "id": "8SS-C20-04",
+   "part": 2,
+   "ch": 20,
+   "ch_kn": "ಮಾನ್ಯಖೇಟದ ರಾಷ್ಟ್ರಕೂಟರು ಮತ್ತು ಕಲ್ಯಾಣದ ಚಾಳುಕ್ಯರು",
+   "ch_en": "Rashtrakutas of Manyakheta and Chalukyas of Kalyana",
+   "diff": "medium",
+   "q_kn": "ಎಲ್ಲೋರಾದ ಏಕಶಿಲೆಯ ಕೈಲಾಸನಾಥ ಮಂದಿರವನ್ನು ಕಟ್ಟಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who built the monolithic Kailasanatha temple at Ellora?",
+   "opt_kn": [
+    "ಅಮೋಘವರ್ಷ",
+    "ಒಂದನೇ ಕೃಷ್ಣ",
+    "ದಂತಿದುರ್ಗ",
+    "ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿ"
+   ],
+   "opt_en": [
+    "Amoghavarsha",
+    "Krishna I",
+    "Dantidurga",
+    "Pulakeshi II"
+   ],
+   "ans": "B",
+   "exp_kn": "ರಾಷ್ಟ್ರಕೂಟ ದೊರೆ ಒಂದನೇ ಕೃಷ್ಣ ಕಟ್ಟಿಸಿದನು."
+  },
+  {
+   "id": "8SS-C20-05",
+   "part": 2,
+   "ch": 20,
+   "ch_kn": "ಮಾನ್ಯಖೇಟದ ರಾಷ್ಟ್ರಕೂಟರು ಮತ್ತು ಕಲ್ಯಾಣದ ಚಾಳುಕ್ಯರು",
+   "ch_en": "Rashtrakutas of Manyakheta and Chalukyas of Kalyana",
+   "diff": "medium",
+   "q_kn": "ಆದಿಕವಿ ಪಂಪನ ಕೃತಿಗಳು ಯಾವುವು?",
+   "q_en": "Which are the works of Adikavi Pampa?",
+   "opt_kn": [
+    "ಶಾಂತಿಪುರಾಣ",
+    "ಗದಾಯುದ್ಧ",
+    "ಕವಿರಾಜಮಾರ್ಗ",
+    "ಆದಿಪುರಾಣ, ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ"
+   ],
+   "opt_en": [
+    "Shantipurana",
+    "Gadayuddha",
+    "Kavirajamarga",
+    "Adipurana, Vikramarjuna Vijaya"
+   ],
+   "ans": "D",
+   "exp_kn": "ಪೊನ್ನ – ಶಾಂತಿಪುರಾಣ; ರನ್ನ – ಗದಾಯುದ್ಧ."
+  },
+  {
+   "id": "8SS-C20-06",
+   "part": 2,
+   "ch": 20,
+   "ch_kn": "ಮಾನ್ಯಖೇಟದ ರಾಷ್ಟ್ರಕೂಟರು ಮತ್ತು ಕಲ್ಯಾಣದ ಚಾಳುಕ್ಯರು",
+   "ch_en": "Rashtrakutas of Manyakheta and Chalukyas of Kalyana",
+   "diff": "hard",
+   "q_kn": "ಕನ್ನಡದ ಮೊದಲ ಉಪಲಬ್ಧ ಗದ್ಯಕೃತಿ ‘ವಡ್ಡಾರಾಧನೆ’ಯ ಕರ್ತೃ ಯಾರು?",
+   "q_en": "Who wrote \"Vaddaradhane\", the earliest available prose work in Kannada?",
+   "opt_kn": [
+    "ನಯಸೇನ",
+    "ದುರ್ಗಸಿಂಹ",
+    "ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ",
+    "ಶ್ರೀವಿಜಯ"
+   ],
+   "opt_en": [
+    "Nayasena",
+    "Durgasimha",
+    "Shivakotyacharya",
+    "Srivijaya"
+   ],
+   "ans": "C",
+   "exp_kn": "ವಡ್ಡಾರಾಧನೆ – ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ."
+  },
+  {
+   "id": "8SS-C20-07",
+   "part": 2,
+   "ch": 20,
+   "ch_kn": "ಮಾನ್ಯಖೇಟದ ರಾಷ್ಟ್ರಕೂಟರು ಮತ್ತು ಕಲ್ಯಾಣದ ಚಾಳುಕ್ಯರು",
+   "ch_en": "Rashtrakutas of Manyakheta and Chalukyas of Kalyana",
+   "diff": "medium",
+   "q_kn": "ಕಲ್ಯಾಣ ಚಾಳುಕ್ಯ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಸ್ಥಾಪಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who founded the Kalyana Chalukya empire?",
+   "opt_kn": [
+    "ಎರಡನೇ ತೈಲಪ",
+    "ಬಿಜ್ಜಳ",
+    "ಆರನೇ ವಿಕ್ರಮಾದಿತ್ಯ",
+    "ಒಂದನೇ ಸೋಮೇಶ್ವರ"
+   ],
+   "opt_en": [
+    "Tailapa II",
+    "Bijjala",
+    "Vikramaditya VI",
+    "Someshwara I"
+   ],
+   "ans": "A",
+   "exp_kn": "ಎರಡನೇ ತೈಲಪ ರಾಷ್ಟ್ರಕೂಟರ ಎರಡನೇ ಕರ್ಕನನ್ನು ಸೋಲಿಸಿದನು."
+  },
+  {
+   "id": "8SS-C20-08",
+   "part": 2,
+   "ch": 20,
+   "ch_kn": "ಮಾನ್ಯಖೇಟದ ರಾಷ್ಟ್ರಕೂಟರು ಮತ್ತು ಕಲ್ಯಾಣದ ಚಾಳುಕ್ಯರು",
+   "ch_en": "Rashtrakutas of Manyakheta and Chalukyas of Kalyana",
+   "diff": "medium",
+   "q_kn": "1076ರಲ್ಲಿ ‘ಚಾಳುಕ್ಯ ವಿಕ್ರಮ ಶಕೆ’ ಆರಂಭಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who started the \"Chalukya Vikrama era\" in 1076?",
+   "opt_kn": [
+    "ಒಂದನೇ ಸೋಮೇಶ್ವರ",
+    "ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿ",
+    "ಆರನೇ ವಿಕ್ರಮಾದಿತ್ಯ",
+    "ಎರಡನೇ ತೈಲಪ"
+   ],
+   "opt_en": [
+    "Someshwara I",
+    "Pulakeshi II",
+    "Vikramaditya VI",
+    "Tailapa II"
+   ],
+   "ans": "C",
+   "exp_kn": "ಆರನೇ ವಿಕ್ರಮಾದಿತ್ಯ ಕಲ್ಯಾಣ ಚಾಳುಕ್ಯರ ಶ್ರೇಷ್ಠ ಅರಸ."
+  },
+  {
+   "id": "8SS-C20-09",
+   "part": 2,
+   "ch": 20,
+   "ch_kn": "ಮಾನ್ಯಖೇಟದ ರಾಷ್ಟ್ರಕೂಟರು ಮತ್ತು ಕಲ್ಯಾಣದ ಚಾಳುಕ್ಯರು",
+   "ch_en": "Rashtrakutas of Manyakheta and Chalukyas of Kalyana",
+   "diff": "medium",
+   "q_kn": "‘ಮಿತಾಕ್ಷರ’ ಎಂಬ ಕಾನೂನು ಗ್ರಂಥದ ಕರ್ತೃ ಯಾರು?",
+   "q_en": "Who wrote the law book \"Mitakshara\"?",
+   "opt_kn": [
+    "ಬಿಲ್ಹಣ",
+    "ನಯಸೇನ",
+    "ರನ್ನ",
+    "ವಿಜ್ಞಾನೇಶ್ವರ"
+   ],
+   "opt_en": [
+    "Bilhana",
+    "Nayasena",
+    "Ranna",
+    "Vijnaneshwara"
+   ],
+   "ans": "D",
+   "exp_kn": "ಬಿಲ್ಹಣ – ವಿಕ್ರಮಾಂಕದೇವ ಚರಿತ."
+  },
+  {
+   "id": "8SS-C20-10",
+   "part": 2,
+   "ch": 20,
+   "ch_kn": "ಮಾನ್ಯಖೇಟದ ರಾಷ್ಟ್ರಕೂಟರು ಮತ್ತು ಕಲ್ಯಾಣದ ಚಾಳುಕ್ಯರು",
+   "ch_en": "Rashtrakutas of Manyakheta and Chalukyas of Kalyana",
+   "diff": "medium",
+   "q_kn": "ಬಸವಣ್ಣನವರು ಅನುಭವ ಮಂಟಪ ಸ್ಥಾಪಿಸಿದ ವರ್ಷ (ಪಠ್ಯದಂತೆ) ಯಾವುದು?",
+   "q_en": "In which year (as per the textbook) did Basavanna establish the Anubhava Mantapa?",
+   "opt_kn": [
+    "1162",
+    "1336",
+    "1076",
+    "1189"
+   ],
+   "opt_en": [
+    "1162",
+    "1336",
+    "1076",
+    "1189"
+   ],
+   "ans": "A",
+   "exp_kn": "ಅನುಭವ ಮಂಟಪ 1162; ಕರ್ನಾಟಕ ಸರ್ಕಾರ 2024ರಲ್ಲಿ ಬಸವಣ್ಣರನ್ನು ‘ಸಾಂಸ್ಕೃತಿಕ ನಾಯಕ’ ಎಂದು ಘೋಷಿಸಿತು."
+  },
+  {
+   "id": "8SS-C21-01",
+   "part": 2,
+   "ch": 21,
+   "ch_kn": "ಚೋಳರು ಮತ್ತು ದ್ವಾರಸಮುದ್ರದ ಹೊಯ್ಸಳರು",
+   "ch_en": "Cholas and Hoysalas of Dwarasamudra",
+   "diff": "easy",
+   "q_kn": "ಚೋಳರ ರಾಜಧಾನಿ ಯಾವುದು?",
+   "q_en": "What was the capital of the Cholas?",
+   "opt_kn": [
+    "ಮಧುರೈ",
+    "ತಂಜಾವೂರು",
+    "ಬನವಾಸಿ",
+    "ಕಂಚಿ"
+   ],
+   "opt_en": [
+    "Madurai",
+    "Thanjavur",
+    "Banavasi",
+    "Kanchi"
+   ],
+   "ans": "B",
+   "exp_kn": "ವಿಜಯಾಲಯ ತಂಜಾವೂರನ್ನು ರಾಜಧಾನಿಯನ್ನಾಗಿಸಿದನು."
+  },
+  {
+   "id": "8SS-C21-02",
+   "part": 2,
+   "ch": 21,
+   "ch_kn": "ಚೋಳರು ಮತ್ತು ದ್ವಾರಸಮುದ್ರದ ಹೊಯ್ಸಳರು",
+   "ch_en": "Cholas and Hoysalas of Dwarasamudra",
+   "diff": "medium",
+   "q_kn": "ತಂಜಾವೂರಿನ ಪ್ರಸಿದ್ಧ ಚೋಳ ದೇವಾಲಯ ಯಾವುದು?",
+   "q_en": "Which is the famous Chola temple at Thanjavur?",
+   "opt_kn": [
+    "ಕೈಲಾಸನಾಥ",
+    "ಚೆನ್ನಕೇಶವ",
+    "ವಿರೂಪಾಕ್ಷ",
+    "ಬೃಹದೀಶ್ವರ"
+   ],
+   "opt_en": [
+    "Kailasanatha",
+    "Chennakeshava",
+    "Virupaksha",
+    "Brihadeeswara"
+   ],
+   "ans": "D",
+   "exp_kn": "ಬೃಹದೀಶ್ವರ ದೇವಾಲಯದ ಶಿಖರ 200 ಅಡಿ ಎತ್ತರ."
+  },
+  {
+   "id": "8SS-C21-03",
+   "part": 2,
+   "ch": 21,
+   "ch_kn": "ಚೋಳರು ಮತ್ತು ದ್ವಾರಸಮುದ್ರದ ಹೊಯ್ಸಳರು",
+   "ch_en": "Cholas and Hoysalas of Dwarasamudra",
+   "diff": "medium",
+   "q_kn": "ಚೋಳರ ಕಾಲದ ಪ್ರಸಿದ್ಧ ಅಗ್ರಹಾರ (ವಿದ್ಯಾಕೇಂದ್ರ) ಯಾವುದು?",
+   "q_en": "Which was the famous agrahara (centre of learning) of the Chola period?",
+   "opt_kn": [
+    "ನಳಂದ",
+    "ತಕ್ಷಶಿಲೆ",
+    "ಉತ್ತರಮೇರೂರು",
+    "ಬನವಾಸಿ"
+   ],
+   "opt_en": [
+    "Nalanda",
+    "Taxila",
+    "Uttaramerur",
+    "Banavasi"
+   ],
+   "ans": "C",
+   "exp_kn": "ಉತ್ತರಮೇರೂರು ಅಗ್ರಹಾರ ಪ್ರಸಿದ್ಧ."
+  },
+  {
+   "id": "8SS-C21-04",
+   "part": 2,
+   "ch": 21,
+   "ch_kn": "ಚೋಳರು ಮತ್ತು ದ್ವಾರಸಮುದ್ರದ ಹೊಯ್ಸಳರು",
+   "ch_en": "Cholas and Hoysalas of Dwarasamudra",
+   "diff": "medium",
+   "q_kn": "ಚೋಳರ ಕಾಲದಲ್ಲಿ ಪ್ರತಿ ಗ್ರಾಮದಲ್ಲಿದ್ದ ಪ್ರಜೆಗಳ ಸಭೆಯನ್ನು ಏನೆನ್ನುತ್ತಿದ್ದರು?",
+   "q_en": "What was the people's assembly in every village during the Chola period called?",
+   "opt_kn": [
+    "ಊರ್",
+    "ಪಂಚಾಯಿತಿ",
+    "ವಿದಾತ್",
+    "ಸೆನೆಟ್"
+   ],
+   "opt_en": [
+    "Ur",
+    "Panchayat",
+    "Vidath",
+    "Senate"
+   ],
+   "ans": "A",
+   "exp_kn": "ಪ್ರತಿ ಗ್ರಾಮದಲ್ಲಿ ‘ಊರ್’; ಅಗ್ರಹಾರಗಳಲ್ಲಿ ‘ಮಹಾಸಭಾ’."
+  },
+  {
+   "id": "8SS-C21-05",
+   "part": 2,
+   "ch": 21,
+   "ch_kn": "ಚೋಳರು ಮತ್ತು ದ್ವಾರಸಮುದ್ರದ ಹೊಯ್ಸಳರು",
+   "ch_en": "Cholas and Hoysalas of Dwarasamudra",
+   "diff": "medium",
+   "q_kn": "ಕಂಬನ್ ರಚಿಸಿದ ತಮಿಳು ಕೃತಿ ಯಾವುದು?",
+   "q_en": "Which Tamil work was written by Kamban?",
+   "opt_kn": [
+    "ತಿರುಕ್ಕುರಳ್",
+    "ಕಂಬ ರಾಮಾಯಣಮ್",
+    "ಜೀವಕ ಚಿಂತಾಮಣಿ",
+    "ಪೆರಿಯ ಪುರಾಣ"
+   ],
+   "opt_en": [
+    "Tirukkural",
+    "Kamba Ramayanam",
+    "Jivaka Chintamani",
+    "Periya Puranam"
+   ],
+   "ans": "B",
+   "exp_kn": "ಸೆಕ್ಕಿಳರ್ – ಪೆರಿಯ ಪುರಾಣ; ತಿರುಕ್ಕಾದೇವ – ಜೀವಕ ಚಿಂತಾಮಣಿ."
+  },
+  {
+   "id": "8SS-C21-06",
+   "part": 2,
+   "ch": 21,
+   "ch_kn": "ಚೋಳರು ಮತ್ತು ದ್ವಾರಸಮುದ್ರದ ಹೊಯ್ಸಳರು",
+   "ch_en": "Cholas and Hoysalas of Dwarasamudra",
+   "diff": "medium",
+   "q_kn": "ಹುಲಿಯೊಡನೆ ಕಾದಾಡಿ ಹೊಯ್ಸಳ ವಂಶಕ್ಕೆ ಮೂಲ ಪುರುಷನಾದವನು ಯಾರು?",
+   "q_en": "Who fought a tiger and became the founder of the Hoysala dynasty?",
+   "opt_kn": [
+    "ಸಳ",
+    "ನೃಪಕಾಮ",
+    "ವಿಷ್ಣುವರ್ಧನ",
+    "ಬಲ್ಲಾಳ"
+   ],
+   "opt_en": [
+    "Sala",
+    "Nripakama",
+    "Vishnuvardhana",
+    "Ballala"
+   ],
+   "ans": "A",
+   "exp_kn": "ಸೊಸೆವೂರಿನಲ್ಲಿ ಸುದತ್ತ ಮುನಿಯ ಆದೇಶದಂತೆ ಸಳ ಹುಲಿಯನ್ನು ಕೊಂದನು."
+  },
+  {
+   "id": "8SS-C21-07",
+   "part": 2,
+   "ch": 21,
+   "ch_kn": "ಚೋಳರು ಮತ್ತು ದ್ವಾರಸಮುದ್ರದ ಹೊಯ್ಸಳರು",
+   "ch_en": "Cholas and Hoysalas of Dwarasamudra",
+   "diff": "medium",
+   "q_kn": "ಚೋಳರಿಂದ ಗಂಗವಾಡಿಯನ್ನು ಗೆದ್ದು ‘ತಲಕಾಡುಗೊಂಡ’ ಬಿರುದು ಪಡೆದ ಹೊಯ್ಸಳ ದೊರೆ ಯಾರು?",
+   "q_en": "Which Hoysala king won Gangavadi from the Cholas and took the title \"Talakadugonda\"?",
+   "opt_kn": [
+    "ಎರೆಯಂಗ",
+    "ವಿಷ್ಣುವರ್ಧನ",
+    "ಮೂರನೇ ಬಲ್ಲಾಳ",
+    "ಸಳ"
+   ],
+   "opt_en": [
+    "Ereyanga",
+    "Vishnuvardhana",
+    "Ballala III",
+    "Sala"
+   ],
+   "ans": "B",
+   "exp_kn": "ವಿಜಯದ ನೆನಪಿಗೆ ಬೇಲೂರಿನ ಚೆನ್ನಕೇಶವ ದೇವಾಲಯ ಕಟ್ಟಿಸಿದನು."
+  },
+  {
+   "id": "8SS-C21-08",
+   "part": 2,
+   "ch": 21,
+   "ch_kn": "ಚೋಳರು ಮತ್ತು ದ್ವಾರಸಮುದ್ರದ ಹೊಯ್ಸಳರು",
+   "ch_en": "Cholas and Hoysalas of Dwarasamudra",
+   "diff": "hard",
+   "q_kn": "ಹಳೇಬೀಡಿನ ಹೊಯ್ಸಳೇಶ್ವರ ದೇವಾಲಯವನ್ನು ಕಟ್ಟಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who built the Hoysaleshwara temple at Halebidu?",
+   "opt_kn": [
+    "ಸೋಮದಂಡನಾಯಕ",
+    "ವಿಷ್ಣುವರ್ಧನ",
+    "ದಂಡನಾಯಕ ಕೇತಮಲ್ಲ",
+    "ಚಾವುಂಡರಾಯ"
+   ],
+   "opt_en": [
+    "Soma Dandanayaka",
+    "Vishnuvardhana",
+    "Dandanayaka Ketamalla",
+    "Chavundaraya"
+   ],
+   "ans": "C",
+   "exp_kn": "ಸೋಮನಾಥಪುರದ ಕೇಶವ ದೇವಾಲಯ – ಸೋಮದಂಡನಾಯಕ."
+  },
+  {
+   "id": "8SS-C21-09",
+   "part": 2,
+   "ch": 21,
+   "ch_kn": "ಚೋಳರು ಮತ್ತು ದ್ವಾರಸಮುದ್ರದ ಹೊಯ್ಸಳರು",
+   "ch_en": "Cholas and Hoysalas of Dwarasamudra",
+   "diff": "hard",
+   "q_kn": "ಹೊಂದಿಸಿ: (1) ಜನ್ನ (2) ರಾಘವಾಂಕ (3) ಕೇಶಿರಾಜ – (a) ಶಬ್ದಮಣಿದರ್ಪಣ (b) ಯಶೋಧರ ಚರಿತೆ (c) ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ",
+   "q_en": "Match: (1) Janna (2) Raghavanka (3) Keshiraja – (a) Shabdamanidarpana (b) Yashodhara Charite (c) Harishchandra Kavya",
+   "opt_kn": [
+    "1-a, 2-c, 3-b",
+    "1-c, 2-b, 3-a",
+    "1-b, 2-a, 3-c",
+    "1-b, 2-c, 3-a"
+   ],
+   "opt_en": [
+    "1-a, 2-c, 3-b",
+    "1-c, 2-b, 3-a",
+    "1-b, 2-a, 3-c",
+    "1-b, 2-c, 3-a"
+   ],
+   "ans": "D",
+   "exp_kn": "ಜನ್ನ–ಯಶೋಧರ ಚರಿತೆ, ರಾಘವಾಂಕ–ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ, ಕೇಶಿರಾಜ–ಶಬ್ದಮಣಿದರ್ಪಣ."
+  },
+  {
+   "id": "8SS-C22-01",
+   "part": 2,
+   "ch": 22,
+   "ch_kn": "ಪ್ರಜಾಪ್ರಭುತ್ವ",
+   "ch_en": "Democracy",
+   "diff": "easy",
+   "q_kn": "‘ಡೆಮಾಕ್ರಸಿ’ ಪದ ಯಾವ ಭಾಷೆಯ ಪದಗಳಿಂದ ಬಂದಿದೆ?",
+   "q_en": "The word \"Democracy\" comes from words of which language?",
+   "opt_kn": [
+    "ಗ್ರೀಕ್",
+    "ಇಂಗ್ಲಿಷ್",
+    "ಸಂಸ್ಕೃತ",
+    "ಲ್ಯಾಟಿನ್"
+   ],
+   "opt_en": [
+    "Greek",
+    "English",
+    "Sanskrit",
+    "Latin"
+   ],
+   "ans": "A",
+   "exp_kn": "ಡೆಮಾಸ್ = ಜನ, ಕ್ರೇಷಿಯಾ = ಅಧಿಕಾರ."
+  },
+  {
+   "id": "8SS-C22-02",
+   "part": 2,
+   "ch": 22,
+   "ch_kn": "ಪ್ರಜಾಪ್ರಭುತ್ವ",
+   "ch_en": "Democracy",
+   "diff": "easy",
+   "q_kn": "ಪ್ರಜಾಪ್ರಭುತ್ವವನ್ನು ‘ಪ್ರಜೆಗಳಿಂದ, ಪ್ರಜೆಗಳಿಗಾಗಿ, ಪ್ರಜೆಗಳಿಗೋಸ್ಕರ ಸರ್ಕಾರ’ ಎಂದು ವ್ಯಾಖ್ಯಾನಿಸಿದವರು ಯಾರು?",
+   "q_en": "Who defined democracy as \"government of the people, by the people, for the people\"?",
+   "opt_kn": [
+    "ಮಹಾತ್ಮ ಗಾಂಧಿ",
+    "ಪ್ಲೇಟೋ",
+    "ಅರಿಸ್ಟಾಟಲ್",
+    "ಅಬ್ರಹಾಂ ಲಿಂಕನ್"
+   ],
+   "opt_en": [
+    "Mahatma Gandhi",
+    "Plato",
+    "Aristotle",
+    "Abraham Lincoln"
+   ],
+   "ans": "D",
+   "exp_kn": "ಅಮೆರಿಕದ ಮಾಜಿ ಅಧ್ಯಕ್ಷ ಅಬ್ರಹಾಂ ಲಿಂಕನ್."
+  },
+  {
+   "id": "8SS-C22-03",
+   "part": 2,
+   "ch": 22,
+   "ch_kn": "ಪ್ರಜಾಪ್ರಭುತ್ವ",
+   "ch_en": "Democracy",
+   "diff": "medium",
+   "q_kn": "ಭಾರತದಲ್ಲಿ ಮತದಾನದ ಕನಿಷ್ಠ ವಯಸ್ಸನ್ನು 21ರಿಂದ 18ಕ್ಕೆ ಇಳಿಸಿದ ಸಂವಿಧಾನ ತಿದ್ದುಪಡಿ ಯಾವುದು?",
+   "q_en": "Which constitutional amendment reduced the voting age in India from 21 to 18?",
+   "opt_kn": [
+    "73ನೇ ತಿದ್ದುಪಡಿ",
+    "61ನೇ ತಿದ್ದುಪಡಿ",
+    "74ನೇ ತಿದ್ದುಪಡಿ",
+    "42ನೇ ತಿದ್ದುಪಡಿ"
+   ],
+   "opt_en": [
+    "73rd amendment",
+    "61st amendment",
+    "74th amendment",
+    "42nd amendment"
+   ],
+   "ans": "B",
+   "exp_kn": "61ನೇ ತಿದ್ದುಪಡಿ – 1989ರಿಂದ 18 ವರ್ಷ."
+  },
+  {
+   "id": "8SS-C22-04",
+   "part": 2,
+   "ch": 22,
+   "ch_kn": "ಪ್ರಜಾಪ್ರಭುತ್ವ",
+   "ch_en": "Democracy",
+   "diff": "easy",
+   "q_kn": "ಭಾರತದಲ್ಲಿ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಗಳು ಎಷ್ಟು ವರ್ಷಕ್ಕೊಮ್ಮೆ ನಡೆಯುತ್ತವೆ?",
+   "q_en": "General elections in India are held once in how many years?",
+   "opt_kn": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "opt_en": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "ans": "C",
+   "exp_kn": "ಐದು ವರ್ಷಕ್ಕೊಮ್ಮೆ."
+  },
+  {
+   "id": "8SS-C22-05",
+   "part": 2,
+   "ch": 22,
+   "ch_kn": "ಪ್ರಜಾಪ್ರಭುತ್ವ",
+   "ch_en": "Democracy",
+   "diff": "medium",
+   "q_kn": "ಜನರು ಪ್ರತಿನಿಧಿಗಳನ್ನು ಆರಿಸಿ ಶಾಸನ ಸಭೆಗೆ ಕಳುಹಿಸುವ ಭಾರತದಂತಹ ವ್ಯವಸ್ಥೆ ಯಾವುದು?",
+   "q_en": "The system, as in India, where people elect representatives to the legislature is?",
+   "opt_kn": [
+    "ಪ್ರತ್ಯಕ್ಷ ಪ್ರಜಾಪ್ರಭುತ್ವ",
+    "ಸರ್ವಾಧಿಕಾರ",
+    "ಪರೋಕ್ಷ ಪ್ರಜಾಪ್ರಭುತ್ವ",
+    "ರಾಜಪ್ರಭುತ್ವ"
+   ],
+   "opt_en": [
+    "Direct democracy",
+    "Dictatorship",
+    "Indirect democracy",
+    "Monarchy"
+   ],
+   "ans": "C",
+   "exp_kn": "ಭಾರತ, ಅಮೆರಿಕಗಳಿಗೆ ಪರೋಕ್ಷ ಪ್ರಜಾಪ್ರಭುತ್ವ ಸೂಕ್ತ."
+  },
+  {
+   "id": "8SS-C22-06",
+   "part": 2,
+   "ch": 22,
+   "ch_kn": "ಪ್ರಜಾಪ್ರಭುತ್ವ",
+   "ch_en": "Democracy",
+   "diff": "medium",
+   "q_kn": "ಮಾಹಿತಿ ಹಕ್ಕು ಕಾಯಿದೆ ಜಾರಿಗೆ ಬಂದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year was the Right to Information Act passed?",
+   "opt_kn": [
+    "1989",
+    "2019",
+    "1993",
+    "2005"
+   ],
+   "opt_en": [
+    "1989",
+    "2019",
+    "1993",
+    "2005"
+   ],
+   "ans": "D",
+   "exp_kn": "ಮಾಹಿತಿ ಹಕ್ಕು ಕಾಯಿದೆ 2005."
+  },
+  {
+   "id": "8SS-C23-01",
+   "part": 2,
+   "ch": 23,
+   "ch_kn": "ಸ್ಥಳೀಯ ಸ್ವಯಂ ಸರ್ಕಾರಗಳು",
+   "ch_en": "Local Self-Governments",
+   "diff": "medium",
+   "q_kn": "ಸ್ಥಳೀಯ ಸರ್ಕಾರಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ 73ನೇ ಮತ್ತು 74ನೇ ಸಂವಿಧಾನ ತಿದ್ದುಪಡಿಗಳು ಜಾರಿಗೆ ಬಂದ ವರ್ಷ?",
+   "q_en": "In which year did the 73rd and 74th constitutional amendments on local government come into force?",
+   "opt_kn": [
+    "1993",
+    "1985",
+    "1950",
+    "1983"
+   ],
+   "opt_en": [
+    "1993",
+    "1985",
+    "1950",
+    "1983"
+   ],
+   "ans": "A",
+   "exp_kn": "1993ರ ತಿದ್ದುಪಡಿಗಳು ಮೈಲಿಗಲ್ಲು."
+  },
+  {
+   "id": "8SS-C23-02",
+   "part": 2,
+   "ch": 23,
+   "ch_kn": "ಸ್ಥಳೀಯ ಸ್ವಯಂ ಸರ್ಕಾರಗಳು",
+   "ch_en": "Local Self-Governments",
+   "diff": "medium",
+   "q_kn": "ಗ್ರಾಮ ಸಭೆಯಲ್ಲಿ ಯಾರು ಪಾಲ್ಗೊಳ್ಳಬಹುದು?",
+   "q_en": "Who can take part in the Grama Sabha?",
+   "opt_kn": [
+    "ಪಂಚಾಯಿತಿ ಸದಸ್ಯರು ಮಾತ್ರ",
+    "18 ವರ್ಷ ಮೇಲ್ಪಟ್ಟ ಗ್ರಾಮದ ಎಲ್ಲ ಸದಸ್ಯರು",
+    "ಸರ್ಕಾರಿ ನೌಕರರು ಮಾತ್ರ",
+    "ಪುರುಷರು ಮಾತ್ರ"
+   ],
+   "opt_en": [
+    "Only panchayat members",
+    "All village members above 18",
+    "Only government employees",
+    "Only men"
+   ],
+   "ans": "B",
+   "exp_kn": "18 ವರ್ಷ ಮೇಲ್ಪಟ್ಟ ಎಲ್ಲಾ ಪುರುಷ ಮತ್ತು ಮಹಿಳೆಯರು."
+  },
+  {
+   "id": "8SS-C23-03",
+   "part": 2,
+   "ch": 23,
+   "ch_kn": "ಸ್ಥಳೀಯ ಸ್ವಯಂ ಸರ್ಕಾರಗಳು",
+   "ch_en": "Local Self-Governments",
+   "diff": "medium",
+   "q_kn": "ಗ್ರಾಮ ಪಂಚಾಯಿತಿಯಲ್ಲಿ ಎಷ್ಟು ಮತದಾರರಿಗೆ ಒಬ್ಬ ಪ್ರತಿನಿಧಿ ಆಯ್ಕೆಯಾಗುತ್ತಾರೆ?",
+   "q_en": "In a Grama Panchayat, one member is elected for how many voters?",
+   "opt_kn": [
+    "40,000",
+    "10,000",
+    "400",
+    "1000"
+   ],
+   "opt_en": [
+    "40,000",
+    "10,000",
+    "400",
+    "1000"
+   ],
+   "ans": "C",
+   "exp_kn": "ತಾಲ್ಲೂಕು ಪಂಚಾಯಿತಿಯಲ್ಲಿ 10,000 ಮತದಾರರಿಗೆ ಒಬ್ಬ."
+  },
+  {
+   "id": "8SS-C23-04",
+   "part": 2,
+   "ch": 23,
+   "ch_kn": "ಸ್ಥಳೀಯ ಸ್ವಯಂ ಸರ್ಕಾರಗಳು",
+   "ch_en": "Local Self-Governments",
+   "diff": "medium",
+   "q_kn": "ಗ್ರಾಮ ಪಂಚಾಯಿತಿಯ ಆಡಳಿತಾವಧಿ ಎಷ್ಟು?",
+   "q_en": "What is the term of a Grama Panchayat?",
+   "opt_kn": [
+    "5 ವರ್ಷ",
+    "6 ವರ್ಷ",
+    "3 ವರ್ಷ",
+    "4 ವರ್ಷ"
+   ],
+   "opt_en": [
+    "5 years",
+    "6 years",
+    "3 years",
+    "4 years"
+   ],
+   "ans": "A",
+   "exp_kn": "ಮೊದಲ ಸಭೆಯ ದಿನದಿಂದ ಐದು ವರ್ಷ."
+  },
+  {
+   "id": "8SS-C23-05",
+   "part": 2,
+   "ch": 23,
+   "ch_kn": "ಸ್ಥಳೀಯ ಸ್ವಯಂ ಸರ್ಕಾರಗಳು",
+   "ch_en": "Local Self-Governments",
+   "diff": "medium",
+   "q_kn": "ಗ್ರಾಮ ಪಂಚಾಯಿತಿಯ ಪಂಚಾಯಿತಿ ಅಭಿವೃದ್ಧಿ ಅಧಿಕಾರಿ (PDO)ಯನ್ನು ಯಾರು ನೇಮಿಸುತ್ತಾರೆ?",
+   "q_en": "Who appoints the Panchayat Development Officer (PDO) of a Grama Panchayat?",
+   "opt_kn": [
+    "ಕೇಂದ್ರ ಸರ್ಕಾರ",
+    "ಮತದಾರರು",
+    "ಗ್ರಾಮ ಸಭೆ",
+    "ರಾಜ್ಯ ಸರ್ಕಾರ"
+   ],
+   "opt_en": [
+    "Central government",
+    "Voters",
+    "Grama Sabha",
+    "State government"
+   ],
+   "ans": "D",
+   "exp_kn": "ಅಧ್ಯಕ್ಷ–ಉಪಾಧ್ಯಕ್ಷರನ್ನು ಸದಸ್ಯರು ಆಯ್ಕೆ ಮಾಡುತ್ತಾರೆ; PDO ರಾಜ್ಯ ಸರ್ಕಾರದಿಂದ ನೇಮಕ."
+  },
+  {
+   "id": "8SS-C23-06",
+   "part": 2,
+   "ch": 23,
+   "ch_kn": "ಸ್ಥಳೀಯ ಸ್ವಯಂ ಸರ್ಕಾರಗಳು",
+   "ch_en": "Local Self-Governments",
+   "diff": "medium",
+   "q_kn": "ತಾಲ್ಲೂಕು ಪಂಚಾಯಿತಿಗೆ ರಾಜ್ಯ ಸರ್ಕಾರ ನೇಮಿಸುವ ಅಧಿಕಾರಿ ಯಾರು?",
+   "q_en": "Which officer is appointed by the state government for a Taluk Panchayat?",
+   "opt_kn": [
+    "PDO",
+    "ಕಾರ್ಯನಿರ್ವಾಹಕ ಅಧಿಕಾರಿ (EO)",
+    "ಮೇಯರ್",
+    "ಜಿಲ್ಲಾಧಿಕಾರಿ"
+   ],
+   "opt_en": [
+    "PDO",
+    "Executive Officer (EO)",
+    "Mayor",
+    "Deputy Commissioner"
+   ],
+   "ans": "B",
+   "exp_kn": "ತಾಲ್ಲೂಕು ಪಂಚಾಯಿತಿಗೆ EO."
+  },
+  {
+   "id": "8SS-C23-07",
+   "part": 2,
+   "ch": 23,
+   "ch_kn": "ಸ್ಥಳೀಯ ಸ್ವಯಂ ಸರ್ಕಾರಗಳು",
+   "ch_en": "Local Self-Governments",
+   "diff": "medium",
+   "q_kn": "ಪಂಚಾಯತ್ ರಾಜ್ ಸಂಸ್ಥೆಗಳಿಗೆ ಚುನಾವಣೆ ನಡೆಸುವ ಸಂಸ್ಥೆ ಯಾವುದು?",
+   "q_en": "Which body conducts elections to Panchayat Raj institutions?",
+   "opt_kn": [
+    "ಭಾರತದ ಚುನಾವಣಾ ಆಯೋಗ",
+    "ಗ್ರಾಮ ಸಭೆ",
+    "ಜಿಲ್ಲಾ ಪಂಚಾಯಿತಿ",
+    "ರಾಜ್ಯ ಚುನಾವಣಾ ಆಯೋಗ"
+   ],
+   "opt_en": [
+    "Election Commission of India",
+    "Grama Sabha",
+    "Zilla Panchayat",
+    "State Election Commission"
+   ],
+   "ans": "D",
+   "exp_kn": "73ನೇ ತಿದ್ದುಪಡಿ – 243K ವಿಧಿ ಪ್ರಕಾರ ರಾಜ್ಯ ಚುನಾವಣಾ ಆಯೋಗ."
+  },
+  {
+   "id": "8SS-C23-08",
+   "part": 2,
+   "ch": 23,
+   "ch_kn": "ಸ್ಥಳೀಯ ಸ್ವಯಂ ಸರ್ಕಾರಗಳು",
+   "ch_en": "Local Self-Governments",
+   "diff": "easy",
+   "q_kn": "ಮಹಾನಗರ ಪಾಲಿಕೆಯ ಮುಖ್ಯಸ್ಥರನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+   "q_en": "What is the head of a Municipal Corporation called?",
+   "opt_kn": [
+    "PDO",
+    "ಮಹಾಪೌರ (ಮೇಯರ್)",
+    "ಸರಪಂಚ",
+    "ಅಧ್ಯಕ್ಷ"
+   ],
+   "opt_en": [
+    "PDO",
+    "Mayor",
+    "Sarpanch",
+    "President"
+   ],
+   "ans": "B",
+   "exp_kn": "ಮಹಾಪೌರ ಮತ್ತು ಉಪ-ಮಹಾಪೌರ ಮಹಾನಗರ ಪಾಲಿಕೆಯ ನಾಯಕರು."
+  },
+  {
+   "id": "8SS-C24-01",
+   "part": 2,
+   "ch": 24,
+   "ch_kn": "ದಿನನಿತ್ಯದ ಜೀವನದಲ್ಲಿ ಸಮಾಜಶಾಸ್ತ್ರ",
+   "ch_en": "Sociology in Everyday Life",
+   "diff": "medium",
+   "q_kn": "ವ್ಯಕ್ತಿಗಳ ನಡುವಿನ ಸಾಮಾಜಿಕ ಒಡನಾಟವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತೇವೆ?",
+   "q_en": "Social contact between people is called?",
+   "opt_kn": [
+    "ವಲಸೆ",
+    "ಸಾಮಾಜೀಕರಣ",
+    "ಸಾಮಾಜಿಕ ಅಂತರ್‌ಕ್ರಿಯೆ",
+    "ಶ್ರಮವಿಭಜನೆ"
+   ],
+   "opt_en": [
+    "Migration",
+    "Socialisation",
+    "Social interaction",
+    "Division of labour"
+   ],
+   "ans": "C",
+   "exp_kn": "ಸಾಮಾಜಿಕ ಒಡನಾಟ = ಸಾಮಾಜಿಕ ಅಂತರ್‌ಕ್ರಿಯೆ."
+  },
+  {
+   "id": "8SS-C24-02",
+   "part": 2,
+   "ch": 24,
+   "ch_kn": "ದಿನನಿತ್ಯದ ಜೀವನದಲ್ಲಿ ಸಮಾಜಶಾಸ್ತ್ರ",
+   "ch_en": "Sociology in Everyday Life",
+   "diff": "medium",
+   "q_kn": "ಪ್ರತಿಯೊಬ್ಬರೂ ತಮಗೆ ವಹಿಸಿದ ಪಾತ್ರವನ್ನು ನಿರ್ವಹಿಸುವುದನ್ನು ಏನೆನ್ನುತ್ತೇವೆ?",
+   "q_en": "A person performing the role given to them is called?",
+   "opt_kn": [
+    "ಪಾತ್ರಪ್ರಜ್ಞೆ",
+    "ಸ್ಥಾನಮಾನ",
+    "ಸ್ಪರ್ಧೆ",
+    "ಸಂಘರ್ಷ"
+   ],
+   "opt_en": [
+    "Role awareness",
+    "Status",
+    "Competition",
+    "Conflict"
+   ],
+   "ans": "A",
+   "exp_kn": "ಉದಾ: ಶಿಕ್ಷಕ ಪಾಠ ಮಾಡುವುದು, ವೈದ್ಯ ಚಿಕಿತ್ಸೆ ನೀಡುವುದು."
+  },
+  {
+   "id": "8SS-C25-01",
+   "part": 2,
+   "ch": 25,
+   "ch_kn": "ಸಮಾಜದ ಪ್ರಕಾರಗಳು",
+   "ch_en": "Types of Society",
+   "diff": "easy",
+   "q_kn": "ಮಾನವ ಸಮಾಜದಲ್ಲಿ ಅತ್ಯಂತ ಪ್ರಾಚೀನ ಮತ್ತು ಸರಳವಾದ ಸಮಾಜ ಯಾವುದು?",
+   "q_en": "Which is the most ancient and simple type of human society?",
+   "opt_kn": [
+    "ಕೈಗಾರಿಕಾ ಸಮಾಜ",
+    "ಪಶುಪಾಲಕ ಸಮಾಜ",
+    "ಕೃಷಿಕ ಸಮಾಜ",
+    "ಬೇಟೆಯಾಡುವ ಮತ್ತು ಆಹಾರ ಸಂಗ್ರಹಿಸುವ ಸಮಾಜ"
+   ],
+   "opt_en": [
+    "Industrial society",
+    "Pastoral society",
+    "Agricultural society",
+    "Hunting and food-gathering society"
+   ],
+   "ans": "D",
+   "exp_kn": "ಬೇಟೆ ಮತ್ತು ಆಹಾರ ಸಂಗ್ರಹಣೆಯ ಸಮಾಜ ಅತ್ಯಂತ ಪ್ರಾಚೀನ."
+  },
+  {
+   "id": "8SS-C25-02",
+   "part": 2,
+   "ch": 25,
+   "ch_kn": "ಸಮಾಜದ ಪ್ರಕಾರಗಳು",
+   "ch_en": "Types of Society",
+   "diff": "medium",
+   "q_kn": "ನೇಗಿಲಿನ ಸಂಶೋಧನೆಯೊಂದಿಗೆ ಯಾವ ಕ್ರಾಂತಿ ಆರಂಭಗೊಂಡಿತು?",
+   "q_en": "Which revolution began with the invention of the plough?",
+   "opt_kn": [
+    "ಮಾಹಿತಿ ಕ್ರಾಂತಿ",
+    "ಕೃಷಿ ಕ್ರಾಂತಿ",
+    "ಕೈಗಾರಿಕಾ ಕ್ರಾಂತಿ",
+    "ಹಸಿರು ಕ್ರಾಂತಿ"
+   ],
+   "opt_en": [
+    "Information revolution",
+    "Agricultural revolution",
+    "Industrial revolution",
+    "Green revolution"
+   ],
+   "ans": "B",
+   "exp_kn": "ನೇಗಿಲಿನಿಂದ ಕೃಷಿ ಕ್ರಾಂತಿ ಆರಂಭವಾಯಿತು."
+  },
+  {
+   "id": "8SS-C25-03",
+   "part": 2,
+   "ch": 25,
+   "ch_kn": "ಸಮಾಜದ ಪ್ರಕಾರಗಳು",
+   "ch_en": "Types of Society",
+   "diff": "medium",
+   "q_kn": "ಕೌಶಲ್ಯದ ಆಧಾರದ ಮೇಲೆ ಕೆಲಸವನ್ನು ವಿಂಗಡಿಸುವುದನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "Dividing work on the basis of skill is called?",
+   "opt_kn": [
+    "ಶ್ರಮವಿಭಜನೆ",
+    "ವಲಸೆ",
+    "ಸಾಮಾಜೀಕರಣ",
+    "ಸಹಕಾರ"
+   ],
+   "opt_en": [
+    "Division of labour",
+    "Migration",
+    "Socialisation",
+    "Cooperation"
+   ],
+   "ans": "A",
+   "exp_kn": "ಕೈಗಾರಿಕಾ ಸಮಾಜದ ಮುಖ್ಯ ಲಕ್ಷಣ ಶ್ರಮವಿಭಜನೆ."
+  },
+  {
+   "id": "8SS-C26-01",
+   "part": 2,
+   "ch": 26,
+   "ch_kn": "ಜಲಗೋಳ",
+   "ch_en": "Hydrosphere",
+   "diff": "medium",
+   "q_kn": "ಎರಡು ಸಮುದ್ರಗಳನ್ನು ಸಂಪರ್ಕಿಸುವ ಎರಡು ಭೂಭಾಗಗಳ ನಡುವಿನ ಕಿರಿದಾದ ಜಲಭಾಗವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "A narrow water passage between two landmasses connecting two seas is called?",
+   "opt_kn": [
+    "ದ್ವೀಪ",
+    "ಭೂಸಂಧಿ",
+    "ಜಲಸಂಧಿ",
+    "ಕೊಲ್ಲಿ"
+   ],
+   "opt_en": [
+    "Island",
+    "Isthmus",
+    "Strait",
+    "Bay"
+   ],
+   "ans": "C",
+   "exp_kn": "ಎರಡು ಭೂರಾಶಿಗಳನ್ನು ಸೇರಿಸುವ ಕಿರಿದಾದ ಭೂಭಾಗ – ಭೂಸಂಧಿ."
+  },
+  {
+   "id": "8SS-C26-02",
+   "part": 2,
+   "ch": 26,
+   "ch_kn": "ಜಲಗೋಳ",
+   "ch_en": "Hydrosphere",
+   "diff": "medium",
+   "q_kn": "ಪ್ರಪಂಚದ ಅತ್ಯಂತ ಆಳವಾದ ಸ್ಥಳ ಯಾವುದು?",
+   "q_en": "Which is the deepest place in the world?",
+   "opt_kn": [
+    "ಕೋಲಾ ರಂಧ್ರ",
+    "ಮೃತ ಸಮುದ್ರ",
+    "ಚಾಲೆಂಜರ್ ತಗ್ಗು (ಮರಿಯಾನ ಟ್ರೆಂಚ್)",
+    "ಸುಂದಾ ಟ್ರೆಂಚ್"
+   ],
+   "opt_en": [
+    "Kola borehole",
+    "Dead Sea",
+    "Challenger Deep (Mariana Trench)",
+    "Sunda Trench"
+   ],
+   "ans": "C",
+   "exp_kn": "ಚಾಲೆಂಜರ್ ತಗ್ಗು ಸುಮಾರು 10,929 ಮೀ ಆಳ."
+  },
+  {
+   "id": "8SS-C26-03",
+   "part": 2,
+   "ch": 26,
+   "ch_kn": "ಜಲಗೋಳ",
+   "ch_en": "Hydrosphere",
+   "diff": "medium",
+   "q_kn": "ಸಾಗರದ ನೀರಿನ ಸರಾಸರಿ ಲವಣತೆ ಎಷ್ಟು?",
+   "q_en": "What is the average salinity of ocean water?",
+   "opt_kn": [
+    "1000 ಭಾಗದಲ್ಲಿ 35 ಭಾಗ",
+    "100 ಭಾಗದಲ್ಲಿ 35 ಭಾಗ",
+    "1000 ಭಾಗದಲ್ಲಿ 330 ಭಾಗ",
+    "1000 ಭಾಗದಲ್ಲಿ 3 ಭಾಗ"
+   ],
+   "opt_en": [
+    "35 parts per thousand",
+    "35 parts per hundred",
+    "330 parts per thousand",
+    "3 parts per thousand"
+   ],
+   "ans": "A",
+   "exp_kn": "ಸರಾಸರಿ ಲವಣತೆ 35‰."
+  },
+  {
+   "id": "8SS-C26-04",
+   "part": 2,
+   "ch": 26,
+   "ch_kn": "ಜಲಗೋಳ",
+   "ch_en": "Hydrosphere",
+   "diff": "hard",
+   "q_kn": "ಪಠ್ಯದ ಪ್ರಕಾರ ಅತಿ ಹೆಚ್ಚು ಲವಣತೆ ಹೊಂದಿರುವ ಜಲಭಾಗ ಯಾವುದು?",
+   "q_en": "According to the textbook, which water body has the highest salinity?",
+   "opt_kn": [
+    "ಸಾಂಬಾರ್ ಸರೋವರ",
+    "ಕೆಂಪು ಸಮುದ್ರ",
+    "ಮೃತ ಸಮುದ್ರ",
+    "ವ್ಯಾನ್ ಸರೋವರ (ಟರ್ಕಿ)"
+   ],
+   "opt_en": [
+    "Sambhar Lake",
+    "Red Sea",
+    "Dead Sea",
+    "Lake Van (Turkey)"
+   ],
+   "ans": "D",
+   "exp_kn": "ವ್ಯಾನ್ 330‰, ಮೃತ ಸಮುದ್ರ 300‰, ಸಾಂಬಾರ್ 265‰."
+  },
+  {
+   "id": "8SS-C26-05",
+   "part": 2,
+   "ch": 26,
+   "ch_kn": "ಜಲಗೋಳ",
+   "ch_en": "Hydrosphere",
+   "diff": "medium",
+   "q_kn": "ಸಮುದ್ರದ ನೀರಿನ ಮಟ್ಟ ನಿಯಮಿತವಾಗಿ ಏರುವುದು ಮತ್ತು ಇಳಿಯುವುದನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The regular rise and fall of sea level is called?",
+   "opt_kn": [
+    "ಸಾಗರ ಪ್ರವಾಹ",
+    "ಉಬ್ಬರವಿಳಿತ",
+    "ಲವಣತೆ",
+    "ಅಲೆ ಮಾತ್ರ"
+   ],
+   "opt_en": [
+    "Ocean currents",
+    "Tides",
+    "Salinity",
+    "Only waves"
+   ],
+   "ans": "B",
+   "exp_kn": "ಏರುಬ್ಬರ ಮತ್ತು ಇಳಿಉಬ್ಬರ."
+  },
+  {
+   "id": "8SS-C26-06",
+   "part": 2,
+   "ch": 26,
+   "ch_kn": "ಜಲಗೋಳ",
+   "ch_en": "Hydrosphere",
+   "diff": "medium",
+   "q_kn": "ನಿಶ್ಚಿತ ದಿಕ್ಕಿನಲ್ಲಿ ನಿರಂತರವಾಗಿ ಹರಿಯುವ ಸಾಗರದ ಮೇಲ್ಮೈ ನೀರನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "Ocean surface water flowing continuously in a definite direction is called?",
+   "opt_kn": [
+    "ಉಬ್ಬರವಿಳಿತ",
+    "ಸಾಗರ ಪ್ರವಾಹ",
+    "ಜಲಸಂಧಿ",
+    "ಅಬಿಸಲ್ ಮೈದಾನ"
+   ],
+   "opt_en": [
+    "Tide",
+    "Ocean current",
+    "Strait",
+    "Abyssal plain"
+   ],
+   "ans": "B",
+   "exp_kn": "ಸಾಗರ ಪ್ರವಾಹಗಳು ವಾಯುಗುಣದ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರುತ್ತವೆ."
+  },
+  {
+   "id": "8SS-C27-01",
+   "part": 2,
+   "ch": 27,
+   "ch_kn": "ಜೀವಗೋಳ",
+   "ch_en": "Biosphere",
+   "diff": "medium",
+   "q_kn": "ವಾಯುಮಂಡಲದ ಉಷ್ಣಾಂಶ ಸ್ವಲ್ಪ ಪ್ರಮಾಣದಲ್ಲಿ ಹೆಚ್ಚಾಗುತ್ತಿರುವುದನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The gradual rise in the temperature of the atmosphere is called?",
+   "opt_kn": [
+    "ಆಮ್ಲ ಮಳೆ",
+    "ಶಬ್ದಮಾಲಿನ್ಯ",
+    "ಜಾಗತಿಕ ತಾಪಮಾನ ಹೆಚ್ಚಳ",
+    "ಉಷ್ಣಾಂಶ ವಿಪರ್ಯಯ"
+   ],
+   "opt_en": [
+    "Acid rain",
+    "Noise pollution",
+    "Global warming",
+    "Temperature inversion"
+   ],
+   "ans": "C",
+   "exp_kn": "ಹಸಿರುಮನೆ ಅನಿಲಗಳಿಂದ ಜಾಗತಿಕ ತಾಪಮಾನ ಹೆಚ್ಚಳ."
+  },
+  {
+   "id": "8SS-C27-02",
+   "part": 2,
+   "ch": 27,
+   "ch_kn": "ಜೀವಗೋಳ",
+   "ch_en": "Biosphere",
+   "diff": "medium",
+   "q_kn": "ಓಜೋನ್ ಪದರವನ್ನು ತೆಳುವಾಗಿಸುತ್ತಿರುವ ಅನಿಲಗಳು ಯಾವುವು?",
+   "q_en": "Which gases are thinning the ozone layer?",
+   "opt_kn": [
+    "ಆರ್ಗಾನ್",
+    "ನೈಟ್ರೋಜನ್",
+    "ಆಕ್ಸಿಜನ್",
+    "ಕ್ಲೋರೋಫ್ಲೋರೋಕಾರ್ಬನ್‌ಗಳು (CFC)"
+   ],
+   "opt_en": [
+    "Argon",
+    "Nitrogen",
+    "Oxygen",
+    "Chlorofluorocarbons (CFCs)"
+   ],
+   "ans": "D",
+   "exp_kn": "AC, ರೆಫ್ರಿಜರೇಟರ್, ಸ್ಪ್ರೇಗಳಿಂದ CFC ಬಿಡುಗಡೆ."
+  },
+  {
+   "id": "8SS-C27-03",
+   "part": 2,
+   "ch": 27,
+   "ch_kn": "ಜೀವಗೋಳ",
+   "ch_en": "Biosphere",
+   "diff": "medium",
+   "q_kn": "‘ಲೇಕ್ ಕಿಲ್ಲರ್’ ಎಂದು ಕರೆಯಲ್ಪಡುವುದು ಯಾವುದು?",
+   "q_en": "What is called the \"Lake Killer\"?",
+   "opt_kn": [
+    "ಆಮ್ಲ ಮಳೆ",
+    "ಶಬ್ದಮಾಲಿನ್ಯ",
+    "ಓಜೋನ್",
+    "ಜಾಗತಿಕ ತಾಪಮಾನ"
+   ],
+   "opt_en": [
+    "Acid rain",
+    "Noise pollution",
+    "Ozone",
+    "Global warming"
+   ],
+   "ans": "A",
+   "exp_kn": "ಆಮ್ಲ ಮಳೆ ಜಲಚರಗಳ ನಾಶಕ್ಕೆ ಕಾರಣ."
+  },
+  {
+   "id": "8SS-C27-04",
+   "part": 2,
+   "ch": 27,
+   "ch_kn": "ಜೀವಗೋಳ",
+   "ch_en": "Biosphere",
+   "diff": "hard",
+   "q_kn": "ಅತಿ ಹೆಚ್ಚು ಆಮ್ಲ ಮಳೆಗೆ ತುತ್ತಾದ ಪೋಲೆಂಡ್, ಜೆಕ್ ಗಣರಾಜ್ಯ ಮತ್ತು ಆಗ್ನೇಯ ಜರ್ಮನಿಯ ಪ್ರದೇಶವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The region of Poland, Czech Republic and SE Germany most affected by acid rain is called?",
+   "opt_kn": [
+    "ಕಪ್ಪು ತ್ರಿಕೋನ",
+    "ಸುವರ್ಣ ತ್ರಿಕೋನ",
+    "ಮರುಭೂಮಿ ವಲಯ",
+    "ಹಸಿರು ಪಟ್ಟಿ"
+   ],
+   "opt_en": [
+    "Black Triangle",
+    "Golden Triangle",
+    "Desert zone",
+    "Green Belt"
+   ],
+   "ans": "A",
+   "exp_kn": "ಇದನ್ನು ‘ಕಪ್ಪು ತ್ರಿಕೋನ’ ಎನ್ನುವರು."
+  },
+  {
+   "id": "8SS-C27-05",
+   "part": 2,
+   "ch": 27,
+   "ch_kn": "ಜೀವಗೋಳ",
+   "ch_en": "Biosphere",
+   "diff": "easy",
+   "q_kn": "ಒಂದು ಭೂಭಾಗದಲ್ಲಿರುವ ಎಲ್ಲ ಬಗೆಯ ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿ ಪ್ರಭೇದಗಳನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "All kinds of plant and animal species in an area are together called?",
+   "opt_kn": [
+    "ವಾಯುಗುಣ",
+    "ಪರಿಸರ ಮಾಲಿನ್ಯ",
+    "ಜೀವ ವೈವಿಧ್ಯತೆ",
+    "ಜಲಗೋಳ"
+   ],
+   "opt_en": [
+    "Climate",
+    "Environmental pollution",
+    "Biodiversity",
+    "Hydrosphere"
+   ],
+   "ans": "C",
+   "exp_kn": "ಅಪರೂಪದ ಪ್ರಭೇದ ಕಾಪಾಡಲು ಜೀವ ವೈವಿಧ್ಯತೆಯ ಸಂರಕ್ಷಣೆ ಅಗತ್ಯ."
+  },
+  {
+   "id": "8SS-C27-06",
+   "part": 2,
+   "ch": 27,
+   "ch_kn": "ಜೀವಗೋಳ",
+   "ch_en": "Biosphere",
+   "diff": "medium",
+   "q_kn": "ಪರಿಸರದ ಎರಡು ವಿಧಗಳು ಯಾವುವು?",
+   "q_en": "What are the two types of environment?",
+   "opt_kn": [
+    "ಗ್ರಾಮ ಮತ್ತು ನಗರ",
+    "ಬಿಸಿ ಮತ್ತು ತಂಪು",
+    "ಜಲ ಮತ್ತು ವಾಯು",
+    "ಪ್ರಾಕೃತಿಕ ಮತ್ತು ಮಾನವ ನಿರ್ಮಿತ (ಸಾಂಸ್ಕೃತಿಕ)"
+   ],
+   "opt_en": [
+    "Village and city",
+    "Hot and cold",
+    "Water and air",
+    "Natural and man-made (cultural)"
+   ],
+   "ans": "D",
+   "exp_kn": "ಪ್ರಾಕೃತಿಕ (ಭೌಗೋಳಿಕ) ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ (ಮಾನವ ನಿರ್ಮಿತ)."
+  },
+  {
+   "id": "8SS-C28-01",
+   "part": 2,
+   "ch": 28,
+   "ch_kn": "ಅರ್ಥಶಾಸ್ತ್ರದ ಮೂಲ ಪರಿಕಲ್ಪನೆಗಳು",
+   "ch_en": "Basic Concepts of Economics",
+   "diff": "medium",
+   "q_kn": "ಒಂದು ರಾಷ್ಟ್ರವು ಒಂದು ವರ್ಷದಲ್ಲಿ ಉತ್ಪಾದಿಸಿದ ಸರಕು-ಸೇವೆಗಳ ಒಟ್ಟು ಹಣರೂಪಿ ಮೌಲ್ಯವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The total money value of goods and services produced by a nation in a year is called?",
+   "opt_kn": [
+    "ಬಂಡವಾಳ",
+    "ರಾಷ್ಟ್ರೀಯ ವರಮಾನ",
+    "ಲಾಭ",
+    "ತಲಾ ಆದಾಯ"
+   ],
+   "opt_en": [
+    "Capital",
+    "National income",
+    "Profit",
+    "Per capita income"
+   ],
+   "ans": "B",
+   "exp_kn": "ಒಂದು ವರ್ಷದ ಒಟ್ಟು ಉತ್ಪಾದನೆಯ ಹಣರೂಪಿ ಮೌಲ್ಯ."
+  },
+  {
+   "id": "8SS-C28-02",
+   "part": 2,
+   "ch": 28,
+   "ch_kn": "ಅರ್ಥಶಾಸ್ತ್ರದ ಮೂಲ ಪರಿಕಲ್ಪನೆಗಳು",
+   "ch_en": "Basic Concepts of Economics",
+   "diff": "medium",
+   "q_kn": "ಉತ್ಪಾದನಾಂಗವಾದ ‘ಬಂಡವಾಳ’ಕ್ಕೆ ದೊರೆಯುವ ಪ್ರತಿಫಲ ಯಾವುದು?",
+   "q_en": "What is the reward for \"capital\" as a factor of production?",
+   "opt_kn": [
+    "ಬಡ್ಡಿ",
+    "ಲಾಭ",
+    "ಗೇಣಿ",
+    "ಕೂಲಿ"
+   ],
+   "opt_en": [
+    "Interest",
+    "Profit",
+    "Rent",
+    "Wages"
+   ],
+   "ans": "A",
+   "exp_kn": "ಭೂಮಿ–ಗೇಣಿ, ಶ್ರಮ–ಕೂಲಿ, ಬಂಡವಾಳ–ಬಡ್ಡಿ, ಉದ್ಯಮ ಸಾಹಸ–ಲಾಭ."
+  },
+  {
+   "id": "8SS-C28-03",
+   "part": 2,
+   "ch": 28,
+   "ch_kn": "ಅರ್ಥಶಾಸ್ತ್ರದ ಮೂಲ ಪರಿಕಲ್ಪನೆಗಳು",
+   "ch_en": "Basic Concepts of Economics",
+   "diff": "medium",
+   "q_kn": "ಅಧ್ಯಾಪಕ, ವಿಜ್ಞಾನಿ, ನ್ಯಾಯವಾದಿಗಳ ದುಡಿಮೆ ಯಾವ ಶ್ರಮಕ್ಕೆ ಉದಾಹರಣೆ?",
+   "q_en": "The work of a teacher, scientist and lawyer is an example of which labour?",
+   "opt_kn": [
+    "ದೈಹಿಕ ಶ್ರಮ",
+    "ಬಾಲ ಕಾರ್ಮಿಕ",
+    "ಅಕುಶಲ ಶ್ರಮ",
+    "ಮಾನಸಿಕ (ಬೌದ್ಧಿಕ) ಶ್ರಮ"
+   ],
+   "opt_en": [
+    "Physical labour",
+    "Child labour",
+    "Unskilled labour",
+    "Mental labour"
+   ],
+   "ans": "D",
+   "exp_kn": "ಬೌದ್ಧಿಕ ದುಡಿಮೆ – ಮಾನಸಿಕ ಶ್ರಮ."
+  },
+  {
+   "id": "8SS-C28-04",
+   "part": 2,
+   "ch": 28,
+   "ch_kn": "ಅರ್ಥಶಾಸ್ತ್ರದ ಮೂಲ ಪರಿಕಲ್ಪನೆಗಳು",
+   "ch_en": "Basic Concepts of Economics",
+   "diff": "medium",
+   "q_kn": "ಪ್ರಕೃತಿ ನೀಡುವ ವಸ್ತುಗಳಿಗೆ ಆಕಾರ ಕೊಟ್ಟು ಬಳಕೆಗೆ ಯೋಗ್ಯವಾಗಿಸುವುದರಿಂದ ಉಂಟಾಗುವ ಉಪಯುಕ್ತತೆ ಯಾವುದು?",
+   "q_en": "The utility created by giving shape to natural materials to make them usable is?",
+   "opt_kn": [
+    "ಮೂಲೋಪಯುಕ್ತತೆ",
+    "ಆಕಾರೋಪಯುಕ್ತತೆ",
+    "ಸಮಯೋಪಯುಕ್ತತೆ",
+    "ಸೇವೋಪಯುಕ್ತತೆ"
+   ],
+   "opt_en": [
+    "Marginal utility",
+    "Form utility",
+    "Time utility",
+    "Service utility"
+   ],
+   "ans": "B",
+   "exp_kn": "ಉದಾ: ಮರದಿಂದ ಕುರ್ಚಿ ಮಾಡುವುದು."
+  },
+  {
+   "id": "8SS-C29-01",
+   "part": 2,
+   "ch": 29,
+   "ch_kn": "ವಿವಿಧ ವ್ಯವಹಾರ ಸಂಘಟನೆಗಳ ಹುಟ್ಟು",
+   "ch_en": "Origin of Business Organisations",
+   "diff": "medium",
+   "q_kn": "ಭಾರತದಲ್ಲಿ ಪಾಲುಗಾರಿಕೆ ಸಂಸ್ಥೆಯ ಕಾನೂನು ಜಾರಿಗೆ ಬಂದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year did the Partnership Act come into force in India?",
+   "opt_kn": [
+    "1956",
+    "1904",
+    "1932",
+    "1912"
+   ],
+   "opt_en": [
+    "1956",
+    "1904",
+    "1932",
+    "1912"
+   ],
+   "ans": "C",
+   "exp_kn": "ಪಾಲುಗಾರಿಕೆ ಕಾಯಿದೆ 1932."
+  },
+  {
+   "id": "8SS-C29-02",
+   "part": 2,
+   "ch": 29,
+   "ch_kn": "ವಿವಿಧ ವ್ಯವಹಾರ ಸಂಘಟನೆಗಳ ಹುಟ್ಟು",
+   "ch_en": "Origin of Business Organisations",
+   "diff": "medium",
+   "q_kn": "ಹಿಂದೂ ಅವಿಭಕ್ತ ಕುಟುಂಬ ವ್ಯವಹಾರದ ಮೇಲ್ವಿಚಾರಣೆ ನೋಡಿಕೊಳ್ಳುವ ಹಿರಿಯ ಸದಸ್ಯನನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "The eldest member managing a Hindu Undivided Family business is called?",
+   "opt_kn": [
+    "ನಿರ್ದೇಶಕ",
+    "ಕರ್ತ",
+    "ಷೇರುದಾರ",
+    "ಪಾಲುದಾರ"
+   ],
+   "opt_en": [
+    "Director",
+    "Karta",
+    "Shareholder",
+    "Partner"
+   ],
+   "ans": "B",
+   "exp_kn": "ಅವಿಭಕ್ತ ಕುಟುಂಬದ ಹಿರಿಯ ಪುರುಷ ಸದಸ್ಯ ‘ಕರ್ತ’."
+  },
+  {
+   "id": "8SS-C29-03",
+   "part": 2,
+   "ch": 29,
+   "ch_kn": "ವಿವಿಧ ವ್ಯವಹಾರ ಸಂಘಟನೆಗಳ ಹುಟ್ಟು",
+   "ch_en": "Origin of Business Organisations",
+   "diff": "easy",
+   "q_kn": "ಒಬ್ಬನೇ ವ್ಯಕ್ತಿಯಿಂದ ನಡೆಸಲ್ಪಡುವ ವ್ಯಾಪಾರಿ ಸಂಸ್ಥೆಯನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "A business run by a single person is called?",
+   "opt_kn": [
+    "ಕೂಡು ಬಂಡವಾಳ ಸಂಸ್ಥೆ",
+    "ಪಾಲುಗಾರಿಕೆ ಸಂಸ್ಥೆ",
+    "ಏಕವ್ಯಕ್ತಿ ಮಾಲೀಕತ್ವ ಸಂಸ್ಥೆ",
+    "ಸಹಕಾರಿ ಸಂಘ"
+   ],
+   "opt_en": [
+    "Joint stock company",
+    "Partnership",
+    "Sole proprietorship",
+    "Cooperative society"
+   ],
+   "ans": "C",
+   "exp_kn": "ಏಕವ್ಯಕ್ತಿ ವ್ಯಾಪಾರ ಸಣ್ಣ ಪ್ರಮಾಣದ ಸಂಘಟನೆ."
+  },
+  {
+   "id": "8SS-C29-04",
+   "part": 2,
+   "ch": 29,
+   "ch_kn": "ವಿವಿಧ ವ್ಯವಹಾರ ಸಂಘಟನೆಗಳ ಹುಟ್ಟು",
+   "ch_en": "Origin of Business Organisations",
+   "diff": "medium",
+   "q_kn": "ಭಾರತದಲ್ಲಿ ಮಾತ್ರ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಸಣ್ಣ ಪ್ರಮಾಣದ ವ್ಯವಹಾರ ಸಂಸ್ಥೆ ಯಾವುದು?",
+   "q_en": "Which small-scale business organisation exists only in India?",
+   "opt_kn": [
+    "ಹಿಂದೂ ಅವಿಭಕ್ತ ಕುಟುಂಬ ವ್ಯವಹಾರ",
+    "ಬಹುರಾಷ್ಟ್ರೀಯ ನಿಗಮ",
+    "ಏಕವ್ಯಕ್ತಿ ವ್ಯಾಪಾರ",
+    "ಪಾಲುಗಾರಿಕೆ"
+   ],
+   "opt_en": [
+    "Hindu Undivided Family business",
+    "Multinational corporation",
+    "Sole trading",
+    "Partnership"
+   ],
+   "ans": "A",
+   "exp_kn": "ಇದು ಹಿಂದೂ ಕಾನೂನಿನ ಅನ್ವಯ ನಡೆಯುತ್ತದೆ."
+  },
+  {
+   "id": "8SS-C30-01",
+   "part": 2,
+   "ch": 30,
+   "ch_kn": "ದೊಡ್ಡ ಪ್ರಮಾಣದ ವ್ಯವಹಾರ ಸಂಘಟನೆಗಳು",
+   "ch_en": "Large-scale Business Organisations",
+   "diff": "medium",
+   "q_kn": "ಪ್ರಪಂಚದ ಮೊದಲ ಸಹಕಾರಿ ಸಂಘ 1844ರಲ್ಲಿ ಇಂಗ್ಲೆಂಡಿನ ಯಾವ ಸ್ಥಳದಲ್ಲಿ ಸ್ಥಾಪನೆಯಾಯಿತು?",
+   "q_en": "In 1844, the world's first cooperative society was set up at which place in England?",
+   "opt_kn": [
+    "ಗ್ರೀನ್‌ವಿಚ್",
+    "ಮ್ಯಾಂಚೆಸ್ಟರ್",
+    "ಲಂಡನ್",
+    "ರಾಕ್‌ಡೇಲ್"
+   ],
+   "opt_en": [
+    "Greenwich",
+    "Manchester",
+    "London",
+    "Rochdale"
+   ],
+   "ans": "D",
+   "exp_kn": "1844ರಲ್ಲಿ ರಾಕ್‌ಡೇಲ್‌ನಲ್ಲಿ."
+  },
+  {
+   "id": "8SS-C30-02",
+   "part": 2,
+   "ch": 30,
+   "ch_kn": "ದೊಡ್ಡ ಪ್ರಮಾಣದ ವ್ಯವಹಾರ ಸಂಘಟನೆಗಳು",
+   "ch_en": "Large-scale Business Organisations",
+   "diff": "medium",
+   "q_kn": "ಕರ್ನಾಟಕದ ಮೊದಲ ಸಹಕಾರಿ ಸಂಘ ಎಲ್ಲಿ ಪ್ರಾರಂಭವಾಯಿತು?",
+   "q_en": "Where was the first cooperative society of Karnataka started?",
+   "opt_kn": [
+    "ಬೆಂಗಳೂರು",
+    "ಕಣಗಿನಹಾಳ್ (ಗದಗ)",
+    "ಮೈಸೂರು",
+    "ಮಂಗಳೂರು"
+   ],
+   "opt_en": [
+    "Bengaluru",
+    "Kanaginahal (Gadag)",
+    "Mysuru",
+    "Mangaluru"
+   ],
+   "ans": "B",
+   "exp_kn": "ಗದಗ ತಾಲ್ಲೂಕಿನ ಕಣಗಿನಹಾಳ್‌ನಲ್ಲಿ."
+  },
+  {
+   "id": "8SS-C30-03",
+   "part": 2,
+   "ch": 30,
+   "ch_kn": "ದೊಡ್ಡ ಪ್ರಮಾಣದ ವ್ಯವಹಾರ ಸಂಘಟನೆಗಳು",
+   "ch_en": "Large-scale Business Organisations",
+   "diff": "medium",
+   "q_kn": "‘ಸಹಕಾರಿ ಸಂಘಗಳ ತೊಟ್ಟಿಲು’ ಎಂದು ಕರೆಯಲ್ಪಡುವ ಜಿಲ್ಲೆ ಯಾವುದು?",
+   "q_en": "Which district is called the \"cradle of cooperative societies\"?",
+   "opt_kn": [
+    "ಕೊಡಗು",
+    "ಬೆಳಗಾವಿ",
+    "ಧಾರವಾಡ",
+    "ಮಂಡ್ಯ"
+   ],
+   "opt_en": [
+    "Kodagu",
+    "Belagavi",
+    "Dharwad",
+    "Mandya"
+   ],
+   "ans": "C",
+   "exp_kn": "ಧಾರವಾಡ ಜಿಲ್ಲೆ ಸಹಕಾರಿ ಸಂಘಗಳ ಸ್ಥಾಪನೆಗೆ ಹೆಚ್ಚು ಪ್ರೋತ್ಸಾಹ ನೀಡಿತು."
+  },
+  {
+   "id": "8SS-C30-04",
+   "part": 2,
+   "ch": 30,
+   "ch_kn": "ದೊಡ್ಡ ಪ್ರಮಾಣದ ವ್ಯವಹಾರ ಸಂಘಟನೆಗಳು",
+   "ch_en": "Large-scale Business Organisations",
+   "diff": "medium",
+   "q_kn": "ಸಹಕಾರಿ ಸಂಘಗಳ ಪ್ರಮುಖ ಧ್ಯೇಯ ಯಾವುದು?",
+   "q_en": "What is the main motto of cooperative societies?",
+   "opt_kn": [
+    "ಎಲ್ಲರಿಗಾಗಿ ಒಬ್ಬನು, ಒಬ್ಬನಿಗಾಗಿ ಎಲ್ಲರು",
+    "ಸರ್ಕಾರದ ನಿಯಂತ್ರಣ",
+    "ಸ್ಪರ್ಧೆ ಮಾತ್ರ",
+    "ಗರಿಷ್ಠ ಲಾಭ"
+   ],
+   "opt_en": [
+    "Each for all, all for each",
+    "Government control",
+    "Only competition",
+    "Maximum profit"
+   ],
+   "ans": "A",
+   "exp_kn": "ಸಹಕಾರದ ಮಂತ್ರ – ಪರಸ್ಪರ ಸಹಾಯ."
+  },
+  {
+   "id": "8SS-C30-05",
+   "part": 2,
+   "ch": 30,
+   "ch_kn": "ದೊಡ್ಡ ಪ್ರಮಾಣದ ವ್ಯವಹಾರ ಸಂಘಟನೆಗಳು",
+   "ch_en": "Large-scale Business Organisations",
+   "diff": "hard",
+   "q_kn": "ಭಾರತದಲ್ಲಿ ಸಹಕಾರಿ ಸಂಘಗಳ ಕಾಯಿದೆ ಜಾರಿಗೆ ಬಂದು ಸಹಕಾರಿ ಸಂಘಗಳು ಪ್ರಾರಂಭವಾದ ವರ್ಷ ಯಾವುದು?",
+   "q_en": "In which year did cooperative societies begin in India with the Cooperative Societies Act?",
+   "opt_kn": [
+    "1912",
+    "1932",
+    "1844",
+    "1904"
+   ],
+   "opt_en": [
+    "1912",
+    "1932",
+    "1844",
+    "1904"
+   ],
+   "ans": "D",
+   "exp_kn": "1904ರಲ್ಲಿ ಆರಂಭ; 1912ರ ಕಾಯಿದೆ ನೋಂದಣಿ ಕಡ್ಡಾಯಗೊಳಿಸಿತು."
+  },
+  {
+   "id": "8SS-C30-06",
+   "part": 2,
+   "ch": 30,
+   "ch_kn": "ದೊಡ್ಡ ಪ್ರಮಾಣದ ವ್ಯವಹಾರ ಸಂಘಟನೆಗಳು",
+   "ch_en": "Large-scale Business Organisations",
+   "diff": "medium",
+   "q_kn": "ಕೂಡು ಬಂಡವಾಳ ಸಂಸ್ಥೆಯ ಬಂಡವಾಳದ ಪ್ರತಿ ಅಂಶವನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "Each unit of the capital of a joint stock company is called?",
+   "opt_kn": [
+    "ಗೇಣಿ",
+    "ಕೂಲಿ",
+    "ಬಡ್ಡಿ",
+    "ಷೇರು"
+   ],
+   "opt_en": [
+    "Rent",
+    "Wage",
+    "Interest",
+    "Share"
+   ],
+   "ans": "D",
+   "exp_kn": "ಕಂಪನಿಗಳನ್ನು ಭಾರತದ ಕಂಪನಿ ಕಾಯಿದೆ 1956 ನಿಯಂತ್ರಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "8SS-C30-07",
+   "part": 2,
+   "ch": 30,
+   "ch_kn": "ದೊಡ್ಡ ಪ್ರಮಾಣದ ವ್ಯವಹಾರ ಸಂಘಟನೆಗಳು",
+   "ch_en": "Large-scale Business Organisations",
+   "diff": "hard",
+   "q_kn": "ಭಾರತದಲ್ಲಿ ಮೊಟ್ಟಮೊದಲ ಷೇರು ಮಾರುಕಟ್ಟೆ ವ್ಯವಸ್ಥೆ 1875ರಲ್ಲಿ ಎಲ್ಲಿ ಆರಂಭವಾಯಿತು?",
+   "q_en": "Where did India's first stock exchange start in 1875?",
+   "opt_kn": [
+    "ಕೋಲ್ಕತ್ತಾ",
+    "ಮುಂಬೈ",
+    "ಚೆನ್ನೈ",
+    "ದೆಹಲಿ"
+   ],
+   "opt_en": [
+    "Kolkata",
+    "Mumbai",
+    "Chennai",
+    "Delhi"
+   ],
+   "ans": "B",
+   "exp_kn": "1875ರಲ್ಲಿ ಮುಂಬೈಯಲ್ಲಿ."
+  },
+  {
+   "id": "8SS-C30-08",
+   "part": 2,
+   "ch": 30,
+   "ch_kn": "ದೊಡ್ಡ ಪ್ರಮಾಣದ ವ್ಯವಹಾರ ಸಂಘಟನೆಗಳು",
+   "ch_en": "Large-scale Business Organisations",
+   "diff": "medium",
+   "q_kn": "ಯಾವ ವರ್ಷದ ಆರ್ಥಿಕ ಉದಾರೀಕರಣದಿಂದ ಬಹುರಾಷ್ಟ್ರೀಯ ನಿಗಮಗಳು ಭಾರತದಲ್ಲಿ ವಿಸ್ತರಿಸಿದವು?",
+   "q_en": "The economic liberalisation of which year helped multinational corporations expand in India?",
+   "opt_kn": [
+    "1956",
+    "1947",
+    "1991",
+    "2005"
+   ],
+   "opt_en": [
+    "1956",
+    "1947",
+    "1991",
+    "2005"
+   ],
+   "ans": "C",
+   "exp_kn": "1991ರ ಆರ್ಥಿಕ ನೀತಿಯ ಉದಾರೀಕರಣ."
+  }
+ ]
+}
