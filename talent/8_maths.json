@@ -1,0 +1,3607 @@
+{
+ "subject": "maths",
+ "class": 8,
+ "source": "ಗಣಿತ ಪ್ರಕಾಶ 8ನೇ ತರಗತಿ ಭಾಗ-1 (ಅಧ್ಯಾಯ 1–7), ಭಾಗ-2 (ಅಧ್ಯಾಯ 8–14) (2026-27)",
+ "questions": [
+  {
+   "id": "8MA-C01-01",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ವರ್ಗ ಮತ್ತು ಘನ",
+   "ch_en": "Squares and Cubes",
+   "diff": "easy",
+   "q_kn": "ಕೆಳಗಿನ ಯಾವ ಅಂಕಿಯಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುವ ಸಂಖ್ಯೆ ಪೂರ್ಣವರ್ಗ ಆಗಲು ಸಾಧ್ಯವಿಲ್ಲ?",
+   "q_en": "A number ending in which digit can never be a perfect square?",
+   "opt_kn": [
+    "7",
+    "6",
+    "1",
+    "9"
+   ],
+   "opt_en": [
+    "7",
+    "6",
+    "1",
+    "9"
+   ],
+   "ans": "A",
+   "exp_kn": "ಪೂರ್ಣವರ್ಗಗಳ ಬಿಡಿ ಸ್ಥಾನದಲ್ಲಿ 0, 1, 4, 5, 6, 9 ಮಾತ್ರ."
+  },
+  {
+   "id": "8MA-C01-02",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ವರ್ಗ ಮತ್ತು ಘನ",
+   "ch_en": "Squares and Cubes",
+   "diff": "medium",
+   "q_kn": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಪೂರ್ಣವರ್ಗ ಯಾವುದು?",
+   "q_en": "Which of these is a perfect square?",
+   "opt_kn": [
+    "1250",
+    "1296",
+    "1442",
+    "1000"
+   ],
+   "opt_en": [
+    "1250",
+    "1296",
+    "1442",
+    "1000"
+   ],
+   "ans": "B",
+   "exp_kn": "36 × 36 = 1296."
+  },
+  {
+   "id": "8MA-C01-03",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ವರ್ಗ ಮತ್ತು ಘನ",
+   "ch_en": "Squares and Cubes",
+   "diff": "medium",
+   "q_kn": "√1764 = ?",
+   "q_en": "√1764 = ?",
+   "opt_kn": [
+    "44",
+    "38",
+    "42",
+    "48"
+   ],
+   "opt_en": [
+    "44",
+    "38",
+    "42",
+    "48"
+   ],
+   "ans": "C",
+   "exp_kn": "42 × 42 = 1764."
+  },
+  {
+   "id": "8MA-C01-04",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ವರ್ಗ ಮತ್ತು ಘನ",
+   "ch_en": "Squares and Cubes",
+   "diff": "easy",
+   "q_kn": "35² = ?",
+   "q_en": "35² = ?",
+   "opt_kn": [
+    "1325",
+    "925",
+    "1025",
+    "1225"
+   ],
+   "opt_en": [
+    "1325",
+    "925",
+    "1025",
+    "1225"
+   ],
+   "ans": "D",
+   "exp_kn": "5 ರಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುವ ಸಂಖ್ಯೆ: 3×4 = 12, ನಂತರ 25 → 1225."
+  },
+  {
+   "id": "8MA-C01-05",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ವರ್ಗ ಮತ್ತು ಘನ",
+   "ch_en": "Squares and Cubes",
+   "diff": "hard",
+   "q_kn": "15² ಮತ್ತು 16² ರ ನಡುವೆ ಎಷ್ಟು ಪೂರ್ಣವರ್ಗವಲ್ಲದ ಸಂಖ್ಯೆಗಳಿವೆ?",
+   "q_en": "How many non-square numbers lie between 15² and 16²?",
+   "opt_kn": [
+    "31",
+    "32",
+    "15",
+    "30"
+   ],
+   "opt_en": [
+    "31",
+    "32",
+    "15",
+    "30"
+   ],
+   "ans": "D",
+   "exp_kn": "n² ಮತ್ತು (n+1)² ನಡುವೆ 2n ಸಂಖ್ಯೆಗಳು: 2 × 15 = 30."
+  },
+  {
+   "id": "8MA-C01-06",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ವರ್ಗ ಮತ್ತು ಘನ",
+   "ch_en": "Squares and Cubes",
+   "diff": "medium",
+   "q_kn": "ಮೊದಲ 12 ಬೆಸ ಸಂಖ್ಯೆಗಳ ಮೊತ್ತ ಎಷ್ಟು?",
+   "q_en": "What is the sum of the first 12 odd numbers?",
+   "opt_kn": [
+    "156",
+    "132",
+    "144",
+    "121"
+   ],
+   "opt_en": [
+    "156",
+    "132",
+    "144",
+    "121"
+   ],
+   "ans": "C",
+   "exp_kn": "ಮೊದಲ n ಬೆಸ ಸಂಖ್ಯೆಗಳ ಮೊತ್ತ = n² = 144."
+  },
+  {
+   "id": "8MA-C01-07",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ವರ್ಗ ಮತ್ತು ಘನ",
+   "ch_en": "Squares and Cubes",
+   "diff": "easy",
+   "q_kn": "12³ = ?",
+   "q_en": "12³ = ?",
+   "opt_kn": [
+    "1442",
+    "1728",
+    "144",
+    "1296"
+   ],
+   "opt_en": [
+    "1442",
+    "1728",
+    "144",
+    "1296"
+   ],
+   "ans": "B",
+   "exp_kn": "12 × 12 × 12 = 1728."
+  },
+  {
+   "id": "8MA-C01-08",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ವರ್ಗ ಮತ್ತು ಘನ",
+   "ch_en": "Squares and Cubes",
+   "diff": "medium",
+   "q_kn": "∛2197 = ?",
+   "q_en": "∛2197 = ?",
+   "opt_kn": [
+    "13",
+    "23",
+    "17",
+    "11"
+   ],
+   "opt_en": [
+    "13",
+    "23",
+    "17",
+    "11"
+   ],
+   "ans": "A",
+   "exp_kn": "13 × 13 × 13 = 2197."
+  },
+  {
+   "id": "8MA-C01-09",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ವರ್ಗ ಮತ್ತು ಘನ",
+   "ch_en": "Squares and Cubes",
+   "diff": "medium",
+   "q_kn": "ಎರಡು ರೀತಿಯಲ್ಲಿ ಎರಡು ಘನಗಳ ಮೊತ್ತವಾಗಿ ಬರೆಯಬಹುದಾದ ಅತಿ ಚಿಕ್ಕ ಸಂಖ್ಯೆ (ರಾಮಾನುಜನ್ ಸಂಖ್ಯೆ / ಟ್ಯಾಕ್ಸಿಕ್ಯಾಬ್ ಸಂಖ್ಯೆ) ಯಾವುದು?",
+   "q_en": "The smallest number expressible as a sum of two cubes in two ways (Ramanujan / taxicab number) is?",
+   "opt_kn": [
+    "2197",
+    "1001",
+    "1729",
+    "1728"
+   ],
+   "opt_en": [
+    "2197",
+    "1001",
+    "1729",
+    "1728"
+   ],
+   "ans": "C",
+   "exp_kn": "1729 = 1³ + 12³ = 9³ + 10³."
+  },
+  {
+   "id": "8MA-C01-10",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ವರ್ಗ ಮತ್ತು ಘನ",
+   "ch_en": "Squares and Cubes",
+   "diff": "easy",
+   "q_kn": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಪೂರ್ಣ ಘನ ಯಾವುದು?",
+   "q_en": "Which of these is a perfect cube?",
+   "opt_kn": [
+    "144",
+    "216",
+    "256",
+    "196"
+   ],
+   "opt_en": [
+    "144",
+    "216",
+    "256",
+    "196"
+   ],
+   "ans": "B",
+   "exp_kn": "6 × 6 × 6 = 216."
+  },
+  {
+   "id": "8MA-C01-11",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ವರ್ಗ ಮತ್ತು ಘನ",
+   "ch_en": "Squares and Cubes",
+   "diff": "hard",
+   "q_kn": "72 ನ್ನು ಪೂರ್ಣವರ್ಗವಾಗಿಸಲು ಅದನ್ನು ಗುಣಿಸಬೇಕಾದ ಅತಿ ಚಿಕ್ಕ ಸಂಖ್ಯೆ ಯಾವುದು?",
+   "q_en": "The smallest number by which 72 must be multiplied to make it a perfect square is?",
+   "opt_kn": [
+    "2",
+    "3",
+    "6",
+    "8"
+   ],
+   "opt_en": [
+    "2",
+    "3",
+    "6",
+    "8"
+   ],
+   "ans": "A",
+   "exp_kn": "72 = 2³ × 3²; ಜೋಡಿಯಾಗದ 2 → 72 × 2 = 144 = 12²."
+  },
+  {
+   "id": "8MA-C01-12",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ವರ್ಗ ಮತ್ತು ಘನ",
+   "ch_en": "Squares and Cubes",
+   "diff": "hard",
+   "q_kn": "108 ನ್ನು ಪೂರ್ಣ ಘನವಾಗಿಸಲು ಅದನ್ನು ಗುಣಿಸಬೇಕಾದ ಅತಿ ಚಿಕ್ಕ ಸಂಖ್ಯೆ ಯಾವುದು?",
+   "q_en": "The smallest number by which 108 must be multiplied to make it a perfect cube is?",
+   "opt_kn": [
+    "4",
+    "6",
+    "3",
+    "2"
+   ],
+   "opt_en": [
+    "4",
+    "6",
+    "3",
+    "2"
+   ],
+   "ans": "D",
+   "exp_kn": "108 = 2² × 3³ → × 2 = 216 = 6³."
+  },
+  {
+   "id": "8MA-C01-13",
+   "part": 1,
+   "ch": 1,
+   "ch_kn": "ವರ್ಗ ಮತ್ತು ಘನ",
+   "ch_en": "Squares and Cubes",
+   "diff": "medium",
+   "q_kn": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಪೂರ್ಣವರ್ಗವಾಗಿರಬಹುದು?",
+   "q_en": "Which of these can be a perfect square?",
+   "opt_kn": [
+    "900000",
+    "90000",
+    "4000",
+    "25000"
+   ],
+   "opt_en": [
+    "900000",
+    "90000",
+    "4000",
+    "25000"
+   ],
+   "ans": "B",
+   "exp_kn": "ವರ್ಗದ ಕೊನೆಯಲ್ಲಿ ಸಮ ಸಂಖ್ಯೆಯ ಸೊನ್ನೆಗಳು ಇರಬೇಕು: 90000 = 300²."
+  },
+  {
+   "id": "8MA-C02-01",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಘಾತಾಂಕಗಳ ಆಟ",
+   "ch_en": "Power Play",
+   "diff": "easy",
+   "q_kn": "2⁵ × 2³ = ?",
+   "q_en": "2⁵ × 2³ = ?",
+   "opt_kn": [
+    "2¹⁵",
+    "4⁸",
+    "2⁸",
+    "2²"
+   ],
+   "opt_en": [
+    "2¹⁵",
+    "4⁸",
+    "2⁸",
+    "2²"
+   ],
+   "ans": "C",
+   "exp_kn": "aᵐ × aⁿ = aᵐ⁺ⁿ."
+  },
+  {
+   "id": "8MA-C02-02",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಘಾತಾಂಕಗಳ ಆಟ",
+   "ch_en": "Power Play",
+   "diff": "easy",
+   "q_kn": "(3²)³ = ?",
+   "q_en": "(3²)³ = ?",
+   "opt_kn": [
+    "3⁶",
+    "3⁹",
+    "6³",
+    "3⁵"
+   ],
+   "opt_en": [
+    "3⁶",
+    "3⁹",
+    "6³",
+    "3⁵"
+   ],
+   "ans": "A",
+   "exp_kn": "(aᵐ)ⁿ = aᵐⁿ = 3⁶."
+  },
+  {
+   "id": "8MA-C02-03",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಘಾತಾಂಕಗಳ ಆಟ",
+   "ch_en": "Power Play",
+   "diff": "medium",
+   "q_kn": "5⁷ ÷ 5⁴ ರ ಬೆಲೆ ಎಷ್ಟು?",
+   "q_en": "Find the value of 5⁷ ÷ 5⁴.",
+   "opt_kn": [
+    "25",
+    "15",
+    "625",
+    "125"
+   ],
+   "opt_en": [
+    "25",
+    "15",
+    "625",
+    "125"
+   ],
+   "ans": "D",
+   "exp_kn": "5⁷⁻⁴ = 5³ = 125."
+  },
+  {
+   "id": "8MA-C02-04",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಘಾತಾಂಕಗಳ ಆಟ",
+   "ch_en": "Power Play",
+   "diff": "medium",
+   "q_kn": "10⁻² = ?",
+   "q_en": "10⁻² = ?",
+   "opt_kn": [
+    "−20",
+    "0.1",
+    "−100",
+    "0.01"
+   ],
+   "opt_en": [
+    "−20",
+    "0.1",
+    "−100",
+    "0.01"
+   ],
+   "ans": "D",
+   "exp_kn": "10⁻² = 1/10² = 1/100."
+  },
+  {
+   "id": "8MA-C02-05",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಘಾತಾಂಕಗಳ ಆಟ",
+   "ch_en": "Power Play",
+   "diff": "easy",
+   "q_kn": "7⁰ + 3⁰ = ?",
+   "q_en": "7⁰ + 3⁰ = ?",
+   "opt_kn": [
+    "0",
+    "2",
+    "10",
+    "1"
+   ],
+   "opt_en": [
+    "0",
+    "2",
+    "10",
+    "1"
+   ],
+   "ans": "B",
+   "exp_kn": "ಶೂನ್ಯೇತರ ಸಂಖ್ಯೆಯ ಘಾತ 0 ಆದರೆ ಬೆಲೆ 1: 1 + 1 = 2."
+  },
+  {
+   "id": "8MA-C02-06",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಘಾತಾಂಕಗಳ ಆಟ",
+   "ch_en": "Power Play",
+   "diff": "medium",
+   "q_kn": "3,84,000 ನ್ನು ವೈಜ್ಞಾನಿಕ ಸಂಕೇತದಲ್ಲಿ ಬರೆಯಿರಿ.",
+   "q_en": "Write 3,84,000 in scientific notation.",
+   "opt_kn": [
+    "3.84 × 10⁴",
+    "38.4 × 10⁴",
+    "3.84 × 10⁵",
+    "384 × 10³"
+   ],
+   "opt_en": [
+    "3.84 × 10⁴",
+    "38.4 × 10⁴",
+    "3.84 × 10⁵",
+    "384 × 10³"
+   ],
+   "ans": "C",
+   "exp_kn": "ಒಂದು ಅಂಕಿ ದಶಮಾಂಶದ ಮೊದಲು: 3.84 × 10⁵."
+  },
+  {
+   "id": "8MA-C02-07",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಘಾತಾಂಕಗಳ ಆಟ",
+   "ch_en": "Power Play",
+   "diff": "medium",
+   "q_kn": "0.00045 ನ್ನು ವೈಜ್ಞಾನಿಕ ಸಂಕೇತದಲ್ಲಿ ಬರೆಯಿರಿ.",
+   "q_en": "Write 0.00045 in scientific notation.",
+   "opt_kn": [
+    "4.5 × 10⁻⁴",
+    "4.5 × 10⁴",
+    "45 × 10⁻⁴",
+    "4.5 × 10⁻⁵"
+   ],
+   "opt_en": [
+    "4.5 × 10⁻⁴",
+    "4.5 × 10⁴",
+    "45 × 10⁻⁴",
+    "4.5 × 10⁻⁵"
+   ],
+   "ans": "A",
+   "exp_kn": "ದಶಮಾಂಶ ಬಿಂದು ಬಲಕ್ಕೆ 4 ಸ್ಥಾನ → 10⁻⁴."
+  },
+  {
+   "id": "8MA-C02-08",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಘಾತಾಂಕಗಳ ಆಟ",
+   "ch_en": "Power Play",
+   "diff": "hard",
+   "q_kn": "0.1 ಮಿ.ಮೀ ದಪ್ಪದ ಕಾಗದವನ್ನು 10 ಬಾರಿ ಅರ್ಧಕ್ಕೆ ಮಡಚಿದರೆ ಅದರ ದಪ್ಪ ಎಷ್ಟು?",
+   "q_en": "A sheet of paper 0.1 mm thick is folded in half 10 times. What is its thickness?",
+   "opt_kn": [
+    "2 ಮಿ.ಮೀ",
+    "10.24 ಮಿ.ಮೀ",
+    "1 ಮಿ.ಮೀ",
+    "102.4 ಮಿ.ಮೀ"
+   ],
+   "opt_en": [
+    "2 mm",
+    "10.24 mm",
+    "1 mm",
+    "102.4 mm"
+   ],
+   "ans": "D",
+   "exp_kn": "ಪ್ರತಿ ಮಡಿಕೆಗೆ ದ್ವಿಗುಣ: 0.1 × 2¹⁰ = 0.1 × 1024 = 102.4."
+  },
+  {
+   "id": "8MA-C02-09",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಘಾತಾಂಕಗಳ ಆಟ",
+   "ch_en": "Power Play",
+   "diff": "hard",
+   "q_kn": "(2/3)⁻² = ?",
+   "q_en": "(2/3)⁻² = ?",
+   "opt_kn": [
+    "4/9",
+    "9/4",
+    "−4/9",
+    "−9/4"
+   ],
+   "opt_en": [
+    "4/9",
+    "9/4",
+    "−4/9",
+    "−9/4"
+   ],
+   "ans": "B",
+   "exp_kn": "(a/b)⁻ⁿ = (b/a)ⁿ = (3/2)² = 9/4."
+  },
+  {
+   "id": "8MA-C02-10",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಘಾತಾಂಕಗಳ ಆಟ",
+   "ch_en": "Power Play",
+   "diff": "easy",
+   "q_kn": "2³ × 3² = ?",
+   "q_en": "2³ × 3² = ?",
+   "opt_kn": [
+    "36",
+    "30",
+    "72",
+    "6⁵"
+   ],
+   "opt_en": [
+    "36",
+    "30",
+    "72",
+    "6⁵"
+   ],
+   "ans": "C",
+   "exp_kn": "8 × 9 = 72."
+  },
+  {
+   "id": "8MA-C02-11",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಘಾತಾಂಕಗಳ ಆಟ",
+   "ch_en": "Power Play",
+   "diff": "medium",
+   "q_kn": "2¹⁰ ಮತ್ತು 10³ ಗಳಲ್ಲಿ ಯಾವುದು ದೊಡ್ಡದು?",
+   "q_en": "Which is greater: 2¹⁰ or 10³?",
+   "opt_kn": [
+    "2¹⁰",
+    "ಎರಡೂ ಸಮ",
+    "ಹೇಳಲಾಗದು",
+    "10³"
+   ],
+   "opt_en": [
+    "2¹⁰",
+    "Both equal",
+    "Cannot say",
+    "10³"
+   ],
+   "ans": "A",
+   "exp_kn": "2¹⁰ = 1024 > 1000."
+  },
+  {
+   "id": "8MA-C02-12",
+   "part": 1,
+   "ch": 2,
+   "ch_kn": "ಘಾತಾಂಕಗಳ ಆಟ",
+   "ch_en": "Power Play",
+   "diff": "medium",
+   "q_kn": "(−2)⁵ = ?",
+   "q_en": "(−2)⁵ = ?",
+   "opt_kn": [
+    "−10",
+    "32",
+    "−32",
+    "10"
+   ],
+   "opt_en": [
+    "−10",
+    "32",
+    "−32",
+    "10"
+   ],
+   "ans": "C",
+   "exp_kn": "ಬೆಸ ಘಾತ → ಋಣ: −32."
+  },
+  {
+   "id": "8MA-C03-01",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಕಥೆ",
+   "ch_en": "A Story of Numbers",
+   "diff": "easy",
+   "q_kn": "ನಾವು ಇಂದು ಬಳಸುವ ಸಂಖ್ಯಾ ಪದ್ಧತಿಯಲ್ಲಿ ಎಷ್ಟು ಅಂಕಿಗಳಿವೆ?",
+   "q_en": "How many digits does the number system we use today have?",
+   "opt_kn": [
+    "10",
+    "2",
+    "60",
+    "9"
+   ],
+   "opt_en": [
+    "10",
+    "2",
+    "60",
+    "9"
+   ],
+   "ans": "A",
+   "exp_kn": "0 ರಿಂದ 9 ರವರೆಗೆ 10 ಅಂಕಿಗಳು."
+  },
+  {
+   "id": "8MA-C03-02",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಕಥೆ",
+   "ch_en": "A Story of Numbers",
+   "diff": "medium",
+   "q_kn": "ಮೆಸಪಟೋಮಿಯಾ (ಬ್ಯಾಬಿಲೋನಿಯನ್) ಸಂಖ್ಯಾ ಪದ್ಧತಿಯ ಆಧಾರ ಯಾವುದು?",
+   "q_en": "What was the base of the Mesopotamian (Babylonian) number system?",
+   "opt_kn": [
+    "10",
+    "60",
+    "20",
+    "2"
+   ],
+   "opt_en": [
+    "10",
+    "60",
+    "20",
+    "2"
+   ],
+   "ans": "B",
+   "exp_kn": "ಬ್ಯಾಬಿಲೋನಿಯನ್ನರು 60 ರ ಘಾತಗಳನ್ನು ಬಳಸಿದರು."
+  },
+  {
+   "id": "8MA-C03-03",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಕಥೆ",
+   "ch_en": "A Story of Numbers",
+   "diff": "medium",
+   "q_kn": "ಮಾಯನ್ ಸಂಖ್ಯಾ ಪದ್ಧತಿಯ ಆಧಾರ ಯಾವುದು?",
+   "q_en": "What was the base of the Mayan number system?",
+   "opt_kn": [
+    "5",
+    "60",
+    "10",
+    "20"
+   ],
+   "opt_en": [
+    "5",
+    "60",
+    "10",
+    "20"
+   ],
+   "ans": "D",
+   "exp_kn": "ಮಾಯನ್ ಪದ್ಧತಿ ಆಧಾರ-20; ಸೊನ್ನೆಗೆ ಚಿಪ್ಪಿನ ಚಿಹ್ನೆ."
+  },
+  {
+   "id": "8MA-C03-04",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಕಥೆ",
+   "ch_en": "A Story of Numbers",
+   "diff": "easy",
+   "q_kn": "ಇಂದು ಪ್ರಪಂಚದಾದ್ಯಂತ ಬಳಸುವ ಸಂಖ್ಯಾ ಪದ್ಧತಿ ಯಾವುದು?",
+   "q_en": "Which number system is used throughout the world today?",
+   "opt_kn": [
+    "ಹಿಂದೂ (ಭಾರತೀಯ / ಹಿಂದೂ-ಅರೇಬಿಕ್) ಪದ್ಧತಿ",
+    "ಬ್ಯಾಬಿಲೋನಿಯನ್ ಪದ್ಧತಿ",
+    "ರೋಮನ್ ಪದ್ಧತಿ",
+    "ಮಾಯನ್ ಪದ್ಧತಿ"
+   ],
+   "opt_en": [
+    "Hindu (Indian / Hindu-Arabic) system",
+    "Babylonian system",
+    "Roman system",
+    "Mayan system"
+   ],
+   "ans": "A",
+   "exp_kn": "0 ಅನ್ನು ಇತರ ಅಂಕಿಗಳಂತೆ ಬಳಸುವ 10 ಅಂಕಿಗಳ ಸ್ಥಾನ ಬೆಲೆ ಪದ್ಧತಿ."
+  },
+  {
+   "id": "8MA-C03-05",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಕಥೆ",
+   "ch_en": "A Story of Numbers",
+   "diff": "hard",
+   "q_kn": "ಸುಮಾರು 1200 ರಲ್ಲಿ ಯುರೋಪಿಯನ್ನರು ಭಾರತೀಯ ಅಂಕಿಗಳನ್ನು ಅಳವಡಿಸಿಕೊಳ್ಳಲು ಒತ್ತಾಯಿಸಿದ ಇಟಾಲಿಯನ್ ಗಣಿತಜ್ಞ ಯಾರು?",
+   "q_en": "Which Italian mathematician urged Europeans to adopt Indian numerals around 1200?",
+   "opt_kn": [
+    "ಯೂಕ್ಲಿಡ್",
+    "ಪೈಥಾಗೊರಸ್",
+    "ಗೆಲಿಲಿಯೋ",
+    "ಫಿಬೊನಾಚಿ"
+   ],
+   "opt_en": [
+    "Euclid",
+    "Pythagoras",
+    "Galileo",
+    "Fibonacci"
+   ],
+   "ans": "D",
+   "exp_kn": "ಫಿಬೊನಾಚಿ ಭಾರತೀಯ ಅಂಕಿಗಳನ್ನು ಯುರೋಪಿನಲ್ಲಿ ಪ್ರಚಾರ ಮಾಡಿದನು."
+  },
+  {
+   "id": "8MA-C03-06",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಕಥೆ",
+   "ch_en": "A Story of Numbers",
+   "diff": "medium",
+   "q_kn": "ಚಿಹ್ನೆಯ ಸ್ಥಾನದಿಂದ ಅದರ ಬೆಲೆ ನಿರ್ಧಾರವಾಗುವ ಸಂಖ್ಯಾ ಪದ್ಧತಿಯನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "A number system in which the value of a symbol depends on its position is called?",
+   "opt_kn": [
+    "ಎಣಿಕೆಯ ಪದ್ಧತಿ",
+    "ಚಿತ್ರ ಪದ್ಧತಿ",
+    "ಸ್ಥಾನ ಬೆಲೆ (ಸ್ಥಾನಿಕ) ಪದ್ಧತಿ",
+    "ರೋಮನ್ ಪದ್ಧತಿ"
+   ],
+   "opt_en": [
+    "Tally system",
+    "Picture system",
+    "Place value (positional) system",
+    "Roman system"
+   ],
+   "ans": "C",
+   "exp_kn": "ಉದಾ: 333 ರಲ್ಲಿ ಪ್ರತಿ 3 ರ ಬೆಲೆ ಬೇರೆ."
+  },
+  {
+   "id": "8MA-C03-07",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಕಥೆ",
+   "ch_en": "A Story of Numbers",
+   "diff": "medium",
+   "q_kn": "ಸಂಖ್ಯಾ ಪದ್ಧತಿಯಲ್ಲಿ ಇತರ ಸಂಖ್ಯೆಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಉಲ್ಲೇಖ ಬಿಂದುಗಳಾಗಿ ಬಳಸುವ ಸುಲಭವಾಗಿ ಗುರುತಿಸಬಹುದಾದ ಸಂಖ್ಯೆಗಳನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "Easily recognisable numbers used as reference points in a number system are called?",
+   "opt_kn": [
+    "ಬೆಸ ಸಂಖ್ಯೆಗಳು",
+    "ಹೆಗ್ಗುರುತು ಸಂಖ್ಯೆಗಳು",
+    "ವರ್ಗ ಸಂಖ್ಯೆಗಳು",
+    "ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು"
+   ],
+   "opt_en": [
+    "Odd numbers",
+    "Landmark numbers",
+    "Square numbers",
+    "Prime numbers"
+   ],
+   "ans": "B",
+   "exp_kn": "ಉದಾ: 1, 10, 100, 1000."
+  },
+  {
+   "id": "8MA-C03-08",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಕಥೆ",
+   "ch_en": "A Story of Numbers",
+   "diff": "hard",
+   "q_kn": "ಆಧಾರ 10 ರ ಸಂಖ್ಯೆ 25 ನ್ನು ಆಧಾರ 5 ರಲ್ಲಿ ಬರೆದರೆ ಏನಾಗುತ್ತದೆ?",
+   "q_en": "The base-10 number 25 written in base 5 is?",
+   "opt_kn": [
+    "11",
+    "50",
+    "100",
+    "25"
+   ],
+   "opt_en": [
+    "11",
+    "50",
+    "100",
+    "25"
+   ],
+   "ans": "C",
+   "exp_kn": "25 = 1 × 5² + 0 × 5 + 0."
+  },
+  {
+   "id": "8MA-C03-09",
+   "part": 1,
+   "ch": 3,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಕಥೆ",
+   "ch_en": "A Story of Numbers",
+   "diff": "hard",
+   "q_kn": "ಆಧಾರ 2 ರಲ್ಲಿ 1011 ಎಂದು ಬರೆದ ಸಂಖ್ಯೆಯ ಬೆಲೆ (ಆಧಾರ 10 ರಲ್ಲಿ) ಎಷ್ಟು?",
+   "q_en": "What is the value (in base 10) of the base-2 number 1011?",
+   "opt_kn": [
+    "11",
+    "13",
+    "1011",
+    "7"
+   ],
+   "opt_en": [
+    "11",
+    "13",
+    "1011",
+    "7"
+   ],
+   "ans": "A",
+   "exp_kn": "1×8 + 0×4 + 1×2 + 1×1 = 11."
+  },
+  {
+   "id": "8MA-C04-01",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಚತುರ್ಭುಜಗಳು",
+   "ch_en": "Quadrilaterals",
+   "diff": "easy",
+   "q_kn": "ಚತುರ್ಭುಜದ ಒಳಕೋನಗಳ ಮೊತ್ತ ಎಷ್ಟು?",
+   "q_en": "What is the sum of the interior angles of a quadrilateral?",
+   "opt_kn": [
+    "540°",
+    "90°",
+    "180°",
+    "360°"
+   ],
+   "opt_en": [
+    "540°",
+    "90°",
+    "180°",
+    "360°"
+   ],
+   "ans": "D",
+   "exp_kn": "ಕರ್ಣದಿಂದ ಎರಡು ತ್ರಿಭುಜಗಳು: 2 × 180 = 360°."
+  },
+  {
+   "id": "8MA-C04-02",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಚತುರ್ಭುಜಗಳು",
+   "ch_en": "Quadrilaterals",
+   "diff": "easy",
+   "q_kn": "ಚತುರ್ಭುಜದ ಮೂರು ಕೋನಗಳು 80°, 90° ಮತ್ತು 100° ಆದರೆ ನಾಲ್ಕನೇ ಕೋನ ಎಷ್ಟು?",
+   "q_en": "Three angles of a quadrilateral are 80°, 90° and 100°. The fourth angle is?",
+   "opt_kn": [
+    "100°",
+    "90°",
+    "110°",
+    "80°"
+   ],
+   "opt_en": [
+    "100°",
+    "90°",
+    "110°",
+    "80°"
+   ],
+   "ans": "B",
+   "exp_kn": "360 − 270 = 90°."
+  },
+  {
+   "id": "8MA-C04-03",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಚತುರ್ಭುಜಗಳು",
+   "ch_en": "Quadrilaterals",
+   "diff": "medium",
+   "q_kn": "ಆಯತದ ಕರ್ಣಗಳ ಬಗ್ಗೆ ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
+   "q_en": "Which statement about the diagonals of a rectangle is correct?",
+   "opt_kn": [
+    "ಸಮ ಉದ್ದ ಹೊಂದಿಲ್ಲ",
+    "ಸಮ ಉದ್ದ ಹೊಂದಿದ್ದು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ",
+    "ಕೋನಗಳನ್ನು ಅರ್ಧಿಸುತ್ತವೆ",
+    "ಯಾವಾಗಲೂ ಲಂಬವಾಗಿ ಛೇದಿಸುತ್ತವೆ"
+   ],
+   "opt_en": [
+    "They are unequal",
+    "They are equal and bisect each other",
+    "They bisect the angles",
+    "They always meet at right angles"
+   ],
+   "ans": "B",
+   "exp_kn": "ಆಯತದ ಕರ್ಣಗಳು ಸಮ ಮತ್ತು ಪರಸ್ಪರ ಅರ್ಧಿಸುತ್ತವೆ."
+  },
+  {
+   "id": "8MA-C04-04",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಚತುರ್ಭುಜಗಳು",
+   "ch_en": "Quadrilaterals",
+   "diff": "medium",
+   "q_kn": "ಚೌಕದ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಎಷ್ಟು ಕೋನದಲ್ಲಿ ಅರ್ಧಿಸುತ್ತವೆ?",
+   "q_en": "At what angle do the diagonals of a square bisect each other?",
+   "opt_kn": [
+    "60°",
+    "45°",
+    "90°",
+    "180°"
+   ],
+   "opt_en": [
+    "60°",
+    "45°",
+    "90°",
+    "180°"
+   ],
+   "ans": "C",
+   "exp_kn": "ಚೌಕದ ಕರ್ಣಗಳು ಸಮ ಮತ್ತು 90° ಯಲ್ಲಿ ಅರ್ಧಿಸುತ್ತವೆ."
+  },
+  {
+   "id": "8MA-C04-05",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಚತುರ್ಭುಜಗಳು",
+   "ch_en": "Quadrilaterals",
+   "diff": "medium",
+   "q_kn": "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಒಂದು ಕೋನ 70° ಆದರೆ ಅದರ ಪಕ್ಕದ ಕೋನ ಎಷ್ಟು?",
+   "q_en": "One angle of a parallelogram is 70°. Its adjacent angle is?",
+   "opt_kn": [
+    "110°",
+    "70°",
+    "20°",
+    "290°"
+   ],
+   "opt_en": [
+    "110°",
+    "70°",
+    "20°",
+    "290°"
+   ],
+   "ans": "A",
+   "exp_kn": "ಪಕ್ಕದ ಕೋನಗಳ ಮೊತ್ತ 180°."
+  },
+  {
+   "id": "8MA-C04-06",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಚತುರ್ಭುಜಗಳು",
+   "ch_en": "Quadrilaterals",
+   "diff": "easy",
+   "q_kn": "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಒಂದು ಕೋನ 65° ಆದರೆ ಅದರ ಅಭಿಮುಖ ಕೋನ ಎಷ್ಟು?",
+   "q_en": "One angle of a parallelogram is 65°. Its opposite angle is?",
+   "opt_kn": [
+    "25°",
+    "115°",
+    "130°",
+    "65°"
+   ],
+   "opt_en": [
+    "25°",
+    "115°",
+    "130°",
+    "65°"
+   ],
+   "ans": "D",
+   "exp_kn": "ಅಭಿಮುಖ ಕೋನಗಳು ಸಮ."
+  },
+  {
+   "id": "8MA-C04-07",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಚತುರ್ಭುಜಗಳು",
+   "ch_en": "Quadrilaterals",
+   "diff": "easy",
+   "q_kn": "ಎಲ್ಲಾ ಬಾಹುಗಳು ಸಮವಾಗಿದ್ದು ಕೋನಗಳು 90° ಆಗಿರಬೇಕಿಲ್ಲದ ಚತುರ್ಭುಜ ಯಾವುದು?",
+   "q_en": "A quadrilateral with all sides equal but angles not necessarily 90° is a?",
+   "opt_kn": [
+    "ಗಾಳಿಪಟಾಕೃತಿ",
+    "ತ್ರಾಪಿಜ್ಯ",
+    "ವಜ್ರಾಕೃತಿ (ರಾಂಬಸ್)",
+    "ಆಯತ"
+   ],
+   "opt_en": [
+    "Kite",
+    "Trapezium",
+    "Rhombus",
+    "Rectangle"
+   ],
+   "ans": "C",
+   "exp_kn": "ವಜ್ರಾಕೃತಿಯ ಎಲ್ಲ ಬಾಹುಗಳು ಸಮ."
+  },
+  {
+   "id": "8MA-C04-08",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಚತುರ್ಭುಜಗಳು",
+   "ch_en": "Quadrilaterals",
+   "diff": "hard",
+   "q_kn": "ಚತುರ್ಭುಜದ ಕೋನಗಳು 1 : 2 : 3 : 4 ಅನುಪಾತದಲ್ಲಿದ್ದರೆ ದೊಡ್ಡ ಕೋನ ಎಷ್ಟು?",
+   "q_en": "The angles of a quadrilateral are in the ratio 1 : 2 : 3 : 4. The largest angle is?",
+   "opt_kn": [
+    "108°",
+    "144°",
+    "120°",
+    "160°"
+   ],
+   "opt_en": [
+    "108°",
+    "144°",
+    "120°",
+    "160°"
+   ],
+   "ans": "B",
+   "exp_kn": "360 ÷ 10 = 36; 4 × 36 = 144°."
+  },
+  {
+   "id": "8MA-C04-09",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಚತುರ್ಭುಜಗಳು",
+   "ch_en": "Quadrilaterals",
+   "diff": "medium",
+   "q_kn": "ವಜ್ರಾಕೃತಿಯ ಕರ್ಣಗಳು…",
+   "q_en": "The diagonals of a rhombus…",
+   "opt_kn": [
+    "ಅರ್ಧಿಸುವುದಿಲ್ಲ",
+    "ಸಮಾಂತರವಾಗಿರುತ್ತವೆ",
+    "ಯಾವಾಗಲೂ ಸಮ ಉದ್ದ",
+    "ಪರಸ್ಪರ ಲಂಬವಾಗಿ ಅರ್ಧಿಸುತ್ತವೆ"
+   ],
+   "opt_en": [
+    "Do not bisect",
+    "Are parallel",
+    "Are always equal",
+    "Bisect each other at right angles"
+   ],
+   "ans": "D",
+   "exp_kn": "ವಜ್ರಾಕೃತಿಯ ಕರ್ಣಗಳು ಪರಸ್ಪರ ಲಂಬಾರ್ಧಕಗಳು."
+  },
+  {
+   "id": "8MA-C04-10",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಚತುರ್ಭುಜಗಳು",
+   "ch_en": "Quadrilaterals",
+   "diff": "medium",
+   "q_kn": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಸಮಾಂತರ ಚತುರ್ಭುಜ ಆಗಿರಬೇಕೆಂದಿಲ್ಲ?",
+   "q_en": "Which of these need NOT be a parallelogram?",
+   "opt_kn": [
+    "ತ್ರಾಪಿಜ್ಯ",
+    "ವಜ್ರಾಕೃತಿ",
+    "ಚೌಕ",
+    "ಆಯತ"
+   ],
+   "opt_en": [
+    "Trapezium",
+    "Rhombus",
+    "Square",
+    "Rectangle"
+   ],
+   "ans": "A",
+   "exp_kn": "ತ್ರಾಪಿಜ್ಯದಲ್ಲಿ ಒಂದು ಜೋಡಿ ಬಾಹುಗಳು ಮಾತ್ರ ಸಮಾಂತರ."
+  },
+  {
+   "id": "8MA-C04-11",
+   "part": 1,
+   "ch": 4,
+   "ch_kn": "ಚತುರ್ಭುಜಗಳು",
+   "ch_en": "Quadrilaterals",
+   "diff": "hard",
+   "q_kn": "ಸಮಾಂತರ ಚತುರ್ಭುಜದ ಪಕ್ಕದ ಕೋನಗಳು (2x + 10)° ಮತ್ತು (3x − 30)° ಆದರೆ x ಎಷ್ಟು?",
+   "q_en": "Adjacent angles of a parallelogram are (2x + 10)° and (3x − 30)°. Find x.",
+   "opt_kn": [
+    "36",
+    "40",
+    "50",
+    "20"
+   ],
+   "opt_en": [
+    "36",
+    "40",
+    "50",
+    "20"
+   ],
+   "ans": "B",
+   "exp_kn": "5x − 20 = 180 → x = 40."
+  },
+  {
+   "id": "8MA-C05-01",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಆಟ",
+   "ch_en": "Number Play",
+   "diff": "easy",
+   "q_kn": "ಕೆಳಗಿನ ಯಾವ ಸಂಖ್ಯೆ 9 ರಿಂದ ಭಾಗವಾಗುತ್ತದೆ?",
+   "q_en": "Which number is divisible by 9?",
+   "opt_kn": [
+    "7435",
+    "7415",
+    "7425",
+    "7426"
+   ],
+   "opt_en": [
+    "7435",
+    "7415",
+    "7425",
+    "7426"
+   ],
+   "ans": "C",
+   "exp_kn": "ಅಂಕಿಗಳ ಮೊತ್ತ 7+4+2+5 = 18, 9 ರ ಅಪವರ್ತ್ಯ."
+  },
+  {
+   "id": "8MA-C05-02",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಆಟ",
+   "ch_en": "Number Play",
+   "diff": "medium",
+   "q_kn": "ಕೆಳಗಿನ ಯಾವ ಸಂಖ್ಯೆ 11 ರಿಂದ ಭಾಗವಾಗುತ್ತದೆ?",
+   "q_en": "Which number is divisible by 11?",
+   "opt_kn": [
+    "2727",
+    "2738",
+    "2718",
+    "2728"
+   ],
+   "opt_en": [
+    "2727",
+    "2738",
+    "2718",
+    "2728"
+   ],
+   "ans": "D",
+   "exp_kn": "ಪರ್ಯಾಯ ಅಂಕಿಗಳ ಮೊತ್ತಗಳ ವ್ಯತ್ಯಾಸ: (8+7) − (2+2) = 11."
+  },
+  {
+   "id": "8MA-C05-03",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಆಟ",
+   "ch_en": "Number Play",
+   "diff": "medium",
+   "q_kn": "52□4 ಸಂಖ್ಯೆ 3 ರಿಂದ ಭಾಗವಾಗಲು □ ಯಲ್ಲಿ ಯಾವ ಅಂಕಿ ಇರಬಹುದು?",
+   "q_en": "Which digit in □ makes 52□4 divisible by 3?",
+   "opt_kn": [
+    "4",
+    "2",
+    "5",
+    "3"
+   ],
+   "opt_en": [
+    "4",
+    "2",
+    "5",
+    "3"
+   ],
+   "ans": "A",
+   "exp_kn": "5+2+4+4 = 15, 3 ರ ಅಪವರ್ತ್ಯ."
+  },
+  {
+   "id": "8MA-C05-04",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಆಟ",
+   "ch_en": "Number Play",
+   "diff": "easy",
+   "q_kn": "ಒಂದು ಸಂಖ್ಯೆ 12 ರಿಂದ ಭಾಗವಾದರೆ ಅದು ಖಂಡಿತ ಯಾವುದರಿಂದ ಭಾಗವಾಗುತ್ತದೆ?",
+   "q_en": "If a number is divisible by 12, it is surely divisible by?",
+   "opt_kn": [
+    "8",
+    "3 ಮತ್ತು 4",
+    "24",
+    "5"
+   ],
+   "opt_en": [
+    "8",
+    "3 and 4",
+    "24",
+    "5"
+   ],
+   "ans": "B",
+   "exp_kn": "a ಯು b ಯಿಂದ ಭಾಗವಾದರೆ b ಯ ಎಲ್ಲಾ ಅಪವರ್ತನಗಳಿಂದ ಭಾಗವಾಗುತ್ತದೆ."
+  },
+  {
+   "id": "8MA-C05-05",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಆಟ",
+   "ch_en": "Number Play",
+   "diff": "medium",
+   "q_kn": "ಒಂದು ಸಂಖ್ಯೆ 4 ಮತ್ತು 6 ಎರಡರಿಂದಲೂ ಭಾಗವಾದರೆ ಅದು ಖಂಡಿತ ಯಾವುದರಿಂದ ಭಾಗವಾಗುತ್ತದೆ?",
+   "q_en": "If a number is divisible by both 4 and 6, it is surely divisible by?",
+   "opt_kn": [
+    "12",
+    "24",
+    "8",
+    "10"
+   ],
+   "opt_en": [
+    "12",
+    "24",
+    "8",
+    "10"
+   ],
+   "ans": "A",
+   "exp_kn": "4 ಮತ್ತು 6 ರ ಲಸಾಅ = 12."
+  },
+  {
+   "id": "8MA-C05-06",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಆಟ",
+   "ch_en": "Number Play",
+   "diff": "hard",
+   "q_kn": "ಒಂದು ಸಂಖ್ಯೆಯನ್ನು 5 ರಿಂದ ಭಾಗಿಸಿದಾಗ ಶೇಷ 3. ಅದರ ಎರಡರಷ್ಟನ್ನು 5 ರಿಂದ ಭಾಗಿಸಿದರೆ ಶೇಷ ಎಷ್ಟು?",
+   "q_en": "A number leaves remainder 3 when divided by 5. What remainder does twice the number leave?",
+   "opt_kn": [
+    "6",
+    "0",
+    "3",
+    "1"
+   ],
+   "opt_en": [
+    "6",
+    "0",
+    "3",
+    "1"
+   ],
+   "ans": "D",
+   "exp_kn": "ಶೇಷ 2 × 3 = 6; 6 ನ್ನು 5 ರಿಂದ ಭಾಗಿಸಿದರೆ ಶೇಷ 1."
+  },
+  {
+   "id": "8MA-C05-07",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಆಟ",
+   "ch_en": "Number Play",
+   "diff": "medium",
+   "q_kn": "ಯಾವುದೇ ಎರಡಂಕಿ ಸಂಖ್ಯೆ ಮತ್ತು ಅದರ ಅಂಕಿಗಳನ್ನು ಅದಲುಬದಲು ಮಾಡಿದ ಸಂಖ್ಯೆಯ ವ್ಯತ್ಯಾಸ ಯಾವಾಗಲೂ ಯಾವುದರಿಂದ ಭಾಗವಾಗುತ್ತದೆ?",
+   "q_en": "The difference between a two-digit number and the number with its digits reversed is always divisible by?",
+   "opt_kn": [
+    "7",
+    "10",
+    "9",
+    "11"
+   ],
+   "opt_en": [
+    "7",
+    "10",
+    "9",
+    "11"
+   ],
+   "ans": "C",
+   "exp_kn": "(10a + b) − (10b + a) = 9(a − b)."
+  },
+  {
+   "id": "8MA-C05-08",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಆಟ",
+   "ch_en": "Number Play",
+   "diff": "hard",
+   "q_kn": "ಯಾವುದೇ ಮೂರಂಕಿ ಸಂಖ್ಯೆ abc ಮತ್ತು cba ಗಳ ವ್ಯತ್ಯಾಸ ಯಾವಾಗಲೂ ಯಾವುದರಿಂದ ಭಾಗವಾಗುತ್ತದೆ?",
+   "q_en": "The difference between any 3-digit number abc and cba is always divisible by?",
+   "opt_kn": [
+    "101",
+    "10",
+    "99",
+    "100"
+   ],
+   "opt_en": [
+    "101",
+    "10",
+    "99",
+    "100"
+   ],
+   "ans": "C",
+   "exp_kn": "(100a + 10b + c) − (100c + 10b + a) = 99(a − c)."
+  },
+  {
+   "id": "8MA-C05-09",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಆಟ",
+   "ch_en": "Number Play",
+   "diff": "medium",
+   "q_kn": "ಕೆಳಗಿನ ಯಾವ ಸಂಖ್ಯೆ 6 ರಿಂದ ಭಾಗವಾಗುತ್ತದೆ?",
+   "q_en": "Which number is divisible by 6?",
+   "opt_kn": [
+    "1234",
+    "1239",
+    "1235",
+    "1236"
+   ],
+   "opt_en": [
+    "1234",
+    "1239",
+    "1235",
+    "1236"
+   ],
+   "ans": "D",
+   "exp_kn": "ಸಮ ಸಂಖ್ಯೆ ಮತ್ತು ಅಂಕಿಗಳ ಮೊತ್ತ 12 → 2 ಮತ್ತು 3 ಎರಡರಿಂದಲೂ ಭಾಗ."
+  },
+  {
+   "id": "8MA-C05-10",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಆಟ",
+   "ch_en": "Number Play",
+   "diff": "easy",
+   "q_kn": "9 ರಿಂದ ಭಾಗವಾಗುವ ಅತಿ ದೊಡ್ಡ 4 ಅಂಕಿಯ ಸಂಖ್ಯೆ ಯಾವುದು?",
+   "q_en": "The greatest 4-digit number divisible by 9 is?",
+   "opt_kn": [
+    "9000",
+    "9999",
+    "9990",
+    "9909"
+   ],
+   "opt_en": [
+    "9000",
+    "9999",
+    "9990",
+    "9909"
+   ],
+   "ans": "B",
+   "exp_kn": "9+9+9+9 = 36, 9 ರ ಅಪವರ್ತ್ಯ."
+  },
+  {
+   "id": "8MA-C05-11",
+   "part": 1,
+   "ch": 5,
+   "ch_kn": "ಸಂಖ್ಯೆಗಳ ಆಟ",
+   "ch_en": "Number Play",
+   "diff": "medium",
+   "q_kn": "ಎರಡು 7 ರ ಅಪವರ್ತ್ಯಗಳ ಮೊತ್ತ…",
+   "q_en": "The sum of two multiples of 7 is…",
+   "opt_kn": [
+    "ಯಾವಾಗಲೂ 7 ರ ಅಪವರ್ತ್ಯ",
+    "ಯಾವಾಗಲೂ 14 ರ ಅಪವರ್ತ್ಯ",
+    "ಯಾವಾಗಲೂ ಬೆಸ",
+    "ಎಂದಿಗೂ 7 ರ ಅಪವರ್ತ್ಯವಲ್ಲ"
+   ],
+   "opt_en": [
+    "Always a multiple of 7",
+    "Always a multiple of 14",
+    "Always odd",
+    "Never a multiple of 7"
+   ],
+   "ans": "A",
+   "exp_kn": "7m + 7n = 7(m + n)."
+  },
+  {
+   "id": "8MA-C06-01",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ನಾವು ವಿಭಾಜಿಸುತ್ತೇವೆ ಆದರೆ ಅವು ಗುಣಿಸಲ್ಪಡುತ್ತವೆ",
+   "ch_en": "We Distribute, Yet Things Multiply",
+   "diff": "easy",
+   "q_kn": "(x + 5)² = ?",
+   "q_en": "(x + 5)² = ?",
+   "opt_kn": [
+    "x² + 10x + 25",
+    "x² + 25",
+    "x² + 5x + 25",
+    "x² + 10x + 10"
+   ],
+   "opt_en": [
+    "x² + 10x + 25",
+    "x² + 25",
+    "x² + 5x + 25",
+    "x² + 10x + 10"
+   ],
+   "ans": "A",
+   "exp_kn": "(a + b)² = a² + 2ab + b²."
+  },
+  {
+   "id": "8MA-C06-02",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ನಾವು ವಿಭಾಜಿಸುತ್ತೇವೆ ಆದರೆ ಅವು ಗುಣಿಸಲ್ಪಡುತ್ತವೆ",
+   "ch_en": "We Distribute, Yet Things Multiply",
+   "diff": "medium",
+   "q_kn": "(2x − 3)² = ?",
+   "q_en": "(2x − 3)² = ?",
+   "opt_kn": [
+    "2x² − 12x + 9",
+    "4x² − 6x + 9",
+    "4x² − 9",
+    "4x² − 12x + 9"
+   ],
+   "opt_en": [
+    "2x² − 12x + 9",
+    "4x² − 6x + 9",
+    "4x² − 9",
+    "4x² − 12x + 9"
+   ],
+   "ans": "D",
+   "exp_kn": "(a − b)² = a² − 2ab + b²; a = 2x, b = 3."
+  },
+  {
+   "id": "8MA-C06-03",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ನಾವು ವಿಭಾಜಿಸುತ್ತೇವೆ ಆದರೆ ಅವು ಗುಣಿಸಲ್ಪಡುತ್ತವೆ",
+   "ch_en": "We Distribute, Yet Things Multiply",
+   "diff": "medium",
+   "q_kn": "ನಿತ್ಯಸಮೀಕರಣ ಬಳಸಿ 103² ರ ಬೆಲೆ ಕಂಡುಹಿಡಿಯಿರಿ.",
+   "q_en": "Using an identity, find 103².",
+   "opt_kn": [
+    "10900",
+    "10609",
+    "10069",
+    "10309"
+   ],
+   "opt_en": [
+    "10900",
+    "10609",
+    "10069",
+    "10309"
+   ],
+   "ans": "B",
+   "exp_kn": "(100 + 3)² = 10000 + 600 + 9 = 10609."
+  },
+  {
+   "id": "8MA-C06-04",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ನಾವು ವಿಭಾಜಿಸುತ್ತೇವೆ ಆದರೆ ಅವು ಗುಣಿಸಲ್ಪಡುತ್ತವೆ",
+   "ch_en": "We Distribute, Yet Things Multiply",
+   "diff": "medium",
+   "q_kn": "98² = ?",
+   "q_en": "98² = ?",
+   "opt_kn": [
+    "9614",
+    "9404",
+    "9604",
+    "9804"
+   ],
+   "opt_en": [
+    "9614",
+    "9404",
+    "9604",
+    "9804"
+   ],
+   "ans": "C",
+   "exp_kn": "(100 − 2)² = 10000 − 400 + 4 = 9604."
+  },
+  {
+   "id": "8MA-C06-05",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ನಾವು ವಿಭಾಜಿಸುತ್ತೇವೆ ಆದರೆ ಅವು ಗುಣಿಸಲ್ಪಡುತ್ತವೆ",
+   "ch_en": "We Distribute, Yet Things Multiply",
+   "diff": "medium",
+   "q_kn": "52 × 48 = ?",
+   "q_en": "52 × 48 = ?",
+   "opt_kn": [
+    "2496",
+    "2486",
+    "2396",
+    "2504"
+   ],
+   "opt_en": [
+    "2496",
+    "2486",
+    "2396",
+    "2504"
+   ],
+   "ans": "A",
+   "exp_kn": "(50 + 2)(50 − 2) = 2500 − 4 = 2496."
+  },
+  {
+   "id": "8MA-C06-06",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ನಾವು ವಿಭಾಜಿಸುತ್ತೇವೆ ಆದರೆ ಅವು ಗುಣಿಸಲ್ಪಡುತ್ತವೆ",
+   "ch_en": "We Distribute, Yet Things Multiply",
+   "diff": "easy",
+   "q_kn": "(x + 3)(x − 3) = ?",
+   "q_en": "(x + 3)(x − 3) = ?",
+   "opt_kn": [
+    "x² − 3",
+    "x² − 6x + 9",
+    "x² + 9",
+    "x² − 9"
+   ],
+   "opt_en": [
+    "x² − 3",
+    "x² − 6x + 9",
+    "x² + 9",
+    "x² − 9"
+   ],
+   "ans": "D",
+   "exp_kn": "(a + b)(a − b) = a² − b²."
+  },
+  {
+   "id": "8MA-C06-07",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ನಾವು ವಿಭಾಜಿಸುತ್ತೇವೆ ಆದರೆ ಅವು ಗುಣಿಸಲ್ಪಡುತ್ತವೆ",
+   "ch_en": "We Distribute, Yet Things Multiply",
+   "diff": "hard",
+   "q_kn": "47² − 43² = ?",
+   "q_en": "47² − 43² = ?",
+   "opt_kn": [
+    "320",
+    "360",
+    "400",
+    "16"
+   ],
+   "opt_en": [
+    "320",
+    "360",
+    "400",
+    "16"
+   ],
+   "ans": "B",
+   "exp_kn": "(47 + 43)(47 − 43) = 90 × 4 = 360."
+  },
+  {
+   "id": "8MA-C06-08",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ನಾವು ವಿಭಾಜಿಸುತ್ತೇವೆ ಆದರೆ ಅವು ಗುಣಿಸಲ್ಪಡುತ್ತವೆ",
+   "ch_en": "We Distribute, Yet Things Multiply",
+   "diff": "medium",
+   "q_kn": "(x + 2)(x + 5) = ?",
+   "q_en": "(x + 2)(x + 5) = ?",
+   "opt_kn": [
+    "x² + 7x + 7",
+    "x² + 10",
+    "x² + 7x + 10",
+    "x² + 10x + 7"
+   ],
+   "opt_en": [
+    "x² + 7x + 7",
+    "x² + 10",
+    "x² + 7x + 10",
+    "x² + 10x + 7"
+   ],
+   "ans": "C",
+   "exp_kn": "x² + 5x + 2x + 10."
+  },
+  {
+   "id": "8MA-C06-09",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ನಾವು ವಿಭಾಜಿಸುತ್ತೇವೆ ಆದರೆ ಅವು ಗುಣಿಸಲ್ಪಡುತ್ತವೆ",
+   "ch_en": "We Distribute, Yet Things Multiply",
+   "diff": "hard",
+   "q_kn": "a + b = 7 ಮತ್ತು ab = 10 ಆದರೆ a² + b² = ?",
+   "q_en": "If a + b = 7 and ab = 10, then a² + b² = ?",
+   "opt_kn": [
+    "39",
+    "49",
+    "29",
+    "69"
+   ],
+   "opt_en": [
+    "39",
+    "49",
+    "29",
+    "69"
+   ],
+   "ans": "C",
+   "exp_kn": "(a + b)² − 2ab = 49 − 20 = 29."
+  },
+  {
+   "id": "8MA-C06-10",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ನಾವು ವಿಭಾಜಿಸುತ್ತೇವೆ ಆದರೆ ಅವು ಗುಣಿಸಲ್ಪಡುತ್ತವೆ",
+   "ch_en": "We Distribute, Yet Things Multiply",
+   "diff": "hard",
+   "q_kn": "a − b = 4 ಮತ್ತು ab = 5 ಆದರೆ a² + b² = ?",
+   "q_en": "If a − b = 4 and ab = 5, then a² + b² = ?",
+   "opt_kn": [
+    "26",
+    "6",
+    "16",
+    "21"
+   ],
+   "opt_en": [
+    "26",
+    "6",
+    "16",
+    "21"
+   ],
+   "ans": "A",
+   "exp_kn": "(a − b)² + 2ab = 16 + 10 = 26."
+  },
+  {
+   "id": "8MA-C06-11",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ನಾವು ವಿಭಾಜಿಸುತ್ತೇವೆ ಆದರೆ ಅವು ಗುಣಿಸಲ್ಪಡುತ್ತವೆ",
+   "ch_en": "We Distribute, Yet Things Multiply",
+   "diff": "medium",
+   "q_kn": "1001² = ?",
+   "q_en": "1001² = ?",
+   "opt_kn": [
+    "1020001",
+    "100201",
+    "1001001",
+    "1002001"
+   ],
+   "opt_en": [
+    "1020001",
+    "100201",
+    "1001001",
+    "1002001"
+   ],
+   "ans": "D",
+   "exp_kn": "(1000 + 1)² = 1000000 + 2000 + 1."
+  },
+  {
+   "id": "8MA-C06-12",
+   "part": 1,
+   "ch": 6,
+   "ch_kn": "ನಾವು ವಿಭಾಜಿಸುತ್ತೇವೆ ಆದರೆ ಅವು ಗುಣಿಸಲ್ಪಡುತ್ತವೆ",
+   "ch_en": "We Distribute, Yet Things Multiply",
+   "diff": "medium",
+   "q_kn": "(a + b)(c + d) ಯ ವಿಸ್ತರಣೆ ಯಾವುದು?",
+   "q_en": "What is the expansion of (a + b)(c + d)?",
+   "opt_kn": [
+    "ab + cd",
+    "ac + ad + bc + bd",
+    "ac + bc",
+    "ac + bd"
+   ],
+   "opt_en": [
+    "ab + cd",
+    "ac + ad + bc + bd",
+    "ac + bc",
+    "ac + bd"
+   ],
+   "ans": "B",
+   "exp_kn": "ವಿತರಣಾ ನಿಯಮವನ್ನು ಎರಡು ಬಾರಿ ಬಳಸಿ."
+  },
+  {
+   "id": "8MA-C07-01",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-1",
+   "ch_en": "Proportional Reasoning-1",
+   "diff": "easy",
+   "q_kn": "24 : 36 ರ ಸರಳ ರೂಪ ಯಾವುದು?",
+   "q_en": "What is the simplest form of 24 : 36?",
+   "opt_kn": [
+    "3 : 2",
+    "4 : 6",
+    "6 : 9",
+    "2 : 3"
+   ],
+   "opt_en": [
+    "3 : 2",
+    "4 : 6",
+    "6 : 9",
+    "2 : 3"
+   ],
+   "ans": "D",
+   "exp_kn": "ಮಸಾಅ 12 ರಿಂದ ಭಾಗಿಸಿ."
+  },
+  {
+   "id": "8MA-C07-02",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-1",
+   "ch_en": "Proportional Reasoning-1",
+   "diff": "easy",
+   "q_kn": "3 : 4 :: x : 20 ಆದರೆ x = ?",
+   "q_en": "If 3 : 4 :: x : 20, then x = ?",
+   "opt_kn": [
+    "12",
+    "16",
+    "15",
+    "60"
+   ],
+   "opt_en": [
+    "12",
+    "16",
+    "15",
+    "60"
+   ],
+   "ans": "C",
+   "exp_kn": "ad = bc: 4x = 60 → x = 15."
+  },
+  {
+   "id": "8MA-C07-03",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-1",
+   "ch_en": "Proportional Reasoning-1",
+   "diff": "medium",
+   "q_kn": "₹600 ನ್ನು 2 : 3 ಅನುಪಾತದಲ್ಲಿ ಹಂಚಿದರೆ ಚಿಕ್ಕ ಪಾಲು ಎಷ್ಟು?",
+   "q_en": "If ₹600 is divided in the ratio 2 : 3, what is the smaller share?",
+   "opt_kn": [
+    "₹360",
+    "₹240",
+    "₹200",
+    "₹300"
+   ],
+   "opt_en": [
+    "₹360",
+    "₹240",
+    "₹200",
+    "₹300"
+   ],
+   "ans": "B",
+   "exp_kn": "600 × 2/5 = 240."
+  },
+  {
+   "id": "8MA-C07-04",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-1",
+   "ch_en": "Proportional Reasoning-1",
+   "diff": "medium",
+   "q_kn": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಸಮಾನುಪಾತದಲ್ಲಿರುವ ಅನುಪಾತಗಳ ಜೋಡಿ ಯಾವುದು?",
+   "q_en": "Which pair of ratios is in proportion?",
+   "opt_kn": [
+    "4 : 6 ಮತ್ತು 10 : 15",
+    "3 : 7 ಮತ್ತು 7 : 9",
+    "2 : 5 ಮತ್ತು 5 : 2",
+    "4 : 6 ಮತ್ತು 6 : 8"
+   ],
+   "opt_en": [
+    "4 : 6 and 10 : 15",
+    "3 : 7 and 7 : 9",
+    "2 : 5 and 5 : 2",
+    "4 : 6 and 6 : 8"
+   ],
+   "ans": "A",
+   "exp_kn": "4 × 15 = 6 × 10 = 60."
+  },
+  {
+   "id": "8MA-C07-05",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-1",
+   "ch_en": "Proportional Reasoning-1",
+   "diff": "medium",
+   "q_kn": "50 ಸೆಂ.ಮೀ ಮತ್ತು 2 ಮೀ ಗಳ ಅನುಪಾತ ಎಷ್ಟು?",
+   "q_en": "What is the ratio of 50 cm to 2 m?",
+   "opt_kn": [
+    "1 : 4",
+    "5 : 2",
+    "1 : 40",
+    "25 : 1"
+   ],
+   "opt_en": [
+    "1 : 4",
+    "5 : 2",
+    "1 : 40",
+    "25 : 1"
+   ],
+   "ans": "A",
+   "exp_kn": "2 ಮೀ = 200 ಸೆಂ.ಮೀ → 50 : 200 = 1 : 4."
+  },
+  {
+   "id": "8MA-C07-06",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-1",
+   "ch_en": "Proportional Reasoning-1",
+   "diff": "medium",
+   "q_kn": "ಒಂದು ತಿಂಡಿಗೆ 3 ಕಪ್ ಅಕ್ಕಿಗೆ 2 ಕಪ್ ಬೇಳೆ ಬೇಕು. 9 ಕಪ್ ಅಕ್ಕಿಗೆ ಎಷ್ಟು ಕಪ್ ಬೇಳೆ ಬೇಕು?",
+   "q_en": "A dish needs 2 cups of dal for 3 cups of rice. How much dal is needed for 9 cups of rice?",
+   "opt_kn": [
+    "13.5",
+    "4",
+    "6",
+    "8"
+   ],
+   "opt_en": [
+    "13.5",
+    "4",
+    "6",
+    "8"
+   ],
+   "ans": "C",
+   "exp_kn": "3 : 2 = 9 : 6."
+  },
+  {
+   "id": "8MA-C07-07",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-1",
+   "ch_en": "Proportional Reasoning-1",
+   "diff": "hard",
+   "q_kn": "a : b = 2 : 3 ಮತ್ತು b : c = 4 : 5 ಆದರೆ a : b : c = ?",
+   "q_en": "If a : b = 2 : 3 and b : c = 4 : 5, then a : b : c = ?",
+   "opt_kn": [
+    "2 : 3 : 5",
+    "8 : 12 : 10",
+    "2 : 4 : 5",
+    "8 : 12 : 15"
+   ],
+   "opt_en": [
+    "2 : 3 : 5",
+    "8 : 12 : 10",
+    "2 : 4 : 5",
+    "8 : 12 : 15"
+   ],
+   "ans": "D",
+   "exp_kn": "b ಯನ್ನು ಸಮಮಾಡಿ: 8 : 12 ಮತ್ತು 12 : 15."
+  },
+  {
+   "id": "8MA-C07-08",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-1",
+   "ch_en": "Proportional Reasoning-1",
+   "diff": "medium",
+   "q_kn": "ಒಂದು ತರಗತಿಯಲ್ಲಿ ಹುಡುಗರು ಮತ್ತು ಹುಡುಗಿಯರ ಅನುಪಾತ 5 : 4. ಒಟ್ಟು 45 ವಿದ್ಯಾರ್ಥಿಗಳಿದ್ದರೆ ಹುಡುಗಿಯರು ಎಷ್ಟು?",
+   "q_en": "The ratio of boys to girls in a class is 5 : 4. If there are 45 students, how many are girls?",
+   "opt_kn": [
+    "36",
+    "20",
+    "25",
+    "9"
+   ],
+   "opt_en": [
+    "36",
+    "20",
+    "25",
+    "9"
+   ],
+   "ans": "B",
+   "exp_kn": "45 × 4/9 = 20."
+  },
+  {
+   "id": "8MA-C07-09",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-1",
+   "ch_en": "Proportional Reasoning-1",
+   "diff": "medium",
+   "q_kn": "15 ಲೀಟರ್ ಬಣ್ಣದ ಮಿಶ್ರಣದಲ್ಲಿ ಕೆಂಪು ಮತ್ತು ಬಿಳಿ 2 : 3 ಅನುಪಾತದಲ್ಲಿವೆ. ಬಿಳಿ ಬಣ್ಣ ಎಷ್ಟು ಲೀಟರ್?",
+   "q_en": "In 15 litres of paint, red and white are in the ratio 2 : 3. How many litres are white?",
+   "opt_kn": [
+    "9",
+    "5",
+    "10",
+    "6"
+   ],
+   "opt_en": [
+    "9",
+    "5",
+    "10",
+    "6"
+   ],
+   "ans": "A",
+   "exp_kn": "15 × 3/5 = 9."
+  },
+  {
+   "id": "8MA-C07-10",
+   "part": 1,
+   "ch": 7,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-1",
+   "ch_en": "Proportional Reasoning-1",
+   "diff": "medium",
+   "q_kn": "6 : x :: 9 : 12 ಆದರೆ x = ?",
+   "q_en": "If 6 : x :: 9 : 12, then x = ?",
+   "opt_kn": [
+    "15",
+    "8",
+    "4.5",
+    "18"
+   ],
+   "opt_en": [
+    "15",
+    "8",
+    "4.5",
+    "18"
+   ],
+   "ans": "B",
+   "exp_kn": "9x = 72 → x = 8."
+  },
+  {
+   "id": "8MA-C08-01",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ವೇಷಧಾರಿ ಭಿನ್ನರಾಶಿಗಳು",
+   "ch_en": "Fractions in Disguise",
+   "diff": "easy",
+   "q_kn": "3/5 ನ್ನು ಶೇಕಡಾದಲ್ಲಿ ಬರೆಯಿರಿ.",
+   "q_en": "Write 3/5 as a percentage.",
+   "opt_kn": [
+    "53%",
+    "30%",
+    "35%",
+    "60%"
+   ],
+   "opt_en": [
+    "53%",
+    "30%",
+    "35%",
+    "60%"
+   ],
+   "ans": "D",
+   "exp_kn": "3/5 = 60/100 = 60%."
+  },
+  {
+   "id": "8MA-C08-02",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ವೇಷಧಾರಿ ಭಿನ್ನರಾಶಿಗಳು",
+   "ch_en": "Fractions in Disguise",
+   "diff": "easy",
+   "q_kn": "480 ರ 25% ಎಷ್ಟು?",
+   "q_en": "What is 25% of 480?",
+   "opt_kn": [
+    "240",
+    "100",
+    "120",
+    "96"
+   ],
+   "opt_en": [
+    "240",
+    "100",
+    "120",
+    "96"
+   ],
+   "ans": "C",
+   "exp_kn": "480 ÷ 4 = 120."
+  },
+  {
+   "id": "8MA-C08-03",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ವೇಷಧಾರಿ ಭಿನ್ನರಾಶಿಗಳು",
+   "ch_en": "Fractions in Disguise",
+   "diff": "easy",
+   "q_kn": "0.075 ನ್ನು ಶೇಕಡಾದಲ್ಲಿ ಬರೆಯಿರಿ.",
+   "q_en": "Write 0.075 as a percentage.",
+   "opt_kn": [
+    "0.075%",
+    "75%",
+    "7.5%",
+    "0.75%"
+   ],
+   "opt_en": [
+    "0.075%",
+    "75%",
+    "7.5%",
+    "0.75%"
+   ],
+   "ans": "C",
+   "exp_kn": "0.075 × 100 = 7.5%."
+  },
+  {
+   "id": "8MA-C08-04",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ವೇಷಧಾರಿ ಭಿನ್ನರಾಶಿಗಳು",
+   "ch_en": "Fractions in Disguise",
+   "diff": "medium",
+   "q_kn": "ರಹೀಮ್ 60 ಅಂಕಗಳಲ್ಲಿ 45 ಅಂಕ ಪಡೆದನು. ಅವನ ಶೇಕಡಾ ಅಂಕ ಎಷ್ಟು?",
+   "q_en": "Rahim scored 45 out of 60. What is his percentage?",
+   "opt_kn": [
+    "80%",
+    "75%",
+    "70%",
+    "45%"
+   ],
+   "opt_en": [
+    "80%",
+    "75%",
+    "70%",
+    "45%"
+   ],
+   "ans": "B",
+   "exp_kn": "45/60 × 100 = 75%."
+  },
+  {
+   "id": "8MA-C08-05",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ವೇಷಧಾರಿ ಭಿನ್ನರಾಶಿಗಳು",
+   "ch_en": "Fractions in Disguise",
+   "diff": "medium",
+   "q_kn": "₹500 ಬೆಲೆಯ ವಸ್ತುವಿನ ಬೆಲೆ 10% ಹೆಚ್ಚಾದರೆ ಹೊಸ ಬೆಲೆ ಎಷ್ಟು?",
+   "q_en": "An item costing ₹500 increases by 10%. What is the new price?",
+   "opt_kn": [
+    "₹600",
+    "₹450",
+    "₹510",
+    "₹550"
+   ],
+   "opt_en": [
+    "₹600",
+    "₹450",
+    "₹510",
+    "₹550"
+   ],
+   "ans": "D",
+   "exp_kn": "500 + 50 = 550."
+  },
+  {
+   "id": "8MA-C08-06",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ವೇಷಧಾರಿ ಭಿನ್ನರಾಶಿಗಳು",
+   "ch_en": "Fractions in Disguise",
+   "diff": "medium",
+   "q_kn": "ಒಂದು ಊರಿನ ಜನಸಂಖ್ಯೆ 20,000. ಅದು 5% ಕಡಿಮೆಯಾದರೆ ಹೊಸ ಜನಸಂಖ್ಯೆ ಎಷ್ಟು?",
+   "q_en": "A town has a population of 20,000. If it decreases by 5%, what is the new population?",
+   "opt_kn": [
+    "19,000",
+    "19,500",
+    "21,000",
+    "15,000"
+   ],
+   "opt_en": [
+    "19,000",
+    "19,500",
+    "21,000",
+    "15,000"
+   ],
+   "ans": "A",
+   "exp_kn": "20,000 ರ 5% = 1,000."
+  },
+  {
+   "id": "8MA-C08-07",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ವೇಷಧಾರಿ ಭಿನ್ನರಾಶಿಗಳು",
+   "ch_en": "Fractions in Disguise",
+   "diff": "medium",
+   "q_kn": "ಒಂದು ವಸ್ತುವನ್ನು ₹400 ಕ್ಕೆ ಕೊಂಡು ₹460 ಕ್ಕೆ ಮಾರಿದರೆ ಶೇಕಡಾ ಲಾಭ ಎಷ್ಟು?",
+   "q_en": "An item bought for ₹400 is sold for ₹460. What is the profit percent?",
+   "opt_kn": [
+    "60%",
+    "15%",
+    "13%",
+    "46%"
+   ],
+   "opt_en": [
+    "60%",
+    "15%",
+    "13%",
+    "46%"
+   ],
+   "ans": "B",
+   "exp_kn": "ಲಾಭ 60; 60/400 × 100 = 15%."
+  },
+  {
+   "id": "8MA-C08-08",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ವೇಷಧಾರಿ ಭಿನ್ನರಾಶಿಗಳು",
+   "ch_en": "Fractions in Disguise",
+   "diff": "medium",
+   "q_kn": "₹800 ಕ್ಕೆ ಕೊಂಡ ವಸ್ತುವನ್ನು ₹720 ಕ್ಕೆ ಮಾರಿದರೆ ಶೇಕಡಾ ನಷ್ಟ ಎಷ್ಟು?",
+   "q_en": "An item bought for ₹800 is sold for ₹720. What is the loss percent?",
+   "opt_kn": [
+    "10%",
+    "80%",
+    "11%",
+    "8%"
+   ],
+   "opt_en": [
+    "10%",
+    "80%",
+    "11%",
+    "8%"
+   ],
+   "ans": "A",
+   "exp_kn": "ನಷ್ಟ 80; 80/800 × 100 = 10%."
+  },
+  {
+   "id": "8MA-C08-09",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ವೇಷಧಾರಿ ಭಿನ್ನರಾಶಿಗಳು",
+   "ch_en": "Fractions in Disguise",
+   "diff": "medium",
+   "q_kn": "₹1500 ಗುರುತು ಬೆಲೆಯ ವಸ್ತುವಿಗೆ 20% ರಿಯಾಯಿತಿ ನೀಡಿದರೆ ಮಾರಾಟ ಬೆಲೆ ಎಷ್ಟು?",
+   "q_en": "An item marked ₹1500 is sold at 20% discount. What is the selling price?",
+   "opt_kn": [
+    "₹1480",
+    "₹1300",
+    "₹1200",
+    "₹300"
+   ],
+   "opt_en": [
+    "₹1480",
+    "₹1300",
+    "₹1200",
+    "₹300"
+   ],
+   "ans": "C",
+   "exp_kn": "1500 ರ 20% = 300; 1500 − 300 = 1200."
+  },
+  {
+   "id": "8MA-C08-10",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ವೇಷಧಾರಿ ಭಿನ್ನರಾಶಿಗಳು",
+   "ch_en": "Fractions in Disguise",
+   "diff": "medium",
+   "q_kn": "₹5000 ಕ್ಕೆ ವಾರ್ಷಿಕ 8% ಸರಳ ಬಡ್ಡಿಯಂತೆ 3 ವರ್ಷಗಳಲ್ಲಿ ಬರುವ ಬಡ್ಡಿ ಎಷ್ಟು?",
+   "q_en": "What is the simple interest on ₹5000 at 8% per year for 3 years?",
+   "opt_kn": [
+    "₹400",
+    "₹6200",
+    "₹1500",
+    "₹1200"
+   ],
+   "opt_en": [
+    "₹400",
+    "₹6200",
+    "₹1500",
+    "₹1200"
+   ],
+   "ans": "D",
+   "exp_kn": "5000 × 8 × 3 ÷ 100 = 1200."
+  },
+  {
+   "id": "8MA-C08-11",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ವೇಷಧಾರಿ ಭಿನ್ನರಾಶಿಗಳು",
+   "ch_en": "Fractions in Disguise",
+   "diff": "hard",
+   "q_kn": "₹10,000 ಕ್ಕೆ ವಾರ್ಷಿಕ 10% ಚಕ್ರಬಡ್ಡಿಯಂತೆ 2 ವರ್ಷಗಳ ನಂತರ ಒಟ್ಟು ಮೊತ್ತ ಎಷ್ಟು?",
+   "q_en": "What is the amount on ₹10,000 at 10% per year compound interest after 2 years?",
+   "opt_kn": [
+    "₹12,210",
+    "₹11,000",
+    "₹12,000",
+    "₹12,100"
+   ],
+   "opt_en": [
+    "₹12,210",
+    "₹11,000",
+    "₹12,000",
+    "₹12,100"
+   ],
+   "ans": "D",
+   "exp_kn": "ಮೊದಲ ವರ್ಷ 11,000; ಎರಡನೇ ವರ್ಷ 11,000 + 1,100 = 12,100."
+  },
+  {
+   "id": "8MA-C08-12",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ವೇಷಧಾರಿ ಭಿನ್ನರಾಶಿಗಳು",
+   "ch_en": "Fractions in Disguise",
+   "diff": "medium",
+   "q_kn": "₹200 ಬೆಲೆಯ ವಸ್ತುವಿಗೆ 18% GST ಸೇರಿಸಿದರೆ ಒಟ್ಟು ಬೆಲೆ ಎಷ್ಟು?",
+   "q_en": "What is the total price of a ₹200 item with 18% GST?",
+   "opt_kn": [
+    "₹236",
+    "₹238",
+    "₹218",
+    "₹36"
+   ],
+   "opt_en": [
+    "₹236",
+    "₹238",
+    "₹218",
+    "₹36"
+   ],
+   "ans": "A",
+   "exp_kn": "200 ರ 18% = 36; 200 + 36 = 236."
+  },
+  {
+   "id": "8MA-C08-13",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ವೇಷಧಾರಿ ಭಿನ್ನರಾಶಿಗಳು",
+   "ch_en": "Fractions in Disguise",
+   "diff": "hard",
+   "q_kn": "ಒಂದು ವಸ್ತುವಿನ ಬೆಲೆಯನ್ನು ಮೊದಲು 10% ಹೆಚ್ಚಿಸಿ ನಂತರ 10% ಕಡಿಮೆ ಮಾಡಿದರೆ ಒಟ್ಟು ಬದಲಾವಣೆ ಏನು?",
+   "q_en": "A price is first increased by 10% and then decreased by 10%. What is the net change?",
+   "opt_kn": [
+    "1% ಏರಿಕೆ",
+    "1% ಇಳಿಕೆ",
+    "ಯಾವುದೇ ಬದಲಾವಣೆ ಇಲ್ಲ",
+    "10% ಇಳಿಕೆ"
+   ],
+   "opt_en": [
+    "1% increase",
+    "1% decrease",
+    "No change",
+    "10% decrease"
+   ],
+   "ans": "B",
+   "exp_kn": "100 → 110 → 99; 1% ಕಡಿಮೆ."
+  },
+  {
+   "id": "8MA-C08-14",
+   "part": 2,
+   "ch": 8,
+   "ch_kn": "ವೇಷಧಾರಿ ಭಿನ್ನರಾಶಿಗಳು",
+   "ch_en": "Fractions in Disguise",
+   "diff": "hard",
+   "q_kn": "50 ರ 20% ಕ್ಕೆ ಸಮವಾದದ್ದು ಯಾವುದು?",
+   "q_en": "Which equals 20% of 50?",
+   "opt_kn": [
+    "50 ರ 2%",
+    "20 ರ 20%",
+    "20 ರ 50%",
+    "50 ರ 50%"
+   ],
+   "opt_en": [
+    "2% of 50",
+    "20% of 20",
+    "50% of 20",
+    "50% of 50"
+   ],
+   "ans": "C",
+   "exp_kn": "x ರ y% = y ರ x% → ಎರಡೂ 10."
+  },
+  {
+   "id": "8MA-C09-01",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಬೋಧಾಯನ – ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ",
+   "ch_en": "The Baudhayana-Pythagoras Theorem",
+   "diff": "easy",
+   "q_kn": "ಲಂಬಕೋನ ತ್ರಿಭುಜದ ಲಂಬ ಬಾಹುಗಳು 6 ಸೆಂ.ಮೀ ಮತ್ತು 8 ಸೆಂ.ಮೀ ಆದರೆ ವಿಕರ್ಣ (ಕರ್ಣ) ಎಷ್ಟು?",
+   "q_en": "The legs of a right triangle are 6 cm and 8 cm. The hypotenuse is?",
+   "opt_kn": [
+    "100 ಸೆಂ.ಮೀ",
+    "10 ಸೆಂ.ಮೀ",
+    "14 ಸೆಂ.ಮೀ",
+    "12 ಸೆಂ.ಮೀ"
+   ],
+   "opt_en": [
+    "100 cm",
+    "10 cm",
+    "14 cm",
+    "12 cm"
+   ],
+   "ans": "B",
+   "exp_kn": "6² + 8² = 36 + 64 = 100 → 10."
+  },
+  {
+   "id": "8MA-C09-02",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಬೋಧಾಯನ – ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ",
+   "ch_en": "The Baudhayana-Pythagoras Theorem",
+   "diff": "medium",
+   "q_kn": "ಲಂಬಕೋನ ತ್ರಿಭುಜದ ವಿಕರ್ಣ 13 ಸೆಂ.ಮೀ ಮತ್ತು ಒಂದು ಬಾಹು 5 ಸೆಂ.ಮೀ ಆದರೆ ಇನ್ನೊಂದು ಬಾಹು ಎಷ್ಟು?",
+   "q_en": "The hypotenuse of a right triangle is 13 cm and one side is 5 cm. The other side is?",
+   "opt_kn": [
+    "18 ಸೆಂ.ಮೀ",
+    "√194 ಸೆಂ.ಮೀ",
+    "12 ಸೆಂ.ಮೀ",
+    "8 ಸೆಂ.ಮೀ"
+   ],
+   "opt_en": [
+    "18 cm",
+    "√194 cm",
+    "12 cm",
+    "8 cm"
+   ],
+   "ans": "C",
+   "exp_kn": "13² − 5² = 169 − 25 = 144 → 12."
+  },
+  {
+   "id": "8MA-C09-03",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಬೋಧಾಯನ – ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ",
+   "ch_en": "The Baudhayana-Pythagoras Theorem",
+   "diff": "medium",
+   "q_kn": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಬೋಧಾಯನ–ಪೈಥಾಗೊರಸ್ ತ್ರಿವಳಿ ಯಾವುದು?",
+   "q_en": "Which of these is a Baudhayana–Pythagorean triple?",
+   "opt_kn": [
+    "(8, 15, 17)",
+    "(6, 8, 12)",
+    "(5, 12, 14)",
+    "(7, 8, 9)"
+   ],
+   "opt_en": [
+    "(8, 15, 17)",
+    "(6, 8, 12)",
+    "(5, 12, 14)",
+    "(7, 8, 9)"
+   ],
+   "ans": "A",
+   "exp_kn": "8² + 15² = 64 + 225 = 289 = 17²."
+  },
+  {
+   "id": "8MA-C09-04",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಬೋಧಾಯನ – ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ",
+   "ch_en": "The Baudhayana-Pythagoras Theorem",
+   "diff": "medium",
+   "q_kn": "5 ಸೆಂ.ಮೀ ಬಾಹುವಿನ ಚೌಕದ ಕರ್ಣದ ಉದ್ದ ಎಷ್ಟು?",
+   "q_en": "The diagonal of a square of side 5 cm is?",
+   "opt_kn": [
+    "5 ಸೆಂ.ಮೀ",
+    "25 ಸೆಂ.ಮೀ",
+    "10 ಸೆಂ.ಮೀ",
+    "5√2 ಸೆಂ.ಮೀ"
+   ],
+   "opt_en": [
+    "5 cm",
+    "25 cm",
+    "10 cm",
+    "5√2 cm"
+   ],
+   "ans": "D",
+   "exp_kn": "ಕರ್ಣ = a√2."
+  },
+  {
+   "id": "8MA-C09-05",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಬೋಧಾಯನ – ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ",
+   "ch_en": "The Baudhayana-Pythagoras Theorem",
+   "diff": "medium",
+   "q_kn": "√2 ರ ಬೆಲೆ ಯಾವ ಸಂಖ್ಯೆಗಳ ನಡುವೆ ಇದೆ?",
+   "q_en": "Between which numbers does √2 lie?",
+   "opt_kn": [
+    "2 ಮತ್ತು 3",
+    "1.414 ಮತ್ತು 1.415",
+    "1.4 ಮತ್ತು 1.41",
+    "1.5 ಮತ್ತು 1.6"
+   ],
+   "opt_en": [
+    "2 and 3",
+    "1.414 and 1.415",
+    "1.4 and 1.41",
+    "1.5 and 1.6"
+   ],
+   "ans": "B",
+   "exp_kn": "√2 = 1.41421…; ಅಂತ್ಯಗೊಳ್ಳುವ ದಶಮಾಂಶವಲ್ಲ."
+  },
+  {
+   "id": "8MA-C09-06",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಬೋಧಾಯನ – ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ",
+   "ch_en": "The Baudhayana-Pythagoras Theorem",
+   "diff": "medium",
+   "q_kn": "13 ಮೀ ಉದ್ದದ ಏಣಿಯ ಪಾದ ಗೋಡೆಯಿಂದ 5 ಮೀ ದೂರದಲ್ಲಿದೆ. ಏಣಿ ಗೋಡೆಯನ್ನು ಎಷ್ಟು ಎತ್ತರದಲ್ಲಿ ಮುಟ್ಟುತ್ತದೆ?",
+   "q_en": "A 13 m ladder has its foot 5 m from a wall. How high up the wall does it reach?",
+   "opt_kn": [
+    "12 ಮೀ",
+    "8 ಮೀ",
+    "18 ಮೀ",
+    "10 ಮೀ"
+   ],
+   "opt_en": [
+    "12 m",
+    "8 m",
+    "18 m",
+    "10 m"
+   ],
+   "ans": "A",
+   "exp_kn": "√(169 − 25) = √144 = 12."
+  },
+  {
+   "id": "8MA-C09-07",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಬೋಧಾಯನ – ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ",
+   "ch_en": "The Baudhayana-Pythagoras Theorem",
+   "diff": "easy",
+   "q_kn": "8 ಸೆಂ.ಮೀ × 6 ಸೆಂ.ಮೀ ಆಯತದ ಕರ್ಣದ ಉದ್ದ ಎಷ್ಟು?",
+   "q_en": "What is the diagonal of an 8 cm × 6 cm rectangle?",
+   "opt_kn": [
+    "48 ಸೆಂ.ಮೀ",
+    "14 ಸೆಂ.ಮೀ",
+    "12 ಸೆಂ.ಮೀ",
+    "10 ಸೆಂ.ಮೀ"
+   ],
+   "opt_en": [
+    "48 cm",
+    "14 cm",
+    "12 cm",
+    "10 cm"
+   ],
+   "ans": "D",
+   "exp_kn": "√(64 + 36) = 10."
+  },
+  {
+   "id": "8MA-C09-08",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಬೋಧಾಯನ – ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ",
+   "ch_en": "The Baudhayana-Pythagoras Theorem",
+   "diff": "medium",
+   "q_kn": "7, 24, 25 ಬಾಹುಗಳ ತ್ರಿಭುಜ…",
+   "q_en": "A triangle with sides 7, 24, 25 is…",
+   "opt_kn": [
+    "ತ್ರಿಭುಜವೇ ಅಲ್ಲ",
+    "ಸಮಬಾಹು ತ್ರಿಭುಜ",
+    "ಲಂಬಕೋನ ತ್ರಿಭುಜ",
+    "ಸಮದ್ವಿಬಾಹು ತ್ರಿಭುಜ"
+   ],
+   "opt_en": [
+    "Not a triangle",
+    "An equilateral triangle",
+    "A right triangle",
+    "An isosceles triangle"
+   ],
+   "ans": "C",
+   "exp_kn": "49 + 576 = 625 = 25²."
+  },
+  {
+   "id": "8MA-C09-09",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಬೋಧಾಯನ – ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ",
+   "ch_en": "The Baudhayana-Pythagoras Theorem",
+   "diff": "easy",
+   "q_kn": "ಲಂಬಕೋನ ತ್ರಿಭುಜದಲ್ಲಿ ಅತ್ಯಂತ ಉದ್ದವಾದ ಬಾಹು ಯಾವುದು?",
+   "q_en": "Which is the longest side of a right triangle?",
+   "opt_kn": [
+    "ಲಂಬಕೋನಕ್ಕೆ ಎದುರಿನ ಬಾಹು (ವಿಕರ್ಣ)",
+    "ಪಾದ",
+    "ಎತ್ತರ",
+    "ಎಲ್ಲವೂ ಸಮ"
+   ],
+   "opt_en": [
+    "The side opposite the right angle (hypotenuse)",
+    "The base",
+    "The height",
+    "All are equal"
+   ],
+   "ans": "A",
+   "exp_kn": "ವಿಕರ್ಣ ಲಂಬಕೋನಕ್ಕೆ ಎದುರಾಗಿರುತ್ತದೆ."
+  },
+  {
+   "id": "8MA-C09-10",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಬೋಧಾಯನ – ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ",
+   "ch_en": "The Baudhayana-Pythagoras Theorem",
+   "diff": "medium",
+   "q_kn": "ಶುಲ್ಬ-ಸೂತ್ರದಲ್ಲಿ ಈ ಪ್ರಮೇಯವನ್ನು ತಿಳಿಸಿದ ಪ್ರಾಚೀನ ಭಾರತೀಯ ಗಣಿತಜ್ಞ ಯಾರು?",
+   "q_en": "Which ancient Indian mathematician stated this theorem in the Sulba-sutra?",
+   "opt_kn": [
+    "ಆರ್ಯಭಟ",
+    "ಬ್ರಹ್ಮಗುಪ್ತ",
+    "ಬೋಧಾಯನ",
+    "ಭಾಸ್ಕರ"
+   ],
+   "opt_en": [
+    "Aryabhata",
+    "Brahmagupta",
+    "Baudhayana",
+    "Bhaskara"
+   ],
+   "ans": "C",
+   "exp_kn": "ಬೋಧಾಯನ ಶುಲ್ಬ-ಸೂತ್ರ."
+  },
+  {
+   "id": "8MA-C09-11",
+   "part": 2,
+   "ch": 9,
+   "ch_kn": "ಬೋಧಾಯನ – ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯ",
+   "ch_en": "The Baudhayana-Pythagoras Theorem",
+   "diff": "hard",
+   "q_kn": "ಒಂದು ಸಮದ್ವಿಬಾಹು ಲಂಬಕೋನ ತ್ರಿಭುಜದ ವಿಕರ್ಣ 10√2 ಸೆಂ.ಮೀ ಆದರೆ ಪ್ರತಿ ಸಮ ಬಾಹುವಿನ ಉದ್ದ ಎಷ್ಟು?",
+   "q_en": "The hypotenuse of an isosceles right triangle is 10√2 cm. Each equal side is?",
+   "opt_kn": [
+    "20 ಸೆಂ.ಮೀ",
+    "5 ಸೆಂ.ಮೀ",
+    "10√2 ಸೆಂ.ಮೀ",
+    "10 ಸೆಂ.ಮೀ"
+   ],
+   "opt_en": [
+    "20 cm",
+    "5 cm",
+    "10√2 cm",
+    "10 cm"
+   ],
+   "ans": "D",
+   "exp_kn": "c = a√2 → a = 10."
+  },
+  {
+   "id": "8MA-C10-01",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-2",
+   "ch_en": "Proportional Reasoning-2",
+   "diff": "easy",
+   "q_kn": "5 ಪೆನ್ನುಗಳ ಬೆಲೆ ₹60 ಆದರೆ 8 ಪೆನ್ನುಗಳ ಬೆಲೆ ಎಷ್ಟು?",
+   "q_en": "If 5 pens cost ₹60, what do 8 pens cost?",
+   "opt_kn": [
+    "₹100",
+    "₹96",
+    "₹480",
+    "₹90"
+   ],
+   "opt_en": [
+    "₹100",
+    "₹96",
+    "₹480",
+    "₹90"
+   ],
+   "ans": "B",
+   "exp_kn": "ಒಂದು ಪೆನ್ ₹12; 8 × 12 = 96."
+  },
+  {
+   "id": "8MA-C10-02",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-2",
+   "ch_en": "Proportional Reasoning-2",
+   "diff": "medium",
+   "q_kn": "6 ಕೆಲಸಗಾರರು ಒಂದು ಕೆಲಸವನ್ನು 12 ದಿನಗಳಲ್ಲಿ ಮಾಡುತ್ತಾರೆ. 9 ಕೆಲಸಗಾರರು ಅದೇ ಕೆಲಸವನ್ನು ಎಷ್ಟು ದಿನಗಳಲ್ಲಿ ಮಾಡುತ್ತಾರೆ?",
+   "q_en": "6 workers finish a job in 12 days. How many days will 9 workers take?",
+   "opt_kn": [
+    "18",
+    "15",
+    "6",
+    "8"
+   ],
+   "opt_en": [
+    "18",
+    "15",
+    "6",
+    "8"
+   ],
+   "ans": "D",
+   "exp_kn": "ವಿಲೋಮಾನುಪಾತ: 6 × 12 = 9 × x → x = 8."
+  },
+  {
+   "id": "8MA-C10-03",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-2",
+   "ch_en": "Proportional Reasoning-2",
+   "diff": "easy",
+   "q_kn": "ನಿರ್ದಿಷ್ಟ ದೂರಕ್ಕೆ ವೇಗ ಮತ್ತು ಕಾಲ…",
+   "q_en": "For a fixed distance, speed and time are…",
+   "opt_kn": [
+    "ಸಂಬಂಧವಿಲ್ಲ",
+    "ವಿಲೋಮಾನುಪಾತದಲ್ಲಿವೆ",
+    "ನೇರಾನುಪಾತದಲ್ಲಿವೆ",
+    "ಯಾವಾಗಲೂ ಸಮ"
+   ],
+   "opt_en": [
+    "Unrelated",
+    "Inversely proportional",
+    "Directly proportional",
+    "Always equal"
+   ],
+   "ans": "B",
+   "exp_kn": "ವೇಗ ಹೆಚ್ಚಾದರೆ ಕಾಲ ಕಡಿಮೆ."
+  },
+  {
+   "id": "8MA-C10-04",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-2",
+   "ch_en": "Proportional Reasoning-2",
+   "diff": "medium",
+   "q_kn": "ಗಂಟೆಗೆ 60 ಕಿ.ಮೀ ವೇಗದಲ್ಲಿ ಒಂದು ಕಾರು 4 ಗಂಟೆ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ. ಗಂಟೆಗೆ 80 ಕಿ.ಮೀ ವೇಗದಲ್ಲಿ ಎಷ್ಟು ಸಮಯ?",
+   "q_en": "A car takes 4 hours at 60 km/h. How long at 80 km/h?",
+   "opt_kn": [
+    "3 ಗಂಟೆ",
+    "5 ಗಂಟೆ",
+    "3.5 ಗಂಟೆ",
+    "2 ಗಂಟೆ"
+   ],
+   "opt_en": [
+    "3 hours",
+    "5 hours",
+    "3.5 hours",
+    "2 hours"
+   ],
+   "ans": "A",
+   "exp_kn": "ದೂರ 240 ಕಿ.ಮೀ; 240 ÷ 80 = 3."
+  },
+  {
+   "id": "8MA-C10-05",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-2",
+   "ch_en": "Proportional Reasoning-2",
+   "diff": "medium",
+   "q_kn": "x ಮತ್ತು y ನೇರಾನುಪಾತದಲ್ಲಿವೆ. x = 4 ಆದಾಗ y = 10. x = 10 ಆದಾಗ y = ?",
+   "q_en": "x and y are directly proportional. When x = 4, y = 10. Find y when x = 10.",
+   "opt_kn": [
+    "40",
+    "16",
+    "25",
+    "4"
+   ],
+   "opt_en": [
+    "40",
+    "16",
+    "25",
+    "4"
+   ],
+   "ans": "C",
+   "exp_kn": "y/x = 2.5 → y = 25."
+  },
+  {
+   "id": "8MA-C10-06",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-2",
+   "ch_en": "Proportional Reasoning-2",
+   "diff": "medium",
+   "q_kn": "₹1200 ನ್ನು 1 : 2 : 3 ಅನುಪಾತದಲ್ಲಿ ಹಂಚಿದರೆ ದೊಡ್ಡ ಪಾಲು ಎಷ್ಟು?",
+   "q_en": "₹1200 is divided in the ratio 1 : 2 : 3. What is the largest share?",
+   "opt_kn": [
+    "₹500",
+    "₹400",
+    "₹200",
+    "₹600"
+   ],
+   "opt_en": [
+    "₹500",
+    "₹400",
+    "₹200",
+    "₹600"
+   ],
+   "ans": "D",
+   "exp_kn": "1200 × 3/6 = 600."
+  },
+  {
+   "id": "8MA-C10-07",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-2",
+   "ch_en": "Proportional Reasoning-2",
+   "diff": "hard",
+   "q_kn": "40 ಜನರಿಗೆ ಆಹಾರ 15 ದಿನಗಳಿಗೆ ಸಾಕಾಗುತ್ತದೆ. ಅದೇ ಆಹಾರ 60 ಜನರಿಗೆ ಎಷ್ಟು ದಿನ ಸಾಕು?",
+   "q_en": "Food lasts 40 people for 15 days. How many days will it last 60 people?",
+   "opt_kn": [
+    "22.5",
+    "10",
+    "12",
+    "20"
+   ],
+   "opt_en": [
+    "22.5",
+    "10",
+    "12",
+    "20"
+   ],
+   "ans": "B",
+   "exp_kn": "40 × 15 = 600; 600 ÷ 60 = 10."
+  },
+  {
+   "id": "8MA-C10-08",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-2",
+   "ch_en": "Proportional Reasoning-2",
+   "diff": "medium",
+   "q_kn": "x ಮತ್ತು y ವಿಲೋಮಾನುಪಾತದಲ್ಲಿವೆ. x = 3 ಆದಾಗ y = 8. x = 6 ಆದಾಗ y = ?",
+   "q_en": "x and y are inversely proportional. When x = 3, y = 8. Find y when x = 6.",
+   "opt_kn": [
+    "16",
+    "12",
+    "4",
+    "2"
+   ],
+   "opt_en": [
+    "16",
+    "12",
+    "4",
+    "2"
+   ],
+   "ans": "C",
+   "exp_kn": "xy = 24 → y = 24 ÷ 6 = 4."
+  },
+  {
+   "id": "8MA-C10-09",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-2",
+   "ch_en": "Proportional Reasoning-2",
+   "diff": "medium",
+   "q_kn": "ತ್ರಿಭುಜದ ಕೋನಗಳು 2 : 3 : 5 ಅನುಪಾತದಲ್ಲಿದ್ದರೆ ದೊಡ್ಡ ಕೋನ ಎಷ್ಟು?",
+   "q_en": "The angles of a triangle are in the ratio 2 : 3 : 5. The largest angle is?",
+   "opt_kn": [
+    "90°",
+    "60°",
+    "72°",
+    "100°"
+   ],
+   "opt_en": [
+    "90°",
+    "60°",
+    "72°",
+    "100°"
+   ],
+   "ans": "A",
+   "exp_kn": "180 ÷ 10 = 18; 5 × 18 = 90°."
+  },
+  {
+   "id": "8MA-C10-10",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-2",
+   "ch_en": "Proportional Reasoning-2",
+   "diff": "medium",
+   "q_kn": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ವಿಲೋಮಾನುಪಾತದಲ್ಲಿರುವ ಜೋಡಿ ಯಾವುದು?",
+   "q_en": "Which pair is inversely proportional?",
+   "opt_kn": [
+    "ಕೆಲಸಗಾರರ ಸಂಖ್ಯೆ ಮತ್ತು ಕೆಲಸ ಮುಗಿಸಲು ಬೇಕಾದ ದಿನಗಳು",
+    "ಚಲಿಸಿದ ದೂರ ಮತ್ತು ಬಳಸಿದ ಪೆಟ್ರೋಲ್",
+    "ಕೆಲಸದ ಗಂಟೆಗಳು ಮತ್ತು ಕೂಲಿ",
+    "ಕೊಂಡ ವಸ್ತುಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಒಟ್ಟು ಬೆಲೆ"
+   ],
+   "opt_en": [
+    "Number of workers and days to finish a job",
+    "Distance travelled and petrol used",
+    "Hours worked and wages",
+    "Number of items bought and total cost"
+   ],
+   "ans": "A",
+   "exp_kn": "ಕೆಲಸಗಾರರು ಹೆಚ್ಚಾದರೆ ದಿನಗಳು ಕಡಿಮೆ."
+  },
+  {
+   "id": "8MA-C10-11",
+   "part": 2,
+   "ch": 10,
+   "ch_kn": "ಸಮಾನುಪಾತತೆಯ ತಾರ್ಕಿಕತೆ-2",
+   "ch_en": "Proportional Reasoning-2",
+   "diff": "hard",
+   "q_kn": "ನಕ್ಷೆಯ ಅಳತೆ ಪ್ರಮಾಣ 1 : 50,000. ನಕ್ಷೆಯಲ್ಲಿ 4 ಸೆಂ.ಮೀ ದೂರ ನಿಜವಾಗಿ ಎಷ್ಟು?",
+   "q_en": "A map scale is 1 : 50,000. What actual distance is 4 cm on the map?",
+   "opt_kn": [
+    "0.2 ಕಿ.ಮೀ",
+    "200 ಮೀ",
+    "20 ಕಿ.ಮೀ",
+    "2 ಕಿ.ಮೀ"
+   ],
+   "opt_en": [
+    "0.2 km",
+    "200 m",
+    "20 km",
+    "2 km"
+   ],
+   "ans": "D",
+   "exp_kn": "4 × 50,000 = 2,00,000 ಸೆಂ.ಮೀ = 2 ಕಿ.ಮೀ."
+  },
+  {
+   "id": "8MA-C11-01",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಕೆಲವು ಜ್ಯಾಮಿತೀಯ ವಿಷಯಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Some Geometric Themes",
+   "diff": "easy",
+   "q_kn": "ಒಂದು ಘನಕ್ಕೆ ಎಷ್ಟು ಅಂಚುಗಳಿವೆ?",
+   "q_en": "How many edges does a cube have?",
+   "opt_kn": [
+    "6",
+    "8",
+    "12",
+    "4"
+   ],
+   "opt_en": [
+    "6",
+    "8",
+    "12",
+    "4"
+   ],
+   "ans": "C",
+   "exp_kn": "ಘನ: 6 ಮುಖ, 12 ಅಂಚು, 8 ಶೃಂಗ."
+  },
+  {
+   "id": "8MA-C11-02",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಕೆಲವು ಜ್ಯಾಮಿತೀಯ ವಿಷಯಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Some Geometric Themes",
+   "diff": "easy",
+   "q_kn": "ಒಂದು ಆಯತ ಘನಕ್ಕೆ ಎಷ್ಟು ಮುಖಗಳಿವೆ?",
+   "q_en": "How many faces does a cuboid have?",
+   "opt_kn": [
+    "8",
+    "6",
+    "4",
+    "12"
+   ],
+   "opt_en": [
+    "8",
+    "6",
+    "4",
+    "12"
+   ],
+   "ans": "B",
+   "exp_kn": "ಆಯತ ಘನಕ್ಕೆ 6 ಆಯತಾಕಾರದ ಮುಖಗಳು."
+  },
+  {
+   "id": "8MA-C11-03",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಕೆಲವು ಜ್ಯಾಮಿತೀಯ ವಿಷಯಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Some Geometric Themes",
+   "diff": "medium",
+   "q_kn": "ಸ್ವಯಂ-ಹೋಲುವ (ತನ್ನದೇ ಸಣ್ಣ ಪ್ರತಿಗಳಿಂದ ಮಾಡಿದಂತೆ ಕಾಣುವ) ಜ್ಯಾಮಿತೀಯ ಆಕೃತಿಗಳನ್ನು ಏನೆನ್ನುವರು?",
+   "q_en": "Self-similar geometric shapes (made of smaller copies of themselves) are called?",
+   "opt_kn": [
+    "ಜಾಲಗಳು",
+    "ಪಟ್ಟಕಗಳು",
+    "ಫ್ರ್ಯಾಕ್ಟಲ್‌ಗಳು",
+    "ಬಹುಭುಜಾಕೃತಿಗಳು"
+   ],
+   "opt_en": [
+    "Nets",
+    "Prisms",
+    "Fractals",
+    "Polygons"
+   ],
+   "ans": "C",
+   "exp_kn": "ಉದಾ: ಸಿಯರ್ಪಿನ್ಸ್ಕಿ ಗ್ಯಾಸ್ಕೆಟ್, ಕೋಚ್ ಸ್ನೋಫ್ಲೇಕ್."
+  },
+  {
+   "id": "8MA-C11-04",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಕೆಲವು ಜ್ಯಾಮಿತೀಯ ವಿಷಯಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Some Geometric Themes",
+   "diff": "medium",
+   "q_kn": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಫ್ರ್ಯಾಕ್ಟಲ್‌ಗೆ ಉದಾಹರಣೆ ಯಾವುದು?",
+   "q_en": "Which of these is an example of a fractal?",
+   "opt_kn": [
+    "ಕೋಚ್ ಸ್ನೋಫ್ಲೇಕ್",
+    "ಆಯತ",
+    "ಸಿಲಿಂಡರ್",
+    "ಘನ"
+   ],
+   "opt_en": [
+    "Koch snowflake",
+    "Rectangle",
+    "Cylinder",
+    "Cube"
+   ],
+   "ans": "A",
+   "exp_kn": "ಸಿಯರ್ಪಿನ್ಸ್ಕಿ ಕಾರ್ಪೆಟ್, ಗ್ಯಾಸ್ಕೆಟ್, ಕೋಚ್ ಸ್ನೋಫ್ಲೇಕ್ ಫ್ರ್ಯಾಕ್ಟಲ್‌ಗಳು."
+  },
+  {
+   "id": "8MA-C11-05",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಕೆಲವು ಜ್ಯಾಮಿತೀಯ ವಿಷಯಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Some Geometric Themes",
+   "diff": "hard",
+   "q_kn": "ಸಿಯರ್ಪಿನ್ಸ್ಕಿ ಗ್ಯಾಸ್ಕೆಟ್‌ನಲ್ಲಿ ಪ್ರತಿ ಹಂತದಲ್ಲಿ ಪ್ರತಿ ತ್ರಿಭುಜವು 3 ಸಣ್ಣ ತ್ರಿಭುಜಗಳಾಗುತ್ತದೆ. ಒಂದು ತ್ರಿಭುಜದಿಂದ ಆರಂಭಿಸಿದರೆ 3ನೇ ಹಂತದ ನಂತರ ಎಷ್ಟು ತ್ರಿಭುಜಗಳಿರುತ್ತವೆ?",
+   "q_en": "In the Sierpinski gasket each triangle becomes 3 smaller ones at every step. Starting with one triangle, how many are there after step 3?",
+   "opt_kn": [
+    "12",
+    "27",
+    "9",
+    "81"
+   ],
+   "opt_en": [
+    "12",
+    "27",
+    "9",
+    "81"
+   ],
+   "ans": "B",
+   "exp_kn": "3 × 3 × 3 = 27."
+  },
+  {
+   "id": "8MA-C11-06",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಕೆಲವು ಜ್ಯಾಮಿತೀಯ ವಿಷಯಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Some Geometric Themes",
+   "diff": "medium",
+   "q_kn": "ಘನವನ್ನು ಮಡಚಿ ಮಾಡುವ ಜಾಲದಲ್ಲಿ ಎಷ್ಟು ಚೌಕಗಳಿರುತ್ತವೆ?",
+   "q_en": "How many squares are there in a net that folds into a cube?",
+   "opt_kn": [
+    "12",
+    "4",
+    "8",
+    "6"
+   ],
+   "opt_en": [
+    "12",
+    "4",
+    "8",
+    "6"
+   ],
+   "ans": "D",
+   "exp_kn": "ಘನದ ಪ್ರತಿ ಮುಖಕ್ಕೆ ಒಂದು ಚೌಕ."
+  },
+  {
+   "id": "8MA-C11-07",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಕೆಲವು ಜ್ಯಾಮಿತೀಯ ವಿಷಯಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Some Geometric Themes",
+   "diff": "medium",
+   "q_kn": "ತ್ರಿಭುಜಪಾದ ಪಟ್ಟಕಕ್ಕೆ ಎಷ್ಟು ಮುಖಗಳಿವೆ?",
+   "q_en": "How many faces does a triangular prism have?",
+   "opt_kn": [
+    "5",
+    "9",
+    "4",
+    "6"
+   ],
+   "opt_en": [
+    "5",
+    "9",
+    "4",
+    "6"
+   ],
+   "ans": "A",
+   "exp_kn": "2 ತ್ರಿಭುಜ ಪಾದಗಳು + 3 ಆಯತ ಮುಖಗಳು."
+  },
+  {
+   "id": "8MA-C11-08",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಕೆಲವು ಜ್ಯಾಮಿತೀಯ ವಿಷಯಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Some Geometric Themes",
+   "diff": "medium",
+   "q_kn": "ಚೌಕಪಾದ ಗೋಪುರಕ್ಕೆ (ಪಿರಮಿಡ್) ಎಷ್ಟು ಶೃಂಗಗಳಿವೆ?",
+   "q_en": "How many vertices does a square pyramid have?",
+   "opt_kn": [
+    "6",
+    "5",
+    "8",
+    "4"
+   ],
+   "opt_en": [
+    "6",
+    "5",
+    "8",
+    "4"
+   ],
+   "ans": "B",
+   "exp_kn": "ಪಾದದ 4 ಶೃಂಗಗಳು + ತುದಿ 1."
+  },
+  {
+   "id": "8MA-C11-09",
+   "part": 2,
+   "ch": 11,
+   "ch_kn": "ಕೆಲವು ಜ್ಯಾಮಿತೀಯ ವಿಷಯಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು",
+   "ch_en": "Exploring Some Geometric Themes",
+   "diff": "medium",
+   "q_kn": "ಒಂದು ವಸ್ತುವನ್ನು ಸಮತಲ ಕಾಗದದ ಮೇಲೆ ಪ್ರತಿನಿಧಿಸಲು ಸಾಮಾನ್ಯವಾಗಿ ಬಳಸುವ ಮೂರು ನೋಟಗಳು ಯಾವುವು?",
+   "q_en": "Which three views are usually used to represent an object on a flat surface?",
+   "opt_kn": [
+    "ಕರ್ಣ, ಅಂಚು ಮತ್ತು ಶೃಂಗ",
+    "ಒಳಗಿನ, ಹೊರಗಿನ ಮತ್ತು ಕೆಳಗಿನ ನೋಟ",
+    "ಎಡ, ಬಲ ಮತ್ತು ಹಿಂದಿನ ನೋಟ ಮಾತ್ರ",
+    "ಮುಂಭಾಗ, ಮೇಲ್ಭಾಗ ಮತ್ತು ಪಾರ್ಶ್ವ ನೋಟ"
+   ],
+   "opt_en": [
+    "Diagonal, edge and vertex",
+    "Inside, outside and bottom views",
+    "Only left, right and back views",
+    "Front, top and side views"
+   ],
+   "ans": "D",
+   "exp_kn": "ಮುಂಭಾಗ (ಲಂಬ ಸಮತಲ), ಮೇಲ್ಭಾಗ (ಕ್ಷಿತಿಜ ಸಮತಲ), ಪಾರ್ಶ್ವ (ಪಾರ್ಶ್ವ ಸಮತಲ)."
+  },
+  {
+   "id": "8MA-C12-01",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಚುಕ್ಕೆಗಳು ಮತ್ತು ರೇಖೆಗಳ ಮೂಲಕ ಕಥೆಗಳು",
+   "ch_en": "Tales by Dots and Lines",
+   "diff": "easy",
+   "q_kn": "12, 15, 18, 20, 25 ರ ಸರಾಸರಿ ಎಷ್ಟು?",
+   "q_en": "Find the mean of 12, 15, 18, 20, 25.",
+   "opt_kn": [
+    "17",
+    "20",
+    "18",
+    "90"
+   ],
+   "opt_en": [
+    "17",
+    "20",
+    "18",
+    "90"
+   ],
+   "ans": "C",
+   "exp_kn": "ಮೊತ್ತ 90 ÷ 5 = 18."
+  },
+  {
+   "id": "8MA-C12-02",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಚುಕ್ಕೆಗಳು ಮತ್ತು ರೇಖೆಗಳ ಮೂಲಕ ಕಥೆಗಳು",
+   "ch_en": "Tales by Dots and Lines",
+   "diff": "medium",
+   "q_kn": "ದತ್ತಾಂಶಕ್ಕೆ ಸರಾಸರಿಗಿಂತ ಹೆಚ್ಚಿನ ಮೌಲ್ಯವನ್ನು ಸೇರಿಸಿದರೆ ಸರಾಸರಿ…",
+   "q_en": "If a value greater than the mean is added to the data, the mean…",
+   "opt_kn": [
+    "ಕಡಿಮೆಯಾಗುತ್ತದೆ",
+    "ಸೊನ್ನೆಯಾಗುತ್ತದೆ",
+    "ಬದಲಾಗುವುದಿಲ್ಲ",
+    "ಹೆಚ್ಚಾಗುತ್ತದೆ"
+   ],
+   "opt_en": [
+    "Decreases",
+    "Becomes zero",
+    "Does not change",
+    "Increases"
+   ],
+   "ans": "D",
+   "exp_kn": "ಸರಾಸರಿಗಿಂತ ಹೆಚ್ಚಿನ ಮೌಲ್ಯ ಸರಾಸರಿಯನ್ನು ಏರಿಸುತ್ತದೆ."
+  },
+  {
+   "id": "8MA-C12-03",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಚುಕ್ಕೆಗಳು ಮತ್ತು ರೇಖೆಗಳ ಮೂಲಕ ಕಥೆಗಳು",
+   "ch_en": "Tales by Dots and Lines",
+   "diff": "easy",
+   "q_kn": "ಕಾಲಾನಂತರದಲ್ಲಿ ಆಗುವ ಬದಲಾವಣೆಯನ್ನು ತೋರಿಸಲು ಹೆಚ್ಚು ಸೂಕ್ತವಾದ ನಕ್ಷೆ ಯಾವುದು?",
+   "q_en": "Which graph is best to show change over time?",
+   "opt_kn": [
+    "ವೃತ್ತ",
+    "ರೇಖಾ ನಕ್ಷೆ",
+    "ಚಿತ್ರ ನಕ್ಷೆ",
+    "ಮಾಯಾ ಚೌಕ"
+   ],
+   "opt_en": [
+    "Circle",
+    "Line graph",
+    "Pictograph",
+    "Magic square"
+   ],
+   "ans": "B",
+   "exp_kn": "ರೇಖಾ ನಕ್ಷೆಗಳು ಕಾಲಾನಂತರದ ಬದಲಾವಣೆ ತೋರಿಸುತ್ತವೆ."
+  },
+  {
+   "id": "8MA-C12-04",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಚುಕ್ಕೆಗಳು ಮತ್ತು ರೇಖೆಗಳ ಮೂಲಕ ಕಥೆಗಳು",
+   "ch_en": "Tales by Dots and Lines",
+   "diff": "medium",
+   "q_kn": "7, 3, 9, 5, 11, 1 ರ ಮಧ್ಯಾಂಕ ಎಷ್ಟು?",
+   "q_en": "Find the median of 7, 3, 9, 5, 11, 1.",
+   "opt_kn": [
+    "6",
+    "5",
+    "7",
+    "9"
+   ],
+   "opt_en": [
+    "6",
+    "5",
+    "7",
+    "9"
+   ],
+   "ans": "A",
+   "exp_kn": "ಕ್ರಮ: 1, 3, 5, 7, 9, 11 → (5 + 7) ÷ 2 = 6."
+  },
+  {
+   "id": "8MA-C12-05",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಚುಕ್ಕೆಗಳು ಮತ್ತು ರೇಖೆಗಳ ಮೂಲಕ ಕಥೆಗಳು",
+   "ch_en": "Tales by Dots and Lines",
+   "diff": "hard",
+   "q_kn": "6 ಸಂಖ್ಯೆಗಳ ಸರಾಸರಿ 30. 37 ನ್ನು ಸೇರಿಸಿದರೆ ಹೊಸ ಸರಾಸರಿ ಎಷ್ಟು?",
+   "q_en": "The mean of 6 numbers is 30. If 37 is added, what is the new mean?",
+   "opt_kn": [
+    "37",
+    "33.5",
+    "31",
+    "30"
+   ],
+   "opt_en": [
+    "37",
+    "33.5",
+    "31",
+    "30"
+   ],
+   "ans": "C",
+   "exp_kn": "(180 + 37) ÷ 7 = 217 ÷ 7 = 31."
+  },
+  {
+   "id": "8MA-C12-06",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಚುಕ್ಕೆಗಳು ಮತ್ತು ರೇಖೆಗಳ ಮೂಲಕ ಕಥೆಗಳು",
+   "ch_en": "Tales by Dots and Lines",
+   "diff": "medium",
+   "q_kn": "4, 8, 12 ರ ಸರಾಸರಿಯಿಂದ ಪ್ರತಿ ಮೌಲ್ಯದ ಅಂತರಗಳ ಮೊತ್ತ (ಚಿಹ್ನೆ ಸಹಿತ) ಎಷ್ಟು?",
+   "q_en": "For 4, 8, 12, what is the sum of the signed differences of each value from the mean?",
+   "opt_kn": [
+    "8",
+    "0",
+    "4",
+    "24"
+   ],
+   "opt_en": [
+    "8",
+    "0",
+    "4",
+    "24"
+   ],
+   "ans": "B",
+   "exp_kn": "ಸರಾಸರಿ 8: (−4) + 0 + 4 = 0."
+  },
+  {
+   "id": "8MA-C12-07",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಚುಕ್ಕೆಗಳು ಮತ್ತು ರೇಖೆಗಳ ಮೂಲಕ ಕಥೆಗಳು",
+   "ch_en": "Tales by Dots and Lines",
+   "diff": "hard",
+   "q_kn": "10 ಸಂಖ್ಯೆಗಳ ಸರಾಸರಿ 15. ಆದರೆ ಒಂದು ಸಂಖ್ಯೆ 24 ನ್ನು ತಪ್ಪಾಗಿ 42 ಎಂದು ಬರೆಯಲಾಗಿತ್ತು. ಸರಿಯಾದ ಸರಾಸರಿ ಎಷ್ಟು?",
+   "q_en": "The mean of 10 numbers is 15, but 24 was wrongly written as 42. What is the correct mean?",
+   "opt_kn": [
+    "16.8",
+    "12",
+    "15",
+    "13.2"
+   ],
+   "opt_en": [
+    "16.8",
+    "12",
+    "15",
+    "13.2"
+   ],
+   "ans": "D",
+   "exp_kn": "ಸರಿಯಾದ ಮೊತ್ತ 150 − 18 = 132; 132 ÷ 10 = 13.2."
+  },
+  {
+   "id": "8MA-C12-08",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಚುಕ್ಕೆಗಳು ಮತ್ತು ರೇಖೆಗಳ ಮೂಲಕ ಕಥೆಗಳು",
+   "ch_en": "Tales by Dots and Lines",
+   "diff": "medium",
+   "q_kn": "3, 5, 7, 9, 11 ರಲ್ಲಿ 11 ನ್ನು 50 ಆಗಿ ಬದಲಿಸಿದರೆ ಮಧ್ಯಾಂಕ…",
+   "q_en": "In 3, 5, 7, 9, 11, if 11 is changed to 50, the median…",
+   "opt_kn": [
+    "ಬದಲಾಗುವುದಿಲ್ಲ (7)",
+    "ಕಡಿಮೆಯಾಗುತ್ತದೆ",
+    "ಹೆಚ್ಚಾಗುತ್ತದೆ",
+    "50 ಆಗುತ್ತದೆ"
+   ],
+   "opt_en": [
+    "Does not change (7)",
+    "Decreases",
+    "Increases",
+    "Becomes 50"
+   ],
+   "ans": "A",
+   "exp_kn": "ಮಧ್ಯದ ಮೌಲ್ಯ 7 ಹಾಗೆಯೇ ಉಳಿಯುತ್ತದೆ."
+  },
+  {
+   "id": "8MA-C12-09",
+   "part": 2,
+   "ch": 12,
+   "ch_kn": "ಚುಕ್ಕೆಗಳು ಮತ್ತು ರೇಖೆಗಳ ಮೂಲಕ ಕಥೆಗಳು",
+   "ch_en": "Tales by Dots and Lines",
+   "diff": "easy",
+   "q_kn": "ಮೊದಲ 10 ಸ್ವಾಭಾವಿಕ ಸಂಖ್ಯೆಗಳ ಸರಾಸರಿ ಎಷ್ಟು?",
+   "q_en": "What is the mean of the first 10 natural numbers?",
+   "opt_kn": [
+    "10",
+    "55",
+    "5.5",
+    "5"
+   ],
+   "opt_en": [
+    "10",
+    "55",
+    "5.5",
+    "5"
+   ],
+   "ans": "C",
+   "exp_kn": "55 ÷ 10 = 5.5."
+  },
+  {
+   "id": "8MA-C13-01",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ಬೀಜಗಣಿತ ಆಟ",
+   "ch_en": "Algebra Play",
+   "diff": "medium",
+   "q_kn": "ಒಂದು ಸಂಖ್ಯೆಯನ್ನು ಯೋಚಿಸಿ, 5 ಸೇರಿಸಿ, 2 ರಿಂದ ಗುಣಿಸಿ, 10 ಕಳೆಯಿರಿ, 2 ರಿಂದ ಭಾಗಿಸಿ. ಉತ್ತರ ಯಾವಾಗಲೂ…",
+   "q_en": "Think of a number, add 5, multiply by 2, subtract 10, divide by 2. The answer is always…",
+   "opt_kn": [
+    "5",
+    "ಯೋಚಿಸಿದ ಸಂಖ್ಯೆ",
+    "10",
+    "ಸೊನ್ನೆ"
+   ],
+   "opt_en": [
+    "5",
+    "The number you thought",
+    "10",
+    "Zero"
+   ],
+   "ans": "B",
+   "exp_kn": "(2(x + 5) − 10) ÷ 2 = x."
+  },
+  {
+   "id": "8MA-C13-02",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ಬೀಜಗಣಿತ ಆಟ",
+   "ch_en": "Algebra Play",
+   "diff": "easy",
+   "q_kn": "ಮೂರು ಕ್ರಮಾನುಗತ ಸಂಖ್ಯೆಗಳ ಮೊತ್ತ ಯಾವಾಗಲೂ ಯಾವುದರಿಂದ ಭಾಗವಾಗುತ್ತದೆ?",
+   "q_en": "The sum of three consecutive numbers is always divisible by?",
+   "opt_kn": [
+    "2",
+    "5",
+    "4",
+    "3"
+   ],
+   "opt_en": [
+    "2",
+    "5",
+    "4",
+    "3"
+   ],
+   "ans": "D",
+   "exp_kn": "n + (n + 1) + (n + 2) = 3n + 3 = 3(n + 1)."
+  },
+  {
+   "id": "8MA-C13-03",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ಬೀಜಗಣಿತ ಆಟ",
+   "ch_en": "Algebra Play",
+   "diff": "medium",
+   "q_kn": "ಎರಡಂಕಿ ಸಂಖ್ಯೆ ಮತ್ತು ಅದರ ಅಂಕಿಗಳನ್ನು ಅದಲುಬದಲು ಮಾಡಿದ ಸಂಖ್ಯೆಯ ಮೊತ್ತ ಯಾವಾಗಲೂ ಯಾವುದರಿಂದ ಭಾಗವಾಗುತ್ತದೆ?",
+   "q_en": "The sum of a two-digit number and its reverse is always divisible by?",
+   "opt_kn": [
+    "10",
+    "7",
+    "11",
+    "9"
+   ],
+   "opt_en": [
+    "10",
+    "7",
+    "11",
+    "9"
+   ],
+   "ans": "C",
+   "exp_kn": "(10a + b) + (10b + a) = 11(a + b)."
+  },
+  {
+   "id": "8MA-C13-04",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ಬೀಜಗಣಿತ ಆಟ",
+   "ch_en": "Algebra Play",
+   "diff": "hard",
+   "q_kn": "ಸಂಖ್ಯಾ ಪಿರಮಿಡ್‌ನಲ್ಲಿ ಮೇಲಿನ ಪ್ರತಿ ಸಂಖ್ಯೆ ಕೆಳಗಿನ ಎರಡು ಸಂಖ್ಯೆಗಳ ಮೊತ್ತ. ಕೆಳಸಾಲು a, b, c ಆದರೆ ತುದಿಯ ಸಂಖ್ಯೆ ಯಾವುದು?",
+   "q_en": "In a number pyramid each number is the sum of the two below it. If the bottom row is a, b, c, the top number is?",
+   "opt_kn": [
+    "a + 2b + c",
+    "a + b",
+    "a + b + c",
+    "2a + b + 2c"
+   ],
+   "opt_en": [
+    "a + 2b + c",
+    "a + b",
+    "a + b + c",
+    "2a + b + 2c"
+   ],
+   "ans": "A",
+   "exp_kn": "ಮಧ್ಯಸಾಲು: a + b, b + c → ತುದಿ a + 2b + c."
+  },
+  {
+   "id": "8MA-C13-05",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ಬೀಜಗಣಿತ ಆಟ",
+   "ch_en": "Algebra Play",
+   "diff": "easy",
+   "q_kn": "ಯಾವುದೇ ಸಮ ಸಂಖ್ಯೆಯನ್ನು ಬೀಜಗಣಿತದಲ್ಲಿ ಹೇಗೆ ಬರೆಯುತ್ತೇವೆ (n ಪೂರ್ಣಾಂಕ)?",
+   "q_en": "How is any even number written algebraically (n an integer)?",
+   "opt_kn": [
+    "n + 2",
+    "n²",
+    "2n",
+    "2n + 1"
+   ],
+   "opt_en": [
+    "n + 2",
+    "n²",
+    "2n",
+    "2n + 1"
+   ],
+   "ans": "C",
+   "exp_kn": "2 ರ ಅಪವರ್ತ್ಯಗಳು ಸಮ ಸಂಖ್ಯೆಗಳು."
+  },
+  {
+   "id": "8MA-C13-06",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ಬೀಜಗಣಿತ ಆಟ",
+   "ch_en": "Algebra Play",
+   "diff": "medium",
+   "q_kn": "3x + 7 = 2x + 12 ಆದರೆ x = ?",
+   "q_en": "If 3x + 7 = 2x + 12, then x = ?",
+   "opt_kn": [
+    "19",
+    "−5",
+    "4",
+    "5"
+   ],
+   "opt_en": [
+    "19",
+    "−5",
+    "4",
+    "5"
+   ],
+   "ans": "D",
+   "exp_kn": "x = 12 − 7 = 5."
+  },
+  {
+   "id": "8MA-C13-07",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ಬೀಜಗಣಿತ ಆಟ",
+   "ch_en": "Algebra Play",
+   "diff": "hard",
+   "q_kn": "1, 2, 3, 4 ಅಂಕಿಗಳನ್ನು ಒಮ್ಮೆ ಮಾತ್ರ ಬಳಸಿ ಎರಡು ಎರಡಂಕಿ ಸಂಖ್ಯೆಗಳನ್ನು ಮಾಡಿದಾಗ ಗರಿಷ್ಠ ಗುಣಲಬ್ಧ ನೀಡುವ ಜೋಡಿ ಯಾವುದು?",
+   "q_en": "Using digits 1, 2, 3, 4 once each to form two 2-digit numbers, which pair gives the largest product?",
+   "opt_kn": [
+    "41 × 32",
+    "43 × 21",
+    "42 × 31",
+    "34 × 21"
+   ],
+   "opt_en": [
+    "41 × 32",
+    "43 × 21",
+    "42 × 31",
+    "34 × 21"
+   ],
+   "ans": "A",
+   "exp_kn": "41 × 32 = 1312; 42 × 31 = 1302; 43 × 21 = 903; 34 × 21 = 714."
+  },
+  {
+   "id": "8MA-C13-08",
+   "part": 2,
+   "ch": 13,
+   "ch_kn": "ಬೀಜಗಣಿತ ಆಟ",
+   "ch_en": "Algebra Play",
+   "diff": "medium",
+   "q_kn": "ಎರಡು ಬೆಸ ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧ (2m + 1)(2n + 1) ಯಾವಾಗಲೂ…",
+   "q_en": "The product of two odd numbers (2m + 1)(2n + 1) is always…",
+   "opt_kn": [
+    "4 ರ ಅಪವರ್ತ್ಯ",
+    "ಬೆಸ",
+    "ಅವಿಭಾಜ್ಯ",
+    "ಸಮ"
+   ],
+   "opt_en": [
+    "A multiple of 4",
+    "Odd",
+    "Prime",
+    "Even"
+   ],
+   "ans": "B",
+   "exp_kn": "4mn + 2m + 2n + 1 = ಸಮ + 1 → ಬೆಸ."
+  },
+  {
+   "id": "8MA-C14-01",
+   "part": 2,
+   "ch": 14,
+   "ch_kn": "ವಿಸ್ತೀರ್ಣ",
+   "ch_en": "Area",
+   "diff": "easy",
+   "q_kn": "ಪಾದ 10 ಸೆಂ.ಮೀ, ಎತ್ತರ 6 ಸೆಂ.ಮೀ ಇರುವ ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ ಎಷ್ಟು?",
+   "q_en": "Find the area of a triangle with base 10 cm and height 6 cm.",
+   "opt_kn": [
+    "60 ಚ.ಸೆಂ.ಮೀ",
+    "16 ಚ.ಸೆಂ.ಮೀ",
+    "32 ಚ.ಸೆಂ.ಮೀ",
+    "30 ಚ.ಸೆಂ.ಮೀ"
+   ],
+   "opt_en": [
+    "60 sq cm",
+    "16 sq cm",
+    "32 sq cm",
+    "30 sq cm"
+   ],
+   "ans": "D",
+   "exp_kn": "½ × 10 × 6 = 30."
+  },
+  {
+   "id": "8MA-C14-02",
+   "part": 2,
+   "ch": 14,
+   "ch_kn": "ವಿಸ್ತೀರ್ಣ",
+   "ch_en": "Area",
+   "diff": "easy",
+   "q_kn": "ಪಾದ 12 ಸೆಂ.ಮೀ, ಎತ್ತರ 5 ಸೆಂ.ಮೀ ಇರುವ ಸಮಾಂತರ ಚತುರ್ಭುಜದ ವಿಸ್ತೀರ್ಣ ಎಷ್ಟು?",
+   "q_en": "Find the area of a parallelogram with base 12 cm and height 5 cm.",
+   "opt_kn": [
+    "30 ಚ.ಸೆಂ.ಮೀ",
+    "17 ಚ.ಸೆಂ.ಮೀ",
+    "60 ಚ.ಸೆಂ.ಮೀ",
+    "34 ಚ.ಸೆಂ.ಮೀ"
+   ],
+   "opt_en": [
+    "30 sq cm",
+    "17 sq cm",
+    "60 sq cm",
+    "34 sq cm"
+   ],
+   "ans": "C",
+   "exp_kn": "ಪಾದ × ಎತ್ತರ = 60."
+  },
+  {
+   "id": "8MA-C14-03",
+   "part": 2,
+   "ch": 14,
+   "ch_kn": "ವಿಸ್ತೀರ್ಣ",
+   "ch_en": "Area",
+   "diff": "medium",
+   "q_kn": "ಕರ್ಣಗಳು 10 ಸೆಂ.ಮೀ ಮತ್ತು 8 ಸೆಂ.ಮೀ ಇರುವ ವಜ್ರಾಕೃತಿಯ ವಿಸ್ತೀರ್ಣ ಎಷ್ಟು?",
+   "q_en": "Find the area of a rhombus with diagonals 10 cm and 8 cm.",
+   "opt_kn": [
+    "40 ಚ.ಸೆಂ.ಮೀ",
+    "36 ಚ.ಸೆಂ.ಮೀ",
+    "18 ಚ.ಸೆಂ.ಮೀ",
+    "80 ಚ.ಸೆಂ.ಮೀ"
+   ],
+   "opt_en": [
+    "40 sq cm",
+    "36 sq cm",
+    "18 sq cm",
+    "80 sq cm"
+   ],
+   "ans": "A",
+   "exp_kn": "½ × 10 × 8 = 40."
+  },
+  {
+   "id": "8MA-C14-04",
+   "part": 2,
+   "ch": 14,
+   "ch_kn": "ವಿಸ್ತೀರ್ಣ",
+   "ch_en": "Area",
+   "diff": "medium",
+   "q_kn": "ಸಮಾಂತರ ಬಾಹುಗಳು 8 ಸೆಂ.ಮೀ ಮತ್ತು 12 ಸೆಂ.ಮೀ, ಎತ್ತರ 5 ಸೆಂ.ಮೀ ಇರುವ ತ್ರಾಪಿಜ್ಯದ ವಿಸ್ತೀರ್ಣ ಎಷ್ಟು?",
+   "q_en": "Find the area of a trapezium with parallel sides 8 cm and 12 cm and height 5 cm.",
+   "opt_kn": [
+    "25 ಚ.ಸೆಂ.ಮೀ",
+    "50 ಚ.ಸೆಂ.ಮೀ",
+    "480 ಚ.ಸೆಂ.ಮೀ",
+    "100 ಚ.ಸೆಂ.ಮೀ"
+   ],
+   "opt_en": [
+    "25 sq cm",
+    "50 sq cm",
+    "480 sq cm",
+    "100 sq cm"
+   ],
+   "ans": "B",
+   "exp_kn": "½ × 5 × (8 + 12) = 50."
+  },
+  {
+   "id": "8MA-C14-05",
+   "part": 2,
+   "ch": 14,
+   "ch_kn": "ವಿಸ್ತೀರ್ಣ",
+   "ch_en": "Area",
+   "diff": "medium",
+   "q_kn": "ಒಂದು ಚೌಕದ ವಿಸ್ತೀರ್ಣ 49 ಚ.ಸೆಂ.ಮೀ ಆದರೆ ಅದರ ಸುತ್ತಳತೆ ಎಷ್ಟು?",
+   "q_en": "The area of a square is 49 sq cm. Its perimeter is?",
+   "opt_kn": [
+    "28 ಸೆಂ.ಮೀ",
+    "196 ಸೆಂ.ಮೀ",
+    "14 ಸೆಂ.ಮೀ",
+    "49 ಸೆಂ.ಮೀ"
+   ],
+   "opt_en": [
+    "28 cm",
+    "196 cm",
+    "14 cm",
+    "49 cm"
+   ],
+   "ans": "A",
+   "exp_kn": "ಬಾಹು 7 → 4 × 7 = 28."
+  },
+  {
+   "id": "8MA-C14-06",
+   "part": 2,
+   "ch": 14,
+   "ch_kn": "ವಿಸ್ತೀರ್ಣ",
+   "ch_en": "Area",
+   "diff": "medium",
+   "q_kn": "ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ 24 ಚ.ಸೆಂ.ಮೀ ಮತ್ತು ಪಾದ 8 ಸೆಂ.ಮೀ ಆದರೆ ಎತ್ತರ ಎಷ್ಟು?",
+   "q_en": "A triangle has area 24 sq cm and base 8 cm. Its height is?",
+   "opt_kn": [
+    "16 ಸೆಂ.ಮೀ",
+    "6 ಸೆಂ.ಮೀ",
+    "12 ಸೆಂ.ಮೀ",
+    "3 ಸೆಂ.ಮೀ"
+   ],
+   "opt_en": [
+    "16 cm",
+    "6 cm",
+    "12 cm",
+    "3 cm"
+   ],
+   "ans": "B",
+   "exp_kn": "½ × 8 × h = 24 → h = 6."
+  },
+  {
+   "id": "8MA-C14-07",
+   "part": 2,
+   "ch": 14,
+   "ch_kn": "ವಿಸ್ತೀರ್ಣ",
+   "ch_en": "Area",
+   "diff": "medium",
+   "q_kn": "ಚೌಕದ ಬಾಹುವನ್ನು ದ್ವಿಗುಣಗೊಳಿಸಿದರೆ ಅದರ ವಿಸ್ತೀರ್ಣ…",
+   "q_en": "If the side of a square is doubled, its area becomes…",
+   "opt_kn": [
+    "2 ಪಟ್ಟು",
+    "ಬದಲಾಗುವುದಿಲ್ಲ",
+    "4 ಪಟ್ಟು",
+    "8 ಪಟ್ಟು"
+   ],
+   "opt_en": [
+    "2 times",
+    "Unchanged",
+    "4 times",
+    "8 times"
+   ],
+   "ans": "C",
+   "exp_kn": "(2a)² = 4a²."
+  },
+  {
+   "id": "8MA-C14-08",
+   "part": 2,
+   "ch": 14,
+   "ch_kn": "ವಿಸ್ತೀರ್ಣ",
+   "ch_en": "Area",
+   "diff": "hard",
+   "q_kn": "ಕರ್ಣ 10 ಸೆಂ.ಮೀ ಇರುವ ಚೌಕದ ವಿಸ್ತೀರ್ಣ ಎಷ್ಟು?",
+   "q_en": "What is the area of a square whose diagonal is 10 cm?",
+   "opt_kn": [
+    "25 ಚ.ಸೆಂ.ಮೀ",
+    "100 ಚ.ಸೆಂ.ಮೀ",
+    "40 ಚ.ಸೆಂ.ಮೀ",
+    "50 ಚ.ಸೆಂ.ಮೀ"
+   ],
+   "opt_en": [
+    "25 sq cm",
+    "100 sq cm",
+    "40 sq cm",
+    "50 sq cm"
+   ],
+   "ans": "D",
+   "exp_kn": "ಚೌಕವೂ ವಜ್ರಾಕೃತಿ: ½ × 10 × 10 = 50."
+  },
+  {
+   "id": "8MA-C14-09",
+   "part": 2,
+   "ch": 14,
+   "ch_kn": "ವಿಸ್ತೀರ್ಣ",
+   "ch_en": "Area",
+   "diff": "easy",
+   "q_kn": "ಲಂಬ ಬಾಹುಗಳು 6 ಸೆಂ.ಮೀ ಮತ್ತು 8 ಸೆಂ.ಮೀ ಇರುವ ಲಂಬಕೋನ ತ್ರಿಭುಜದ ವಿಸ್ತೀರ್ಣ ಎಷ್ಟು?",
+   "q_en": "Find the area of a right triangle whose legs are 6 cm and 8 cm.",
+   "opt_kn": [
+    "24 ಚ.ಸೆಂ.ಮೀ",
+    "30 ಚ.ಸೆಂ.ಮೀ",
+    "14 ಚ.ಸೆಂ.ಮೀ",
+    "48 ಚ.ಸೆಂ.ಮೀ"
+   ],
+   "opt_en": [
+    "24 sq cm",
+    "30 sq cm",
+    "14 sq cm",
+    "48 sq cm"
+   ],
+   "ans": "A",
+   "exp_kn": "½ × 6 × 8 = 24."
+  },
+  {
+   "id": "8MA-C14-10",
+   "part": 2,
+   "ch": 14,
+   "ch_kn": "ವಿಸ್ತೀರ್ಣ",
+   "ch_en": "Area",
+   "diff": "hard",
+   "q_kn": "5 ಮೀ × 4 ಮೀ ನೆಲಕ್ಕೆ 25 ಸೆಂ.ಮೀ × 25 ಸೆಂ.ಮೀ ಅಳತೆಯ ಎಷ್ಟು ಚೌಕ ಟೈಲ್ಸ್ ಬೇಕು?",
+   "q_en": "How many 25 cm × 25 cm square tiles are needed for a 5 m × 4 m floor?",
+   "opt_kn": [
+    "200",
+    "400",
+    "80",
+    "320"
+   ],
+   "opt_en": [
+    "200",
+    "400",
+    "80",
+    "320"
+   ],
+   "ans": "D",
+   "exp_kn": "(500 ÷ 25) × (400 ÷ 25) = 20 × 16 = 320."
+  }
+ ]
+}
